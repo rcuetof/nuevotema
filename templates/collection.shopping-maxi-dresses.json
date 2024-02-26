@@ -1,0 +1,151 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "custom_css": [
+        ".color-scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1 {display: flex; flex-direction: column;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 48,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_mYKaDL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_zHGazP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Black Maxi Dresses for Any Occasion And Shopping Information",
+            "heading_size": "h2"
+          }
+        },
+        "text_LzUfiW": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/>Black maxi dresses are undoubtedly one of those timeless elements that have stood the test of time, standing out for their elegance and versatility.<br\/><br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_69G8Rc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read more",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_zHGazP",
+        "text_LzUfiW",
+        "button_69G8Rc"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Documento_A4_catalogo_de_productos_moderno_beige_y_blanco_1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_Hkamm4": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_Q9hRGm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Privacy Policy",
+            "icon": "heart",
+            "row_content": "<h2><\/h2><p>Violetta & RC's Privacy Policy details how personal information is collected via direct submissions, cookies, and third parties on their website. Collected data, such as contact details and orders, is utilized for services, marketing, and security.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_xC3APK": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Refund Policy",
+            "icon": "return",
+            "row_content": "<p><\/p><p>30-day return policy for unused items with tags. Damaged items inspected upon reception. Certain items, like perishables and custom products, are non-returnable. No returns on sale items or gift cards. Exchanges through separate purchases. EU customers have a 14-day cooling-off period. Refunds processed within 10 business days.<\/p><p>30-day return policy for unused items with tags. Damaged items inspected upon reception. Certain items, like perishables and custom products, are non-returnable. No returns on sale items or gift cards. Exchanges through separate purchases. EU customers have a 14-day cooling-off period. Refunds processed within 10 business days.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_PfXN3X": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shipping Policy",
+            "icon": "truck",
+            "row_content": "<p><\/p><p>Orders processed in up to 3 days. Shipping details and costs revealed during checkout. Delivery times vary by location. Customers must provide accurate shipping details. Tracking info emailed upon shipment. Check packages for damage upon receipt. Shipping addresses cannot be changed post-processing; verify details before confirming.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_x38z3N": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Recommendations and frequently asked questions to give you the best shopping experience",
+            "icon": "chat_bubble",
+            "row_content": "<p>What is the price range of black maxi dresses available in your online store?<br\/><br\/> In our online store, we offer a wide range of black maxi dresses with different prices to suit various budgets. From affordable options to more unique designs, we have something for every customer.<\/p><p>How can I make sure I choose the correct size when purchasing a black maxi dress?<br\/><br\/>We make it easy to choose the correct size by providing a detailed size guide on our product page. Measure your dimensions according to our instructions and select the size that best fits your measurements for a perfect fit.<\/p><p>What are the shipping options available for black maxi dresses and how long will it take to receive my order?<br\/><br\/>We offer various shipping options, so you can choose the one that best suits your needs. Delivery times vary depending on location and shipping option selected. Please see our shipping section for specific details.<\/p><p>Do you offer customer service to help me with additional questions before purchasing my black maxi dress?<br\/><br\/>Our customer service team is available to answer all your questions. You can contact us via live chat, WhatsApp on our page, email or phone to obtain personalized assistance before making your purchase.<\/p><p><\/p><p><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_Q9hRGm",
+        "collapsible_row_xC3APK",
+        "collapsible_row_PfXN3X",
+        "collapsible_row_x38z3N"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ and policies",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43",
+        "container_color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/Fashion_3.png",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "image_with_text_mYKaDL",
+    "collapsible_content_Hkamm4"
+  ]
+}

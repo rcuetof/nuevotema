@@ -1,0 +1,30 @@
+{{ 'section-main-page.css' | asset_url | stylesheet_tag }}
+
+<!-------------productos-------------max-black--------------------> 
+<div class="producto-container">
+    {% for product in collections.all.products limit: 4 %}
+      <div class="producto black-produc" style="background-image: url('{{ product.featured_image.src | img_url: }}');border: 10px solid #000000; border-bottom: 50px solid #000000; ">
+        <a href="{{ product.url }}" title="{{ product.title }}">
+          <div class="shop">&nbsp;</div>
+          <p>{{ product.title }}</p>
+          <div class="texto-flotante">View Dress</div>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+  <!-------------endproductos----------------------------------->
+{% schema %}
+{
+  "name": "Productos Destacados",
+  "settings": [
+    {
+      "type": "range",
+      "label": "Número de productos a mostrar",
+      "id": "cantidad_productos",
+      "min": 1,
+      "max": 10,
+      "default": 4
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,151 @@
+{
+  "sections": {
+    "rich_text_Rkf44L": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_8riTej": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Cocktail Black Dresse<\/strong><em><strong>s<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_qz7tRn": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A black cocktail dress is a classic and timeless piece that embodies elegance and versatility. The length, generally reaching the knee or a little above, allows a perfect balance between formality and informality, adapting to various occasions.<\/p>"
+          }
+        },
+        "button_P9mi6m": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_8riTej",
+        "text_qz7tRn",
+        "button_P9mi6m"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "slideshow_EE3JnN": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_bBXftD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cfae783555a54e7585c55b383060e691-Min.webp",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_97TCeG": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/680fbf5e3f06464bbe62a8c04e994afc-Min_32a5a68d-474a-4eab-a346-a010f831f570.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_3zHdKr": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/0bd0ccfe746e4f209fc16b82667ffdad-Min_2a9c70ad-416d-4e5e-b0f2-bab14d071f73.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_qRzHyT": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/0f4e38674c8544f3b5c73f207f580f68-Min.webp",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_bBXftD",
+        "slide_97TCeG",
+        "slide_3zHdKr",
+        "slide_qRzHyT"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "rich_text_Rkf44L",
+    "slideshow_EE3JnN",
+    "main"
+  ]
+}

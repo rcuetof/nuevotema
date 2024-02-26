@@ -1,0 +1,254 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "d6243221-7b95-4736-a120-c0bb86778198": {
+          "type": "shopify:\/\/apps\/ali-reviews-product-reviews\/blocks\/widget-star-rating\/bf2eea72-0400-4db1-8908-44b7418f9a88",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "inventory_BH79Qx": {
+          "type": "inventory",
+          "settings": {
+            "text_style": "uppercase",
+            "inventory_threshold": 6,
+            "show_inventory_quantity": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "collapsible_tab_U7MdCU": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Privacy Policy",
+            "icon": "heart",
+            "content": "<p>Violetta & RC's Privacy Policy details how personal information is collected via direct submissions, cookies, and third parties on their website. Collected data, such as contact details and orders, is utilized for services, marketing, and security. <\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_FziB97": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Retun Policy",
+            "icon": "return",
+            "content": "<p>30-day return policy for unused items with tags. Damaged items inspected upon reception. Certain items, like perishables and custom products, are non-returnable. No returns on sale items or gift cards. Exchanges through separate purchases. EU customers have a 14-day cooling-off period. Refunds processed within 10 business days.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_M4JkzH": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping Policy",
+            "icon": "truck",
+            "content": "<p>Orders processed in up to 3 days. Shipping details and costs revealed during checkout. Delivery times vary by location. Customers must provide accurate shipping details. Tracking info emailed upon shipment. Check packages for damage upon receipt. Shipping addresses cannot be changed post-processing; verify details before confirming.<\/p>",
+            "page": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "d6243221-7b95-4736-a120-c0bb86778198",
+        "share",
+        "title",
+        "quantity_selector",
+        "variant_picker",
+        "price",
+        "inventory_BH79Qx",
+        "buy_buttons",
+        "collapsible_tab_U7MdCU",
+        "collapsible_tab_FziB97",
+        "collapsible_tab_M4JkzH",
+        "description"
+      ],
+      "custom_css": [
+        ".media {transition: opacity 0.5s; transition: transform 4.5s;}",
+        ".media:hover {opacity: 0.9; transform: rotate(+1deg);}"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43",
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "mobile_thumbnails": "show",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    },
+    "alireviews-section-41e11c22-f29e-49ae-acc7-34dcc3a41e03": {
+      "type": "apps",
+      "blocks": {
+        "5c2b15ec-04be-4a8f-8188-d89c2fc13836": {
+          "type": "shopify:\/\/apps\/ali-reviews-product-reviews\/blocks\/widget-box\/bf2eea72-0400-4db1-8908-44b7418f9a88",
+          "settings": {
+            "product": "",
+            "name": "Review Box",
+            "vertical_alignment": "8",
+            "rating_color": "#9933b4",
+            "section_color": "#ffffff",
+            "primary_text_color": "#9933b4"
+          }
+        }
+      },
+      "block_order": [
+        "5c2b15ec-04be-4a8f-8188-d89c2fc13836"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "slideshow_R6jUkY": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_pUz4V6": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_kxHRaf": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_pUz4V6",
+        "slide_kxHRaf"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "numbers",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "video_pbVR4n": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "Rediscover the Romance with our Amethyst and Silver Ring",
+        "heading_size": "h2",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/202401221518_14e80fb4-5c54-47de-b86e-970fa57f766d.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "video_yUpNBq": {
+      "type": "video",
+      "settings": {
+        "heading": "<em>Discover our beautiful 18k gold and rose quartz ring, a symbol of love, peace, and tenderness.<\/em>",
+        "heading_size": "h2",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/202401221650.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "related-products",
+    "alireviews-section-41e11c22-f29e-49ae-acc7-34dcc3a41e03",
+    "slideshow_R6jUkY",
+    "video_pbVR4n",
+    "video_yUpNBq"
+  ]
+}

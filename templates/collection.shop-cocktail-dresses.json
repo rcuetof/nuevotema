@@ -1,0 +1,151 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "custom_css": [
+        ".color-scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1 {display: flex; flex-direction: column;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 48,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_H4fC93": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_qYnXUb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Black Cocktail Dresses Shopping And Information",
+            "heading_size": "h2"
+          }
+        },
+        "text_mUH9Dj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Do you offer customer support to answer additional questions before purchasing my black cocktail dress?<br\/><br\/>Our customer service team is available to help you with all your questions. You can contact us via live chat, email, or phone for personalized assistance before making your purchase.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_9AryM6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read More",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_qYnXUb",
+        "text_mUH9Dj",
+        "button_9AryM6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Luxury_2_1_4ffac973-6ef4-4a79-a6f5-c46255cba84a.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_Crkwh6": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_3hkNEc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Frequently asked and recommendations for a satisfactory shopping experience",
+            "icon": "chat_bubble",
+            "row_content": "<p>How can I be sure to choose the correct size when purchasing a black cocktail dress online?<br\/>We make it easy to choose the correct size by providing a detailed size guide on our product page. Please measure your dimensions according to our instructions to ensure a perfect fit.<\/p><p>Are there any special offers or discounts on black cocktail dresses currently?<br\/>Stay informed about our offers and discounts by visiting our promotions section or subscribing to our newsletter. We regularly offer special discounts on black cocktail dresses and other clothing items.<\/p><p>Can I get style advice to choose the perfect black cocktail dress for my body type?<\/p><p><br\/>Our style consulting team is available to provide you with personalized recommendations. You can contact us before purchasing and receive guidance on which style of black cocktail dress best suits your figure.<\/p><p>Is detailed information provided about the materials and fabrics used in the manufacturing of the black cocktail dresses?<br\/><br\/>In the description of each product you will find detailed information about the materials and fabrics used in our black cocktail dresses. We want you to have all the information necessary to make an informed decision before making your purchase.<\/p><p>Do you offer personal shopper services to help me choose the perfect black cocktail dress?<br\/><br\/> Our team of personal shoppers are available to provide you with personalized advice when choosing the perfect black cocktail dress. Contact us to schedule a session and receive recommendations tailored to your preferences<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_aiqiUN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Privacy Policy",
+            "icon": "heart",
+            "row_content": "<p><em>Violetta & RC's Privacy Policy details how personal information is collected via direct submissions, cookies, and third parties on their website. Collected data, such as contact details and orders, is utilized for services, marketing, and security.<\/em><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_PUCz8N": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Refund Policy",
+            "icon": "return",
+            "row_content": "<p><em>30-day return policy for unused items with tags. Damaged items inspected upon reception. Certain items, like perishables and custom products, are non-returnable. No returns on sale items or gift cards. Exchanges through separate purchases. EU customers have a 14-day cooling-off period. Refunds processed within 10 business days.<\/em><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_7KEhQW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shipping Policy",
+            "icon": "truck",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_3hkNEc",
+        "collapsible_row_aiqiUN",
+        "collapsible_row_PUCz8N",
+        "collapsible_row_7KEhQW"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ and policies",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_17_1.png",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "image_with_text_H4fC93",
+    "collapsible_content_Crkwh6"
+  ]
+}

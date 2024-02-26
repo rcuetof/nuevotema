@@ -1,0 +1,180 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "custom_css": [
+        ".color-scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1 {display: flex; flex-direction: column;}"
+      ],
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 24,
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "enable_filtering": true,
+        "filter_type": "drawer",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 48,
+        "padding_bottom": 52
+      }
+    },
+    "featured_collection_dNrAyR": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Black Dresses",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "shopping-black-dresses",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_6YY8ET": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_G4JTwb": {
+          "type": "heading",
+          "settings": {
+            "heading": "Little black dresses and Shopping information for black mini dresses",
+            "heading_size": "h2"
+          }
+        },
+        "text_L97rAQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What are some important factors to consider when purchasing a black mini dress?<br\/>When choosing a black mini dress, it is crucial to consider the length, fit, style, and the occasion you will be wearing it for. Make sure the dress highlights your best features and fits your body properly.<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_RffyBQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/pages\/all-about-dress",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_G4JTwb",
+        "text_L97rAQ",
+        "button_RffyBQ"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Instagram_Historia_Fashion_1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43",
+        "color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 64,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_8FHgnq": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_NeN8bE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Privacy Policy",
+            "icon": "heart",
+            "row_content": "<p><em>Violetta & RC's Privacy Policy details how personal information is collected via direct submissions, cookies, and third parties on their website. Collected data, such as contact details and orders, is utilized for services, marketing, and security.<\/em><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_a6Mznd": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Shipping Policy",
+            "icon": "truck",
+            "row_content": "<p><em>Orders processed in up to 3 days. Shipping details and costs revealed during checkout. Delivery times vary by location. Customers must provide accurate shipping details. Tracking info emailed upon shipment. Check packages for damage upon receipt. Shipping addresses cannot be changed post-processing; verify details before confirming.<\/em><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_nE4kJJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Refund policy",
+            "icon": "return",
+            "row_content": "<p><em>30-day return policy for unused items with tags. Damaged items inspected upon reception. Certain items, like perishables and custom products, are non-returnable. No returns on sale items or gift cards. Exchanges through separate purchases. EU customers have a 14-day cooling-off period. Refunds processed within 10 business days.<\/em><\/p>",
+            "page": "return-policity"
+          }
+        },
+        "collapsible_row_z7mXGX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Questions and recommendations to guarantee satisfactory purchases",
+            "icon": "chat_bubble",
+            "row_content": "<p>What is the importance of checking return policies when purchasing a black mini dress online?<br\/> Reviewing return policies is essential, especially when purchasing online. Make sure you know the return deadlines and conditions to avoid inconvenience if the dress does not meet your expectations.<br\/><br\/>What tips do you have to make the black mini dress shopping experience more efficient and effective?<br\/>For an efficient shopping experience, make a list of your preferences, know your size, set a budget and use our online search filters. This will facilitate the process and help you make faster and more accurate decisions.<\/p><p>How can I care for and maintain the quality of my black mini dress?<br\/><br\/> It is generally recommended to wash according to the washing instructions, avoid prolonged exposure to the sun, and store the dress properly to maintain its quality and shape over time.<\/p><p>What are the return policies in case the black mini dress does not meet my expectations?<br\/><br\/>Our return policies are designed to give you peace of mind. If for any reason your black mini dress does not meet your expectations, please consult our return policies for information on deadlines and procedures.<\/p><p>Is there a rewards or membership program for repeat customers who purchase black mini dresses regularly?<br\/><br\/> We value our frequent customers. Check our membership or rewards program section for details, subscribe with your email and you will know how to benefit from buying black mini dresses regularly in our online store.<\/p><p><\/p><p><\/p><p><\/p><p><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_NeN8bE",
+        "collapsible_row_a6Mznd",
+        "collapsible_row_nE4kJJ",
+        "collapsible_row_z7mXGX"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": " FAQ and policies",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/Fashion_1.png",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "featured_collection_dNrAyR",
+    "image_with_text_6YY8ET",
+    "collapsible_content_8FHgnq"
+  ]
+}
