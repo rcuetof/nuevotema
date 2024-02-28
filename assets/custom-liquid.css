@@ -73,10 +73,10 @@
                   }
                   p{
                     position: absolute;
-                    font-size: 20px;
+                    font-size: 24px;
                     color:black;
                     text-align: left;
-                    top: 35%;
+                    top: 37%;
                     left: 65%;
                     transform: translate(-50%, -50%);
                     
