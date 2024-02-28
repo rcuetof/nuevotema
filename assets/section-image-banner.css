@@ -1,3 +1,9 @@
+.banner {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+
 .banner__box {
   text-align: center;
 }
@@ -325,7 +331,7 @@
   }
 
   .banner:not(.banner--mobile-bottom) .field__input,
-  .banner--mobile-bottom:not(.banner--stacked) .banner__box.color-scheme-1 {
+  .banner--mobile-bottom:not(.banner--stacked) .banner__box.color-background-1 {
     background: transparent;
   }
 }
