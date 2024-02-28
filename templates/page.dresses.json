@@ -8,6 +8,15 @@
         "padding_bottom": 28
       }
     },
+    "custom_liquid_nhJyWE": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"banner-mmm\">\n        <h1>Bienvenido a Nuestro Sitio Web<\/h1>\n        <p>¡Descubre productos y servicios increíbles!<\/p>\n        <a href=\"#\" class=\"button-banner\">Más información<\/a>\n        <a href=\"#\" class=\"button-banner\">Contáctanos<\/a>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_banner_yqbK4R": {
       "type": "image-banner",
       "blocks": {
@@ -42,6 +51,7 @@
         "text_TxJgtp",
         "buttons_gDwKMc"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/bridesmiad916.png",
         "image_overlay_opacity": 0,
@@ -346,6 +356,7 @@
   },
   "order": [
     "main",
+    "custom_liquid_nhJyWE",
     "image_banner_yqbK4R",
     "image_with_text_KcgPPe",
     "rich_text_N4NXRf",
