@@ -35,10 +35,24 @@
                 color:black;
                 text-align: left;
                 top: 89%;
-                left: 23%;
+                left: 33%;
                 transform: translate(-50%, -50%);
-                margin-left: 1px;
+                
               }
+            .position-boton
+            {
+                position: absolute;
+                top: 90%;
+                left: 33%;
+                transform: translate(-50%, -50%);
+            }  
+            .position-mid
+            {
+                position: absolute;
+                top: 40%;
+                left: 33%;
+                transform: translate(-50%, -50%);
+            } 
          }
         }
 
