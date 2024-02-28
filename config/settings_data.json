@@ -1,6 +1,8 @@
 {
   "current": {
+    "logo": "shopify:\/\/shop_images\/logo.png",
     "logo_width": 90,
+    "favicon": "shopify:\/\/shop_images\/ICONAPK.png",
     "type_header_font": "alegreya_i9",
     "heading_scale": 100,
     "type_body_font": "alegreya_i7",
@@ -10,7 +12,7 @@
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
     "animations_reveal_on_scroll": true,
-    "animations_hover_elements": "none",
+    "animations_hover_elements": "vertical-lift",
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
     "buttons_radius": 0,
@@ -98,6 +100,7 @@
     "sold_out_badge_color_scheme": "scheme-3",
     "brand_headline": "",
     "brand_description": "<p><\/p>",
+    "brand_image": "shopify:\/\/shop_images\/logo.png",
     "brand_image_width": 100,
     "social_facebook_link": "",
     "social_instagram_link": "https:\/\/www.instagram.com\/violettarccompany",
