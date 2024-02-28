@@ -62,9 +62,44 @@
                 background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/files/bridesmiad169.png');
                 font-size: 24px;
                 height: 800px;
-     
+                h1{
+                    position: absolute;
+                    font-size: 80px;
+                    color: white;
+                    text-align: left;
+                    top: 50%;
+                    left: 24%;
+                    transform: translate(-50%, -50%);
+                  }
+                  p{
+                    position: absolute;
+                    font-size: 30px;
+                    color:black;
+                    text-align: left;
+                    top: 89%;
+                    left: 33%;
+                    transform: translate(-50%, -50%);
+                    
+                  }
+                .position-boton
+                {
+                    position: absolute;
+                    top: 80%;
+                    left: 24%;
+                    transform: translate(-50%, -50%);
+                }  
+                .position-mid
+                {
+                    position: absolute;
+                    top: 40%;
+                    left: 110%;
+                    transform: translate(-50%, -50%);
+                    margin-left: -120px;
+                    margin-right: -120px;
+                } 
+             }
             }
-        }
+            
         /* Estilos para los botones */
         .button-banner {
             display: inline-block;
