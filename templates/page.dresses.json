@@ -90,7 +90,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/minipink.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -171,7 +171,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/midileopard.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -252,7 +252,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/maxisalmon.png",
         "height": "adapt",
-        "desktop_image_width": "large",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
