@@ -10,6 +10,14 @@
     },
     "custom_liquid_qUxxxr": {
       "type": "custom-liquid",
+      "custom_css": [
+        "#banner-container {position: relative; text-align: center; }",
+        " #banner-image {width: 100%; max-height: 300px; \/* Ajusta según sea necesario *\/ }",
+        " #banner-text {position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; }",
+        " #banner-text h1 {font-size: 2.5em; margin-bottom: 10px; }",
+        " #banner-text h2 {font-size: 1.5em; margin-bottom: 20px; }",
+        " #banner-button {padding: 10px 20px; font-size: 1.2em; background-color: #3498db; \/* Color de fondo del botón *\/ color: white; text-decoration: none; border: none; border-radius: 5px; cursor: pointer; }"
+      ],
       "settings": {
         "custom_liquid": "<div id=\"banner-container\">\n    <!-- Imagen del banner para computadoras -->\n    <picture>\n      <source media=\"(min-width: 768px)\" srcset=\"\">\n      <img id=\"banner-image\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0643\/4789\/8056\/files\/bridesmiad169.png\" alt=\"\">\n    <\/picture>\n   <!-- Imagen del banner para movil -->\n   <picture>\n    <source media=\"(max-width: 769px)\" srcset=\"\">\n    <img id=\"banner-image\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0643\/4789\/8056\/files\/bridesmiad916.png\" alt=\"\">\n  <\/picture>\n    <!-- Textos y botón -->\n    <div id=\"banner-text\">\n      <h1>Título Principal<\/h1>\n      <h2>Subtítulo<\/h2>\n      <a id=\"banner-button\" href=\"#\">Botón<\/a>\n    <\/div>\n  <\/div>",
         "color_scheme": "",
