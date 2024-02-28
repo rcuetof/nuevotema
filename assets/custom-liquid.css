@@ -19,7 +19,7 @@
                 height: 100vh;
                 margin-left: 0;
                 margin-right: 0;
-            }
+            
             h1{
                 position: absolute;
                 font-size: 80px;
@@ -38,6 +38,7 @@
                 left: 23%;
                 transform: translate(-50%, -50%);
               }
+         }
         }
 
         /* Estilos para escritorio */
