@@ -41,7 +41,7 @@
             {
                 position: absolute;
                 top: 80%;
-                left: 20%;
+                left: 24%;
                 transform: translate(-50%, -50%);
             }  
             .position-mid
@@ -50,6 +50,8 @@
                 top: 40%;
                 left: 70%;
                 transform: translate(-50%, -50%);
+                margin-left: -120px;
+                margin-right: -120px;
             } 
          }
         }
