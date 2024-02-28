@@ -11,10 +11,10 @@
     "custom_liquid_nhJyWE": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"banner-mmm\">\n        <h1>Bienvenido a Nuestro Sitio Web<\/h1>\n        <p>¡Descubre productos y servicios increíbles!<\/p>\n        <a href=\"#\" class=\"button-banner\">Más información<\/a>\n        <a href=\"#\" class=\"button-banner\">Contáctanos<\/a>\n    <\/div>",
+        "custom_liquid": "<div class=\"banner-mmm\">\n        <h1>Bridesmaid<\/h1>\n        <p>Wedding Shopping!<\/p>\n        <a href=\"#\" class=\"button-banner\">Más información<\/a>\n        <a href=\"#\" class=\"button-banner\">Contáctanos<\/a>\n    <\/div>",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "image_banner_yqbK4R": {
