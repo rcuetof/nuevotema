@@ -68,7 +68,7 @@
                     color: white;
                     text-shadow: 2px,10px,4px,black;
                     top: 10%;
-                    left: 70%;
+                    left: 65%;
                     transform: translate(-50%, -50%);
                   }
                   p{
@@ -77,7 +77,7 @@
                     color:black;
                     text-align: left;
                     top: 35%;
-                    left: 70%;
+                    left: 65%;
                     transform: translate(-50%, -50%);
                     
                   }
@@ -85,14 +85,14 @@
                 {
                     position: absolute;
                     top: 60%;
-                    left: 75%;
+                    left: 60%;
                     transform: translate(-50%, -50%);
                 }  
                 .position-mid
                 {
                     position: absolute;
                     top: 60%;
-                    left: 70%;
+                    left: 65%;
                     transform: translate(-50%, -50%);
                     margin-left: -120px;
                     margin-right: -120px;
