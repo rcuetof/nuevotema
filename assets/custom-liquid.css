@@ -37,6 +37,7 @@
                 top: 89%;
                 left: 23%;
                 transform: translate(-50%, -50%);
+                margin-left: 1px;
               }
          }
         }
