@@ -7,9 +7,7 @@
             color: white;
             text-align: center;
             padding: 20px;
-            background-repeat: no-repeat;
-        
-             
+            background-repeat: no-repeat;  
         }
         
         /* Estilos para móvil */
@@ -45,7 +43,6 @@
                 top: 80%;
                 left: 20%;
                 transform: translate(-50%, -50%);
-                margin: -80px;
             }  
             .position-mid
             {
@@ -53,7 +50,6 @@
                 top: 40%;
                 left: 70%;
                 transform: translate(-50%, -50%);
-                margin: -80px;
             } 
          }
         }
