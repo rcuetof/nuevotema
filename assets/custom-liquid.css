@@ -21,7 +21,13 @@
                 margin-left: 0;
                 margin-right: 0;
             }
-            h1{font-size: 100px;color: white;}
+            h1{
+                font-size: 100px;
+                color: white;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%,-50%);
+            }
         }
 
         /* Estilos para escritorio */
