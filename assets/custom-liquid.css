@@ -2,7 +2,7 @@
         .banner-mmm {
             position: relative;
             width: 100%;
-            background-size: contain;
+            background-size: auto;
             background-position: center;
             color: white;
             text-align: center;
