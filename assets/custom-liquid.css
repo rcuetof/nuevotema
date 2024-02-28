@@ -25,11 +25,20 @@
                 position: absolute;
                 font-size: 80px;
                 color: white;
+                text-align: left;
                 top: 50%;
-                left: 20%;
+                left: 22%;
                 transform: translate(-50%, -50%);
-              
-            }
+              }
+              p{
+                position: absolute;
+                font-size: 28px;
+                color:black;
+                text-align: left;
+                top: 100%;
+                left: 22%;
+                transform: translate(-50%, -50%);
+              }
         }
 
         /* Estilos para escritorio */
