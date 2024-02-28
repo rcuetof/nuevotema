@@ -8,8 +8,10 @@
             text-align: center;
             padding: 20px;
             background-repeat: no-repeat;
+        
+            h1{font-size: 40px;}    
         }
-
+        
         /* Estilos para móvil */
         @media (max-width: 768px) {
             .banner-mmm {
