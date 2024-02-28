@@ -31,10 +31,10 @@
               }
               p{
                 position: absolute;
-                font-size: 28px;
+                font-size: 30px;
                 color:black;
                 text-align: left;
-                top: 100%;
+                top: 89%;
                 left: 23%;
                 transform: translate(-50%, -50%);
               }
