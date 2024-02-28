@@ -69,7 +69,7 @@
         "text_dpbGqD": {
           "type": "text",
           "settings": {
-            "text": "<p>offer a diverse range<br\/>of colors and styles. Red mini dresses embody boldness and elegance, red tube<br\/>mini dresses are ideal for formal events. Electric blue mini dresses exude<br\/>vitality, while mini dresses in soft tones such as the classic white mini dress<br\/>in A-line models transmit sophistication and freshness, adapting to relaxed<br\/>occasions. The floral and geometric mini dresses add originality and style and<br\/>are ideal for the beach and the spring season.<\/p>",
+            "text": "<p>offer a diverse range of colors and styles. Red mini dresses embody boldness and elegance, red tube mini dresses are ideal for formal events. Electric blue mini dresses exude vitality, while mini dresses in soft tones such as the classic white mini dress in A-line models transmit sophistication and freshness, adapting to relaxed occasions. The floral and geometric mini dresses add originality and style and are ideal for the beach and the spring season.<\/p>",
             "text_style": "body"
           }
         },
@@ -100,7 +100,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "rich_text_N4NXRf": {
@@ -133,7 +133,7 @@
         "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 52
       }
     },
