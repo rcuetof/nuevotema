@@ -1,6 +1,7 @@
 #banner-container {
   position: relative;
   text-align: center;
+  width: 100%;
 }
 
 #banner-image {
