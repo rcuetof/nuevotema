@@ -136,8 +136,7 @@ position: relative;
 }
 .shop-position-r{
     right:25%;
-    margin-bottom: -10%;
-    
+    margin-bottom: -10%;    
 }
 }
 @media (max-width: 768px) {
