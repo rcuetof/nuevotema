@@ -20,7 +20,7 @@
     "custom_liquid_RBWxb9": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-l\">SHOW ME COLLECTION<\/a>",
+        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position\">SHOW ME COLLECTION<\/a>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
