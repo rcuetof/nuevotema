@@ -5,7 +5,7 @@ position: relative;
 /*-------------------------------BANNER MAXI MINI MIDI ----------------------------------------------------------------------------*/
         .banner-mmm {
             position: relative;
-            width: 100%;
+            width: 80%;
             background-size: cover;
             background-position: center;
             color: white;
