@@ -137,14 +137,17 @@ position: relative;
 .shop-position-r{
     right:25%;
     margin-bottom: -10%;
+    
 }
 }
 @media (max-width: 768px) {
 .shop-position-l{
+    top:-30%;
     left: 10%;
     margin-bottom: -10%;
 }
 .shop-position-r{
+    top:-30%;
     left: 10%;
     margin-bottom: -10%;
 }
