@@ -1,4 +1,4 @@
-        /* BANNER MAXI MINI MIDI */
+/*-------------------------------BANNER MAXI MINI MIDI ----------------------------------------------------------------------------*/
         .banner-mmm {
             position: relative;
             width: 100%;
@@ -111,3 +111,28 @@
             border-radius: 5px;
         }
         .button-banner:hover{border: 2px solid rgba(225, 225, 225, 0.179);background-color: antiquewhite;}
+/*------------------------------------- END BANNER MAXI MINI MIDI -----------------------------------------------------------------------*/
+ /* Estilos para los botones */
+ .button-shop {
+    display: inline-block;
+    position: absolute;
+    padding: 10px 20px;
+    background-color:rgba(163, 149, 149, 0.376);;
+    color: rgb(19, 18, 18,0.7);
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 5px;
+}
+.button-shop:hover{border: 2px solid rgba(225, 225, 225, 0.179);background-color: antiquewhite;}
+@media (min-width: 769px) {
+.shop-position{
+    top: 60%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}}
+@media (max-width: 768px) {
+.shop-position{
+    top: 60%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+}}
