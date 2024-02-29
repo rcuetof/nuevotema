@@ -118,6 +118,7 @@ position: relative;
 /*------------------------------------- END BANNER MAXI MINI MIDI -----------------------------------------------------------------------*/
  /* Estilos para los botones */
  .button-shop {
+    z-index: 1;
     display: inline-block;
     position: absolute;
     padding: 10px 20px;
@@ -130,12 +131,11 @@ position: relative;
 .button-shop:hover{border: 2px solid rgba(225, 225, 225, 0.179);background-color: antiquewhite;}
 @media (min-width: 769px) {
 .shop-position{
-    left: 30%;
+    left: 25%;
     margin-bottom: -40%;
-
 }}
 @media (max-width: 768px) {
 .shop-position{
-    left: 30%;
+    left: 25%;
     margin-bottom: -40%;
 }}
