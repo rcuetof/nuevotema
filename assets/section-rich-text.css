@@ -1,5 +1,12 @@
 .rich-text {
   z-index: 1;
+  border-radius: 10px; /* Bordes redondeados (asegúrate de que sea un valor positivo) */ 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */  
+  padding: 33px;
+  text-align: left;
+  text-align: justify;
+  font-weight: 500;
+  font-style: italic;
 }
 .rich-text__wrapper {
   display: flex;
