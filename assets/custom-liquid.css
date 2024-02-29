@@ -65,7 +65,8 @@ position: relative;
             .banner-mmm {
                 background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/files/bridesmiad169.png');
                 font-size: 24px;
-                height: 90dvw;
+                min-height: 20dv;
+                width: 100%;
                 h1{
                     position: absolute;
                     font-size: 100px;
