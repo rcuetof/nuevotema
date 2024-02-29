@@ -148,7 +148,7 @@ position: relative;
 }
 .shop-position-r{
     margin-top: 20%;
-    left: 10%;
+    translate: (-50%,0);
     margin-bottom: -10%;
 }
 }
