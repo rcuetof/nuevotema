@@ -27,6 +27,9 @@
         "heading",
         "button"
       ],
+      "custom_css": [
+        ".a {text-decoration: none;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Pink_Simple_Banner_Wedding_Invitation_1.png",
         "image_overlay_opacity": 0,
