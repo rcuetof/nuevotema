@@ -132,10 +132,10 @@ position: relative;
 @media (min-width: 769px) {
 .shop-position{
     left: 25%;
-    margin-bottom: -40%;
+    margin-bottom: -70%;
 }}
 @media (max-width: 768px) {
 .shop-position{
-    left: 25%;
-    margin-bottom: -40%;
+    left: 10%;
+    margin-bottom: -10%;
 }}
