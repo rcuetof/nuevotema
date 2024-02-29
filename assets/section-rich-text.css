@@ -12,14 +12,14 @@
   margin: auto;
   width: calc(100% - 8rem / var(--font-body-scale));
   border-radius: 10px; /* Bordes redondeados (asegúrate de que sea un valor positivo) */ 
+}
+.rich-text__blocks {
+  width: 100%;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */  
   padding: 33px;
   text-align: left;
   text-align: justify;
   font-style: italic;
-}
-.rich-text__blocks {
-  width: 100%;
 }
 @media screen and (min-width: 750px) {
   .rich-text__wrapper {
