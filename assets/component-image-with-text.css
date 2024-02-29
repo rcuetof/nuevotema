@@ -27,9 +27,8 @@
 .image-with-text__media:hover
 {
   scale: 101%; 
-  
-  box-shadow: 0 0 50px 5px rgba(0, 0, 0, 0.5);;
-}
+  border: 5px solid rgba(221, 176, 141, 0.697);;
+  }
 
 .image-with-text__media--small {
   height: 19.4rem;
