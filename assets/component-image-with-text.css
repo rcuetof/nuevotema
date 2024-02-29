@@ -27,7 +27,7 @@
 .image-with-text__media:hover
 {
   scale: 101%; 
-  border: 1% solid rgba(221, 176, 141, 0.697);;
+  border: 2% solid rgba(221, 176, 141, 0.697);;
   }
 
 .image-with-text__media--small {
