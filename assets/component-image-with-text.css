@@ -21,11 +21,12 @@
 .image-with-text__media {
   min-height: 100%;
   overflow: visible;
+  transition: all 3s;
 }
 
 .image-with-text__media:hover
 {
-  scale: 1%; 
+  scale: 101%; 
 }
 
 .image-with-text__media--small {
