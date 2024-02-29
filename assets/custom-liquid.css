@@ -130,23 +130,12 @@ position: relative;
 }
 .button-shop:hover{border: 2px solid rgba(225, 225, 225, 0.179);background-color: antiquewhite;}
 @media (min-width: 769px) {
-.shop-position-l{
+.shop-position{
     left: 25%;
     margin-bottom: -70%;
-}
-.shop-position-r{
-    top: 50%;
-    right: 25%;
-    transform: translate(-5px, -20px);
-}
-}
+}}
 @media (max-width: 768px) {
-.shop-position-l{
+.shop-position{
     left: 10%;
     margin-bottom: -10%;
-}
-.shop-position-r{
-    left: 10%;
-    margin-bottom: -10%;
-}
-}
+}}
