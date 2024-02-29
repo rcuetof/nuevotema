@@ -142,12 +142,12 @@ position: relative;
 }
 @media (max-width: 768px) {
 .shop-position-l{
-    margin-top: 50px;
+    margin-top: 20%;
     left: 10%;
     margin-bottom: -10%;
 }
 .shop-position-r{
-    margin-top: 50px;
+    margin-top: 20%;
     left: 10%;
     margin-bottom: -10%;
 }
