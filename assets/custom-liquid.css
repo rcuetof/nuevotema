@@ -1,3 +1,7 @@
+.body
+{
+position: relative; 
+}
 /*-------------------------------BANNER MAXI MINI MIDI ----------------------------------------------------------------------------*/
         .banner-mmm {
             position: relative;
