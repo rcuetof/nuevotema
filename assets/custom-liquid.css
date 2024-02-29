@@ -21,7 +21,8 @@ position: relative;
                 height: 105vh;
                 margin-left: 0;
                 margin-right: 0;
-            
+                background-repeat: no-repeat;
+                background-position: top;            
             h1{
                 position: absolute;
                 font-size: 80px;
@@ -67,7 +68,7 @@ position: relative;
                 font-size: 24px;
                 background-size: contain;
                 min-height: 100vh;
-                top: -3%;
+                
                 h1{
                     position: absolute;
                     font-size: 100px;
