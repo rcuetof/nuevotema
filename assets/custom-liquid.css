@@ -119,6 +119,7 @@ position: relative;
  /* Estilos para los botones */
  .button-shop {
     display: inline-block;
+    position: absolute;
     padding: 10px 20px;
     background-color:rgba(163, 149, 149, 0.376);;
     color: rgb(19, 18, 18,0.7);
@@ -129,7 +130,8 @@ position: relative;
 .button-shop:hover{border: 2px solid rgba(225, 225, 225, 0.179);background-color: antiquewhite;}
 @media (min-width: 769px) {
 .shop-position{
-    position: absolute;
+    left: 30%;
+    top: -120%; 
 }}
 @media (max-width: 768px) {
 .shop-position{
