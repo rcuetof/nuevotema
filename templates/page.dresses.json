@@ -250,6 +250,15 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
+    },
+    "custom_liquid_LYH4tB": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position\">SHOP NOW<\/a>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -260,6 +269,7 @@
     "image_with_text_BwW4Yt",
     "image_with_text_fWEdCb",
     "rich_text_WmTFCF",
-    "rich_text_cHBQnL"
+    "rich_text_cHBQnL",
+    "custom_liquid_LYH4tB"
   ]
 }
