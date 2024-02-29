@@ -16,6 +16,29 @@
     {{ section.settings.custom_liquid }}
   </div>
 </div>
+<script>
+  // Obtén los elementos por clase
+  const botonShop = document.querySelector('.shop-position');
+  const image = document.querySelector('.image-with-text__media');
+
+  // Función para actualizar la posición del botón según la imagen
+  function actualizarPosicionBoton() {
+    const posicionImagen = image.getBoundingClientRect();
+    botonShop.style.top = `${posicionImagen.top}px`;
+    botonShop.style.left = `${posicionImagen.left + posicionImagen.width + 10}px`; // Ajuste para posicionar a la derecha de la imagen
+  }
+
+  // Función para mover la imagen cuando se hace clic en el botón de la tienda
+  function moverImagen() {
+    // Puedes agregar lógica para mover la imagen aquí si es necesario
+  }
+
+  // Llama a la función inicialmente y configura un evento si la posición debe actualizarse dinámicamente
+  actualizarPosicionBoton();
+  
+  // Actualiza la posición del botón cuando se redimensiona la ventana
+  window.addEventListener('resize', actualizarPosicionBoton);
+</script>
 
 {% schema %}
 {
