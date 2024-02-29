@@ -66,6 +66,15 @@
         "show_text_below": false
       }
     },
+    "custom_liquid_LYH4tB": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position\">SHOP NOW<\/a>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_with_text_KcgPPe": {
       "type": "image-with-text",
       "blocks": {
@@ -250,26 +259,17 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
-    },
-    "custom_liquid_LYH4tB": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position\">SHOP NOW<\/a>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
     "main",
     "custom_liquid_nhJyWE",
     "image_banner_yqbK4R",
+    "custom_liquid_LYH4tB",
     "image_with_text_KcgPPe",
     "image_with_text_BwW4Yt",
     "image_with_text_fWEdCb",
     "rich_text_WmTFCF",
-    "rich_text_cHBQnL",
-    "custom_liquid_LYH4tB"
+    "rich_text_cHBQnL"
   ]
 }
