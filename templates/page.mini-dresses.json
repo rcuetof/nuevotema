@@ -1,0 +1,245 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "custom_liquid_nhJyWE": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"banner-mmm\">\n        <h1>One<br>Style<\/h1>\n        <p>Fashion about bridesmaids <br>the best styles in dresses<\/p>\n        <a href=\"#\" class=\"button-banner position-boton\">SHOW ME MORE<\/a>\n        <a href=\"#\" class=\"button-banner position-mid\">SHOP NOW<\/a>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_RBWxb9": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-l\">SHOW ME COLLECTION<\/a>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_KcgPPe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_tEbwAi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mini dresses",
+            "heading_size": "h2"
+          }
+        },
+        "text_dpbGqD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Offer a diverse range of colors and styles. Red mini dresses embody boldness and elegance, red tube mini dresses are ideal for formal events. Electric blue mini dresses exude vitality, while mini dresses in soft tones such as the classic white mini dress in A-line models transmit sophistication and freshness, adapting to relaxed occasions. The floral and geometric mini dresses add originality and style and are ideal for the beach and the spring season.<\/p><p>For a romantic touch, mini dresses with ruffles and lace highlight femininity with elegance. To express fashion-forward fashion, asymmetrical cuts on mini dresses and statement sleeves offer modern style. The versatility of mini dresses is reflected in their ability to combine with various footwear, from high winter boots to summer sandals or sneakers for a casual look.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_UqrxUW": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOW ME MORE",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tEbwAi",
+        "text_dpbGqD",
+        "button_UqrxUW"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/minipink.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "custom_liquid_AyctFE": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-r\">SHOW ME COLLECTION<\/a>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_BwW4Yt": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hdGjmh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Midi dresses",
+            "heading_size": "h2"
+          }
+        },
+        "text_eJW3AJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>offer a variety of cuts that cater to different styles and occasions. Tight cuts, such as the pencil, elegantly highlight the silhouette, perfect for formal events. Looser styles, like the empire or trapeze cut, provide comfort and a more relaxed touch, ideal for informal gatherings and daytime events. Dresses with V-necklines, balloon sleeves, or asymmetrical details also stand out, adding a touch of originality to midi fashion.<\/p><p>Regarding colors, the versatility of midi dresses allows for a wide range of choices. Classic colors like black and navy are ideal for formal events, while vibrant tones like red or green can stand out at more festive occasions. For daytime events, floral patterns, stripes, and pastel colors offer fresh and feminine options. The neutral color palette, including white and beige, is also popular for a more minimalist and versatile look. In summary, midi dresses present a wide variety of cuts and colors, adapting to the tastes and preferences of each woman and a diverse range of events.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_6tHdmP": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOW ME MORE",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hdGjmh",
+        "text_eJW3AJ",
+        "button_6tHdmP"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/midileopard.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "custom_liquid_LYH4tB": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-l\">SHOW ME COLLECTION<\/a>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_fWEdCb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_JX4PBz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Maxi dresses",
+            "heading_size": "h2"
+          }
+        },
+        "text_3pwQDX": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In the wide range of dresses for women Maxi dresses are true statement pieces in the world of fashion, they are diversified through styles, cuts and colors, adapting to a variety of occasions.<\/p><p>In style, bohemian-style maxi dresses are characterized by floral prints, airy fabrics and asymmetrical cuts. Earth tones such as ocher, moss green and terracotta define this relaxed and bohemian aesthetic.<\/p><p>The minimalist elegance in maxi dresses is reflected in straight-cut maxi dresses, without excessive decorations, in neutral colors such as white, black, gray and nude. The simplicity highlights the versatility of the garment, perfect for any occasion.<\/p><p>Vintage maxi dresses adopt high waists, pleated skirts and puffed sleeves. Colors like deep red, emerald green and navy blue add sophistication and nostalgia.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_QDJiDY": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOW ME MORE",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_JX4PBz",
+        "text_3pwQDX",
+        "button_QDJiDY"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/maxisalmon.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "rich_text_WmTFCF": {
+      "type": "rich-text",
+      "blocks": {
+        "text_RweJYc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The romanticism of floral dresses is expressed through floral prints in soft tones such as pastel pink, lavender and pale yellow. Feminine cuts, such as V-necklines and full skirts, enhance romantic delicacy.<\/p><p>For a nighttime and sensual aesthetic, body-hugging maxi dress designs, strategic slits and plunging necklines in dark colors such as black, navy blue and burgundy add a touch of mystery and elegance.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_RweJYc"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "rich_text_cHBQnL": {
+      "type": "rich-text",
+      "blocks": {
+        "text_MNh8pq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Playful Boho maxi dress style incorporates playful elements such as fringes, pom poms and ethnic details in bright colors such as turquoise, orange and bright yellow, creating a cheerful and carefree bohemian atmosphere.<\/p><p>Finally, the modern formal maxi dress comes in structured silhouettes, straight cuts or asymmetrical lines in sober colors such as gunmetal grey, off-white and bottle green, perfect for formal and contemporary events.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_MNh8pq"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_liquid_nhJyWE",
+    "custom_liquid_RBWxb9",
+    "image_with_text_KcgPPe",
+    "custom_liquid_AyctFE",
+    "image_with_text_BwW4Yt",
+    "custom_liquid_LYH4tB",
+    "image_with_text_fWEdCb",
+    "rich_text_WmTFCF",
+    "rich_text_cHBQnL"
+  ]
+}
