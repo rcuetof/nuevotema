@@ -326,6 +326,28 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
+    },
+    "rich_text_ez8a8K": {
+      "type": "rich-text",
+      "blocks": {
+        "text_4DdYUU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dates and Romantic Evenings<br\/>A black mini dress with a v-neckline is a classic option for dates and romantic evenings. You can choose a style that highlights your features and makes you feel confident and attractive.<\/p><p>Work Dinners, Corporate Events, Informal Business MeetingsDepending on the nature of the event and the company culture, a well-selected black mini dress may be appropriate for work dinners or informal corporate events.<br\/><\/p><p>Remember to always keep the event's dress code in mind and adjust your choice of black mini dress accordingly. With its versatility and elegance, this classic garment can be your perfect companion for various occasions. Dress with confidence and make your style stand out at every event!<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_4DdYUU"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
     }
   },
   "order": [
@@ -342,6 +364,7 @@
     "image_banner_kh9KKH",
     "rich_text_WmTFCF",
     "image_banner_ib3hJk",
-    "rich_text_cHBQnL"
+    "rich_text_cHBQnL",
+    "rich_text_ez8a8K"
   ]
 }
