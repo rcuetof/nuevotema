@@ -333,6 +333,11 @@ position: relative;
     .producto:hover .texto-flotante {
     opacity: 0.7;
     }
+    .producto img {
+        width: 100%;
+        height: auto;
+    }
+
 
 /*BOTRONCOMPRA*/
 .shop {
