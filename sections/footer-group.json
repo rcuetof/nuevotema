@@ -10,18 +10,10 @@
           "settings": {
             "show_social": true
           }
-        },
-        "link_list_EVt6ig": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Quick links",
-            "menu": "fashion"
-          }
         }
       },
       "block_order": [
-        "brand_information_H8Pm9Y",
-        "link_list_EVt6ig"
+        "brand_information_H8Pm9Y"
       ],
       "settings": {
         "color_scheme": "scheme-5",
