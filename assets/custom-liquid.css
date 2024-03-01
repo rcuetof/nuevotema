@@ -138,7 +138,6 @@ position: relative;
             transform: translate(-50%, -50%);
             z-index: 2;
           }
-=======
 /*------------------------------------- END BANNER MAXI MINI MIDI -----------------------------------------------------------------------*/
  /* Estilos para los botones */
  .button-shop {
@@ -466,4 +465,4 @@ left: 0;
 .right-dot-line {
 right: 0;
 }
->>>>>>> be67da854ab97c60cb16138158f169110e3cac23
+
