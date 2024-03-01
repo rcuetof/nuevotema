@@ -413,25 +413,36 @@ position: relative;
 .white-produc{border: 10px solid #ffffff; border-bottom: 50px solid #ffffff;}
 /******COLOR-PRODUCTO******************/
 
-.content-separator {
-    display: flex;
-    align-items: center;
-    width: 100%;
-    margin: 20px 0;
-  }
+.separator {
+position: relative;
+width: 100%;
+max-width: 400px; /* Ajusta el ancho según sea necesario */
+align-items: center;
+justify-content: center;
+height: 100vh;
+}
 
-  .content-separator .dot-line {
-    flex: 1;
-    height: 1px;
-    background: repeating-linear-gradient(to right, black, black 5px, transparent 5px, transparent 10px);
-  }
+.heart {
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+fill: black; /* Color del corazón */
+}
 
-  .content-separator .heart-container {
-    position: relative;
-    margin: 0 20px;
-  }
+.left-dot-line,
+.right-dot-line {
+position: absolute;
+top: 50%;
+height: 2px; /* Grosor de la línea de puntos */
+width: calc(50% - 20px); /* Ajusta la longitud de la línea según sea necesario */
+background: black; /* Color de la línea de puntos */
+}
 
-  .content-separator .heart-container svg {
-    width: 40px;
-    fill: black;
-  }
+.left-dot-line {
+left: 0;
+}
+
+.right-dot-line {
+right: 0;
+}
