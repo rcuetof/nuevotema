@@ -41,6 +41,7 @@
     },
     "custom_liquid_RBWxb9": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-l\">SHOW ME COLLECTION<\/a>",
         "color_scheme": "",
@@ -48,25 +49,26 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_KcgPPe": {
+    "image_with_text_eiGpRE": {
       "type": "image-with-text",
       "blocks": {
-        "heading_tEbwAi": {
+        "heading_eWfxH3": {
           "type": "heading",
           "settings": {
             "heading": "Mini Black DressesCollection",
             "heading_size": "h2"
           }
         },
-        "text_dpbGqD": {
+        "text_rUK93C": {
           "type": "text",
           "settings": {
             "text": "<p>The black mini dress, also known as the \"LBD\" Little Black<br\/>Dress, has been a symbol of sophistication since Coco Chanel popularized the<br\/>concept in the 1920s. Its simple design and flattering cut have made this dress<br\/>a foolproof choice for a variety of events.<\/p>",
             "text_style": "body"
           }
         },
-        "button_UqrxUW": {
+        "button_Wxciw7": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "SHOW ME MORE",
             "button_link": "",
@@ -75,9 +77,9 @@
         }
       },
       "block_order": [
-        "heading_tEbwAi",
-        "text_dpbGqD",
-        "button_UqrxUW"
+        "heading_eWfxH3",
+        "text_rUK93C",
+        "button_Wxciw7"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/minibdressesposter.png",
@@ -97,20 +99,12 @@
     },
     "custom_liquid_b6XPNU": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div class=\"producto-container\">\n    <div class=\"producto black-produc\">\n        <a href=\"https:\/\/www.violettarc.com\/products\/spliced-lace-cold-shoulder-mini-dress\" title=\"Featured Black Mini Dresses\">\n            <img src=\"https:\/\/www.violettarc.com\/cdn\/shop\/products\/aebf039ac1d24117a48cbc4da3eca427-Min.jpg\">\n        <div class=\"shop\"> <\/div>\n        <p>Featured Black Mini Dresses<\/p>\n        <div class=\"texto-flotante\">View Dress<\/div>\n        <\/a>\n    <\/div>\n    <div class=\"producto black-produc\">\n        <a href=\"https:\/\/www.violettarc.com\/products\/sequin-lace-up-spaghetti-strap-mini-dress\" title=\"Sequin Lace-Up Spaghetti Strap Mini Dress \">\n            <img src=\"https:\/\/www.violettarc.com\/cdn\/shop\/products\/48c10d37f472402f82cfdffcfb821454-Min.jpg\">\n        <div class=\"shop\"> <\/div>\n        <p>Sequin Lace-Up Spaghetti Strap Mini Dress<\/p>\n        <div class=\"texto-flotante\">View Dress<\/div>\n        <\/a>\n    <\/div>\n<\/div>",
         "color_scheme": "",
         "padding_top": 8,
         "padding_bottom": 8
-      }
-    },
-    "custom_liquid_AyctFE": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-r\">SHOW ME COLLECTION<\/a>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
       }
     },
     "image_with_text_BwW4Yt": {
@@ -119,33 +113,24 @@
         "heading_hdGjmh": {
           "type": "heading",
           "settings": {
-            "heading": "Midi dresses",
+            "heading": "Discoverthe complete collection of black mini dresses.",
             "heading_size": "h2"
           }
         },
         "text_eJW3AJ": {
           "type": "text",
           "settings": {
-            "text": "<p>offer a variety of cuts that cater to different styles and occasions. Tight cuts, such as the pencil, elegantly highlight the silhouette, perfect for formal events. Looser styles, like the empire or trapeze cut, provide comfort and a more relaxed touch, ideal for informal gatherings and daytime events. Dresses with V-necklines, balloon sleeves, or asymmetrical details also stand out, adding a touch of originality to midi fashion.<\/p><p>Regarding colors, the versatility of midi dresses allows for a wide range of choices. Classic colors like black and navy are ideal for formal events, while vibrant tones like red or green can stand out at more festive occasions. For daytime events, floral patterns, stripes, and pastel colors offer fresh and feminine options. The neutral color palette, including white and beige, is also popular for a more minimalist and versatile look. In summary, midi dresses present a wide variety of cuts and colors, adapting to the tastes and preferences of each woman and a diverse range of events.<\/p>",
+            "text": "<p>One of the wonders of the black mini dress is its ability to adapt to any season. In summer, it becomes the perfect choice for casual outings and cool nights. In winter, it can be combined with tights and ankle boots for a warmer and more elegant look. It is the quintessential transitional garment, defying seasonal restrictions with its timeless style.<\/p><p> During the day, it can be styled with casual sandals and a denim jacket for a relaxed and chic look. When night falls, chic heels and statement accessories instantly elevate the dress, making it the<br\/>perfect choice for a night out.<\/p><p>From Audrey Hepburn to modern fashion icons, the black mini dress has been adopted by influential women throughout the decades. His legacy endures,  transmitting a message of confidence and timeless style.<\/p><p><\/p>",
             "text_style": "body"
-          }
-        },
-        "button_6tHdmP": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOW ME MORE",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_hdGjmh",
-        "text_eJW3AJ",
-        "button_6tHdmP"
+        "text_eJW3AJ"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/midileopard.png",
+        "image": "shopify:\/\/shop_images\/blackminidressescocktel.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -154,10 +139,132 @@
         "content_layout": "no-overlap",
         "section_color_scheme": "",
         "color_scheme": "",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 8,
         "padding_bottom": 8
+      }
+    },
+    "image_with_text_KcgPPe": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_tEbwAi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Theblack mini dress is not simply a garment",
+            "heading_size": "h2"
+          }
+        },
+        "text_dpbGqD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>It's a style statement that has stood the test of time. Whether you want a casual look for the day or an elegant statement for the evening, this classic dress is the perfect choice. Embrace the simplicity and sophistication of the black mini dress, and discover how this timeless garment can transform your presence with a touch of mystery and charm. <br\/><br\/><strong>At what events is it recommended to wear a black mini dress?<\/strong><br\/><br\/>Dinners and Events A formal black mini dress is a classic and elegant choice. Pair it with high heels and statement accessories for a touch of sophistication.<br\/><br\/>A black mini dress for Cocktails and Parties, the LBD allows you to stand out effortlessly. You can play with different styles and accessories to adapt it to the atmosphere of the party.<br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_UqrxUW": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "SHOW ME MORE",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_tEbwAi",
+        "text_dpbGqD",
+        "button_UqrxUW"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/blackminidressescasual1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "custom_liquid_pECQA4": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-r\">SHOW ME COLLECTION<\/a>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_TExTdb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wjpjre": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discoverthe complete collection of black mini dresses.",
+            "heading_size": "h2"
+          }
+        },
+        "text_WRcURQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>One of the wonders of the black mini dress is its ability to adapt to any season. In summer, it becomes the perfect choice for casual outings and cool nights. In winter, it can be combined with tights and ankle boots for a warmer and more elegant look. It is the quintessential transitional garment, defying seasonal restrictions with its timeless style.<\/p><p> During the day, it can be styled with casual sandals and a denim jacket for a relaxed and chic look. When night falls, chic heels and statement accessories instantly elevate the dress, making it the<br\/>perfect choice for a night out.<\/p><p>From Audrey Hepburn to modern fashion icons, the black mini dress has been adopted by influential women throughout the decades. His legacy endures,  transmitting a message of confidence and timeless style.<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_BthqjB": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "SHOW ME MORE",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wjpjre",
+        "text_WRcURQ",
+        "button_BthqjB"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/blackminidressescocktel.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "image_banner_kh9KKH": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/revista_casual.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
       }
     },
     "rich_text_WmTFCF": {
@@ -166,7 +273,7 @@
         "text_RweJYc": {
           "type": "text",
           "settings": {
-            "text": "<p>The romanticism of floral dresses is expressed through floral prints in soft tones such as pastel pink, lavender and pale yellow. Feminine cuts, such as V-necklines and full skirts, enhance romantic delicacy.<\/p><p>For a nighttime and sensual aesthetic, body-hugging maxi dress designs, strategic slits and plunging necklines in dark colors such as black, navy blue and burgundy add a touch of mystery and elegance.<\/p>"
+            "text": "<p>Night Outs When you are looking for a modern and chic look for a night on the town, the casual black mini dress is the ideal choice.<br\/><br\/><strong>Informal Meetings<\/strong><br\/>Depending on the style and length, a floral mini dress or a black mini over size dress may be suitable for casual gatherings, outings with friends, or dates. Combine it with sneakers or ankle boots for a more relaxed touch.<br\/><\/p>"
           }
         }
       },
@@ -182,18 +289,56 @@
         "padding_bottom": 8
       }
     },
+    "image_banner_ib3hJk": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/revistaaestetic.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "rich_text_cHBQnL": {
       "type": "rich-text",
       "blocks": {
         "text_MNh8pq": {
           "type": "text",
           "settings": {
-            "text": "<p>The Playful Boho maxi dress style incorporates playful elements such as fringes, pom poms and ethnic details in bright colors such as turquoise, orange and bright yellow, creating a cheerful and carefree bohemian atmosphere.<\/p><p>Finally, the modern formal maxi dress comes in structured silhouettes, straight cuts or asymmetrical lines in sober colors such as gunmetal grey, off-white and bottle green, perfect for formal and contemporary events.<\/p>"
+            "text": "<p><strong>Wedding<\/strong><br\/>At weddings with dress codes that allow short dresses, a black A-line mini dress, or a black mini dress with a low back, can be a wise choice. Make sure you respect the established level of formality.<br\/><\/p><p>Charity Events or Galas:<br\/> For charity events or evening galas, the black satin mini dress or the black lace mini dress can be an elegant and attractive option. Pair it with sophisticated jewelry for an extra touch of glamour.<br\/><\/p>"
           }
         }
       },
       "block_order": [
         "text_MNh8pq"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "rich_text_ez8a8K": {
+      "type": "rich-text",
+      "blocks": {
+        "text_4DdYUU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dates and Romantic Evenings<br\/>A black mini dress with a v-neckline is a classic option for dates and romantic evenings. You can choose a style that highlights your features and makes you feel confident and attractive.<\/p><p>Work Dinners, Corporate Events, Informal Business MeetingsDepending on the nature of the event and the company culture, a well-selected black mini dress may be appropriate for work dinners or informal corporate events.<br\/><\/p><p>Remember to always keep the event's dress code in mind and adjust your choice of black mini dress accordingly. With its versatility and elegance, this classic garment can be your perfect companion for various occasions. Dress with confidence and make your style stand out at every event!<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_4DdYUU"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -210,11 +355,16 @@
     "custom_liquid_nhJyWE",
     "rich_text_PnQgAL",
     "custom_liquid_RBWxb9",
-    "image_with_text_KcgPPe",
+    "image_with_text_eiGpRE",
     "custom_liquid_b6XPNU",
-    "custom_liquid_AyctFE",
     "image_with_text_BwW4Yt",
+    "image_with_text_KcgPPe",
+    "custom_liquid_pECQA4",
+    "image_with_text_TExTdb",
+    "image_banner_kh9KKH",
     "rich_text_WmTFCF",
-    "rich_text_cHBQnL"
+    "image_banner_ib3hJk",
+    "rich_text_cHBQnL",
+    "rich_text_ez8a8K"
   ]
 }
