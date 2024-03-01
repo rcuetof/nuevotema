@@ -62,8 +62,8 @@
         "collapsible_row_iXqXRB": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Mini Dresses FAQ for a Great Shopping Experience",
+            "icon": "chat_bubble",
             "row_content": "",
             "page": ""
           }
@@ -81,7 +81,7 @@
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "",
+        "color_scheme": "scheme-3949eb00-512a-4e21-8568-06fe5434d288",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
