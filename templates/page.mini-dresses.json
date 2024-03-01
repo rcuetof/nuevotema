@@ -560,6 +560,78 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
+    },
+    "collapsible_content_TwV6P8": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_XWgcrQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the key to maintaining elegance in a minimalist shirt-style white mini dress?",
+            "icon": "heart",
+            "row_content": "<p>Elegance lies in simplicity; opting for clean lines, subtle details, and minimal accessories to maintain sophistication.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KyRyRC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can the wrap style in a white mini dress be flattering for different body types?",
+            "icon": "heart",
+            "row_content": "<p>The wrap design adapts to various shapes by highlighting the waist and allowing adjustments, creating a flattering and comfortable appearance.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pqqJTG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "On what occasions can the high-neck style in a red mini dress be an elegant and avant-garde choice?",
+            "icon": "heart",
+            "row_content": "<p>The high-neck style in a red mini dress is elegant and avant-garde, making it an ideal choice for formal events and stylish night outings.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_fkKwLp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can the backless detail in a red mini dress transform the appearance surprisingly?",
+            "icon": "heart",
+            "row_content": "<p>A backless feature adds a surprising element to the red mini dress, generating visual interest and highlighting the sensuality of the back.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_k4n8aT": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why can the cape style in a red mini dress be a sophisticated choice for more formal events?",
+            "icon": "heart",
+            "row_content": "<p>The cape design adds a layer of sophistication to the red mini dress, making it an elegant and suitable choice for formal occasions.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_XWgcrQ",
+        "collapsible_row_KyRyRC",
+        "collapsible_row_pqqJTG",
+        "collapsible_row_fkKwLp",
+        "collapsible_row_k4n8aT"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Discoverthe complete collection of red mini dresses.",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/miniwhitedresses1.png",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
     }
   },
   "order": [
@@ -582,6 +654,7 @@
     "image_with_text_NDrPaV",
     "collapsible_content_hg4kQB",
     "rich_text_9FkhjN",
-    "image_with_text_xFUGrb"
+    "image_with_text_xFUGrb",
+    "collapsible_content_TwV6P8"
   ]
 }
