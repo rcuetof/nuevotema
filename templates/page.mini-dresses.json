@@ -23,7 +23,7 @@
         "text_PGcCbF": {
           "type": "text",
           "settings": {
-            "text": "<p>Dresses are expressions of style and personality, and choosing the right color and style can make all the difference at any event.<\/p>"
+            "text": "<h2>Dresses are expressions of style and personality, and choosing the right color and style can make all the difference at any event.<\/h2>"
           }
         }
       },
@@ -74,7 +74,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/minibdressesposter.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -121,7 +121,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/blackminidressescocktel.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -147,7 +147,7 @@
         "text_dpbGqD": {
           "type": "text",
           "settings": {
-            "text": "<p>It's a style statement that has stood the test of time. Whether you want a casual look for the day or an elegant statement for the evening, this classic dress is the perfect choice. Embrace the simplicity and sophistication of the black mini dress, and discover how this timeless garment can transform your presence with a touch of mystery and charm. <br\/><br\/><strong>At what events is it recommended to wear a black mini dress?<\/strong><br\/><br\/>Dinners and Events A formal black mini dress is a classic and elegant choice. Pair it with high heels and statement accessories for a touch of sophistication.<br\/><br\/>A black mini dress for Cocktails and Parties, the LBD allows you to stand out effortlessly. You can play with different styles and accessories to adapt it to the atmosphere of the party.<br\/><\/p>",
+            "text": "<p>It's a style statement that has stood the test of time. Whether you want a casual look for the day or an elegant statement for the evening, this classic dress is the perfect choice. Embrace the simplicity and sophistication of the black mini dress, and discover how this timeless garment can transform your presence with a touch of mystery and charm. <br\/><br\/><strong>At what events is it recommended to wear a black mini dress?<\/strong><br\/>Dinners and Events A formal black mini dress is a classic and elegant choice. Pair it with high heels and statement accessories for a touch of sophistication.<br\/><br\/>A black mini dress for Cocktails and Parties, the LBD allows you to stand out effortlessly. You can play with different styles and accessories to adapt it to the atmosphere of the party.<br\/><\/p>",
             "text_style": "body"
           }
         },
@@ -169,7 +169,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/blackminidressescasual1.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -242,34 +242,12 @@
         "text_MNh8pq": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Wedding<\/strong><br\/>At weddings with dress codes that allow short dresses, a black A-line mini dress, or a black mini dress with a low back, can be a wise choice. Make sure you respect the established level of formality.<br\/><\/p><p>Charity Events or Galas:<br\/> For charity events or evening galas, the black satin mini dress or the black lace mini dress can be an elegant and attractive option. Pair it with sophisticated jewelry for an extra touch of glamour.<br\/><\/p>"
+            "text": "<p><strong>Wedding<\/strong><br\/>At weddings with dress codes that allow short dresses, a black A-line mini dress, or a black mini dress with a low back, can be a wise choice. Make sure you respect the established level of formality.<br\/><\/p><p><strong>Charity Events or Galas:<\/strong><br\/> For charity events or evening galas, the black satin mini dress or the black lace mini dress can be an elegant and attractive option. Pair it with sophisticated jewelry for an extra touch of glamour.<\/p><p>Dates and Romantic Evenings<br\/>A black mini dress with a v-neckline is a classic option for dates and romantic evenings. You can choose a style that highlights your features and makes you feel confident and attractive.<\/p><p>Work Dinners, Corporate Events, Informal Business Meetings Depending on the nature of the event and the company culture, a well-selected black mini dress may be appropriate for work dinners or informal corporate events.<br\/><\/p><p>Remember to always keep the event's dress code in mind and adjust your choice of black mini dress accordingly. With its versatility and elegance, this classic garment can be your perfect companion for various occasions. Dress with confidence and make your style stand out at every event!<br\/><br\/><\/p>"
           }
         }
       },
       "block_order": [
         "text_MNh8pq"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 8,
-        "padding_bottom": 8
-      }
-    },
-    "rich_text_ez8a8K": {
-      "type": "rich-text",
-      "blocks": {
-        "text_4DdYUU": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Dates and Romantic Evenings<br\/>A black mini dress with a v-neckline is a classic option for dates and romantic evenings. You can choose a style that highlights your features and makes you feel confident and attractive.<\/p><p>Work Dinners, Corporate Events, Informal Business MeetingsDepending on the nature of the event and the company culture, a well-selected black mini dress may be appropriate for work dinners or informal corporate events.<br\/><\/p><p>Remember to always keep the event's dress code in mind and adjust your choice of black mini dress accordingly. With its versatility and elegance, this classic garment can be your perfect companion for various occasions. Dress with confidence and make your style stand out at every event!<br\/><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_4DdYUU"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -315,7 +293,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/miniblackdresses2.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -334,7 +312,7 @@
         "text_NDBNXh": {
           "type": "text",
           "settings": {
-            "text": "<p>The red mini dress has achieved iconic status thanks to its ability to capture attention and convey passionate, bold energy. The color red is symbolic of passion and confidence, making this dress a daring and powerful choice.<\/p><p><strong>For what occasions is it appropriate to wear a red mini dress?<\/strong><br\/>The red mini dress is ideal for parties, social events, romantic dinners, this dress is perfect to stand out and leave a lasting impression.<br\/><\/p>"
+            "text": "<h3>The red mini dress has achieved iconic status thanks to its ability to capture attention and convey passionate, bold energy. The color red is symbolic of passion and confidence, making this dress a daring and powerful choice.<\/h3><p><strong>For what occasions is it appropriate to wear a red mini dress?<\/strong><br\/>The red mini dress is ideal for parties, social events, romantic dinners, this dress is perfect to stand out and leave a lasting impression.<br\/><\/p>"
           }
         }
       },
@@ -385,7 +363,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/reddresses.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -536,7 +514,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/miniwhitedresses1.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -687,7 +665,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/minipinkdress.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -807,7 +785,6 @@
     "rich_text_WmTFCF",
     "image_banner_ib3hJk",
     "rich_text_cHBQnL",
-    "rich_text_ez8a8K",
     "image_with_text_wGc4a6",
     "rich_text_txbbWd",
     "image_with_text_NDrPaV",
