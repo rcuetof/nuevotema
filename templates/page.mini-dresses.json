@@ -17,15 +17,6 @@
         "padding_bottom": 0
       }
     },
-    "custom_liquid_RBWxb9": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-l\">SHOW ME COLLECTION<\/a>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "rich_text_PnQgAL": {
       "type": "rich-text",
       "blocks": {
@@ -46,6 +37,15 @@
         "full_width": true,
         "padding_top": 8,
         "padding_bottom": 8
+      }
+    },
+    "custom_liquid_RBWxb9": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-l\">SHOW ME COLLECTION<\/a>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "image_with_text_KcgPPe": {
@@ -91,6 +91,50 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "featured_product_jeQNn9": {
+      "type": "featured-product",
+      "blocks": {
+        "text_WXrGAH": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_B8mXyJ": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "buy_buttons_b8WKNt": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        }
+      },
+      "block_order": [
+        "text_WXrGAH",
+        "title_B8mXyJ",
+        "buy_buttons_b8WKNt"
+      ],
+      "settings": {
+        "product": "spliced-lace-cold-shoulder-mini-dress",
+        "color_scheme": "",
+        "secondary_background": true,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -151,62 +195,6 @@
         "padding_bottom": 8
       }
     },
-    "custom_liquid_LYH4tB": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-l\">SHOW ME COLLECTION<\/a>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_fWEdCb": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_JX4PBz": {
-          "type": "heading",
-          "settings": {
-            "heading": "Maxi dresses",
-            "heading_size": "h2"
-          }
-        },
-        "text_3pwQDX": {
-          "type": "text",
-          "settings": {
-            "text": "<p>In the wide range of dresses for women Maxi dresses are true statement pieces in the world of fashion, they are diversified through styles, cuts and colors, adapting to a variety of occasions.<\/p><p>In style, bohemian-style maxi dresses are characterized by floral prints, airy fabrics and asymmetrical cuts. Earth tones such as ocher, moss green and terracotta define this relaxed and bohemian aesthetic.<\/p><p>The minimalist elegance in maxi dresses is reflected in straight-cut maxi dresses, without excessive decorations, in neutral colors such as white, black, gray and nude. The simplicity highlights the versatility of the garment, perfect for any occasion.<\/p><p>Vintage maxi dresses adopt high waists, pleated skirts and puffed sleeves. Colors like deep red, emerald green and navy blue add sophistication and nostalgia.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_QDJiDY": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOW ME MORE",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_JX4PBz",
-        "text_3pwQDX",
-        "button_QDJiDY"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/maxisalmon.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "ambient",
-        "mobile_content_alignment": "left",
-        "padding_top": 8,
-        "padding_bottom": 8
-      }
-    },
     "rich_text_WmTFCF": {
       "type": "rich-text",
       "blocks": {
@@ -255,13 +243,12 @@
   "order": [
     "main",
     "custom_liquid_nhJyWE",
-    "custom_liquid_RBWxb9",
     "rich_text_PnQgAL",
+    "custom_liquid_RBWxb9",
     "image_with_text_KcgPPe",
+    "featured_product_jeQNn9",
     "custom_liquid_AyctFE",
     "image_with_text_BwW4Yt",
-    "custom_liquid_LYH4tB",
-    "image_with_text_fWEdCb",
     "rich_text_WmTFCF",
     "rich_text_cHBQnL"
   ]
