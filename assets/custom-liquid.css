@@ -412,3 +412,20 @@ position: relative;
 .pink-produc{border: 10px solid #cda6ec; border-bottom: 50px solid #cda6ec;}
 .white-produc{border: 10px solid #ffffff; border-bottom: 50px solid #ffffff;}
 /******COLOR-PRODUCTO******************/
+
+.content-separator {
+    position: relative;
+    width: 100%;
+    height: 2px;
+    background-color: #ccc;
+    margin: 20px 0;
+  }
+
+  .heart-svg {
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 20px;
+    fill: black;
+  }
