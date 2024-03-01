@@ -24,7 +24,7 @@
   margin-bottom: 0;
   border: 0.1rem solid rgba(var(--color-foreground), 0.08);
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
-  background-color: rgba(228, 219, 226, 0.52);
+  background-color: rgb(255, 255, 255);
   border-radius: 5px;
 }
 
