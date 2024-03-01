@@ -2,7 +2,7 @@
   width: 100%;
   margin: 0;
   padding-bottom: 0;
-  background-color: black;
+
 }
 .featured-product .product-media-container {
   margin-bottom: var(--media-shadow-vertical-offset);
@@ -28,6 +28,7 @@
 
 .background-secondary .featured-product {
   padding: 2.5rem;
+  background-color: black;
 }
 
 .featured-product .share-button:nth-last-child(2) {
