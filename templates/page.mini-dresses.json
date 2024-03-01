@@ -398,6 +398,15 @@
         "padding_bottom": 8
       }
     },
+    "custom_liquid_33dTVK": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"producto-container\">\n    <div class=\"producto\" style=\"background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0643\/4789\/8056\/products\/cc91554813d04888881636373a50a57a-Min.jpg.jpg');border: 10px solid #ca4a4a; border-bottom: 50px solid #ca4a4a; \">\n        <a href=\"https:\/\/www.violettarc.com\/products\/glitter-mesh-off-shoulder-ruched-mini-dress\" title=\"Glitter Mesh Off-Shoulder Ruched Mini Dress\">\n        <div class=\"shop\">&nbsp;<\/div>\n        <p>Glitter Mesh Off-Shoulder Ruched Mini Dress<\/p>\n        <div class=\"texto-flotante\" style=\"background-color: #ca4a4a;\">View Dress<\/div>\n        <\/a>\n    <\/div>\n    <div class=\"producto\" style=\"background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0643\/4789\/8056\/products\/5ad9eac4d751429cb18a8efa13931a4d-Min.jpg');border: 10px solid #ca4a4a; border-bottom: 50px solid #ca4a4a; \">\n        <a href=\"https:\/\/www.violettarc.com\/products\/notched-puff-sleeve-shift-dress\" title=\"Sequin Lace-Up Spaghetti Strap Mini Dress\">\n        <div class=\"shop\">&nbsp;<\/div>\n        <p>Notched Puff Sleeve Shift Dress<\/p>\n        <div class=\"texto-flotante\" style=\"background-color: #ca4a4a;\">View Dress<\/div>\n        <\/a>\n    <\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "collapsible_content_hg4kQB": {
       "type": "collapsible-content",
       "blocks": {
@@ -793,6 +802,7 @@
     "image_with_text_wGc4a6",
     "rich_text_txbbWd",
     "image_with_text_NDrPaV",
+    "custom_liquid_33dTVK",
     "collapsible_content_hg4kQB",
     "rich_text_9FkhjN",
     "image_with_text_xFUGrb",
