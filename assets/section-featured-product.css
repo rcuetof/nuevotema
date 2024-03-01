@@ -28,8 +28,7 @@
 
 .background-secondary .featured-product {
   padding: 2.5rem;
-  width: 33%;
-}
+  }
 
 .featured-product .share-button:nth-last-child(2) {
   display: inline-flex;
