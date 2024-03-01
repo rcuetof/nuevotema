@@ -187,9 +187,8 @@ position: relative;
         font-size: 80px;
         color: white;
         text-align: left;
-        top: 54%;
+        top: 15%;
         left: 48%;
-        
         transform: translate(-50%, -50%);
       }
       p{
@@ -197,8 +196,8 @@ position: relative;
         font-size: 18px;
         color:black;
         text-align: left;
-        top: 89%;
-        left: 33%;
+        top: 88%;
+        left: 15%;
         transform: translate(-50%, -50%);
         
       }
