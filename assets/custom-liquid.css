@@ -189,7 +189,6 @@ position: relative;
         text-align: left;
         top: 24%;
         left: 15%;
-        transform: translate(-50%, -50%);
       }
       p{
         position: absolute;
@@ -198,8 +197,6 @@ position: relative;
         text-align: left;
         top: 89%;
         left: 15%;
-        transform: translate(-50%, -50%);
-        
       }
     .position-boton
     {
