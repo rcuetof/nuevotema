@@ -186,8 +186,10 @@ position: relative;
         font-size: 80px;
         color: white;
         text-align: left;
-        top: 50%;
+        top: 54%;
         left: 40%;
+        margin-left: -20%;
+        margin-right: -20%;
         transform: translate(-50%, -50%);
       }
       p{
