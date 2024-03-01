@@ -95,46 +95,11 @@
         "padding_bottom": 8
       }
     },
-    "featured_product_jeQNn9": {
-      "type": "featured-product",
-      "blocks": {
-        "text_WXrGAH": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_B8mXyJ": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "buy_buttons_b8WKNt": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        }
-      },
-      "block_order": [
-        "text_WXrGAH",
-        "title_B8mXyJ",
-        "buy_buttons_b8WKNt"
-      ],
+    "custom_liquid_b6XPNU": {
+      "type": "custom-liquid",
       "settings": {
-        "product": "spliced-lace-cold-shoulder-mini-dress",
+        "custom_liquid": "<div class=\"producto-container\">\n    <div class=\"producto\">\n        <a href=\"https:\/\/www.violettarc.com\/products\/spliced-lace-cold-shoulder-mini-dress\" title=\"Featured Black Mini Dresses\">\n            <img src=\"https:\/\/www.violettarc.com\/cdn\/shop\/products\/aebf039ac1d24117a48cbc4da3eca427-Min.jpg\">\n        <div class=\"shop\"> <\/div>\n        <p>Featured Black Mini Dresses<\/p>\n        <div class=\"texto-flotante\">View Dress<\/div>\n        <\/a>\n    <\/div>\n    <div class=\"producto\">\n        <a href=\"https:\/\/www.violettarc.com\/products\/sequin-lace-up-spaghetti-strap-mini-dress\" title=\"Sequin Lace-Up Spaghetti Strap Mini Dress \">\n            <img src=\"https:\/\/www.violettarc.com\/cdn\/shop\/products\/48c10d37f472402f82cfdffcfb821454-Min.jpg\">\n        <div class=\"shop\"> <\/div>\n        <p>Sequin Lace-Up Spaghetti Strap Mini Dress<\/p>\n        <div class=\"texto-flotante\">View-Dress<\/div>\n        <\/a>\n    <\/div>\n<\/div>",
         "color_scheme": "",
-        "secondary_background": true,
-        "media_size": "small",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "hover",
-        "hide_variants": false,
-        "enable_video_looping": false,
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -246,7 +211,7 @@
     "rich_text_PnQgAL",
     "custom_liquid_RBWxb9",
     "image_with_text_KcgPPe",
-    "featured_product_jeQNn9",
+    "custom_liquid_b6XPNU",
     "custom_liquid_AyctFE",
     "image_with_text_BwW4Yt",
     "rich_text_WmTFCF",
