@@ -184,10 +184,10 @@
       },
       "scheme-5": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#fff",
           "background_gradient": "",
           "text": "#4a2e69",
-          "button": "#4a2e69",
+          "button": "#fff",
           "button_label": "#4a2e69",
           "secondary_button_label": "#4a2e69",
           "shadow": "#4a2e69"
@@ -206,13 +206,13 @@
       },
       "scheme-3949eb00-512a-4e21-8568-06fe5434d288": {
         "settings": {
-          "background": "#fff",
+          "background": "#ffffff",
           "background_gradient": "",
           "text": "#4a2e69",
           "button": "#4a2e69",
           "button_label": "#ffffff",
-          "secondary_button_label": "#fff",
-          "shadow": "#fff"
+          "secondary_button_label": "#ffffff",
+          "shadow": "#ffffff"
         }
       },
       "scheme-4054dc19-55b8-44b3-b1d2-8ce3c825f814": {
