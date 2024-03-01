@@ -110,7 +110,7 @@
         "button_JcLXre": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Read More",
             "button_link": "shopify:\/\/pages\/mini-dresses2",
             "button_style_secondary": true
           }
