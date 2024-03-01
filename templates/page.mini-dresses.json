@@ -497,7 +497,7 @@
         "text_Q8gTmA": {
           "type": "text",
           "settings": {
-            "text": "<p>These additional questions and answers explore more facets of red mini dress styles, emphasizing originality, feminine playfulness, avant-garde elegance, visual surprises, and sophistication in fashion.<br\/><br\/>Creating a good outfit with a red mini dress can be a striking and elegant option. Here are some tips to achieve a stunning look.<br\/><\/p><p>Opt for a red mini dress with a cut that flatters your body type.<\/p><p> You can choose between flared red mini dresses, or with details that highlight your best attributes.<br\/>Select accessories that complement the red without taking away its prominence. Jewelry in silver, gold or neutral tones can be a wise choice. Avoid excess accessories to maintain elegance.<br\/>Choose shoes that coordinate with the dress. Neutral tones like black or nude are safe options, but you can also opt for shoes that add a touch of contrast brightness.<br\/><\/p>"
+            "text": "<p>These additional questions and answers explore more facets of red mini dress styles, emphasizing originality, feminine playfulness, avant-garde elegance, visual surprises, and sophistication in fashion. <\/p><p>Creating a good outfit with a red mini dress can be a striking and elegant option. Here are some tips to achieve a stunning look.<\/p><p>Opt for a red mini dress with a cut that flatters your body type.<\/p><p>You can choose between flared red mini dresses, or with details that highlight your best attributes.<\/p><p>Select accessories that complement the red without taking away its prominence. Jewelry in silver, gold or neutral tones can be a wise choice. Avoid excess accessories to maintain elegance.<\/p><p>Choose shoes that coordinate with the dress. Neutral tones like black or nude are safe options, but you can also opt for shoes that add a touch of contrast brightness.<br\/><\/p>"
           }
         }
       },
@@ -509,6 +509,54 @@
         "content_alignment": "left",
         "color_scheme": "",
         "full_width": false,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "image_with_text_xFUGrb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_baebCP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mini White Dresses Collection",
+            "heading_size": "h2"
+          }
+        },
+        "text_b6Rdg8": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Why choose a white mini dress for prom instead of other colors?<\/strong><br\/>White symbolizes purity and celebration, making a white mini dress an elegant and timeless choice to stand out at prom. Another excellent thing can be a beautiful black dress for prom. <\/p><p><strong>What are some popular styles of mini white prom dresses?<\/strong><br\/>Styles can range from tight white mini dresses to tight white mini dresses to looser options with details like white mini dresses with lace, embroidery or appliqués that add a special touch.<\/p><p><strong>How can a Boho Chic-style white mini dress be personalized with accessories to create a unique look?<\/strong><\/p><p> The versatility of Boho Chic style allows for the incorporation of accessories like long necklaces, bracelets, and tasseled sandals for a unique and personal touch.<br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_gfeBqC": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "SHOW ME MORE",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_baebCP",
+        "text_b6Rdg8",
+        "button_gfeBqC"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/miniwhitedresses.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -533,6 +581,7 @@
     "rich_text_txbbWd",
     "image_with_text_NDrPaV",
     "collapsible_content_hg4kQB",
-    "rich_text_9FkhjN"
+    "rich_text_9FkhjN",
+    "image_with_text_xFUGrb"
   ]
 }
