@@ -38,7 +38,16 @@
           "settings": {
             "heading": "Privacy Policy",
             "icon": "heart",
-            "content": "<p>The types of personal information we obtain about you depends on how you interact with our Site and use our Services. When we use the term \"personal information\", we are referring to information that identifies, relates to, describes or can be associated with you. The following sections describe the categories and specific types of personal information we collect.<\/p><p>Information that you directly submit to us through our Services may include:<\/p><p><strong>Basic contact details<\/strong> including your name, address, phone number, email.<\/p><p><strong>Order information<\/strong> including your name, billing address, shipping address, payment confirmation, email address, phone number.<\/p><p><strong>Account information<\/strong> including your username, password, security questions.<\/p><p><strong>Shopping information<\/strong> including the items you view, put in your cart or add to your wishlist.<\/p><p><strong>Customer support information<\/strong> including the information you choose to include in communications with us, for example, when sending a message through the Services.<\/p>",
+            "content": "<p>The types of personal information we obtain about you depends on how you interact with our Site and use our Services. When we use the term \"personal information\", we are referring to information that identifies, relates to, describes or can be associated with you. The following sections describe the categories and specific types of personal information we collect.<\/p><p>Information that you directly submit to us through our Services may include:<\/p><p><strong>Basic contact details<\/strong> including your name, address, phone number, email.<\/p><p><strong>Order information<\/strong> including your name, shipping address, payment confirmation, email address, phone number.<\/p><p><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_gM9zEK": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Shipping Policy",
+            "icon": "truck",
+            "content": "<p>Our shipping time is 10 to 15 days, including weekends and holidays, taking into account 2 days in advance in which the order is prepared and shipped. If you have any questions about shipping methods or shipping times, write to us at our email address violettarc @gmail.com<\/p>",
             "page": ""
           }
         },
@@ -48,15 +57,6 @@
             "heading": "Refund Policy",
             "icon": "return",
             "content": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return. <br\/><br\/>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase. <br\/><br\/>To start a return, you can contact us at <a href=\"mailto:violettarccompany@gmail.com\">violettarccompany@gmail.com<\/a>.   We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method within 10 business days. Please remember it can take some time for your bank or credit card company to process and post the refund too. <br\/>If more than 15 business days have passed since we’ve approved your return, please contact us at    violettarccompany@gmail.com.<\/p><p><\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_tab_gM9zEK": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "",
             "page": ""
           }
         },
@@ -85,8 +85,8 @@
         "quantity_selector",
         "variant_picker",
         "collapsible_tab_nhmY6j",
-        "collapsible_tab_QTe7GC",
         "collapsible_tab_gM9zEK",
+        "collapsible_tab_QTe7GC",
         "buy_buttons",
         "description",
         "rating_F8B4bL"
