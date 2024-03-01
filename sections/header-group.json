@@ -28,6 +28,7 @@
     },
     "header": {
       "type": "header",
+      "disabled": true,
       "custom_css": [
         ".a {text-decoration: none;}"
       ],
