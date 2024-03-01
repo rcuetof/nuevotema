@@ -47,8 +47,6 @@
 
 .accordion details[open] > summary .icon-caret {
   transform: rotate(180deg);
-  background-color: rgba(75, 203, 64, 0.349);
-  border-radius: 5px;
 }
 
 .accordion__content {
