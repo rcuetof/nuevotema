@@ -431,38 +431,22 @@ position: relative;
 .pink-produc{border: 10px solid #cda6ec; border-bottom: 50px solid #cda6ec;}
 .white-produc{border: 10px solid #ffffff; border-bottom: 50px solid #ffffff;}
 /******COLOR-PRODUCTO******************/
-
 .separator {
-position: relative;
-width: 100%;
-max-width: 400px; /* Ajusta el ancho según sea necesario */
-align-items: center;
-justify-content: center;
-height: 100vh;
-}
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 2px;
+    background-color: #000;
+    transform: translateY(-50%);
+    z-index: 1;
+  }
 
-.heart {
-position: absolute;
-top: 50%;
-left: 50%;
-transform: translate(-50%, -50%);
-fill: black; /* Color del corazón */
-}
-
-.left-dot-line,
-.right-dot-line {
-position: absolute;
-top: 50%;
-height: 2px; /* Grosor de la línea de puntos */
-width: calc(50% - 20px); /* Ajusta la longitud de la línea según sea necesario */
-background: black; /* Color de la línea de puntos */
-}
-
-.left-dot-line {
-left: 0;
-}
-
-.right-dot-line {
-right: 0;
-}
-
+  .heart {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
