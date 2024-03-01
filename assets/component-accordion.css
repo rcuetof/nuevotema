@@ -24,7 +24,7 @@
   margin-bottom: 0;
   border: 0.1rem solid rgba(var(--color-foreground), 0.08);
   border-bottom: 0.1rem solid rgba(var(--color-foreground), 0.08);
-  background-color: rgba(203, 64, 177, 0.242);
+  background-color: rgba(228, 219, 226, 0.52);
   border-radius: 5px;
 }
 
@@ -54,8 +54,8 @@
   word-break: break-word;
   overflow-x: auto;
   padding: 0 0.6rem;
-  background-color: rgba(75, 203, 64, 0.349);
-  border-radius: 5px;
+  background-color: rgba(107, 102, 106, 0.242);
+  border-radius: 8px;
 }
 
 .accordion__content img {
