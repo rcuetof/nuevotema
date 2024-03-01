@@ -54,14 +54,14 @@
         "heading_tEbwAi": {
           "type": "heading",
           "settings": {
-            "heading": "Mini dresses",
+            "heading": "Mini Black DressesCollection",
             "heading_size": "h2"
           }
         },
         "text_dpbGqD": {
           "type": "text",
           "settings": {
-            "text": "<p>Offer a diverse range of colors and styles. Red mini dresses embody boldness and elegance, red tube mini dresses are ideal for formal events. Electric blue mini dresses exude vitality, while mini dresses in soft tones such as the classic white mini dress in A-line models transmit sophistication and freshness, adapting to relaxed occasions. The floral and geometric mini dresses add originality and style and are ideal for the beach and the spring season.<\/p><p>For a romantic touch, mini dresses with ruffles and lace highlight femininity with elegance. To express fashion-forward fashion, asymmetrical cuts on mini dresses and statement sleeves offer modern style. The versatility of mini dresses is reflected in their ability to combine with various footwear, from high winter boots to summer sandals or sneakers for a casual look.<\/p>",
+            "text": "<p>The black mini dress, also known as the \"LBD\" Little Black<br\/>Dress, has been a symbol of sophistication since Coco Chanel popularized the<br\/>concept in the 1920s. Its simple design and flattering cut have made this dress<br\/>a foolproof choice for a variety of events.<\/p>",
             "text_style": "body"
           }
         },
@@ -81,7 +81,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/minibdressesposter.png",
-        "height": "small",
+        "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -89,7 +89,7 @@
         "content_layout": "no-overlap",
         "section_color_scheme": "",
         "color_scheme": "",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 8,
         "padding_bottom": 8
