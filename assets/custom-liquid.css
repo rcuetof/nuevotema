@@ -265,3 +265,128 @@ position: relative;
      }
     }
 
+/* Estilo para el contenedor de bloques de productos */
+.producto-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+       
+    }
+    
+    /* Estilo para cada bloque de producto */
+    .producto {
+    position: relative;
+    width: 48%; /* Ajusta el ancho según tus necesidades */
+    margin-bottom: 20px;
+    padding: 30px;
+    border-radius: 3px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    transition: transform 0.3s ease-in-out; /* Transición suave al pasar el ratón */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+    
+    /* Efecto al pasar el ratón sobre cada bloque de producto */
+    .producto:hover {
+    transform: scale(1.05); /* Escalar un poco al pasar el ratón */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada */
+    .shop
+    {
+     display: none;
+    }
+    }
+    
+    /* Estilo para el contenido dentro de cada bloque de producto */
+    .producto h3 {
+    font-size: 16px;
+    color: #333; /* Color del título */
+    margin-bottom: 10px;
+    font-family: Alegreya;
+    }
+    
+    .producto p {
+    color: #ffffff;
+    font-family: Alegreya;
+    font-weight: 900;
+    position: absolute;
+    text-align: center;
+    }
+    /* Estilo para el texto flotante */
+    .texto-flotante {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    font-size: 22px;
+    color: #FFFFFF;
+    font-family: Alegreya;
+    font-weight: 900;
+    background-color: #DBAAFC;
+    text-align: center;
+    }
+    .producto:hover .texto-flotante {
+    opacity: 0.7;
+    }
+
+/*BOTRONCOMPRA*/
+.shop {
+    position: absolute;
+    background-repeat: no-repeat; 
+    width: 100px;
+    height: 40px;
+    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/shop.gif?v=1707964091');
+    background-size: contain;
+    animation: rebote 3s ease-in-out 1s, desaparecer 1s 4s forwards, aparecer 1s 9s forwards, repetir 1s 10s infinite;
+    transition: all 0.9s;
+    top: 3%;
+    left: 3%;
+  }
+/* Animación de rebote */
+@keyframes rebote {
+    0% {
+        transform: translate(0, 0);
+    }
+    50% {
+        transform: translate(65%, 470%);
+    }
+    100% {
+        transform: translate(0, 0);
+    }
+}
+/* Animación para desaparecer */
+@keyframes desaparecer {
+    0% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+/* Animación para aparecer */
+@keyframes aparecer {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+/* Animación para repetir infinitamente */
+@keyframes repetir {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+/*BOTRONCOMPRA*/
