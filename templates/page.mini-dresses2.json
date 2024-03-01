@@ -139,99 +139,51 @@
         "padding_bottom": 8
       }
     },
-    "image_with_text_NDrPaV": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_GYxUyj": {
-          "type": "heading",
-          "settings": {
-            "heading": "Mini Red DressesCollection",
-            "heading_size": "h2"
-          }
-        },
-        "text_eWJMVA": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Discover the complete collection of red mini dresses.<br\/><br\/><strong>Why wear a red dress for weddings?<\/strong><br\/>Red is a color associated with passion, love and energy. By choosing a red dress for a wedding, you can express your joy and enthusiasm for the couple's union.<br\/><br\/><strong>Why wear a red mini dress with sleeves?<\/strong><br\/>The sleeves add a touch of elegance and sophistication to the red mini dress. This detail can make the dress more appropriate for formal events and special occasions.<br\/>The sleeves allow for a variety of styles, mini red dress with long sleeve, fitted sleeves to looser, puffed sleeves. Red mini dresses with sleeves have been a fashion trend in various seasons. Opting for this option shows an understanding of current trends and a modern approach towards fashion.<br\/><\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_ygXMce": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "SHOW ME MORE",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_GYxUyj",
-        "text_eWJMVA",
-        "button_ygXMce"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/reddresses.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 8,
-        "padding_bottom": 8
-      }
-    },
     "collapsible_content_hg4kQB": {
       "type": "collapsible-content",
       "blocks": {
         "collapsible_row_MiKwVJ": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How does the asymmetrical style in a red mini dress accentuate originality in fashion?",
+            "heading": "How to choose the size and style of floral prints in a mini dress to flatter different body types?",
             "icon": "heart",
-            "row_content": "<p>The asymmetrical design adds a unique touch to the red mini dress, highlighting originality and creating a distinctive look.<\/p>",
+            "row_content": "<p>Opting for smaller prints for petite figures and larger prints for taller figures can enhance proportion and flatter the silhouette.<\/p>",
             "page": ""
           }
         },
         "collapsible_row_qgiDxQ": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What is the key role of ruffle details in a red mini dress to achieve a playful and feminine effect?",
+            "heading": "What are the best accessories to complement a floral mini dress without overwhelming the ensemble?",
             "icon": "heart",
-            "row_content": "<p>Ruffles bring a playful and feminine touch to the red mini dress, creating movement and adding dynamism to the ensemble.<\/p>",
+            "row_content": "<p>Choosing simple and neutral accessories, such as delicate jewelry and elegant sandals, helps highlight the floral print without overshadowing it.<\/p>",
             "page": ""
           }
         },
         "collapsible_row_ceMnVx": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "On what occasions can the high-neck style in a red mini dress be an elegant and avant-garde choice?",
+            "heading": "In what occasions can the style of a floral mini dress adapt to both casual events and more formal gatherings?",
             "icon": "heart",
-            "row_content": "<p>The high-neck style in a red mini dress is elegant and avant-garde, making it an ideal choice for formal events and stylish night outings.<\/p>",
+            "row_content": "<p>The versatility of floral mini dresses makes them suitable for informal events with sandals or sneakers, as well as for more formal occasions with heels and stylish accessories.<\/p>",
             "page": ""
           }
         },
         "collapsible_row_wneneJ": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How can the backless detail in a red mini dress transform the appearance surprisingly?",
+            "heading": "How to incorporate layers and textures into a floral mini dress to create a more dynamic look suitable for different seasons?",
             "icon": "heart",
-            "row_content": "<p>A backless feature adds a surprising element to the red mini dress, generating visual interest and highlighting the sensuality of the back.<\/p>",
+            "row_content": "<p>Adding a denim jacket for a casual touch in spring or tights and ankle boots for fall can transform the floral mini dress to suit various seasons.<\/p>",
             "page": ""
           }
         },
         "collapsible_row_yq9NPm": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Why can the cape style in a red mini dress be a sophisticated choice for more formal events?",
+            "heading": "What is the importance of considering the length of the floral mini dress based on the event and occasion?",
             "icon": "heart",
-            "row_content": "<p>The cape design adds a layer of sophistication to the red mini dress, making it an elegant and suitable choice for formal occasions.<\/p>",
+            "row_content": "<p>The length of the floral dress is crucial; shorter styles are ideal for casual events, while longer and more elegant options are suitable for formal and evening occasions.<\/p>",
             "page": ""
           }
         }
@@ -245,40 +197,18 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Discoverthe complete collection of red mini dresses.",
+        "heading": "Exploring Floral Mini Dresses: Valuable Information and Tips",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "section",
         "color_scheme": "",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
-        "image": "shopify:\/\/shop_images\/reddressescocktel.png",
+        "image": "shopify:\/\/shop_images\/floralminidress.png",
         "image_ratio": "adapt",
-        "desktop_layout": "image_second",
+        "desktop_layout": "image_first",
         "padding_top": 12,
         "padding_bottom": 12
-      }
-    },
-    "rich_text_9FkhjN": {
-      "type": "rich-text",
-      "blocks": {
-        "text_Q8gTmA": {
-          "type": "text",
-          "settings": {
-            "text": "<p>These additional questions and answers explore more facets of red mini dress styles, emphasizing originality, feminine playfulness, avant-garde elegance, visual surprises, and sophistication in fashion. <\/p><p>Creating a good outfit with a red mini dress can be a striking and elegant option. Here are some tips to achieve a stunning look.<\/p><p>Opt for a red mini dress with a cut that flatters your body type.<\/p><p>You can choose between flared red mini dresses, or with details that highlight your best attributes.<\/p><p>Select accessories that complement the red without taking away its prominence. Jewelry in silver, gold or neutral tones can be a wise choice. Avoid excess accessories to maintain elegance.<\/p><p>Choose shoes that coordinate with the dress. Neutral tones like black or nude are safe options, but you can also opt for shoes that add a touch of contrast brightness.<br\/><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_Q8gTmA"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 8,
-        "padding_bottom": 8
       }
     },
     "image_with_text_xFUGrb": {
@@ -287,7 +217,7 @@
         "heading_baebCP": {
           "type": "heading",
           "settings": {
-            "heading": "Mini White Dresses Collection",
+            "heading": "Plus size mini dresses collection",
             "heading_size": "h2"
           }
         },
@@ -575,9 +505,7 @@
     "custom_liquid_b6XPNU",
     "custom_liquid_pECQA4",
     "rich_text_WmTFCF",
-    "image_with_text_NDrPaV",
     "collapsible_content_hg4kQB",
-    "rich_text_9FkhjN",
     "image_with_text_xFUGrb",
     "collapsible_content_TwV6P8",
     "rich_text_DXX8Uk",
