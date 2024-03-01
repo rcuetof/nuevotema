@@ -26,6 +26,28 @@
         "padding_bottom": 0
       }
     },
+    "rich_text_PnQgAL": {
+      "type": "rich-text",
+      "blocks": {
+        "text_PGcCbF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dresses are expressions of style and personality, and choosing the right color and style can make all the difference at any event.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_PGcCbF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
     "image_with_text_KcgPPe": {
       "type": "image-with-text",
       "blocks": {
@@ -58,8 +80,8 @@
         "button_UqrxUW"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/minipink.png",
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/minibdressesposter.png",
+        "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
@@ -234,6 +256,7 @@
     "main",
     "custom_liquid_nhJyWE",
     "custom_liquid_RBWxb9",
+    "rich_text_PnQgAL",
     "image_with_text_KcgPPe",
     "custom_liquid_AyctFE",
     "image_with_text_BwW4Yt",
