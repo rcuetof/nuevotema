@@ -87,6 +87,15 @@
         "padding_bottom": 8
       }
     },
+    "custom_liquid_wkE9qG": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<center>\n<div class=\"producto-container\">\n    <div class=\"producto\" style=\"background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0643\/4789\/8056\/products\/aebf039ac1d24117a48cbc4da3eca427-Min.jpg');border: 10px solid #000000; border-bottom: 50px solid #000000; \">\n        <a href=\"https:\/\/www.violettarc.com\/products\/spliced-lace-cold-shoulder-mini-dress\" title=\"Spliced Lace Cold-Shoulder Mini Dress\">\n        <div class=\"shop\">&nbsp;<\/div>\n        <p>Spliced Lace Cold-Shoulder Mini Dress<\/p>\n        <div class=\"texto-flotante\">View Dress<\/div>\n        <\/a>\n    <\/div>\n    <div class=\"producto\" style=\"background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0643\/4789\/8056\/products\/48c10d37f472402f82cfdffcfb821454-Min.jpg');border: 10px solid #000000; border-bottom: 50px solid #000000; \">\n        <a href=\"https:\/\/www.violettarc.com\/products\/sequin-lace-up-spaghetti-strap-mini-dress\" title=\"Sequin Lace-Up Spaghetti Strap Mini Dress\">\n        <div class=\"shop\">&nbsp;<\/div>\n        <p>Sequin Lace-Up Spaghetti Strap Mini Dress<\/p>\n        <div class=\"texto-flotante\">View Dress<\/div>\n        <\/a>\n    <\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_with_text_BwW4Yt": {
       "type": "image-with-text",
       "blocks": {
@@ -766,15 +775,6 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
-    },
-    "custom_liquid_wkE9qG": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<center>\n<div class=\"producto-container\">\n    <div class=\"producto\" style=\"background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0643\/4789\/8056\/products\/aebf039ac1d24117a48cbc4da3eca427-Min.jpg');border: 10px solid #000000; border-bottom: 50px solid #000000; \">\n        <a href=\"https:\/\/www.violettarc.com\/products\/spliced-lace-cold-shoulder-mini-dress\" title=\"Spliced Lace Cold-Shoulder Mini Dress\">\n        <div class=\"shop\">&nbsp;<\/div>\n        <p>Spliced Lace Cold-Shoulder Mini Dress<\/p>\n        <div class=\"texto-flotante\">View Dress<\/div>\n        <\/a>\n    <\/div>\n    <div class=\"producto\" style=\"background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0643\/4789\/8056\/products\/48c10d37f472402f82cfdffcfb821454-Min.jpg');border: 10px solid #000000; border-bottom: 50px solid #000000; \">\n        <a href=\"https:\/\/www.violettarc.com\/products\/sequin-lace-up-spaghetti-strap-mini-dress\" title=\"Sequin Lace-Up Spaghetti Strap Mini Dress\">\n        <div class=\"shop\">&nbsp;<\/div>\n        <p>Sequin Lace-Up Spaghetti Strap Mini Dress<\/p>\n        <div class=\"texto-flotante\">View Dress<\/div>\n        <\/a>\n    <\/div>\n<\/div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -782,6 +782,7 @@
     "custom_liquid_nhJyWE",
     "rich_text_PnQgAL",
     "image_with_text_eiGpRE",
+    "custom_liquid_wkE9qG",
     "image_with_text_BwW4Yt",
     "image_with_text_KcgPPe",
     "image_banner_kh9KKH",
@@ -799,7 +800,6 @@
     "rich_text_DXX8Uk",
     "image_with_text_XCQ6fy",
     "collapsible_content_dbyr9p",
-    "rich_text_7HGVXt",
-    "custom_liquid_wkE9qG"
+    "rich_text_7HGVXt"
   ]
 }
