@@ -419,22 +419,6 @@
         "padding_bottom": 8
       }
     },
-    "image_banner_UqK9VW": {
-      "type": "image-banner",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/reddressescocktel.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
-      }
-    },
     "collapsible_content_hg4kQB": {
       "type": "collapsible-content",
       "blocks": {
@@ -500,10 +484,11 @@
         "color_scheme": "",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/reddressescocktel.png",
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "rich_text_9FkhjN": {
@@ -512,7 +497,7 @@
         "text_Q8gTmA": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>These additional questions and answers explore more facets of red mini dress styles, emphasizing originality, feminine playfulness, avant-garde elegance, visual surprises, and sophistication in fashion.<br\/><br\/>Creating a good outfit with a red mini dress can be a striking and elegant option. Here are some tips to achieve a stunning look.<br\/><\/p><p>Opt for a red mini dress with a cut that flatters your body type.<\/p><p> You can choose between flared red mini dresses, or with details that highlight your best attributes.<br\/>Select accessories that complement the red without taking away its prominence. Jewelry in silver, gold or neutral tones can be a wise choice. Avoid excess accessories to maintain elegance.<br\/>Choose shoes that coordinate with the dress. Neutral tones like black or nude are safe options, but you can also opt for shoes that add a touch of contrast brightness.<br\/><\/p>"
           }
         }
       },
@@ -521,7 +506,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": false,
         "padding_top": 8,
@@ -547,7 +532,6 @@
     "image_with_text_wGc4a6",
     "rich_text_txbbWd",
     "image_with_text_NDrPaV",
-    "image_banner_UqK9VW",
     "collapsible_content_hg4kQB",
     "rich_text_9FkhjN"
   ]
