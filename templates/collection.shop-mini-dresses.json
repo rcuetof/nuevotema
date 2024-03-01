@@ -29,61 +29,15 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_xzAmC3": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_TqVi9C": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "text_xFEtCi": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_JcLXre": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_TqVi9C",
-        "text_xFEtCi",
-        "button_JcLXre"
-      ],
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collapsible_content_9jMVxh": {
       "type": "collapsible-content",
       "blocks": {
         "collapsible_row_MgJGKM": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "heading": "Privacy Policy",
+            "icon": "heart",
+            "row_content": "<p>The types of personal information we obtain about you depends on how you interact with our Site and use our Services. When we use the term \"personal information\", we are referring to information that identifies, relates to, describes or can be associated with you. The following sections describe the categories and specific types of personal information we collect.<\/p><p>Information that you directly submit to us through our Services may include:<\/p><p><strong>Basic contact details<\/strong> including your name, address, phone number, email.<\/p><p><strong>Order information<\/strong> including your name, shipping address, payment confirmation, email address, phone number.<\/p><p>The information we collect is solely intended to provide an excellent shopping experience and to know to which address we send your order.<\/p>",
             "page": ""
           }
         },
@@ -135,12 +89,58 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_xzAmC3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TqVi9C": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_xFEtCi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_JcLXre": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_TqVi9C",
+        "text_xFEtCi",
+        "button_JcLXre"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "banner",
     "product-grid",
-    "image_with_text_xzAmC3",
-    "collapsible_content_9jMVxh"
+    "collapsible_content_9jMVxh",
+    "image_with_text_xzAmC3"
   ]
 }
