@@ -389,4 +389,20 @@ position: relative;
         opacity: 1;
     }
 }
+@media screen and (min-width: 769px) { /*COMPUTADORA*/
+    .producto {
+    height: 600px;
+    }
+}
+@media screen and (max-width: 768px) { /*MOVIL*/
+    .producto {
+    height: 300px;
+    }
+}
+
 /*BOTRONCOMPRA*/
+/******COLOR-PRODUCTO*******************/
+.black-produc{border: 10px solid #000000; border-bottom: 50px solid #000000;}
+.pink-produc{border: 10px solid #cda6ec; border-bottom: 50px solid #cda6ec;}
+.white-produc{border: 10px solid #ffffff; border-bottom: 50px solid #ffffff;}
+/******COLOR-PRODUCTO******************/
