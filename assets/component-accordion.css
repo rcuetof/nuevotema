@@ -33,8 +33,7 @@
   min-height: 1.6rem;
   margin: 0;
   word-break: break-word;
-  background-color: rgba(75, 203, 64, 0.349);
-  border-radius: 5px;
+
 }
 
 .accordion .icon-accordion {
@@ -47,6 +46,8 @@
 
 .accordion details[open] > summary .icon-caret {
   transform: rotate(180deg);
+  background-color: rgba(75, 203, 64, 0.349);
+  border-radius: 5px;
 }
 
 .accordion__content {
@@ -54,6 +55,8 @@
   word-break: break-word;
   overflow-x: auto;
   padding: 0 0.6rem;
+  background-color: rgba(75, 203, 64, 0.349);
+  border-radius: 5px;
 }
 
 .accordion__content img {
