@@ -33,7 +33,7 @@
             "swatch_shape": "none"
           }
         },
-        "collapsible_tab_QTe7GC": {
+        "collapsible_tab_nhmY6j": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Collapsible row",
@@ -42,12 +42,12 @@
             "page": ""
           }
         },
-        "collapsible_tab_nhmY6j": {
+        "collapsible_tab_QTe7GC": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "",
+            "heading": "Refund Policy",
+            "icon": "return",
+            "content": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return. <br\/><br\/>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase. <br\/><br\/>To start a return, you can contact us at <a href=\"mailto:violettarccompany@gmail.com\">violettarccompany@gmail.com<\/a>.   We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method within 10 business days. Please remember it can take some time for your bank or credit card company to process and post the refund too. <br\/>If more than 15 business days have passed since we’ve approved your return, please contact us at    violettarccompany@gmail.com.<\/p><p><\/p>",
             "page": ""
           }
         },
@@ -72,12 +72,6 @@
           "settings": {
           }
         },
-        "share": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        },
         "rating_F8B4bL": {
           "type": "rating",
           "settings": {
@@ -90,12 +84,11 @@
         "inventory_LELef9",
         "quantity_selector",
         "variant_picker",
-        "collapsible_tab_QTe7GC",
         "collapsible_tab_nhmY6j",
+        "collapsible_tab_QTe7GC",
         "collapsible_tab_gM9zEK",
         "buy_buttons",
         "description",
-        "share",
         "rating_F8B4bL"
       ],
       "settings": {
