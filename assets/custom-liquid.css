@@ -183,6 +183,7 @@ position: relative;
         background-position: bottom;
         white-space: nowrap;            
     h1{
+        text-shadow: 2px 2px 4px #000000;
         position: absolute;
         font-size: 80px;
         color: white;
@@ -226,6 +227,7 @@ position: relative;
         height: 90vh;
         
         h1{
+            text-shadow: 2px 2px 4px #000000;
             position: absolute;
             font-size: 100px;
             color: white;
