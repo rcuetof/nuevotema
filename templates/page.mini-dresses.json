@@ -41,6 +41,7 @@
     },
     "custom_liquid_RBWxb9": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-l\">SHOW ME COLLECTION<\/a>",
         "color_scheme": "",
@@ -67,6 +68,7 @@
         },
         "button_Wxciw7": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "SHOW ME MORE",
             "button_link": "",
@@ -105,15 +107,6 @@
         "padding_bottom": 8
       }
     },
-    "custom_liquid_AyctFE": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-r\">SHOW ME COLLECTION<\/a>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "image_with_text_BwW4Yt": {
       "type": "image-with-text",
       "blocks": {
@@ -130,20 +123,11 @@
             "text": "<p>One of the wonders of the black mini dress is its ability to adapt to any season. In summer, it becomes the perfect choice for casual outings and cool nights. In winter, it can be combined with tights and ankle boots for a warmer and more elegant look. It is the quintessential transitional garment, defying seasonal restrictions with its timeless style.<\/p><p> During the day, it can be styled with casual sandals and a denim jacket for a relaxed and chic look. When night falls, chic heels and statement accessories instantly elevate the dress, making it the<br\/>perfect choice for a night out.<\/p><p>From Audrey Hepburn to modern fashion icons, the black mini dress has been adopted by influential women throughout the decades. His legacy endures,  transmitting a message of confidence and timeless style.<\/p><p><\/p>",
             "text_style": "body"
           }
-        },
-        "button_6tHdmP": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOW ME MORE",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_hdGjmh",
-        "text_eJW3AJ",
-        "button_6tHdmP"
+        "text_eJW3AJ"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/blackminidressescocktel.png",
@@ -161,15 +145,6 @@
         "padding_bottom": 8
       }
     },
-    "custom_liquid_PitLnm": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-l\">SHOW ME COLLECTION<\/a>",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "image_with_text_KcgPPe": {
       "type": "image-with-text",
       "blocks": {
@@ -183,12 +158,13 @@
         "text_dpbGqD": {
           "type": "text",
           "settings": {
-            "text": "<p>It's a style statement that has stood the test of time. Whether you want a casual look for the day or an elegant statement for the evening, this classic dress is the perfect choice. Embrace the simplicity and sophistication of the black mini dress, and discover how this timeless garment can transform your presence with a touch of mystery and charm. <\/p><p>At what events is it recommended to wear a black mini dress?<\/p><p>Dinners and Events A formal black mini dress is a classic and elegant choice. Pair it with high heels and statement accessories for a touch of sophistication.<\/p>",
+            "text": "<p>It's a style statement that has stood the test of time. Whether you want a casual look for the day or an elegant statement for the evening, this classic dress is the perfect choice. Embrace the simplicity and sophistication of the black mini dress, and discover how this timeless garment can transform your presence with a touch of mystery and charm. <br\/><br\/><strong>At what events is it recommended to wear a black mini dress?<\/strong><br\/><br\/>Dinners and Events A formal black mini dress is a classic and elegant choice. Pair it with high heels and statement accessories for a touch of sophistication.<br\/><br\/>A black mini dress for Cocktails and Parties, the LBD allows you to stand out effortlessly. You can play with different styles and accessories to adapt it to the atmosphere of the party.<br\/><\/p>",
             "text_style": "body"
           }
         },
         "button_UqrxUW": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "SHOW ME MORE",
             "button_link": "",
@@ -217,13 +193,87 @@
         "padding_bottom": 8
       }
     },
+    "custom_liquid_pECQA4": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-r\">SHOW ME COLLECTION<\/a>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_TExTdb": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wjpjre": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discoverthe complete collection of black mini dresses.",
+            "heading_size": "h2"
+          }
+        },
+        "text_WRcURQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>One of the wonders of the black mini dress is its ability to adapt to any season. In summer, it becomes the perfect choice for casual outings and cool nights. In winter, it can be combined with tights and ankle boots for a warmer and more elegant look. It is the quintessential transitional garment, defying seasonal restrictions with its timeless style.<\/p><p> During the day, it can be styled with casual sandals and a denim jacket for a relaxed and chic look. When night falls, chic heels and statement accessories instantly elevate the dress, making it the<br\/>perfect choice for a night out.<\/p><p>From Audrey Hepburn to modern fashion icons, the black mini dress has been adopted by influential women throughout the decades. His legacy endures,  transmitting a message of confidence and timeless style.<\/p><p><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_BthqjB": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "SHOW ME MORE",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wjpjre",
+        "text_WRcURQ",
+        "button_BthqjB"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/blackminidressescocktel.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "image_banner_kh9KKH": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/revista_casual.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "rich_text_WmTFCF": {
       "type": "rich-text",
       "blocks": {
         "text_RweJYc": {
           "type": "text",
           "settings": {
-            "text": "<p>The romanticism of floral dresses is expressed through floral prints in soft tones such as pastel pink, lavender and pale yellow. Feminine cuts, such as V-necklines and full skirts, enhance romantic delicacy.<\/p><p>For a nighttime and sensual aesthetic, body-hugging maxi dress designs, strategic slits and plunging necklines in dark colors such as black, navy blue and burgundy add a touch of mystery and elegance.<\/p>"
+            "text": "<p>Night Outs When you are looking for a modern and chic look for a night on the town, the casual black mini dress is the ideal choice.<br\/><br\/><strong>Informal Meetings<\/strong><br\/>Depending on the style and length, a floral mini dress or a black mini over size dress may be suitable for casual gatherings, outings with friends, or dates. Combine it with sneakers or ankle boots for a more relaxed touch.<br\/><\/p>"
           }
         }
       },
@@ -269,10 +319,11 @@
     "custom_liquid_RBWxb9",
     "image_with_text_eiGpRE",
     "custom_liquid_b6XPNU",
-    "custom_liquid_AyctFE",
     "image_with_text_BwW4Yt",
-    "custom_liquid_PitLnm",
     "image_with_text_KcgPPe",
+    "custom_liquid_pECQA4",
+    "image_with_text_TExTdb",
+    "image_banner_kh9KKH",
     "rich_text_WmTFCF",
     "rich_text_cHBQnL"
   ]
