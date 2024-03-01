@@ -6,12 +6,13 @@
 .featured-product .product-media-container {
   margin-bottom: var(--media-shadow-vertical-offset);
   max-width: 100%;
+  background-color: black;
 }
 
 .featured-product .product__media-item {
   padding-left: 0;
   width: 100%;
-  background-color: black;
+
 }
 
 .featured-product .product__media-item:not(:first-child) {
