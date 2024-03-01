@@ -349,20 +349,52 @@
         "padding_bottom": 8
       }
     },
-    "image_banner_Ag9UJA": {
-      "type": "image-banner",
+    "image_with_text_wGc4a6": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VAmDXg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dates and Romantic Evenings",
+            "heading_size": "h2"
+          }
+        },
+        "text_iaDKGD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A black mini dress with a v-neckline is a classic option for dates and romantic evenings. You can choose a style that highlights your features and makes you feel confident and attractive.<\/p><p>Work Dinners, Corporate Events, Informal Business MeetingsDepending on the nature of the event and the company culture, a well-selected black mini dress may be appropriate for work dinners or informal corporate events.<br\/><\/p><p>Remember to always keep the event's dress code in mind and adjust your choice of black mini dress accordingly. With its versatility and elegance, this classic garment can be your perfect companion for various occasions. Dress with confidence and make your style stand out at every event!<br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_UNjnAm": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "SHOW ME MORE",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_VAmDXg",
+        "text_iaDKGD",
+        "button_UNjnAm"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/miniblackdresses2.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": false
+        "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     }
   },
@@ -382,6 +414,6 @@
     "image_banner_ib3hJk",
     "rich_text_cHBQnL",
     "rich_text_ez8a8K",
-    "image_banner_Ag9UJA"
+    "image_with_text_wGc4a6"
   ]
 }
