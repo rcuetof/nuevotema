@@ -432,7 +432,7 @@ position: relative;
 .white-produc{border: 10px solid #ffffff; border-bottom: 50px solid #ffffff;}
 /******COLOR-PRODUCTO******************/
 .separator {
-    position: absolute;
+    position: static;
     top: 50%;
     left: 0;
     right: 0;
