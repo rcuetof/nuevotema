@@ -34,7 +34,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -203,54 +203,6 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_TExTdb": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_wjpjre": {
-          "type": "heading",
-          "settings": {
-            "heading": "Discoverthe complete collection of black mini dresses.",
-            "heading_size": "h2"
-          }
-        },
-        "text_WRcURQ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>One of the wonders of the black mini dress is its ability to adapt to any season. In summer, it becomes the perfect choice for casual outings and cool nights. In winter, it can be combined with tights and ankle boots for a warmer and more elegant look. It is the quintessential transitional garment, defying seasonal restrictions with its timeless style.<\/p><p> During the day, it can be styled with casual sandals and a denim jacket for a relaxed and chic look. When night falls, chic heels and statement accessories instantly elevate the dress, making it the<br\/>perfect choice for a night out.<\/p><p>From Audrey Hepburn to modern fashion icons, the black mini dress has been adopted by influential women throughout the decades. His legacy endures,  transmitting a message of confidence and timeless style.<\/p><p><\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_BthqjB": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "SHOW ME MORE",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_wjpjre",
-        "text_WRcURQ",
-        "button_BthqjB"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/blackminidressescocktel.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 8,
-        "padding_bottom": 8
-      }
-    },
     "image_banner_kh9KKH": {
       "type": "image-banner",
       "settings": {
@@ -284,7 +236,7 @@
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -322,7 +274,7 @@
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -344,7 +296,7 @@
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -414,7 +366,7 @@
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -432,7 +384,7 @@
         "text_eWJMVA": {
           "type": "text",
           "settings": {
-            "text": "<p>A black mini dress with a v-neckline is a classic option for dates and romantic evenings. You can choose a style that highlights your features and makes you feel confident and attractive.<\/p><p>Work Dinners, Corporate Events, Informal Business MeetingsDepending on the nature of the event and the company culture, a well-selected black mini dress may be appropriate for work dinners or informal corporate events.<br\/><\/p><p>Remember to always keep the event's dress code in mind and adjust your choice of black mini dress accordingly. With its versatility and elegance, this classic garment can be your perfect companion for various occasions. Dress with confidence and make your style stand out at every event!<br\/><\/p>",
+            "text": "<p>Discover the complete collection of red mini dresses.<br\/><br\/><strong>Why wear a red dress for weddings?<\/strong><br\/>Red is a color associated with passion, love and energy. By choosing a red dress for a wedding, you can express your joy and enthusiasm for the couple's union.<br\/><br\/><strong>Why wear a red mini dress with sleeves?<\/strong><br\/>The sleeves add a touch of elegance and sophistication to the red mini dress. This detail can make the dress more appropriate for formal events and special occasions.<br\/>The sleeves allow for a variety of styles, mini red dress with long sleeve, fitted sleeves to looser, puffed sleeves. Red mini dresses with sleeves have been a fashion trend in various seasons. Opting for this option shows an understanding of current trends and a modern approach towards fashion.<br\/><\/p>",
             "text_style": "body"
           }
         },
@@ -452,7 +404,7 @@
         "button_ygXMce"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/miniblackdresses2.png",
+        "image": "shopify:\/\/shop_images\/reddresses.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -467,13 +419,113 @@
         "padding_bottom": 8
       }
     },
-    "custom_liquid_86q74J": {
-      "type": "custom-liquid",
+    "image_banner_UqK9VW": {
+      "type": "image-banner",
       "settings": {
-        "custom_liquid": "",
+        "image": "shopify:\/\/shop_images\/reddressescocktel.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "collapsible_content_hg4kQB": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_MiKwVJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does the asymmetrical style in a red mini dress accentuate originality in fashion?",
+            "icon": "heart",
+            "row_content": "<p>The asymmetrical design adds a unique touch to the red mini dress, highlighting originality and creating a distinctive look.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qgiDxQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the key role of ruffle details in a red mini dress to achieve a playful and feminine effect?",
+            "icon": "heart",
+            "row_content": "<p>Ruffles bring a playful and feminine touch to the red mini dress, creating movement and adding dynamism to the ensemble.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ceMnVx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "On what occasions can the high-neck style in a red mini dress be an elegant and avant-garde choice?",
+            "icon": "heart",
+            "row_content": "<p>The high-neck style in a red mini dress is elegant and avant-garde, making it an ideal choice for formal events and stylish night outings.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wneneJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can the backless detail in a red mini dress transform the appearance surprisingly?",
+            "icon": "heart",
+            "row_content": "<p>A backless feature adds a surprising element to the red mini dress, generating visual interest and highlighting the sensuality of the back.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_yq9NPm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why can the cape style in a red mini dress be a sophisticated choice for more formal events?",
+            "icon": "heart",
+            "row_content": "<p>The cape design adds a layer of sophistication to the red mini dress, making it an elegant and suitable choice for formal occasions.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_MiKwVJ",
+        "collapsible_row_qgiDxQ",
+        "collapsible_row_ceMnVx",
+        "collapsible_row_wneneJ",
+        "collapsible_row_yq9NPm"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Discoverthe complete collection of red mini dresses.",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_9FkhjN": {
+      "type": "rich-text",
+      "blocks": {
+        "text_Q8gTmA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_Q8gTmA"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     }
   },
@@ -487,7 +539,6 @@
     "image_with_text_BwW4Yt",
     "image_with_text_KcgPPe",
     "custom_liquid_pECQA4",
-    "image_with_text_TExTdb",
     "image_banner_kh9KKH",
     "rich_text_WmTFCF",
     "image_banner_ib3hJk",
@@ -496,6 +547,8 @@
     "image_with_text_wGc4a6",
     "rich_text_txbbWd",
     "image_with_text_NDrPaV",
-    "custom_liquid_86q74J"
+    "image_banner_UqK9VW",
+    "collapsible_content_hg4kQB",
+    "rich_text_9FkhjN"
   ]
 }
