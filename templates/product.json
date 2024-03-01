@@ -60,13 +60,6 @@
             "page": ""
           }
         },
-        "popup_JqxzpY": {
-          "type": "popup",
-          "settings": {
-            "text": "Pop-up link text",
-            "page": "mini-dresses"
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -84,6 +77,11 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "rating_F8B4bL": {
+          "type": "rating",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -95,10 +93,10 @@
         "collapsible_tab_QTe7GC",
         "collapsible_tab_nhmY6j",
         "collapsible_tab_gM9zEK",
-        "popup_JqxzpY",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "rating_F8B4bL"
       ],
       "settings": {
         "enable_sticky_info": true,
