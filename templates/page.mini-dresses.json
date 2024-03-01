@@ -709,55 +709,55 @@
         "collapsible_row_CWxrWX": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What is the key to maintaining elegance in a minimalist shirt-style white mini dress?",
+            "heading": "To what extent can off-shoulder style pink mini dresses be a charming choice for casual and romantic events?",
             "icon": "heart",
-            "row_content": "<p>Elegance lies in simplicity; opting for clean lines, subtle details, and minimal accessories to maintain sophistication.<\/p>",
+            "row_content": "<p>Off-shoulder dresses in pastel pink add a romantic and casual touch, ideal for dates or informal outings, subtly enhancing femininity.<\/p>",
             "page": ""
           }
         },
-        "collapsible_row_HbH8iw": {
+        "collapsible_row_GXnQMy": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How can the wrap style in a white mini dress be flattering for different body types?",
+            "heading": "How can pink mini dresses with lace details bring a dose of sophistication and romance?",
             "icon": "heart",
-            "row_content": "<p>The wrap design adapts to various shapes by highlighting the waist and allowing adjustments, creating a flattering and comfortable appearance.<\/p>",
+            "row_content": "<p>Lace details on pink mini dresses add sophistication and romance, creating a charming and refined look suitable for more formal events.<\/p>",
             "page": ""
           }
         },
-        "collapsible_row_CiaecE": {
+        "collapsible_row_TEmwgq": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How to balance the boldness of cut-outs in a white mini dress to achieve a modern yet elegant look?",
+            "heading": "What is the versatility of wrap-style pink mini dresses, and how can they adapt to different occasions?",
             "icon": "heart",
-            "row_content": "<p>Opt for strategically placed cut-outs and keep the rest of the dress simple and well-fitted to balance boldness with elegance.<\/p>",
+            "row_content": "<p>Wrap dresses in pink can easily adapt to various occasions, from formal events to informal outings, thanks to their versatile and flattering style.<\/p>",
             "page": ""
           }
         },
-        "collapsible_row_7MB4h9": {
+        "collapsible_row_3imTwc": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What are some popular styles of white mini dresses for casual occasions?",
+            "heading": "In what way can pink mini dresses with floral prints be a cheerful and perfect choice for spring?",
             "icon": "heart",
-            "row_content": "<p>Styles can range from loose, flowy dresses to more fitted options, with details like spaghetti straps, V-necklines or short sleeves for a casual touch.\t<\/p>",
+            "row_content": "<p>Floral prints on pink mini dresses evoke a sense of freshness and joy, making them a perfect choice for spring and daytime events.<\/p>",
             "page": ""
           }
         },
-        "collapsible_row_VX7BRq": {
+        "collapsible_row_VKKpaY": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How to achieve a sleek and sophisticated look with a white bodycon mini dress without it being too revealing?",
+            "heading": "What is the visual impact of pink mini dresses with ruffle details, and how can they add dynamism to the ensemble?",
             "icon": "heart",
-            "row_content": "<p>Opt for a design that strategically covers, such as long sleeves or a moderate neckline, to add elegance and sophistication.<\/p>",
+            "row_content": "<p>Ruffles on pink mini dresses create a visual impact, adding dynamism and movement to the ensemble, making them ideal for events where attention is sought. <\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
         "collapsible_row_CWxrWX",
-        "collapsible_row_HbH8iw",
-        "collapsible_row_CiaecE",
-        "collapsible_row_7MB4h9",
-        "collapsible_row_VX7BRq"
+        "collapsible_row_GXnQMy",
+        "collapsible_row_TEmwgq",
+        "collapsible_row_3imTwc",
+        "collapsible_row_VKKpaY"
       ],
       "settings": {
         "caption": "",
@@ -773,6 +773,28 @@
         "desktop_layout": "image_second",
         "padding_top": 12,
         "padding_bottom": 12
+      }
+    },
+    "rich_text_7HGVXt": {
+      "type": "rich-text",
+      "blocks": {
+        "text_DWLifh": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>How can pink mini dresses with cut-out details be a modern and bold choice for those seeking a cutting-edge look?<\/strong><br\/>Pink mini dresses with strategic cut-outs offer a modern and bold style, adding a cutting-edge touch to personal fashion.<br\/><br\/><strong>What are the benefits of opting for a pink shirt-style mini dress for a casual and chic look?<\/strong><br\/>Shirt-style dresses in pink offer a casual and chic look, being comfortable and fashionable. They can easily adapt to various situations, from casual outings to relaxed events.<br\/><br\/><strong>To what extent can pink mini dresses with pleat details add texture and elegance to the ensemble?<\/strong><br\/>Pleats on pink mini dresses add texture and elegance, creating a refined and sophisticated look perfect for more formal events and celebrations.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_DWLifh"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -800,6 +822,7 @@
     "collapsible_content_TwV6P8",
     "rich_text_DXX8Uk",
     "image_with_text_XCQ6fy",
-    "collapsible_content_dbyr9p"
+    "collapsible_content_dbyr9p",
+    "rich_text_7HGVXt"
   ]
 }
