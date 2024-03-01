@@ -261,7 +261,7 @@
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
@@ -289,13 +289,29 @@
         "padding_bottom": 8
       }
     },
+    "image_banner_ib3hJk": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/revistaaestetic.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "rich_text_cHBQnL": {
       "type": "rich-text",
       "blocks": {
         "text_MNh8pq": {
           "type": "text",
           "settings": {
-            "text": "<p>The Playful Boho maxi dress style incorporates playful elements such as fringes, pom poms and ethnic details in bright colors such as turquoise, orange and bright yellow, creating a cheerful and carefree bohemian atmosphere.<\/p><p>Finally, the modern formal maxi dress comes in structured silhouettes, straight cuts or asymmetrical lines in sober colors such as gunmetal grey, off-white and bottle green, perfect for formal and contemporary events.<\/p>"
+            "text": "<p><strong>Wedding<\/strong><br\/>At weddings with dress codes that allow short dresses, a black A-line mini dress, or a black mini dress with a low back, can be a wise choice. Make sure you respect the established level of formality.<br\/><\/p><p>Charity Events or Galas:<br\/> For charity events or evening galas, the black satin mini dress or the black lace mini dress can be an elegant and attractive option. Pair it with sophisticated jewelry for an extra touch of glamour.<br\/><\/p>"
           }
         }
       },
@@ -325,6 +341,7 @@
     "image_with_text_TExTdb",
     "image_banner_kh9KKH",
     "rich_text_WmTFCF",
+    "image_banner_ib3hJk",
     "rich_text_cHBQnL"
   ]
 }
