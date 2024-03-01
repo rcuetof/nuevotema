@@ -36,9 +36,9 @@
         "collapsible_tab_nhmY6j": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "content": "",
+            "heading": "Privacy Policy",
+            "icon": "heart",
+            "content": "<p>The types of personal information we obtain about you depends on how you interact with our Site and use our Services. When we use the term \"personal information\", we are referring to information that identifies, relates to, describes or can be associated with you. The following sections describe the categories and specific types of personal information we collect.<\/p><p>Information that you directly submit to us through our Services may include:<\/p><p><strong>Basic contact details<\/strong> including your name, address, phone number, email.<\/p><p><strong>Order information<\/strong> including your name, billing address, shipping address, payment confirmation, email address, phone number.<\/p><p><strong>Account information<\/strong> including your username, password, security questions.<\/p><p><strong>Shopping information<\/strong> including the items you view, put in your cart or add to your wishlist.<\/p><p><strong>Customer support information<\/strong> including the information you choose to include in communications with us, for example, when sending a message through the Services.<\/p>",
             "page": ""
           }
         },
