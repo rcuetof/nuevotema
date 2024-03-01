@@ -678,6 +678,15 @@
         "padding_bottom": 8
       }
     },
+    "custom_liquid_FrRbYJ": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"producto-container\">\n    <div class=\"producto\" style=\"background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0643\/4789\/8056\/products\/2f4195f5e61147d49126975f94a83586-Min.jpg');border: 10px solid #eb98db; border-bottom: 50px solid #eb98db; \">\n        <a href=\"https:\/\/www.violettarc.com\/products\/raw-hem-collared-neck-tiered-dress\" title=\"Raw Hem Collared Neck Tiered Dress\">\n        <div class=\"shop\">&nbsp;<\/div>\n        <p>Raw Hem Collared Neck Tiered Dress<\/p>\n        <div class=\"texto-flotante\" style=\"background-color: #eb98db;\">View Dress<\/div>\n        <\/a>\n    <\/div>\n    <div class=\"producto\" style=\"background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0643\/4789\/8056\/products\/a679ba0e37ef4283ac2609005096d4bb-Min.jpg');border: 10px solid #eb98db; border-bottom: 50px solid #eb98db; \">\n        <a href=\"https:\/\/www.violettarc.com\/products\/floral-ruffle-collar-smocked-waist-layered-dress\" title=\"Floral Ruffle Collar Smocked Waist Layered Dress\">\n        <div class=\"shop\">&nbsp;<\/div>\n        <p>Floral Ruffle Collar Smocked Waist Layered Dress<\/p>\n        <div class=\"texto-flotante\" style=\"background-color: #eb98db;\">View Dress<\/div>\n        <\/a>\n    <\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "collapsible_content_dbyr9p": {
       "type": "collapsible-content",
       "blocks": {
@@ -796,6 +805,7 @@
     "collapsible_content_TwV6P8",
     "rich_text_DXX8Uk",
     "image_with_text_XCQ6fy",
+    "custom_liquid_FrRbYJ",
     "collapsible_content_dbyr9p",
     "rich_text_7HGVXt"
   ]
