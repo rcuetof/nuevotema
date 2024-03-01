@@ -319,10 +319,10 @@
         "padding_bottom": 8
       }
     },
-    "custom_liquid_mEayVt": {
+    "custom_liquid_4VwLek": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"separator\" style=\"background-color:red;\">\n  <div class=\"heart\">\n<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 24 24\" width=\"50\" height=\"50\" fill=\"red\">\n  <path d=\"M12 21.35l-1.45-1.32C5.4 14.25 2 11.3 2 7.5 2 4.42 4.42 2 7.5 2c1.93 0 3.74.91 4.95 2.36C13.76 2.91 15.57 2 17.5 2 20.58 2 23 4.42 23 7.5c0 3.8-3.4 6.75-8.55 12.54L12 21.35z\"\/>\n<\/svg>\n  <\/div>\n  <div class=\"separator\"><\/div>\n  <div class=\"heart\">\n    <svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" viewBox=\"0 0 24 24\" width=\"50\" height=\"50\" fill=\"#000\">\n      <path d=\"M12 21.35l-1.45-1.32C5.4 14.25 2 11.3 2 7.5 2 4.42 4.42 2 7.5 2c1.74 0 3.41.81 4.5 2.09C15.09 2.81 16.76 2 18.5 2 21.58 2 24 4.42 24 7.5c0 3.8-3.4 6.75-8.55 12.54L12 21.35z\"\/>\n    <\/svg>\n  <\/div>\n  <\/div>",
+        "custom_liquid": "<div class=\"separator\" style=\"background-color:red;\">\n  <div class=\"heart\">\n<?xml version=\"1.0\" ?><!DOCTYPE svg  PUBLIC '-\/\/W3C\/\/DTD SVG 1.1\/\/EN'  'http:\/\/www.w3.org\/Graphics\/SVG\/1.1\/DTD\/svg11.dtd'><svg height=50px style=\"fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;\" version=\"1.1\" viewBox=\"0 0 100 126\" width=\"100%\" xml:space=\"preserve\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:serif=\"http:\/\/www.serif.com\/\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\"><clipPath id=\"_clip1\"><rect height=\"125\" width=\"100\" x=\"0\" y=\"0.121\"\/><\/clipPath><g clip-path=\"url(#_clip1)\"><path d=\"M100,42.158c0,-16.313 -13.224,-29.537 -29.537,-29.537c-12.909,0 -28.017,0 -40.926,0c-16.313,0 -29.537,13.224 -29.537,29.537c0,12.909 0,28.017 0,40.926c0,16.313 13.224,29.537 29.537,29.537c12.909,0 28.017,0 40.926,0c16.313,0 29.537,-13.224 29.537,-29.537c0,-12.909 0,-28.017 0,-40.926Z\" style=\"fill:#ff4a58;\"\/><path d=\"M66,33.071c-5.7,0 -11.5,2.4 -15.8,6.6l-0.1,0.1c0,0 -0.1,0 -0.1,-0.1c-3.9,-3.7 -9.1,-7.4 -14.2,-7.4c-5.2,0 -10.4,2 -14.3,5.9c-7.9,7.9 -7.9,20.8 0,28.7l27,25.4c0.5,0.4 1.1,0.7 1.7,0.7c0.6,0 1.2,-0.2 1.7,-0.7l27,-25.4c3.9,-3.9 5.9,-9.1 5.9,-14.3c0,-5.2 -2,-10.4 -5.9,-14.3c-3.8,-3.5 -8.3,-5.2 -12.9,-5.2Zm7.1,28.1l-23.1,21.8l-23.1,-21.8c-2.3,-2.3 -3.5,-5.3 -3.5,-8.6c0,-3.3 1.3,-6.4 3.6,-8.7c2.3,-2.3 5.4,-3.6 8.7,-3.6c0.8,0 3.6,0.4 8.7,5.2c1.5,1.5 3.5,2.3 5.6,2.3c2.1,0 4.2,-0.8 5.7,-2.3c2.8,-2.7 6.6,-4.4 10.3,-4.4c1.9,0 4.7,0.5 7,2.8c2.3,2.3 3.6,5.4 3.6,8.7c0,3.3 -1.3,6.3 -3.5,8.6Z\" style=\"fill-opacity:0.5;fill-rule:nonzero;\"\/><\/g><\/svg>\n <\/div>\n  <\/div>",
         "color_scheme": "scheme-1",
         "padding_top": 20,
         "padding_bottom": 20
@@ -492,6 +492,15 @@
         "padding_bottom": 8
       }
     },
+    "custom_liquid_fMabMk": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"separator\" style=\"background-color:red;\">\n  <div class=\"heart\">\n<?xml version=\"1.0\" ?><!DOCTYPE svg  PUBLIC '-\/\/W3C\/\/DTD SVG 1.1\/\/EN'  'http:\/\/www.w3.org\/Graphics\/SVG\/1.1\/DTD\/svg11.dtd'><svg height=50px style=\"fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;\" version=\"1.1\" viewBox=\"0 0 100 126\" width=\"100%\" xml:space=\"preserve\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:serif=\"http:\/\/www.serif.com\/\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\"><clipPath id=\"_clip1\"><rect height=\"125\" width=\"100\" x=\"0\" y=\"0.121\"\/><\/clipPath><g clip-path=\"url(#_clip1)\"><path d=\"M100,42.158c0,-16.313 -13.224,-29.537 -29.537,-29.537c-12.909,0 -28.017,0 -40.926,0c-16.313,0 -29.537,13.224 -29.537,29.537c0,12.909 0,28.017 0,40.926c0,16.313 13.224,29.537 29.537,29.537c12.909,0 28.017,0 40.926,0c16.313,0 29.537,-13.224 29.537,-29.537c0,-12.909 0,-28.017 0,-40.926Z\" style=\"fill:#ff4a58;\"\/><path d=\"M66,33.071c-5.7,0 -11.5,2.4 -15.8,6.6l-0.1,0.1c0,0 -0.1,0 -0.1,-0.1c-3.9,-3.7 -9.1,-7.4 -14.2,-7.4c-5.2,0 -10.4,2 -14.3,5.9c-7.9,7.9 -7.9,20.8 0,28.7l27,25.4c0.5,0.4 1.1,0.7 1.7,0.7c0.6,0 1.2,-0.2 1.7,-0.7l27,-25.4c3.9,-3.9 5.9,-9.1 5.9,-14.3c0,-5.2 -2,-10.4 -5.9,-14.3c-3.8,-3.5 -8.3,-5.2 -12.9,-5.2Zm7.1,28.1l-23.1,21.8l-23.1,-21.8c-2.3,-2.3 -3.5,-5.3 -3.5,-8.6c0,-3.3 1.3,-6.4 3.6,-8.7c2.3,-2.3 5.4,-3.6 8.7,-3.6c0.8,0 3.6,0.4 8.7,5.2c1.5,1.5 3.5,2.3 5.6,2.3c2.1,0 4.2,-0.8 5.7,-2.3c2.8,-2.7 6.6,-4.4 10.3,-4.4c1.9,0 4.7,0.5 7,2.8c2.3,2.3 3.6,5.4 3.6,8.7c0,3.3 -1.3,6.3 -3.5,8.6Z\" style=\"fill-opacity:0.5;fill-rule:nonzero;\"\/><\/g><\/svg>\n <\/div>\n  <\/div>",
+        "color_scheme": "scheme-1",
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "image_with_text_xFUGrb": {
       "type": "image-with-text",
       "blocks": {
@@ -632,6 +641,15 @@
         "full_width": false,
         "padding_top": 8,
         "padding_bottom": 8
+      }
+    },
+    "custom_liquid_qLtVn9": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"separator\" style=\"background-color:red;\">\n  <div class=\"heart\">\n<?xml version=\"1.0\" ?><!DOCTYPE svg  PUBLIC '-\/\/W3C\/\/DTD SVG 1.1\/\/EN'  'http:\/\/www.w3.org\/Graphics\/SVG\/1.1\/DTD\/svg11.dtd'><svg height=50px style=\"fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;\" version=\"1.1\" viewBox=\"0 0 100 126\" width=\"100%\" xml:space=\"preserve\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:serif=\"http:\/\/www.serif.com\/\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\"><clipPath id=\"_clip1\"><rect height=\"125\" width=\"100\" x=\"0\" y=\"0.121\"\/><\/clipPath><g clip-path=\"url(#_clip1)\"><path d=\"M100,42.158c0,-16.313 -13.224,-29.537 -29.537,-29.537c-12.909,0 -28.017,0 -40.926,0c-16.313,0 -29.537,13.224 -29.537,29.537c0,12.909 0,28.017 0,40.926c0,16.313 13.224,29.537 29.537,29.537c12.909,0 28.017,0 40.926,0c16.313,0 29.537,-13.224 29.537,-29.537c0,-12.909 0,-28.017 0,-40.926Z\" style=\"fill:#ff4a58;\"\/><path d=\"M66,33.071c-5.7,0 -11.5,2.4 -15.8,6.6l-0.1,0.1c0,0 -0.1,0 -0.1,-0.1c-3.9,-3.7 -9.1,-7.4 -14.2,-7.4c-5.2,0 -10.4,2 -14.3,5.9c-7.9,7.9 -7.9,20.8 0,28.7l27,25.4c0.5,0.4 1.1,0.7 1.7,0.7c0.6,0 1.2,-0.2 1.7,-0.7l27,-25.4c3.9,-3.9 5.9,-9.1 5.9,-14.3c0,-5.2 -2,-10.4 -5.9,-14.3c-3.8,-3.5 -8.3,-5.2 -12.9,-5.2Zm7.1,28.1l-23.1,21.8l-23.1,-21.8c-2.3,-2.3 -3.5,-5.3 -3.5,-8.6c0,-3.3 1.3,-6.4 3.6,-8.7c2.3,-2.3 5.4,-3.6 8.7,-3.6c0.8,0 3.6,0.4 8.7,5.2c1.5,1.5 3.5,2.3 5.6,2.3c2.1,0 4.2,-0.8 5.7,-2.3c2.8,-2.7 6.6,-4.4 10.3,-4.4c1.9,0 4.7,0.5 7,2.8c2.3,2.3 3.6,5.4 3.6,8.7c0,3.3 -1.3,6.3 -3.5,8.6Z\" style=\"fill-opacity:0.5;fill-rule:nonzero;\"\/><\/g><\/svg>\n <\/div>\n  <\/div>",
+        "color_scheme": "scheme-1",
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "image_with_text_XCQ6fy": {
@@ -790,14 +808,16 @@
     "rich_text_cHBQnL",
     "rich_text_ez8a8K",
     "image_with_text_wGc4a6",
-    "custom_liquid_mEayVt",
+    "custom_liquid_4VwLek",
     "rich_text_txbbWd",
     "image_with_text_NDrPaV",
     "collapsible_content_hg4kQB",
     "rich_text_9FkhjN",
+    "custom_liquid_fMabMk",
     "image_with_text_xFUGrb",
     "collapsible_content_TwV6P8",
     "rich_text_DXX8Uk",
+    "custom_liquid_qLtVn9",
     "image_with_text_XCQ6fy",
     "collapsible_content_dbyr9p",
     "rich_text_7HGVXt"
