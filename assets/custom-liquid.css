@@ -180,7 +180,8 @@ position: relative;
         margin-left: 0;
         margin-right: 0;
         background-repeat: no-repeat;
-        background-position: bottom;            
+        background-position: bottom;
+        white-space: nowrap;            
     h1{
         position: absolute;
         font-size: 80px;
@@ -188,8 +189,7 @@ position: relative;
         text-align: left;
         top: 54%;
         left: 40%;
-        margin-left: -20%;
-        margin-right: -20%;
+        
         transform: translate(-50%, -50%);
       }
       p{
