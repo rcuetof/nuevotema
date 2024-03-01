@@ -1,0 +1,322 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "custom_liquid_nhJyWE": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"banner-mini\">\n        <h1>Mini<br>Dresses<\/h1>\n        <p>Fashion Trends and Style<\/p>\n        <a href=\"#\" class=\"button-banner position-boton\">SHOW ME MORE<\/a>\n        <a href=\"#\" class=\"button-banner position-mid\">SHOP NOW<\/a>\n    <\/div>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_PnQgAL": {
+      "type": "rich-text",
+      "blocks": {
+        "text_PGcCbF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dresses are expressions of style and personality, and choosing the right color and style can make all the difference at any event.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_PGcCbF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "custom_liquid_RBWxb9": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-l\">SHOW ME COLLECTION<\/a>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_eiGpRE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_eWfxH3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mini Blue Dresses Collection",
+            "heading_size": "h2"
+          }
+        },
+        "text_rUK93C": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>How can the color blue affect the perception of the figure, and which dress cut is most flattering?<\/strong><br\/>The darker shades of blue tend to slim, while cuts like A-line are universally flattering, elongating the figure.<br\/><br\/><strong>What dress cuts are most suitable for formal events where an elegant touch is sought in a blue mini dress?<\/strong><br\/>Blue mini dress Pencil or sheath cuts are ideal for formal events, providing an elegant and sophisticated appearance.<br\/><br\/><strong>In what situations can the halter-neck style in blue enhance the neck area and add a touch of glamour?<\/strong><br\/>Halter-neck dresses are perfect for evening events as they enhance the neck area and add a touch of glamour.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_Wxciw7": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "SHOW ME MORE",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_eWfxH3",
+        "text_rUK93C",
+        "button_Wxciw7"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/minibluedress.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "custom_liquid_b6XPNU": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<div class=\"producto-container\">\n    <div class=\"producto black-produc\">\n        <a href=\"https:\/\/www.violettarc.com\/products\/spliced-lace-cold-shoulder-mini-dress\" title=\"Featured Black Mini Dresses\">\n            <img src=\"https:\/\/www.violettarc.com\/cdn\/shop\/products\/aebf039ac1d24117a48cbc4da3eca427-Min.jpg\">\n        <div class=\"shop\"> <\/div>\n        <p>Featured Black Mini Dresses<\/p>\n        <div class=\"texto-flotante\">View Dress<\/div>\n        <\/a>\n    <\/div>\n    <div class=\"producto black-produc\">\n        <a href=\"https:\/\/www.violettarc.com\/products\/sequin-lace-up-spaghetti-strap-mini-dress\" title=\"Sequin Lace-Up Spaghetti Strap Mini Dress \">\n            <img src=\"https:\/\/www.violettarc.com\/cdn\/shop\/products\/48c10d37f472402f82cfdffcfb821454-Min.jpg\">\n        <div class=\"shop\"> <\/div>\n        <p>Sequin Lace-Up Spaghetti Strap Mini Dress<\/p>\n        <div class=\"texto-flotante\">View Dress<\/div>\n        <\/a>\n    <\/div>\n<\/div>",
+        "color_scheme": "",
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "custom_liquid_pECQA4": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<a href=\"#\" class=\"button-shop shop-position-r\">SHOW ME COLLECTION<\/a>",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_WmTFCF": {
+      "type": "rich-text",
+      "blocks": {
+        "text_RweJYc": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>How can the design of a blue wrap dress adapt to different body types and be versatile for various occasions?<\/strong><br\/>The wrap design is versatile and flattering for various body types, perfect for occasions ranging from casual to semi-formal.<br\/><strong><br\/>What is the key to choosing the right style of blue dress for a more relaxed daytime outing?<\/strong><br\/>For daytime outings, skater dresses or those with ruffle details add a fun and carefree touch to the ensemble.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_RweJYc"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    },
+    "collapsible_content_hg4kQB": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_MiKwVJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How to choose the size and style of floral prints in a mini dress to flatter different body types?",
+            "icon": "heart",
+            "row_content": "<p>Opting for smaller prints for petite figures and larger prints for taller figures can enhance proportion and flatter the silhouette.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qgiDxQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What are the best accessories to complement a floral mini dress without overwhelming the ensemble?",
+            "icon": "heart",
+            "row_content": "<p>Choosing simple and neutral accessories, such as delicate jewelry and elegant sandals, helps highlight the floral print without overshadowing it.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ceMnVx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "In what occasions can the style of a floral mini dress adapt to both casual events and more formal gatherings?",
+            "icon": "heart",
+            "row_content": "<p>The versatility of floral mini dresses makes them suitable for informal events with sandals or sneakers, as well as for more formal occasions with heels and stylish accessories.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wneneJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How to incorporate layers and textures into a floral mini dress to create a more dynamic look suitable for different seasons?",
+            "icon": "heart",
+            "row_content": "<p>Adding a denim jacket for a casual touch in spring or tights and ankle boots for fall can transform the floral mini dress to suit various seasons.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_yq9NPm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the importance of considering the length of the floral mini dress based on the event and occasion?",
+            "icon": "heart",
+            "row_content": "<p>The length of the floral dress is crucial; shorter styles are ideal for casual events, while longer and more elegant options are suitable for formal and evening occasions.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_MiKwVJ",
+        "collapsible_row_qgiDxQ",
+        "collapsible_row_ceMnVx",
+        "collapsible_row_wneneJ",
+        "collapsible_row_yq9NPm"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Exploring Floral Mini Dresses: Valuable Information and Tips",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/floralminidress.png",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_first",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "collapsible_content_TwV6P8": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_XWgcrQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How to choose the right cut for a plus-size mini dress that flatters the figure?",
+            "icon": "heart",
+            "row_content": "<p>Opting for empire or A-line cuts is excellent for enhancing the waist and providing a flattering fit for plus-size silhouettes.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KyRyRC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What sleeve styles can offer comfort and style in plus-size mini dresses?",
+            "icon": "heart",
+            "row_content": "<p>Three-quarter sleeves or batwing styles provide additional coverage without compromising style, offering both comfort and elegance.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_pqqJTG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "On what occasions is it appropriate to wear a straight-cut plus-size mini dress?",
+            "icon": "heart",
+            "row_content": "<p>Straight-cut plus-size mini dresses are versatile and are ideal for casual events, daytime outings, or informal social activities.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_fkKwLp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How to choose the appropriate neckline for a plus-size mini dress based on preference and body shape?",
+            "icon": "heart",
+            "row_content": "<p>V-necks or boat necks can flatter different plus-size body shapes, providing elegant and flattering options.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_k4n8aT": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the importance of incorporating details like pleats or gathers in a plus-size mini dress?",
+            "icon": "heart",
+            "row_content": "<p>Strategic details such as pleats or gathers can create a more structured appearance, adding visual interest and highlighting desired areas.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_XWgcrQ",
+        "collapsible_row_KyRyRC",
+        "collapsible_row_pqqJTG",
+        "collapsible_row_fkKwLp",
+        "collapsible_row_k4n8aT"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Plus size mini dressescollection",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/plusizedres.png",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "rich_text_DXX8Uk": {
+      "type": "rich-text",
+      "blocks": {
+        "text_LAVzzL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Here is key information on how to choose plus size mini dresses, emphasizing the importance of cuts, sleeve styles, occasion appropriateness, necklines and details that can improve comfort and confidence in larger size women.<br\/><br\/>Visit our complete collection of mini dresses, we are sure you will find the special mini dress for you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_LAVzzL"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_liquid_nhJyWE",
+    "rich_text_PnQgAL",
+    "custom_liquid_RBWxb9",
+    "image_with_text_eiGpRE",
+    "custom_liquid_b6XPNU",
+    "custom_liquid_pECQA4",
+    "rich_text_WmTFCF",
+    "collapsible_content_hg4kQB",
+    "collapsible_content_TwV6P8",
+    "rich_text_DXX8Uk"
+  ]
+}
