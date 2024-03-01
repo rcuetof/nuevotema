@@ -440,7 +440,6 @@ position: relative;
     height: 2px;
     background-color: #000;
     transform: translateY(-50%);
-    z-index: 1;
   }
 
   .heart {
@@ -448,5 +447,4 @@ position: relative;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    z-index: 2;
-  }
+}
