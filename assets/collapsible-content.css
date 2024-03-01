@@ -68,6 +68,7 @@
 
 .collapsible-none-layout .accordion + .accordion {
   border-top: 0;
+  background-color: black;
 }
 
 .collapsible-row-layout .accordion:not(:first-child):not(.color-scheme-1) {
