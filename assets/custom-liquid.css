@@ -421,11 +421,13 @@ position: relative;
     margin: 20px 0;
   }
 
+  .heart-container {
+    display: flex;
+    align-items: center;
+  }
+
   .heart-svg {
-    position: absolute;
-    top: -10px;
-    left: 50%;
-    transform: translateX(-50%);
-    width: 20px;
+    width: 30px;
     fill: black;
+    margin: 0 10px;
   }
