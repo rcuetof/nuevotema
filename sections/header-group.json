@@ -29,7 +29,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".a{text-decoration: none;}"
+        ".a {text-decoration: none;}"
       ],
       "settings": {
         "logo_position": "middle-left",
