@@ -198,6 +198,7 @@ position: relative;
         background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/files/banner-mini916.jpg');
         background-size: cover;
         height: 110vh;
+        width: 100%;
         margin-left: 0;
         margin-right: 0;
         font-weight: 900;
