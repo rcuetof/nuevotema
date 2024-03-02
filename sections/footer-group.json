@@ -16,7 +16,9 @@
         "brand_information_H8Pm9Y"
       ],
       "custom_css": [
-        ".footer__copyright {display: none;}"
+        ".footer__copyright {display: none;}",
+        "a {text-decoration: none;}",
+        "a:hover {text-decoration:line-through;}"
       ],
       "settings": {
         "color_scheme": "scheme-5",
