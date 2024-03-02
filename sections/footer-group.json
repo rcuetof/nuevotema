@@ -17,8 +17,8 @@
       ],
       "custom_css": [
         ".footer__copyright {display: none;}",
-        "a {text-decoration: none;}",
-        "a:hover::after {transform: scaleX(1); \/* Hace visible la línea al 100% del ancho *\/ transform-origin: bottom left;"
+        "a {text-decoration: none; transform: scaleX(0); \/* Inicialmente invisible *\/ transform-origin: bottom right; transition: transform 0.3s ease;}",
+        "a:hover::after {transform: scaleX(1); \/* Hace visible la línea al 100% del ancho *\/ transform-origin: bottom left;}"
       ],
       "settings": {
         "color_scheme": "scheme-5",
