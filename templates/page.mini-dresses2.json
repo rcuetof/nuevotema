@@ -11,7 +11,7 @@
     "custom_liquid_nhJyWE": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"banner-mini\">\n        <h1>Mini<br>Dresses<\/h1>\n        <p>Fashion Trends and Style<\/p>\n        <a href=\"#\" class=\"button-banner position-boton\">SHOW ME MORE<\/a>\n        <a href=\"#\" class=\"button-banner position-mid\">SHOP NOW<\/a>\n    <\/div>",
+        "custom_liquid": "<div class=\"banner-mini\">\n     <h1>Mini<br>Dresses<\/h1>\n        <p>Fashion Trends and Style<\/p>\n        <a href=\"https:\/\/www.violettarc.com\/pages\/plussize-mini-dresses\" class=\"button-banner position-boton\">SHOW ME MORE<\/a>\n        <a href=\"https:\/\/www.violettarc.com\/pages\/mini-dresses\" class=\"button-banner position-mid\">SHOP NOW<\/a>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
