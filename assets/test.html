@@ -1,129 +1,48 @@
-<div class="producto-container">
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/-Min.jpg');border: 10px solid #eb98db; border-bottom: 50px solid #eb98db; ">
-        <a href="" title="">
-        <div class="shop">&nbsp;</div>
-        <p></p>
-        <div class="texto-flotante" style="background-color: #eb98db;">View Dress</div>
-        </a>
-    </div>
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/-Min.jpg');border: 10px solid #eb98db; border-bottom: 50px solid #eb98db; ">
-        <a href="" title="">
-        <div class="shop">&nbsp;</div>
-        <p></p>
-        <div class="texto-flotante" style="background-color: #eb98db;">View Dress</div>
-        </a>
-    </div>
-</div>
+Puedes lograr el efecto que describiste utilizando CSS. Aquí hay un ejemplo básico de cómo puedes hacer que aparezca una línea debajo de los enlaces solo cuando el mouse está sobre ellos:
 
-<div class="producto-container">
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/cc91554813d04888881636373a50a57a-Min.jpg.jpg');border: 10px solid #ca4a4a; border-bottom: 50px solid #ca4a4a; ">
-        <a href="https://www.violettarc.com/products/glitter-mesh-off-shoulder-ruched-mini-dress" title="Glitter Mesh Off-Shoulder Ruched Mini Dress">
-        <div class="shop">&nbsp;</div>
-        <p>Glitter Mesh Off-Shoulder Ruched Mini Dress</p>
-        <div class="texto-flotante" style="background-color: #ca4a4a;">View Dress</div>
-        </a>
-    </div>
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/5ad9eac4d751429cb18a8efa13931a4d-Min.jpg');border: 10px solid #ca4a4a; border-bottom: 50px solid #ca4a4a; ">
-        <a href="https://www.violettarc.com/products/notched-puff-sleeve-shift-dress" title="Sequin Lace-Up Spaghetti Strap Mini Dress">
-        <div class="shop">&nbsp;</div>
-        <p>Notched Puff Sleeve Shift Dress</p>
-        <div class="texto-flotante" style="background-color: #ca4a4a;">View Dress</div>
-        </a>
-    </div>
-</div>
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* Estilo para los enlaces */
+        a {
+            text-decoration: none; /* Elimina la decoración predeterminada del enlace */
+            position: relative;
+            color: #333; /* Color del texto normal */
+        }
 
-<div class="producto-container">
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/9309e116-90e7-4df8-a7f1-54184b7deda0-Min.jpg.jpg');border: 10px solid #e4dfdf; border-bottom: 50px solid #e4dfdf; ">
-        <a href="https://www.violettarc.com/products/tie-back-ruffled-hem-square-neck-mini-dress" title="Tie-Back Ruffled Hem Square Neck Mini Dress">
-        <div class="shop">&nbsp;</div>
-        <p>Tie-Back Ruffled Hem Square Neck Mini Dress</p>
-        <div class="texto-flotante" style="background-color: #e4dfdf;">View Dress</div>
-        </a>
-    </div>
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/c35d9580ea204c90822900666559ca0d-Min.jpg');border: 10px solid #e4dfdf; border-bottom: 50px solid #e4dfdf; ">
-        <a href="https://www.violettarc.com/products/frill-balloon-sleeve-ruffle-hem-mini-dress" title="Frill Balloon Sleeve Ruffle Hem Mini Dress">
-        <div class="shop">&nbsp;</div>
-        <p>Frill Balloon Sleeve Ruffle Hem Mini Dress</p>
-        <div class="texto-flotante" style="background-color: #e4dfdf;">View Dress</div>
-        </a>
-    </div>
-</div>
+        /* Estilo para la línea debajo del enlace */
+        a::after {
+            content: "";
+            position: absolute;
+            width: 100%;
+            height: 2px; /* Grosor de la línea */
+            bottom: 0;
+            left: 0;
+            background-color: #007bff; /* Color de la línea */
+            transform: scaleX(0); /* Inicialmente invisible */
+            transform-origin: bottom right;
+            transition: transform 0.3s ease; /* Agrega un efecto de transición suave */
+        }
 
-<div class="producto-container">
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/2f4195f5e61147d49126975f94a83586-Min.jpg');border: 10px solid #eb98db; border-bottom: 50px solid #eb98db; ">
-        <a href="https://www.violettarc.com/products/raw-hem-collared-neck-tiered-dress" title="Raw Hem Collared Neck Tiered Dress">
-        <div class="shop">&nbsp;</div>
-        <p>Raw Hem Collared Neck Tiered Dress</p>
-        <div class="texto-flotante" style="background-color: #eb98db;">View Dress</div>
-        </a>
-    </div>
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/a679ba0e37ef4283ac2609005096d4bb-Min.jpg');border: 10px solid #eb98db; border-bottom: 50px solid #eb98db; ">
-        <a href="https://www.violettarc.com/products/floral-ruffle-collar-smocked-waist-layered-dress" title="Floral Ruffle Collar Smocked Waist Layered Dress">
-        <div class="shop">&nbsp;</div>
-        <p>Floral Ruffle Collar Smocked Waist Layered Dress</p>
-        <div class="texto-flotante" style="background-color: #eb98db;">View Dress</div>
-        </a>
-    </div>
-</div>
+        /* Efecto al pasar el mouse sobre el enlace */
+        a:hover::after {
+            transform: scaleX(1); /* Hace visible la línea al 100% del ancho */
+            transform-origin: bottom left;
+        }
+    </style>
+</head>
+<body>
 
-<div class="producto-container">
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/8f3b375e49b34073b9f32bec46249b69-Min.jpg');border: 10px solid #98b5eb; border-bottom: 50px solid #98b5eb; ">
-        <a href="https://www.violettarc.com/products/spaghetti-strapruched-mini-dress" title="Spaghetti StrapRuched Mini Dress">
-        <div class="shop">&nbsp;</div>
-        <p>Spaghetti StrapRuched Mini Dress</p>
-        <div class="texto-flotante" style="background-color: #98b5eb;">View Dress</div>
-        </a>
-    </div>
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/94db7ebbf36644e09be050bead4f467f-Min.jpg');border: 10px solid #98b5eb; border-bottom: 50px solid #98b5eb; ">
-        <a href="https://www.violettarc.com/products/ruched-dropped-shoulder-textured-knit-dress" title="Ruched Dropped Shoulder Textured Knit Dress">
-        <div class="shop">&nbsp;</div>
-        <p>Ruched Dropped Shoulder Textured Knit Dress</p>
-        <div class="texto-flotante" style="background-color: #98b5eb;">View Dress</div>
-        </a>
-    </div>
-</div>
+    <a href="#">Enlace 1</a>
+    <a href="#">Enlace 2</a>
+    <a href="#">Enlace 3</a>
 
-<div class="producto-container">
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/16872fd09b9246949ec12e183fa760da-Min.jpg');border: 10px solid #2b282b; border-bottom: 50px solid #2b282b; ">
-        <a href="https://www.violettarc.com/products/floral-round-neck-puff-sleeve-mini-dress" title="Floral Round Neck Puff Sleeve Mini Dress">
-        <div class="shop">&nbsp;</div>
-        <p>Floral Round Neck Puff Sleeve Mini Dress</p>
-        <div class="texto-flotante" style="background-color: #2b282b;">View Dress</div>
-        </a>
-    </div>
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/e637e1e818ca4c30b8ea73c6f6674a2f-Min.jpg');border: 10px solid #da5353; border-bottom: 50px solid #da5353; ">
-        <a href="https://www.violettarc.com/products/floral-grecian-neck-tie-waist-dress" title="Floral Grecian Neck Tie Waist Dress">
-        <div class="shop">&nbsp;</div>
-        <p>Floral Grecian Neck Tie Waist Dress</p>
-        <div class="texto-flotante" style="background-color: #da5353;">View Dress</div>
-        </a>
-    </div>
-</div>
+</body>
+</html>
+```
 
-
-
-
-<style>
-:root {
-    --color-primario: #12191e; 
-    --color-secundario: #12191e;
-  }
-</style>
-<div class="producto-container">
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/92e3227150794b0b85379284a7bcc84e-Min.jpg');border: 10px solid var(--color-primario); border-bottom: 50px solid var(--color-primario); ">
-        <a href="https://www.violettarc.com/products/melo-apparel-plus-size-lace-trim-round-neck-flounce-sleeve-dress" title="Melo Apparel Plus Size Lace Trim Round Neck Flounce Sleeve Dress">
-        <div class="shop">&nbsp;</div>
-        <p>Melo Apparel Plus Size Lace Trim Round Neck Flounce Sleeve Dress</p>
-        <div class="texto-flotante" style="background-color: var(--color-primario);">View Dress</div>
-        </a>
-    </div>
-    <div class="producto" style="background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/products/065c77e501c04fa996814f481b7dcc23-Min.jpg');border: 10px solid var(--color-secundario); border-bottom: 50px solid var(--color-secundario); ">
-        <a href="https://www.violettarc.com/products/plus-size-tie-neck-long-sleeve-mini-dress" title="Plus Size Tie Neck Long Sleeve Mini Dress">
-        <div class="shop">&nbsp;</div>
-        <p>Plus Size Tie Neck Long Sleeve Mini Dress</p>
-        <div class="texto-flotante" style="background-color: var(--color-secundario);">View Dress</div>
-        </a>
-    </div>
-</div>
-
-
+Este código CSS crea una línea debajo de cada enlace que se vuelve visible solo cuando el mouse está sobre el enlace, proporcionando un efecto de transición suave. Puedes personalizar los colores y estilos según tus preferencias ajustando las propiedades en el código.
