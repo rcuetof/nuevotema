@@ -446,8 +446,8 @@
         "collapsible_row_yq9NPm"
       ],
       "custom_css": [
-        "a {color: red; border: px solid; border-radius: 10px; padding: 4px; text-decoration: none; box-shadow: 0px 1px 6px rgba(255, 0, 0, 0.8); background-color: rgba(255, 0, 0, 0.1);}",
-        "a:hover {color: black; box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.8);}"
+        "a {color: rgb(216, 86, 86); border-radius: 10px; padding: 4px; text-decoration: none; box-shadow: 0px 1px 6px rgba(231, 69, 69, 0.8); background-color: rgba(33, 29, 32, 0.772);}",
+        "a:hover {color: white; box-shadow: 0px 1px 10px rgba(222, 215, 215, 0.504); background-color: rgba(49, 44, 48, 0.772); font-size: 101%;}"
       ],
       "settings": {
         "caption": "",
@@ -755,10 +755,14 @@
         "collapsible_row_3imTwc",
         "collapsible_row_VKKpaY"
       ],
+      "custom_css": [
+        "a {color: rgb(223, 145, 215); border: px solid; border-radius: 10px; padding: 4px; text-decoration: none; box-shadow: 0px 1px 6px rgba(223, 153, 223, 0.8); background-color: rgba(33, 29, 32, 0.772);}",
+        "a:hover {color: white; box-shadow: 0px 1px 10px rgba(222, 215, 215, 0.504); background-color: rgba(49, 44, 48, 0.772); font-size: 101%;}"
+      ],
       "settings": {
         "caption": "",
-        "heading": "Discoverthe complete collection of pink mini dresses.",
-        "heading_size": "h1",
+        "heading": "Discover <a href=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.p.product_type=Mini+Dress&filter.v.option.color=Blush+Pink&filter.v.option.color=Carnation+Pink&filter.v.option.color=Dusty+Pink&filter.v.option.color=Fuchsia+Pink&filter.v.option.color=Hot+Pink&filter.v.option.color=Pink&filter.v.option.color=Rose&filter.v.option.color=Scarlett&filter.v.option.color=Strawberry&sort_by=best-selling\" title=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.p.product_type=Mini+Dress&filter.v.option.color=Blush+Pink&filter.v.option.color=Carnation+Pink&filter.v.option.color=Dusty+Pink&filter.v.option.color=Fuchsia+Pink&filter.v.option.color=Hot+Pink&filter.v.option.color=Pink&filter.v.option.color=Rose&filter.v.option.color=Scarlett&filter.v.option.color=Strawberry&sort_by=best-selling\">collection of pink mini dresses<\/a>",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "row",
         "color_scheme": "",
