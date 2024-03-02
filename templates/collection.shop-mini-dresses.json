@@ -168,53 +168,6 @@
         "padding_bottom": 12
       }
     },
-    "image_with_text_cTpieL": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_3hAax3": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em>Black mini dresses for cocktails and the Iconic black mini dress <\/em>",
-            "heading_size": "h2"
-          }
-        },
-        "text_aAU8Mq": {
-          "type": "text",
-          "settings": {
-            "text": "<p><em>SHORT DRESSES<\/em><\/p><p><em> Short cocktail dresses for juniors and women.<\/em><\/p><p><em> Cocktail dresses add glamour, elegance and style at Violetta & RC we know it and we have many short and sexy outfits to choose from!  We love that you look your best in our fashionable mini dresses, so you can light up the night in your new dress, whether for a dressy or casual event.<\/em><\/p><p><\/p><p><em> Sexy Short Dresses for a Formal Affair<\/em><\/p><p><em> There is nothing more sophisticated and sexy than a well-fitted cocktail dress to turn heads and shine at your next special event.  While elegant maxi dresses add drama, sexy short dresses feel fun and fresh.  Whether you're attending a wedding or a gallery opening, a short dress will ensure you shine.<\/em><\/p><p><\/p><p><em> The high hemlines of short cocktail dresses allow you to show off your personal style through accessories: rock statement black heels or cute flats to complete your look, and always remember that a black mini dress can almost always benefit from a little shine and style.  Although short cocktail dresses highlight your legs, they are iconic pieces for any event.<\/em><\/p><p><\/p><p><em> Cute and short dresses for everyone<\/em><\/p><p><em> You don't need an official cocktail hour to show off your short semi-formal dresses: they're great outfits for dates, going to the movies, or dinner with friends. They look great at any event with a semi-formal dress code. Some even work for high-end office events. level.  We have dresses for every style and budget, remember that the most important thing is that you feel comfortable with the dress you wear and that you shine with your own light and that you can be ready for anything.  Don't forget to bring a cute tote bag to hold your going-out essentials!<\/em><\/p><p><\/p><p><em> Be the best dressed teenager<\/em><\/p><p><em> Short prom dresses for juniors can be worn to prom, homecoming, or graduation parties, but good fashion doesn't just apply to special school occasions!  Pretty, short dresses are always in fashion, they remain essential garments for your wardrobe over time and make them the center of attention: wear them to birthday parties, bridal showers, dances and much more!  And the right cocktail dress grows with the wearer, so you'll be ready for date night.<\/em><\/p><p><\/p><p><em> The charm of women's short casual dresses<\/em><\/p><p><em> The short and casual dresses for women look good almost anywhere and adapt to almost any time of the year. The floral mini dresses will be perfect for summer and winter, while the knitted sweater-style dresses will be your favorites in autumn and winter and you can combine them with tights and a knit hat, or opt for sandals and sunglasses in summer.  These versatile mini dresses will always keep you on trend and Violetta & Rc makes it easy to find the best cuts in the trendiest fabrics at all times.<\/em><\/p><p><\/p><p><em> Get more for less with our sexy short dresses<\/em><\/p><p><em> With our affordable options, it's easy to add a few more dresses to your wardrobe, whether you're looking for sexy short dresses for date night or more modest mini dresses for casual dresses, the variety is immense and that's the best because you'll always have the best options to choose from. .  And don't forget, soon we will have accessories to complete your outfit and you can find everything you are looking for in one place, we will have eye-catching necklaces, and everything you need to complete a spectacular set, rings and bracelets.  Shop our selection and we promise you'll step out in style!<\/em><\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_tTfGVr": {
-          "type": "button",
-          "settings": {
-            "button_label": "Black Mini Dresses",
-            "button_link": "https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.price.gte=&filter.v.price.lte=&filter.v.option.color=Black&filter.p.product_type=Mini+Dress&sort_by=best-selling",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_3hAax3",
-        "text_aAU8Mq",
-        "button_tTfGVr"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/revistaaestetic.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collapsible_content_RiJcMz": {
       "type": "collapsible-content",
       "blocks": {
@@ -254,7 +207,6 @@
     "product-grid",
     "collapsible_content_9jMVxh",
     "image_with_text_xzAmC3",
-    "image_with_text_cTpieL",
     "collapsible_content_RiJcMz"
   ]
 }
