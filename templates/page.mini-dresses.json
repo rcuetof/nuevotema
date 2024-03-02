@@ -442,8 +442,8 @@
         "collapsible_row_yq9NPm"
       ],
       "custom_css": [
-        "a {color: red; border: 2px solid; border-radius: 10px; padding: 4px; text-decoration: none;}",
-        "a:hover {color: black;}"
+        "a {color: red; border: 2px solid; border-radius: 10px; padding: 4px; text-decoration: none; box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);}",
+        "a:hover {color: black; box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);}"
       ],
       "settings": {
         "caption": "",
