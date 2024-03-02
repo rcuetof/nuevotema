@@ -58,7 +58,7 @@
           "settings": {
             "heading": "Shipping Policy",
             "icon": "truck",
-            "row_content": "<p><\/p><p>Orders processed in up to 2 days. Shipping details and costs revealed during checkout. Delivery times vary by location. Customers must provide accurate shipping details. Tracking info emailed upon shipment. Check packages for damage upon receipt. Shipping addresses cannot be changed post-processing; verify details before confirming.<\/p>",
+            "row_content": "<p>Shipping time is estimated at 10 to 15 days.<\/p><p>Orders processed in up to 2 days. Shipping details and costs revealed during checkout. Delivery times vary by location. Customers must provide accurate shipping details. Tracking info emailed upon shipment. Check packages for damage upon receipt. Shipping addresses cannot be changed post-processing; verify details before confirming.<\/p>",
             "page": ""
           }
         },
