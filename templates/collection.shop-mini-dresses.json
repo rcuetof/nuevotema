@@ -26,13 +26,13 @@
         "collapsible_row_6EeVGg"
       ],
       "settings": {
-        "caption": "Mini Dresses Collection",
-        "heading": "Mini Dresses coolection",
+        "caption": "{{ collection.title }}",
+        "heading": "Mini Dresses collection",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "",
+        "color_scheme": "scheme-5",
+        "container_color_scheme": "scheme-5",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
