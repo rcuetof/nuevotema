@@ -11,32 +11,10 @@
     "custom_liquid_nhJyWE": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"banner-mini\">\n        <h1>Mini<br>Dresses<\/h1>\n        <p>Fashion Trends and Style<\/p>\n        <a href=\"#\" class=\"button-banner position-boton\">SHOW ME MORE<\/a>\n        <a href=\"#\" class=\"button-banner position-mid\">SHOP NOW<\/a>\n    <\/div>",
+        "custom_liquid": "<div class=\"banner-mini\">\n        <h1>Mini<br>Dresses<\/h1>\n        <p>Fashion Trends and Style<\/p>\n        <a href=\"#\" class=\"button-banner position-boton\">SHOW ME MORE<\/a>\n        <a href=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses\" class=\"button-banner position-mid\">SHOP NOW<\/a>\n    <\/div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "rich_text_PnQgAL": {
-      "type": "rich-text",
-      "blocks": {
-        "text_PGcCbF": {
-          "type": "text",
-          "settings": {
-            "text": "<h2>Dresses are expressions of style and personality, and choosing the right color and style can make all the difference at any event.<\/h2>"
-          }
-        }
-      },
-      "block_order": [
-        "text_PGcCbF"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 8,
-        "padding_bottom": 8
       }
     },
     "image_with_text_eiGpRE": {
@@ -780,12 +758,21 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
+    },
+    "page_cKdNwC": {
+      "type": "page",
+      "settings": {
+        "page": "black-mini-dresses",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "custom_liquid_nhJyWE",
-    "rich_text_PnQgAL",
     "image_with_text_eiGpRE",
     "custom_liquid_wkE9qG",
     "image_with_text_BwW4Yt",
@@ -807,6 +794,7 @@
     "image_with_text_XCQ6fy",
     "custom_liquid_FrRbYJ",
     "collapsible_content_dbyr9p",
-    "rich_text_7HGVXt"
+    "rich_text_7HGVXt",
+    "page_cKdNwC"
   ]
 }
