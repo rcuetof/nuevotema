@@ -126,6 +126,21 @@
                       {%- endif -%}
                       {%- if settings.brand_description != blank -%}
                         <div class="rte">{{ settings.brand_description }}</div>
+                        <style
+                        .cajon-botones {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
+                        
+                        ></style>
+                        <div class="cajon-botones">
+                          <button class="fotbtn">Botón 1</button>
+                          <button class="fotbtn">Botón 1</button>
+                          <button class="fotbtn">Botón 1</button>
+                          <button class="fotbtn">Botón 1</button>
+                          <button class="fotbtn">Botón 1</button>                          
+                        </div>
                       {%- endif -%}
                       {%- if block.settings.show_social and has_social_icons -%}
                         {%- render 'social-icons', class: 'footer__list-social' -%}
