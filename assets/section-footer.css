@@ -441,14 +441,7 @@
 }
 
 .footer-block__brand-info {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 10px; /* Espaciado entre botones */
-    a {
-      background-color: lavender;
-      margin: 8px;
-      padding: 10px;
-    }
+  display: flex;
   }
 
 
