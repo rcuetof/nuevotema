@@ -45,7 +45,7 @@
         "heading_eWfxH3": {
           "type": "heading",
           "settings": {
-            "heading": "Mini Blue Dresses Collection",
+            "heading": "<a href=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.option.color=Blue&filter.v.option.color=Misty++Blue&filter.v.option.color=Pastel++Blue&filter.v.option.color=Royal++Blue&filter.v.option.color=Royal+Blue&filter.v.option.color=Sage&filter.v.option.color=Sky+Blue&sort_by=best-selling\" title=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.option.color=Blue&filter.v.option.color=Misty++Blue&filter.v.option.color=Pastel++Blue&filter.v.option.color=Royal++Blue&filter.v.option.color=Royal+Blue&filter.v.option.color=Sage&filter.v.option.color=Sky+Blue&sort_by=best-selling\">Mini Blue Dresses Collection<\/a>",
             "heading_size": "h2"
           }
         },
@@ -71,10 +71,14 @@
         "text_rUK93C",
         "button_Wxciw7"
       ],
+      "custom_css": [
+        "a {color: rgb(0, 0, 0); border-radius: 10px; padding: 4px; text-decoration: none; box-shadow: 0px 1px 6px rgba(108, 185, 194, 0.544); background-color: rgba(132, 202, 240, 0.802); transition: all 0.5s; }",
+        " a:hover {color: rgba(48, 45, 45, 0.801); box-shadow: 0px 1px 10px rgba(218, 227, 98, 0.504); background-color: rgba(219, 224, 184, 0.772); font-size: 101%; }"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/minibluedress.png",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
