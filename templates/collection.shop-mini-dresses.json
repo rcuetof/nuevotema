@@ -80,7 +80,7 @@
         "heading": "<em>FAQ  & Polices<\/em>",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "none",
+        "layout": "row",
         "color_scheme": "scheme-3949eb00-512a-4e21-8568-06fe5434d288",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
