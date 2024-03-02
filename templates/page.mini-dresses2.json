@@ -34,7 +34,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -42,7 +42,7 @@
     "custom_liquid_RBWxb9": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "<div class=\"producto-container\">\n    <div class=\"producto\" style=\"background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0643\/4789\/8056\/products\/8f3b375e49b34073b9f32bec46249b69-Min.jpg');border: 10px solid #98b5eb; border-bottom: 50px solid #98b5eb; \">\n        <a href=\"https:\/\/www.violettarc.com\/products\/spaghetti-strapruched-mini-dress\" title=\"Spaghetti StrapRuched Mini Dress\">\n        <div class=\"shop\">&nbsp;<\/div>\n        <p>Spaghetti StrapRuched Mini Dress<\/p>\n        <div class=\"texto-flotante\" style=\"background-color: #98b5eb;\">View Dress<\/div>\n        <\/a>\n    <\/div>\n    <div class=\"producto\" style=\"background-image: url('https:\/\/cdn.shopify.com\/s\/files\/1\/0643\/4789\/8056\/products\/94db7ebbf36644e09be050bead4f467f-Min.jpg');border: 10px solid #98b5eb; border-bottom: 50px solid #98b5eb; \">\n        <a href=\"https:\/\/www.violettarc.com\/products\/ruched-dropped-shoulder-textured-knit-dress\" title=\"Ruched Dropped Shoulder Textured Knit Dress\">\n        <div class=\"shop\">&nbsp;<\/div>\n        <p>Ruched Dropped Shoulder Textured Knit Dress<\/p>\n        <div class=\"texto-flotante\" style=\"background-color: #98b5eb;\">View Dress<\/div>\n        <\/a>\n    <\/div>\n<\/div>",
         "color_scheme": "",
         "padding_top": 0,
         "padding_bottom": 0
