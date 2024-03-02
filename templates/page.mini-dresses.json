@@ -102,7 +102,7 @@
         "heading_hdGjmh": {
           "type": "heading",
           "settings": {
-            "heading": "Discoverthe complete collection of black mini dresses.",
+            "heading": "Discoverthe complete <a href=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.price.gte=&filter.v.price.lte=&filter.v.option.color=Black&filter.p.product_type=Mini+Dress&sort_by=best-selling\" title=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.price.gte=&filter.v.price.lte=&filter.v.option.color=Black&filter.p.product_type=Mini+Dress&sort_by=best-selling\">collection of black mini dresses<\/a>.",
             "heading_size": "h2"
           }
         },
@@ -441,9 +441,13 @@
         "collapsible_row_wneneJ",
         "collapsible_row_yq9NPm"
       ],
+      "custom_css": [
+        "a {color: red; border: 2px solid ; border-radius: 10px; padding: 4px; text-decoration: none;}",
+        "a:hover{color: White;}"
+      ],
       "settings": {
         "caption": "",
-        "heading": "Discoverthe complete collection of red mini dresses.",
+        "heading": "Discover the complete <a href=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.price.gte=&filter.v.price.lte=&filter.v.option.color=Brick+Red&filter.v.option.color=Deep+Red&filter.v.option.color=Red&filter.v.option.color=Red+Orange&filter.v.option.color=Scarlett&filter.v.option.color=Strawberry&filter.p.product_type=Mini+Dress&sort_by=best-selling\" title=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.price.gte=&filter.v.price.lte=&filter.v.option.color=Brick+Red&filter.v.option.color=Deep+Red&filter.v.option.color=Red&filter.v.option.color=Red+Orange&filter.v.option.color=Scarlett&filter.v.option.color=Strawberry&filter.p.product_type=Mini+Dress&sort_by=best-selling\">collection of red mini dresses.<\/a>",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "row",
