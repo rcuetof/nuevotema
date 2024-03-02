@@ -34,7 +34,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -102,7 +102,7 @@
         "heading_hdGjmh": {
           "type": "heading",
           "settings": {
-            "heading": "Discoverthe complete <a href=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.price.gte=&filter.v.price.lte=&filter.v.option.color=Black&filter.p.product_type=Mini+Dress&sort_by=best-selling\" title=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.price.gte=&filter.v.price.lte=&filter.v.option.color=Black&filter.p.product_type=Mini+Dress&sort_by=best-selling\">collection of black mini dresses<\/a>.",
+            "heading": "<a href=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.price.gte=&filter.v.price.lte=&filter.v.option.color=Black&filter.p.product_type=Mini+Dress&sort_by=best-selling\" title=\"https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.price.gte=&filter.v.price.lte=&filter.v.option.color=Black&filter.p.product_type=Mini+Dress&sort_by=best-selling\">Collection of black mini dresses<\/a>",
             "heading_size": "h2"
           }
         },
@@ -117,6 +117,10 @@
       "block_order": [
         "heading_hdGjmh",
         "text_eJW3AJ"
+      ],
+      "custom_css": [
+        "a {color: black; border: px solid; border-radius: 10px; padding: 4px; text-decoration: none; box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.8); background-color: rgba(255, 255, 255, 0.1);}",
+        "a:hover {color: black; box-shadow: 0px 1px 10px rgba(4, 20, 0, 0.8);}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/blackminidressescocktel.png",
@@ -215,7 +219,7 @@
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 8,
         "padding_bottom": 8
       }
