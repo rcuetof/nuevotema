@@ -40,17 +40,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_CYFDGj": {
-      "type": "rich-text",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -230,7 +219,6 @@
   "order": [
     "banner",
     "collapsible_content_TBGhpM",
-    "rich_text_CYFDGj",
     "product-grid",
     "collapsible_content_9jMVxh",
     "image_with_text_xzAmC3",
