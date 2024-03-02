@@ -168,31 +168,31 @@
                       </svg>
                       {{- 'products.product.inventory_out_of_stock' | t -}}
                     {%- endif -%}
+                    {%- when 'description' -%}
+                      {%- if product.description != blank -%}
+                        <div class="product__accordion accordion quick-add-hidden" {{ block.shopify_attributes }}>
+                          <details id="Details-{{ block.id }}-{{ section.id }}">
+                            <summary>
+                              <div class="summary__title">
+                                {% render 'icon-accordion', icon: 'note' %}
+                                <h2 class="h4 accordion__title inline-richtext">
+                                  Description
+                                </h2>
+                              </div>
+                              {% render 'icon-caret' %}
+                            </summary>
+                            <div class="accordion__content rte" id="ProductAccordion-{{ block.id }}-{{ section.id }}">
+                              <div class="scrool">{{ product.description }}</div>
+                            </div>
+                          </details>
+                        </div>    
+                                     
+                       
+        
+                       {%- endif -%}
                   {%- endif -%}
                 {%- endif -%}
               </p>
-            {%- when 'description' -%}
-              {%- if product.description != blank -%}
-                <div class="product__accordion accordion quick-add-hidden" {{ block.shopify_attributes }}>
-                  <details id="Details-{{ block.id }}-{{ section.id }}">
-                    <summary>
-                      <div class="summary__title">
-                        {% render 'icon-accordion', icon: 'note' %}
-                        <h2 class="h4 accordion__title inline-richtext">
-                          Description
-                        </h2>
-                      </div>
-                      {% render 'icon-caret' %}
-                    </summary>
-                    <div class="accordion__content rte" id="ProductAccordion-{{ block.id }}-{{ section.id }}">
-                      <div class="scrool">{{ product.description }}</div>
-                    </div>
-                  </details>
-                </div>    
-                             
-               
-
-               {%- endif -%}
             {%- when 'sku' -%}
               <p
                 class="product__sku no-js-hidden{% if block.settings.text_style == 'uppercase' %} caption-with-letter-spacing{% elsif block.settings.text_style == 'subtitle' %} subtitle{% endif %}{% if product.selected_or_first_available_variant.sku.size == 0 %} visibility-hidden{% endif %}"
