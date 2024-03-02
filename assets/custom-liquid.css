@@ -121,25 +121,6 @@ position: relative;
             border-radius: 5px;
         }
         .button-banner:hover{border: 2px solid rgba(225, 225, 225, 0.179);background-color: antiquewhite;}
-        .separator {
-            position: absolute;
-            top: 50%;
-            left: 0;
-            right: 0;
-            width: 100%;
-            height: 2px;
-            background-color: #000;
-            transform: translateY(-50%);
-            z-index: 1;
-          }
-      
-          .heart {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            z-index: 2;
-          }
 /*------------------------------------- END BANNER MAXI MINI MIDI -----------------------------------------------------------------------*/
  /* Estilos para los botones */
  .button-shop {
@@ -180,7 +161,7 @@ position: relative;
     margin-bottom: -10%;
 }
 }
-/*-------------------------------BANNER MAXI MINI MIDI ----------------------------------------------------------------------------*/
+/*-------------------------------BANNER MINI ----------------------------------------------------------------------------*/
 .banner-mini {
     position: relative;
     width: 100%;
@@ -197,8 +178,7 @@ position: relative;
     .banner-mini {
         background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/files/banner-mini916.jpg');
         background-size: contain;
-        height: 110vh;
-        width: 100%;
+        height: 90vh;
         margin-left: 0;
         margin-right: 0;
         font-weight: 900;
