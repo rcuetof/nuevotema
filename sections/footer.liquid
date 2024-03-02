@@ -125,7 +125,8 @@
                         <h2 class="footer-block__heading rte">{{ settings.brand_headline }}</h2>
                       {%- endif -%}
                       {%- if settings.brand_description != blank -%}
-                        <div class="rte" style="align-content: center;">{{ settings.brand_description }}
+                        <div class="rte">{{ settings.brand_description }}
+                        <center>
                         <style> 
                           .cajon-botones {
                             display: grid;
@@ -141,6 +142,7 @@
                             <button class="fotbtn">Gift</button>       
                             <button class="fotbtn">Botón 1</button>                      
                           </div>
+                          </center>
                           </div>
                       {%- endif -%}
                       {%- if block.settings.show_social and has_social_icons -%}
