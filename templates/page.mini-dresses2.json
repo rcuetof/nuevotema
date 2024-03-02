@@ -72,8 +72,8 @@
         "button_Wxciw7"
       ],
       "custom_css": [
-        "a {color: rgb(0, 0, 0); border-radius: 10px; padding: 4px; text-decoration: none; box-shadow: 0px 1px 6px rgba(108, 185, 194, 0.544); background-color: rgba(132, 202, 240, 0.802); transition: all 0.5s; }",
-        " a:hover {color: rgba(48, 45, 45, 0.801); box-shadow: 0px 1px 10px rgba(218, 227, 98, 0.504); background-color: rgba(219, 224, 184, 0.772); font-size: 101%; }"
+        "a {color: rgb(0, 0, 0); border-radius: 10px; padding: 4px; text-decoration: none; box-shadow: 0px 1px 6px rgba(108, 185, 194, 0.544); background-color: rgba(132, 202, 240, 0.802); transition: all 0.5s;}",
+        "a:hover {color: rgba(48, 45, 45, 0.801); box-shadow: 0px 1px 10px rgba(218, 227, 98, 0.504); background-color: rgba(219, 224, 184, 0.772); font-size: 101%;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/minibluedress.png",
@@ -198,10 +198,14 @@
         "collapsible_row_wneneJ",
         "collapsible_row_yq9NPm"
       ],
+      "custom_css": [
+        "a {color: rgb(0, 0, 0); border-radius: 10px; padding: 4px; text-decoration: none; box-shadow: 0px 1px 6px rgba(100, 109, 110, 0.544); background-color: rgba(236, 205, 168, 0.883); transition: all 0.5s;}",
+        "a:hover {color: rgba(94, 88, 88, 0.801); box-shadow: 0px 1px 10px rgba(218, 227, 98, 0.504); background-color: rgba(219, 224, 184, 0.772); font-size: 101%;}"
+      ],
       "settings": {
         "caption": "",
-        "heading": "Exploring Floral Mini Dresses: Valuable Information and Tips",
-        "heading_size": "h1",
+        "heading": "<a href=\"https:\/\/www.violettarc.com\/collections\/plus-size?filter.v.price.gte=&filter.v.price.lte=&filter.p.product_type=Mini+Dress&sort_by=best-selling\" title=\"https:\/\/www.violettarc.com\/collections\/plus-size?filter.v.price.gte=&filter.v.price.lte=&filter.p.product_type=Mini+Dress&sort_by=best-selling\">Collection Floral Mini Dresses<\/a>: Valuable Information and Tips",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "row",
         "color_scheme": "",
@@ -285,7 +289,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "<a href=\"https:\/\/www.violettarc.com\/collections\/plus-size\" title=\"https:\/\/www.violettarc.com\/collections\/plus-size\">Plus size mini dresses collection<\/a>",
+        "heading": "<a href=\"https:\/\/www.violettarc.com\/collections\/plus-size?filter.v.price.gte=&filter.v.price.lte=&filter.p.product_type=Mini+Dress&sort_by=best-selling\" title=\"https:\/\/www.violettarc.com\/collections\/plus-size?filter.v.price.gte=&filter.v.price.lte=&filter.p.product_type=Mini+Dress&sort_by=best-selling\">Plus size mini dresses collection<\/a>",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "row",
