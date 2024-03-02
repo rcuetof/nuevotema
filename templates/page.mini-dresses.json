@@ -327,7 +327,7 @@
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -637,7 +637,7 @@
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 8,
         "padding_bottom": 8
       }
@@ -792,7 +792,7 @@
         "desktop_content_position": "center",
         "content_alignment": "left",
         "color_scheme": "",
-        "full_width": false,
+        "full_width": true,
         "padding_top": 8,
         "padding_bottom": 8
       }
