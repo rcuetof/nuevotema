@@ -1,48 +1,12 @@
-Puedes lograr el efecto que describiste utilizando CSS. Aquí hay un ejemplo básico de cómo puedes hacer que aparezca una línea debajo de los enlaces solo cuando el mouse está sobre ellos:
-
-```html
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        /* Estilo para los enlaces */
-        a {
-            text-decoration: none; /* Elimina la decoración predeterminada del enlace */
-            position: relative;
-            color: #333; /* Color del texto normal */
-        }
-
-        /* Estilo para la línea debajo del enlace */
-        a::after {
-            content: "";
-            position: absolute;
-            width: 100%;
-            height: 2px; /* Grosor de la línea */
-            bottom: 0;
-            left: 0;
-            background-color: #007bff; /* Color de la línea */
-            transform: scaleX(0); /* Inicialmente invisible */
-            transform-origin: bottom right;
-            transition: transform 0.3s ease; /* Agrega un efecto de transición suave */
-        }
-
-        /* Efecto al pasar el mouse sobre el enlace */
-        a:hover::after {
-            transform: scaleX(1); /* Hace visible la línea al 100% del ancho */
-            transform-origin: bottom left;
-        }
-    </style>
-</head>
-<body>
-
-    <a href="#">Enlace 1</a>
-    <a href="#">Enlace 2</a>
-    <a href="#">Enlace 3</a>
-
-</body>
-</html>
-```
-
-Este código CSS crea una línea debajo de cada enlace que se vuelve visible solo cuando el mouse está sobre el enlace, proporcionando un efecto de transición suave. Puedes personalizar los colores y estilos según tus preferencias ajustando las propiedades en el código.
+<style>
+.footer-block__brand-info {
+    a {
+      background-color: lavender;
+      position:unset;
+      width:48%;
+      line
+    }
+    a:hover {
+    }
+  }
+</style>
