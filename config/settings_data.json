@@ -98,10 +98,10 @@
     "badge_corner_radius": 40,
     "sale_badge_color_scheme": "scheme-4",
     "sold_out_badge_color_scheme": "scheme-3",
-    "brand_headline": "",
-    "brand_description": "<p><\/p>",
+    "brand_headline": "<a href=\"https:\/\/www.violettarc.com\/collections\/all?filter.v.price.gte=&filter.v.price.lte=&filter.p.product_type=Mini+Dress&sort_by=best-selling\" title=\"https:\/\/www.violettarc.com\/collections\/all?filter.v.price.gte=&filter.v.price.lte=&filter.p.product_type=Mini+Dress&sort_by=best-selling\">Mini Dresses<\/a> || <a href=\"https:\/\/www.violettarc.com\/collections\/all?filter.v.price.gte=&filter.v.price.lte=&filter.p.product_type=Midi+Dress&sort_by=best-selling\" title=\"https:\/\/www.violettarc.com\/collections\/all?filter.v.price.gte=&filter.v.price.lte=&filter.p.product_type=Midi+Dress&sort_by=best-selling\">Midi Dresses<\/a> || <a href=\"https:\/\/www.violettarc.com\/collections\/all?filter.p.product_type=Maxi+Dress&sort_by=best-selling\" title=\"https:\/\/www.violettarc.com\/collections\/all?filter.p.product_type=Maxi+Dress&sort_by=best-selling\">Maxi Dresses<\/a>",
+    "brand_description": "",
     "brand_image": "shopify:\/\/shop_images\/logo.png",
-    "brand_image_width": 100,
+    "brand_image_width": 155,
     "social_facebook_link": "",
     "social_instagram_link": "https:\/\/www.instagram.com\/violettarccompany",
     "social_youtube_link": "",
@@ -419,5 +419,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+
+    ]
   }
 }
