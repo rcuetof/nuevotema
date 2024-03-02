@@ -32,53 +32,6 @@
         "padding_bottom": 52
       }
     },
-    "image_with_text_mYKaDL": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_zHGazP": {
-          "type": "heading",
-          "settings": {
-            "heading": "Black Maxi Dresses for Any Occasion And Shopping Information",
-            "heading_size": "h2"
-          }
-        },
-        "text_LzUfiW": {
-          "type": "text",
-          "settings": {
-            "text": "<p><br\/>Black maxi dresses are undoubtedly one of those timeless elements that have stood the test of time, standing out for their elegance and versatility.<br\/><br\/><\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_69G8Rc": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read more",
-            "button_link": "",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_zHGazP",
-        "text_LzUfiW",
-        "button_69G8Rc"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Documento_A4_catalogo_de_productos_moderno_beige_y_blanco_1.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collapsible_content_Hkamm4": {
       "type": "collapsible-content",
       "blocks": {
@@ -87,7 +40,7 @@
           "settings": {
             "heading": "Privacy Policy",
             "icon": "heart",
-            "row_content": "<h2><\/h2><p>Violetta & RC's Privacy Policy details how personal information is collected via direct submissions, cookies, and third parties on their website. Collected data, such as contact details and orders, is utilized for services, marketing, and security.<\/p>",
+            "row_content": "<h2><\/h2><p><\/p>",
             "page": ""
           }
         },
@@ -134,9 +87,55 @@
         "color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43",
         "container_color_scheme": "scheme-16ca31d7-439c-4285-96f8-821e7cd31b43",
         "open_first_collapsible_row": false,
-        "image": "shopify:\/\/shop_images\/Fashion_3.png",
         "image_ratio": "adapt",
         "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_mYKaDL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_zHGazP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Black Maxi Dresses for Any Occasion And Shopping Information",
+            "heading_size": "h2"
+          }
+        },
+        "text_LzUfiW": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br\/>Black maxi dresses are undoubtedly one of those timeless elements that have stood the test of time, standing out for their elegance and versatility.<br\/><br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_69G8Rc": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read more",
+            "button_link": "",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_zHGazP",
+        "text_LzUfiW",
+        "button_69G8Rc"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_3.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -145,7 +144,7 @@
   "order": [
     "banner",
     "product-grid",
-    "image_with_text_mYKaDL",
-    "collapsible_content_Hkamm4"
+    "collapsible_content_Hkamm4",
+    "image_with_text_mYKaDL"
   ]
 }
