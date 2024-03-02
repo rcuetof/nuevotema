@@ -186,8 +186,8 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
-        "heading_size": "h1",
+        "heading": "",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "row",
         "color_scheme": "scheme-28341d26-9284-43b7-92e9-0c0ba4ced626",
