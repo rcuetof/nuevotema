@@ -14,6 +14,7 @@
       "blocks": {
         "collapsible_row_6EeVGg": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Short Dresses",
             "icon": "heart",
@@ -38,6 +39,53 @@
         "desktop_layout": "image_second",
         "padding_top": 8,
         "padding_bottom": 36
+      }
+    },
+    "image_with_text_xzAmC3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TqVi9C": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Fashion In Mini Dresses <\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_xFEtCi": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In the world of fashion, mini dresses are like flashes of charm. We invite you to learn more about this fashion that has conquered hearts and closets over the years. From classics like the little black dress, to floral mini dresses, mini dresses are versatile and full of personality. Are you ready to immerse yourself in this universe of style? Discover more about these iconic pieces on a journey full of miniature fashion. 🌟👗✨<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_JcLXre": {
+          "type": "button",
+          "settings": {
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/pages\/mini-dresses",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_TqVi9C",
+        "text_xFEtCi",
+        "button_JcLXre"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Violetta_Rc_26_1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-5",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 12
       }
     },
     "page_jwEH9E": {
@@ -131,53 +179,6 @@
         "padding_bottom": 36
       }
     },
-    "image_with_text_xzAmC3": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_TqVi9C": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em><strong>Fashion In Mini Dresses <\/strong><\/em>",
-            "heading_size": "h2"
-          }
-        },
-        "text_xFEtCi": {
-          "type": "text",
-          "settings": {
-            "text": "<p>In the world of fashion, mini dresses are like flashes of charm. We invite you to learn more about this fashion that has conquered hearts and closets over the years. From classics like the little black dress, to floral mini dresses, mini dresses are versatile and full of personality. Are you ready to immerse yourself in this universe of style? Discover more about these iconic pieces on a journey full of miniature fashion. 🌟👗✨<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_JcLXre": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read More",
-            "button_link": "shopify:\/\/pages\/mini-dresses",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_TqVi9C",
-        "text_xFEtCi",
-        "button_JcLXre"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Violetta_Rc_26_1.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-1",
-        "color_scheme": "scheme-5",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 12
-      }
-    },
     "collapsible_content_RiJcMz": {
       "type": "collapsible-content",
       "blocks": {
@@ -214,10 +215,10 @@
   "order": [
     "banner",
     "collapsible_content_TBGhpM",
+    "image_with_text_xzAmC3",
     "page_jwEH9E",
     "product-grid",
     "collapsible_content_9jMVxh",
-    "image_with_text_xzAmC3",
     "collapsible_content_RiJcMz"
   ]
 }
