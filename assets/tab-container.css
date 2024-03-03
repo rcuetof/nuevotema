@@ -22,7 +22,7 @@ body {
     overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
     cursor: pointer;
     padding: 5px 10px 5px 10px;
-    margin: 0 8px 10 px 8 px;
+    margin: 10px 10px 20px 10px;
     box-shadow: 0px 0px 5px rgba(60, 59, 59, 0.478);
     background-color: rgba(255, 255, 255, 0.658);
     text-align: center;
