@@ -24,12 +24,17 @@ body {
     box-shadow: 0px 0px 5px rgba(60, 59, 59, 0.478);
     background-color: rgba(255, 255, 255, 0.658);
     text-align: center;
+    border-radius: 5px;
     flex: 0 0 auto;
     transition: background-color 0.3s ease;
+    transition: all 0.9s;
 }
 
 .tab:hover {
     background-color: rgba(145, 126, 155, 0.285);
+    scale: 101%;
+    transform: rotate(0.2deg);
+    
 }
 
 .tab-content {
