@@ -14,12 +14,8 @@ body {
     white-space: nowrap;
     scrollbar-width: thin;
     -ms-overflow-style: none;
-}
-@media screen and (-webkit-min-device-pixel-ratio:0) {
-.tab-buttons{
     overflow-x: auto;
-}}
-
+}
 
 .tab {
     overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
