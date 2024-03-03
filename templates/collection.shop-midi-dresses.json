@@ -1,5 +1,15 @@
 {
   "sections": {
+    "page_4kDr6D": {
+      "type": "page",
+      "settings": {
+        "page": "tab-container",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 8
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "disabled": true,
@@ -139,6 +149,7 @@
     }
   },
   "order": [
+    "page_4kDr6D",
     "banner",
     "product-grid",
     "collapsible_content_WJQwMa",
