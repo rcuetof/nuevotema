@@ -11,9 +11,7 @@ body {
 .tab-buttons {
     overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
     display: flex;
-    padding: 0 5px 0 5px;
-    margin: 0 8px 10 px 8 px;
-    box-shadow: 0px 0px 2px rgba(60, 59, 59, 0.478);
+
     overflow-x: auto;
     white-space: nowrap;
     scrollbar-width: thin;
@@ -23,7 +21,9 @@ body {
 .tab {
     overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
     cursor: pointer;
-    padding: 10px;
+    padding: 5px 10px 5px 10px;
+    margin: 0 8px 10 px 8 px;
+    box-shadow: 0px 0px 2px rgba(60, 59, 59, 0.478);
     background-color: #ffffff;
     text-align: center;
     flex: 0 0 auto;
