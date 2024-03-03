@@ -12,6 +12,7 @@ body {
     overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
     display: flex;
     white-space: nowrap;
+    overflow-x: auto;
     scrollbar-width: thin;
     -ms-overflow-style: none;
 }
