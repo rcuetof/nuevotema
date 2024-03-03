@@ -51,6 +51,46 @@
         "padding_bottom": 16
       }
     },
+    "collection_list_qrcLf6": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_aPNC9e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "shopping-maxi-dresses"
+          }
+        },
+        "featured_collection_YAMRLD": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_VgwKWp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_aPNC9e",
+        "featured_collection_YAMRLD",
+        "featured_collection_VgwKWp"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -244,6 +284,7 @@
     "collapsible_content_TBGhpM",
     "banner",
     "page_jwEH9E",
+    "collection_list_qrcLf6",
     "product-grid",
     "featured_collection_Cqdada",
     "collapsible_content_9jMVxh",
