@@ -1,0 +1,39 @@
+.tabs-container {
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+.tab-buttons {
+    display: flex;
+}
+
+.tab {
+    cursor: pointer;
+    flex: 1;
+    padding: 10px;
+    background-color: #ffffff;
+    text-align: center;
+}
+
+.tab:hover {
+    background-color: rgba(145, 126, 155, 0.285);
+}
+.tab::after
+{
+    background-color: rgba(145, 126, 155, 0.285);  
+}
+
+.tab-content {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.tab-content h2 {
+    color: #333;
+    font-family: Alegreya;
+}
+
+.tab-content p {
+    color: #666;
+}

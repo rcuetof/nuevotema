@@ -1,4 +1,6 @@
 {{ 'section-main-page.css' | asset_url | stylesheet_tag }}
+{{ 'tab-container.css' | asset_url |  stylesheet_tag }}
+<script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
 
 {%- style -%}
   .section-{{ section.id }}-padding {
