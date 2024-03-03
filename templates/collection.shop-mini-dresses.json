@@ -199,6 +199,16 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "page_jwEH9E": {
+      "type": "page",
+      "settings": {
+        "page": "tab-container",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
     }
   },
   "order": [
@@ -207,6 +217,7 @@
     "product-grid",
     "collapsible_content_9jMVxh",
     "image_with_text_xzAmC3",
-    "collapsible_content_RiJcMz"
+    "collapsible_content_RiJcMz",
+    "page_jwEH9E"
   ]
 }
