@@ -1,3 +1,51 @@
+
+    <style>
+        body {
+            font-family: Alegreya, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .tabs-container {
+            max-width: 600px;
+            margin: 20px auto;
+        }
+
+        .tab-buttons {
+            display: flex;
+        }
+
+        .tab {
+            cursor: pointer;
+            flex: 1;
+            padding: 10px;
+            background-color: #ffffff;
+            text-align: center;
+        }
+
+        .tab:hover {
+            background-color: rgba(145, 126, 155, 0.285);
+        }
+        .tab::after
+        {
+            background-color: rgba(145, 126, 155, 0.285);  
+        }
+
+        .tab-content {
+            display: none;
+            padding: 20px;
+            border: 1px solid #ccc;
+        }
+
+        .tab-content h2 {
+            color: #333;
+            font-family: Alegreya;
+        }
+
+        .tab-content p {
+            color: #666;
+        }
+    </style>
 <div class="tabs-container">
     <div class="tab-buttons">
         <div class="tab" onclick="changeTab(1)">Plus Size</div>
@@ -61,4 +109,19 @@
     </div>
 </div>
 
+<script>
+    function changeTab(tabNumber) {
+        // Oculta todos los contenidos
+        var tabContents = document.getElementsByClassName("tab-content");
+        for (var i = 0; i < tabContents.length; i++) {
+            tabContents[i].style.display = "none";
+        }
+
+        // Muestra el contenido de la pestaña seleccionada
+        var selectedTabContent = document.getElementById("content" + tabNumber);
+        if (selectedTabContent) {
+            selectedTabContent.style.display = "block";
+        }
+    }
+</script>
 
