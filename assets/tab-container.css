@@ -2,8 +2,8 @@
 .tabs-container {
     max-width: 600px;
     margin: 20px auto;
-    overflow: hidden; /* Oculta la barra de desplazamiento horizontal en el contenedor de pestañas */
 }
+
 .tab-buttons {
 
     display: flex;
@@ -13,7 +13,7 @@
 }
 
 .tab {
-    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
+
     cursor: pointer;
     padding: 5px 10px 5px 10px;
     margin: 10px 10px 20px 10px;
