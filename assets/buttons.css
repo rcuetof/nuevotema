@@ -6,6 +6,7 @@
   }    
   .btn
   {
+    position: absolute;
   font-weight: 600;
   color: white;
   padding: 5px 8px 5px 8px;  
