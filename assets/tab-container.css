@@ -1,43 +1,45 @@
+body {
+    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
+}
 .tabs-container {
-    width: 90%;
-    margin: 2% auto;
+    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
+    max-width: 600px;
+    margin: 20px auto;
+    overflow: hidden; /* Oculta la barra de desplazamiento horizontal en el contenedor de pestañas */
 }
 
 .tab-buttons {
+    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
     display: flex;
+    overflow-x: auto;
+    white-space: nowrap;
+    scrollbar-width: thin;
+    -ms-overflow-style: none;
 }
 
 .tab {
-    font-size: 10px;
+    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
     cursor: pointer;
-    flex: 1;
-    margin: 0px 10px 20px 10px;
-    padding: 2px 8px 2px 8px;
+    padding: 10px;
     background-color: #ffffff;
-    width: 300px;
     text-align: center;
-    border-radius: 3px;
-    box-shadow: 0px 0px 2px rgba(60, 59, 59, 0.478);
-    text-overflow: ellipsis;
-    -webkit-line-clamp: 2;
-    white-space: normal;
+    flex: 0 0 auto;
+    transition: background-color 0.3s ease;
 }
 
 .tab:hover {
     background-color: rgba(145, 126, 155, 0.285);
 }
-.tab::after
-{
-    background-color: rgba(145, 126, 155, 0.285);  
-}
 
 .tab-content {
+    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
     display: none;
     padding: 20px;
     border: 1px solid #ccc;
+    box-sizing: border-box;
 }
 
-.tab-content h2 {
+.tab-content h3 {
     color: #333;
     font-family: Alegreya;
 }

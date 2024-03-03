@@ -1,5 +1,58 @@
+<style>
+    body {
+        overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
+    }
+    .tabs-container {
+        overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
+        max-width: 600px;
+        margin: 20px auto;
+        overflow: hidden; /* Oculta la barra de desplazamiento horizontal en el contenedor de pestañas */
+    }
+
+    .tab-buttons {
+        overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
+        display: flex;
+        overflow-x: auto;
+        white-space: nowrap;
+        scrollbar-width: thin;
+        -ms-overflow-style: none;
+    }
+
+    .tab {
+        overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
+        cursor: pointer;
+        padding: 10px;
+        background-color: #ffffff;
+        text-align: center;
+        flex: 0 0 auto;
+        transition: background-color 0.3s ease;
+    }
+
+    .tab:hover {
+        background-color: rgba(145, 126, 155, 0.285);
+    }
+
+    .tab-content {
+        overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
+        display: none;
+        padding: 20px;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+
+    .tab-content h3 {
+        color: #333;
+        font-family: Alegreya;
+    }
+
+    .tab-content p {
+        color: #666;
+    }
+</style>
+
+
 <div class="tabs-container">
-    <div class="tab-buttons">
+    <div class="tab-buttons" id="tabContainer">
         <div class="tab" onclick="changeTab(1)">Plus Size Mini Dresses</div>
         <div class="tab" onclick="changeTab(2)">Prom Mini Dresses</div>
         <div class="tab" onclick="changeTab(3)">Formal Mini Dresses</div>
@@ -7,55 +60,50 @@
         <div class="tab" onclick="changeTab(5)">Busniness Mini Dresses</div>
         <div class="tab" onclick="changeTab(6)">Party Mini Dresses</div>
         <div class="tab" onclick="changeTab(7)">Cocktail Mini Dresses</div>
-        <div class="tab" onclick="changeTab(8)">Bridesmaid Mini Dresses</div>        
+        <div class="tab" onclick="changeTab(8)">Bridesmaid Mini Dresses</div>
     </div>
 
     <div id="content1" class="tab-content">
-        <h3>Collection Plus size mini dresses</h3>
-        <p>Explore the world of plus-size mini dresses that celebrate your unique beauty. Our wide variety of models and colors includes the classic black mini dress for casual outings or even your best friend's wedding. Dive into the complete collection and discover the perfect floral mini dress for the spring season, ensuring you look beautiful all season long. Are you ready to conquer the world with your style? Fashion has evolved, and real women are the ones leading the charge, irrespective of size. Click here to explore the diverse range of options and elevate your fashion to the next level!</p>
-        <a href="">Discover Collection</a>
+        <!-- Contenido de la pestaña 1 -->
     </div>
-
-    <div id="content2" class="tab-content">
-        <h3>Prom Mini Dresses</h3>
-        <p>Do you want to look spectacular at your graduation party? Then don't miss our collection of prom mini dresses, the most elegant and fun short dresses that will make you shine. We have a wide variety of colors that adapt to your personality and style, from traditional white to timeless navy blue, romantic powder pink or glamorous champagne. Our prom mini dresses are perfect for dancing all night, but also for wearing on other special occasions, such as a date, a wedding, or an outing with friends. Don't wait any longer and choose the prom mini dress that you like the most, we guarantee that you will be the queen of the party!</p>
-        <a href="">Discover Collection</a>
-    </div>
-
-    <div id="content3" class="tab-content">
-        <h3>Formal Mini Dresses</h3>
-        <p>Are you looking for an elegant, sophisticated and versatile dress? Then don't miss our collection of formal mini dresses, ideal for any special occasion. Our dresses have flattering cuts, quality fabrics and details that make the difference. Additionally, you can choose from a variety of colors that suit this style, such as black, red, navy blue, or gold. With a formal mini dress, you will feel comfortable, confident and attractive, whether you are attending a wedding, graduation, gala dinner or an evening party. And the best of all is that you can reuse your dress on other occasions, combining it with different accessories and shoes. Don't hesitate and get your formal mini dress today. You'll love it!</p>
-        <a href="">Discover Collection</a>
-    </div>
-
-    <div id="content4" class="tab-content">
-        <h3>Casual Mini Dresses</h3>
-        <p>Are you looking for a comfortable, versatile and fashionable dress? Then don't miss our collection of casual mini dresses, perfect for any occasion. These dresses have a short, loose cut that allows you to move easily and show off your legs. In addition, they come in a variety of colors that adapt to your style, you can opt for magenta, a vibrant and feminine tone that brings energy and personality to your look, or you can choose a casual mini dress in green tones. Green represents freshness and Naturalness evokes nature and hope, a yellow mini dress is a cheerful option, yellow is a color that transmits luminosity and optimism, these colors are perfect for casual dresses, since they are fun, versatile and flattering. You can combine them with neutral or contrasting accessories, depending on the effect you want to achieve when attending an informal event, such as a party with friends, a romantic date or a walk around the city, and feel confident and attractive. You can also combine it with different accessories, such as shoes, bags or jewelry, to create different looks. Don't wait any longer and get your casual mini dress today. We assure you that you will not regret it. vary the colors for ones that have to do with casual dresses</p>
-        <a href="">Discover Collection</a>
-    </div>
-
-    <div id="content5" class="tab-content">
-        <h3>Busniness Mini Dresses</h3>
-        <p>Do you want a dress that makes you feel professional, elegant and fashionable at the same time? Then you can't miss our selection of business mini dresses, short dresses that combine formal style with a chic touch. We have a variety of designs that fit your silhouette and give you a sophisticated and modern look. You can choose between neutral colors, such as grey, beige or navy blue, or more striking colors, such as red, green or yellow. These dresses are ideal for going to the office, a business meeting or a corporate event, where you can impress with your image and your confidence. But you can also use them in other situations, such as a brunch, a cocktail party or a date, where you can show your most feminine and fun side. Don't think twice and get the business mini dress that you like the most, we assure you that you will love it.</p>
-        <a href="">Discover Collection</a>
-    </div>
-
-    <div id="content6" class="tab-content">
-        <h3>Party Mini Dresses</h3>
-        <p>Feel sexy, fun and fashionable at the same time, discover our collection of party mini dresses, we have short dresses that highlight your figure and make you shine on the runway. We have a variety of prints and fabrics that adapt to your taste, from animal print, floral, lace or sequins. You can choose between neutral colors, such as black, white or nude, or more daring colors, such as fuchsia, turquoise or gold. These dresses are perfect for going to a party, a club or a concert, where you can dance, laugh and enjoy the night. But you can also use them on other occasions, such as a birthday, a dinner or an after party, where you can surprise with your look and your attitude. Don't hesitate and get the party mini dress that you like the most, we promise you will feel incredible.</p>
-        <a href="">Discover Collection</a>
-    </div>
-
-    <div id="content7" class="tab-content">
-        <h3>Cocktail Mini Dresses</h3>
-        <p>Are you looking for an elegant, comfortable and versatile dress for that special party? Then don't miss our collection of mini cocktail dresses, ideal to show off your figure and your style. We have a wide variety of colors to suit every occasion, from classic black to vibrant red, sophisticated blue or romantic pink. Our cocktail dresses are made with quality fabrics, which will make you feel fresh and comfortable all night. In addition, they are easy to combine with accessories, shoes and coats, so you can wear them on any other occasion. Don't hesitate and come try our mini cocktail dresses, we guarantee you will fall in love with them.</p>
-        <a href="">Discover Collection</a>
-    </div>
-
-    <div id="content8" class="tab-content">
-        <h3>Bridesmaid Mini Dresses</h3>
-        <p>Are you looking for the perfect dress to accompany your special friend on the most important day of her life? Look no further, we have the mini bridesmaid dresses you need. Our dresses are stylish, comfortable and flattering, and come in a variety of colors to suit any style and personality. You can choose between pink, the color of sweetness and femininity, or mint green, the color of freshness and tranquility. With our dresses, you will feel beautiful and confident, and you will be able to enjoy the experience of being a bridesmaid without worrying about anything else. Don't hesitate, visit our collection and find the bridesmaid mini dress that will make you shine.</p>
-        <a href="">Discover Collection</a>
-    </div>
-
+    <!-- Repite el bloque para las pestañas restantes... -->
 </div>
+
+<script>
+    function changeTab(tabNumber) {
+        // Oculta todos los contenidos
+        var tabContents = document.getElementsByClassName("tab-content");
+        for (var i = 0; i < tabContents.length; i++) {
+            tabContents[i].style.display = "none";
+        }
+
+        // Muestra el contenido de la pestaña seleccionada
+        var selectedTabContent = document.getElementById("content" + tabNumber);
+        if (selectedTabContent) {
+            selectedTabContent.style.display = "block";
+        }
+    }
+
+    // Variables para el desplazamiento con el mouse
+    var isMouseDown = false;
+    var initialX = 0;
+
+    // Agrega eventos para el desplazamiento con el mouse
+    var tabContainer = document.getElementById("tabContainer");
+    tabContainer.addEventListener("mousedown", function (event) {
+        isMouseDown = true;
+        initialX = event.clientX;
+    });
+
+    tabContainer.addEventListener("mouseup", function () {
+        isMouseDown = false;
+    });
+
+    tabContainer.addEventListener("mousemove", function (event) {
+        if (isMouseDown) {
+            var delta = initialX - event.clientX;
+            tabContainer.scrollLeft += delta;
+            initialX = event.clientX;
+        }
+    });
+</script>

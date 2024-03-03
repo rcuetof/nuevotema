@@ -11,3 +11,26 @@ function changeTab(tabNumber) {
         selectedTabContent.style.display = "block";
     }
 }
+
+// Variables para el desplazamiento con el mouse
+var isMouseDown = false;
+var initialX = 0;
+
+// Agrega eventos para el desplazamiento con el mouse
+var tabContainer = document.getElementById("tabContainer");
+tabContainer.addEventListener("mousedown", function (event) {
+    isMouseDown = true;
+    initialX = event.clientX;
+});
+
+tabContainer.addEventListener("mouseup", function () {
+    isMouseDown = false;
+});
+
+tabContainer.addEventListener("mousemove", function (event) {
+    if (isMouseDown) {
+        var delta = initialX - event.clientX;
+        tabContainer.scrollLeft += delta;
+        initialX = event.clientX;
+    }
+});
