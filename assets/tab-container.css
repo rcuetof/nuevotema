@@ -3,8 +3,8 @@ body {
 }
 .tabs-container {
     overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
-    max-width: 750px;
-    margin: 20px auto;
+    max-width: 650px;
+    margin: 2% auto;
     overflow: hidden; /* Oculta la barra de desplazamiento horizontal en el contenedor de pestañas */
 }
 
