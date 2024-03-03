@@ -15,7 +15,8 @@
   transition: all 0.9s;
   background-color: rgba(169, 151, 211, 0.85);
   left: 50%;
-  transform: translate(5%, -50%);
+  top:120%
+  transform: translate(-50%, -50%);
   }
   .btn:hover
   {
