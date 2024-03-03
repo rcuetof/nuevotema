@@ -1,147 +1,20 @@
+/*POSICIONES*/
+.top-izq {top:10%;left:35%;}
+.top-der {top:30%;left:68%;}
+.bot-izq {top:65%;left:35%;}
+.bot-der {top:65%;left:73%;}
+.center {top:50%;left:50%;}
+/*ENDPOSICIONES*/
+
+
 /*COLORES*/
 .pink-text{color: #cda6ec;}
-.black-text
-{color: #000000;}
-.white-text
-{color: #ffffff;}
+.black-text{color: #000000;}
+.white-text{color: #ffffff;}
 .black-produc{border: 10px solid #000000; border-bottom: 50px solid #000000;}
 .pink-produc{border: 10px solid #cda6ec; border-bottom: 50px solid #cda6ec;}
 .white-produc{border: 10px solid #ffffff; border-bottom: 50px solid #ffffff;}
-/*BOTONES*/
-.text-btn
-{
-  margin-top:-250px;
-  padding: 30px;
-  color: white;
-  font-size: 24px;
-}
-.tar-mini-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/mini.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-maxi-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/maxi.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-midi-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/midi.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-beach-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/beach.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-bridesmaid-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/bridesmaid.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-casual-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/casual.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-cocktail-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/cocktail.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-floral-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/floral.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-formal-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/formal.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-graduation-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/graduation.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-party-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/party.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-psize-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/plussize.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-saten-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/saten.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-sweater-b {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/swater.png'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.tar-style
-{
-    display: block; 
-    width: 100px; /* Ancho de la imagen */
-    height: 150px; /* Alto de la imagen */
-    margin-left: 1px;
-    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
-    outline: none; /* Quita el contorno al hacer clic */
-    transition: transform 1s ease-in-out;
-    text-decoration: none; 
-}
-.tar-style h4
-{
- position:relative;
- font-weight: 900;
- top: 82%;
- text-align: center;
- background-color: rgba(0, 0, 0, 0.20);
 
-}
-
-.tar-container {
-    display: flex;
-    height: 200px;  
-    width: 100%; /* Ancho al 100% del viewport */
-    overflow-x: auto; /* Utiliza auto en lugar de scroll */
-    scroll-snap-type: x mandatory;
-    scroll-behavior: smooth; /* Agrega desplazamiento suave */
-    white-space: nowrap; /* Evita que las tarjetas se envuelvan a la siguiente línea */
-}
-.tar-container::-webkit-scrollbar {
-    display: none;
-}
-.tar-card {
-    flex: 0 0 auto; /* Para que las tarjetas no se agranden para llenar el espacio disponible */
-    margin-right: -1px; /* Espacio entre las tarjetas */
-}
-
-
-
-html {
-  scroll-behavior: smooth;
-}
 .boton-container {
     display: flex;
     justify-content: space-between; /* Distribuye los botones equitativamente */
@@ -159,43 +32,8 @@ html {
     z-index: 1;  
     margin-top: -33px;
 }
-.boton-style:hover {
-    transform: translateY(-5px); /* Desplaza el botón hacia arriba al pasar el mouse */
-}
-.boton-home {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/home_14def66e-6930-4810-a5a9-3c29aa49e8b9.png?v=1708730811'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
 
-.boton-shopping {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/shopping.png?v=1708730833'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-
-.boton-read {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/readmore.png?v=1708730956'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.boton-catdress {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/vewcat.png?v=1708730977'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-.boton-up {
-    background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/up.png?v=1708730991'); /*   imagen PNG */
-    background-position: center;  
-    background-size: contain; /* Ajusta el tamaño de la imagen */
-    background-repeat: no-repeat;
-}
-/*BOTONES*/
-/*BLACKDRESSES*/
+/*FOTOREVISTA*/
 .fotorevista {
   position: relative;
   text-align: center;
@@ -212,12 +50,6 @@ html {
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
       transform: translate(-50%, -50%);
     } 
-
-.top-izq {top:10%;left:35%;}
-.top-der {top:30%;left:68%;}
-.bot-izq {top:65%;left:35%;}
-.bot-der {top:65%;left:73%;}
-.center {top:50%;left:50%;}
 
   .text-revista-black h1
     {
@@ -236,15 +68,13 @@ html {
     {font-size: 38px;}
 
 }
-
-
-/*BLACKDRESSES*/    
+/*FOTOREVISTA*/    
 
 .btn-cat {
       position: absolute;
       width: 20%;
       height: 15%;
-      background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/Rosado_Nota_Desarrollo_Comunitario_Universidad_Boton_de_Canvas.gif?v=1708670815');
+      background-image: url('');
       background-size: contain;
       background-repeat: none;
       animation: desaparecer 3s 4s forwards, aparecer 3s 9s forwards, repetir 3s 10s infinite;
@@ -261,7 +91,7 @@ html {
       background-repeat: no-repeat; 
       width: 100px;
       height: 40px;
-      background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/shop.gif?v=1707964091');
+      background-image: url('https://cdn.shopify.com/s/files/1/0588/7960/6899/files/shop.gif');
       background-size: contain;
       animation: rebote 3s ease-in-out 1s, desaparecer 1s 4s forwards, aparecer 1s 9s forwards, repetir 1s 10s infinite;
       transition: all 0.9s;
@@ -317,96 +147,11 @@ html {
   }
 /*BOTRONCOMPRA*/
 
-/*LETRAXLETRA*/
-.fade span {
-display: inline-block;
-opacity: 0;
-transform: translateY(1em);
-color: #deb5ff;
-animation: aparecer 1s forwards;
-animation-delay: 0.5s; /* Opcional: ajusta el retraso inicial */
-}
-
-@keyframes aparecer {
-to {
-  opacity: 1;
-  transform: translateY(0);
-}
-}
-/**LETRAXLETRA**/
-
-
-
-.slider-container {
-          position: relative;
-          width: 100%;
-          overflow: hidden;
-      }
-
-      .slider {
-          display: flex;
-          transition: transform 1s ease-in-out;
-      }
-
-      .slide {
-          min-width: 100%;
-          box-sizing: border-box;
-          position: relative;
-      }
-      .text-black h2 {
-          position: absolute;
-          top: 50%;
-          left: 10%;
-          transform: translateY(-50%);
-          z-index: 1;
-          width: 80%;
-          text-align: left;
-          font-size: 30;
-          font-family: 'Alegreya', sans-serif;
-          font-size: 2em;
-          margin: 0;
-          color: black;
-      }
-      .text-white h2 {
-          position: absolute;
-          top: 50%;
-          left: 10%;
-          transform: translateY(-50%);
-          z-index: 1;
-          width: 80%;
-          text-align: left;
-          font-size: 30;  
-          font-family: 'Alegreya', sans-serif;
-          font-size: 2em;
-          margin: 0;
-          color: white;
-      }
-.slider img {
-          width: 100%;
-          height: auto;
-      }
-
-      .slider-control {
-          position: absolute;
-          top: 50%;
-          width: 100%;
-          display: flex;
-          justify-content: space-between;
-          transform: translateY(-50%);
-      }
-      .slider-control button {
-          background: none;
-          border: none;
-          cursor: pointer;
-          font-size: 1.5em;
-          color: #fff;
-          display: flex;
-          align-items: center;
-      }
 
 .page-title {
 margin-top: 0;
 }
+
 .main-page-title {
 margin-bottom: 3rem;
 }
@@ -425,7 +170,8 @@ justify-content: center;
 width: 52.5rem;
 height: 52.5rem;
 }
-/* Estilo para el contenedor de bloques de productos */
+
+/* Estilo para el contenedor de bloques de productos ----------------------------------------------*/
 .producto-container {
 display: flex;
 flex-wrap: wrap;
@@ -473,6 +219,9 @@ font-family: Alegreya;
 font-weight: 900;
 position: absolute;
 text-align: center;
+text-overflow: ellipsis;
+-webkit-line-clamp: 2;
+white-space: normal;
 }
 /* Estilo para el texto flotante */
 .texto-flotante {
@@ -493,54 +242,49 @@ text-align: center;
 opacity: 0.7;
 }
 
+/* Estilo para el contenedor de bloques de productos ----------------------------------------------*/
 
-.collections-white {
-border: 5px solid #ffffff; /* Color del borde */
-border-bottom: 60px solid #ffffff; /* Color del borde */
-border-radius: 10px; /* Bordes redondeados (asegúrate de que sea un valor positivo) */
-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
-transition: transform 0.3s ease-in-out; /* Transición suave al pasar el ratón */
-position: relative; /* Cambiado a relative para que sea un bloque consecutivo en el cuerpo de la página */
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
+@media screen and (max-width: 768px) { /*MOVIL*/
+.producto-container{margin: 1%;}
+.producto
+{
+height: 340px;
+}
+.producto p 
+{
+  transform: translate(-50%, -50%);
+  top: 105%;
+  left: 50%;
+  font-size: 10px;
+}
+.contenido h3
+{font-size: 14px;}
+.contenido p
+{font-size: 12px;}
+}
+@media screen and (min-width: 769px) { /*COMPUTADORA*/
+.producto-container{
+    margin-left: 18%;
+    margin-right: 18%;
+    }
+.producto {
+height: 610px;
+}
+.producto p 
+{
+  transform: translate(-50%, -50%);
+  top: 102%;
+  left: 50%;
+  font-size: 16px;
+}
+.contenido h3
+{font-size: 17px;font-weight: 700;}
+.contenido p
+{font-size: 14px;}
+}
 
-}
-.collections-black {
-  border: 5px solid #000000; /* Color del borde */
-  border-bottom: 60px solid #000000; /* Color del borde */
-  border-radius: 10px; /* Bordes redondeados (asegúrate de que sea un valor positivo) */
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
-  transition: transform 0.3s ease-in-out; /* Transición suave al pasar el ratón */
-  position: relative; /* Cambiado a relative para que sea un bloque consecutivo en el cuerpo de la página */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  /* Pseudo-elemento para crear el marco inferior blanco */
-}
-  .collections::after {
-content: '';
-display: block;
-width: 100%;
-height: 30px; /* Altura del marco blanco, ajusta según sea necesario */
-background-color: white; /* Color del fondo blanco */
-bottom: 0; /* Ajustado para que sea fijo */
-left: 0;
-z-index: -1; /* Para que el marco blanco esté detrás del contenido */
-}
 
-/* Estilo para el texto dentro de .collections */
-.collections p {
-font-size: 14px; /* Ajusta según sea necesario */
-color: #333; /* Color del texto */
-text-align: center;
-margin: 0;
-padding: 5px;
-position: absolute; /* Cambiado a absolute para que el texto sea fijo */
-bottom: -10%; /* Asegúrate de que el texto esté en la parte inferior */
-left: 0; /* Asegúrate de que el texto esté alineado a la izquierda */
-width: 100%; /* Asegúrate de que el texto ocupa todo el ancho disponible */
-}
+/*CONTENIDOBLOQUE*/
 .contenido
 {
 border-radius: 10px; /* Bordes redondeados (asegúrate de que sea un valor positivo) */ 
@@ -552,67 +296,5 @@ font-weight: 500;
 font-style: italic;
 margin-bottom: 10px;
 }
-@media screen and (max-width: 768px) { /*MOVIL*/
-    .producto-container{margin: 1%;}
-.producto
-{
-height: 340px;
-}
-.producto p 
-{
-  transform: translate(-50%, -50%);
-  top: 105%;
-  margin-left: -30%;
-  margin-right: -30%;
-  left: 80%;
-  font-size: 10px;
-}
-.collections
-{
-max-width: 50%;
-height: 360px;
-}
-.collections img
-{
-height: 280px;
-width: 100%;
-}
-}
-.contenido h3
-{font-size: 14px;}
-.contenido p
-{font-size: 12px;}
-@media screen and (min-width: 769px) { /*COMPUTADORA*/
-.producto-container{
-    margin-left: 18%;
-    margin-right: 18%;
-    }
-    .producto {
-height: 600px;
-}
-.collections
-{
-max-width: 50%;
-height: 600px;
-}
-.producto p 
-{
-  transform: translate(-50%, -50%);
-  top: 102%;
-  margin-left: -30%;
-  margin-right: -30%;
-  left: 80%;
-  font-size: 16px;
-}
-.collections img
-{
- width: 100%;
- height: 600;
-}
-.contenido h3
-{font-size: 17px;font-weight: 700;}
-.contenido p
-{font-size: 14px;}
-}
-
+/*CONETENDIOBLOQUEDND*/
 
