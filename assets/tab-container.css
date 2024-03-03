@@ -11,8 +11,6 @@ body {
 .tab-buttons {
     overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
     display: flex;
-
-    overflow-x: auto;
     white-space: nowrap;
     scrollbar-width: thin;
     -ms-overflow-style: none;
