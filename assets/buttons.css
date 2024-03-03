@@ -4,7 +4,7 @@
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 10px;
   }    
-  .btn
+.btn
   {
   position: absolute;
   font-weight: 600;
@@ -15,15 +15,13 @@
   background-color: rgba(145, 126, 155, 0.285);
   left: 40%;
   top:auto;
-  transition: rotate 0.9s;
+  transition: all 0.9s;
   }
-  .btn:hover
+.btn:hover
   {
-  scale: 101%;
   transform: rotate(0.2deg);
   color: rgb(254, 255, 216);
   rotate: 10px;
   box-shadow: 0px 0px 8px rgba(60, 59, 59, 0.478);
-  
-  }         
+}         
   /*cajon de botones*/
