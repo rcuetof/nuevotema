@@ -46,18 +46,20 @@
         "column_p6xdra": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "image": "shopify:\/\/shop_images\/1000047189.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Mini Pink Dresse",
             "link": ""
           }
         },
         "column_86hxwM": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "image": "shopify:\/\/shop_images\/1000047187.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "White Mini Dresses",
             "link": ""
           }
         }
@@ -80,8 +82,8 @@
         "color_scheme": "scheme-5",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
