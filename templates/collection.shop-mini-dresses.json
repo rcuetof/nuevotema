@@ -37,6 +37,60 @@
         "padding_bottom": 16
       }
     },
+    "multicolumn_rPCUhY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_gX4gff": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/547df9b40e764a8587db2f84a52daa2b-Max.jpg",
+            "title": "<strong>Party Dresses<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8XbxmH": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_axn7iz": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>P<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_gX4gff",
+        "column_8XbxmH",
+        "column_axn7iz"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 8,
+        "padding_bottom": 0
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -54,34 +108,6 @@
         "enable_sorting": true,
         "columns_mobile": "2",
         "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection_Cqdada": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured collection",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "mini-dresses-category",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -230,8 +256,8 @@
     "collapsible_content_TBGhpM",
     "banner",
     "page_jwEH9E",
+    "multicolumn_rPCUhY",
     "product-grid",
-    "featured_collection_Cqdada",
     "collapsible_content_9jMVxh",
     "image_with_text_xzAmC3",
     "collapsible_content_RiJcMz"
