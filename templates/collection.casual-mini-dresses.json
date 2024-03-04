@@ -37,7 +37,7 @@
           "type": "heading",
           "settings": {
             "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "text_JBJyKp": {
@@ -97,8 +97,8 @@
         "column_reewV8"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
+        "title": "",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,

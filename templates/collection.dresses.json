@@ -2,14 +2,16 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "scheme-1"
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 16,
         "columns_desktop": 4,
@@ -27,10 +29,78 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_8zCBPL": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kPbapR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/76133788152c4ee6b86cb40bdf3da826-Max.jpg",
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fNkPF6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8255a5595104405383cec3f090b76c6e-Min_05e44384-bd70-487b-9d00-ef14d585a334.jpg",
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_bXqXHc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/74afad39eed94404b5ca936791bf9a6c-Min.jpg",
+            "title": "Column",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qRFxan": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/547df9b40e764a8587db2f84a52daa2b-Max.jpg",
+            "title": "Column",
+            "text": "",
+            "link_label": "mini dresses",
+            "link": "shopify:\/\/pages\/tab-container"
+          }
+        }
+      },
+      "block_order": [
+        "column_kPbapR",
+        "column_fNkPF6",
+        "column_bXqXHc",
+        "column_qRFxan"
+      ],
+      "settings": {
+        "title": "Dresses",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 6,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "multicolumn_8zCBPL"
   ]
 }
