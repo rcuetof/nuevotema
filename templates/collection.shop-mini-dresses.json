@@ -41,16 +41,6 @@
         "color_scheme": "scheme-1"
       }
     },
-    "page_jwEH9E": {
-      "type": "page",
-      "settings": {
-        "page": "tab-container",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 16
-      }
-    },
     "collection_list_qrcLf6": {
       "type": "collection-list",
       "blocks": {
@@ -63,13 +53,13 @@
         "featured_collection_YAMRLD": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "black-mini-dresses"
           }
         },
         "featured_collection_VgwKWp": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "blue-mini-dresses-1"
           }
         }
       },
@@ -89,6 +79,16 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "page_jwEH9E": {
+      "type": "page",
+      "settings": {
+        "page": "tab-container",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 16
       }
     },
     "product-grid": {
@@ -283,8 +283,8 @@
   "order": [
     "collapsible_content_TBGhpM",
     "banner",
-    "page_jwEH9E",
     "collection_list_qrcLf6",
+    "page_jwEH9E",
     "product-grid",
     "featured_collection_Cqdada",
     "collapsible_content_9jMVxh",
