@@ -7,7 +7,10 @@
         {% case block.type %}
           {% when 'text' %}
             {% if block.settings.title != blank %}
-              <div class="tab" onclick="changeTab({{ tabn }})">{{ block.settings.title }}</div>      
+              <div class="tab" onclick="changeTab({{ tabn }})" 
+                {%- if block.settings.image != blank -%} 
+                  style="background-image: url('{{ block.settings.image | image_url: width: 150 }} ');"
+                {% endif %}>{{ block.settings.title }}</div>      
             {% endif %}
         {% endcase %}
         {%- assign tabn = tabn | plus: 1 -%}
@@ -21,10 +24,7 @@
             <div id="content{{ tabn }}" class="tab-content">
                 <h3>{{ block.settings.title }}</h3>
                 <p>{{ block.settings.text }}</p>
-                <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a>
-                  {%- if block.settings.image != blank -%}
-                    <img  src="{{ block.settings.image | image_url: width: 150 }}" alt="{{ block.settings.title }}" width="150" height="200">
-                  {%- endif -%}
+                <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a>              
             </div>
           {% endif %}
       {% endcase %}
@@ -34,7 +34,7 @@
   
 {% schema %}
     {
-      "name": "TAB",
+      "name": "TAB-CATEGORIAS",
       "blocks": [
         {
           "type": "text",
@@ -43,14 +43,13 @@
             {
               "type": "text",
               "id": "title",
-              "label": "Heading",
-              "default": "Talk about your brand"
+              "label": "Heading"
             },
             {
               "type": "textarea",
               "id": "text",
-              "label": "Texto",
-              "default": "<p></p>"
+              "label": "Texto"
+              
             },
             {
                 "type": "image_picker",
