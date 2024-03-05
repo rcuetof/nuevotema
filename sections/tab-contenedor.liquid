@@ -1,8 +1,11 @@
 {{ 'tab-container.css' | asset_url | stylesheet_tag }}
 <script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
+{%- comment -%}
+  
 
 {%- assign numbertab = 0 -%}
-  {% for block in section.blocks %}
+{%- assign numbertab = numbertab + 1 -%}  
+{% for block in section.blocks %}
     {% case block.type %}
     {% when 'text' %}
       <div class="tabs-container">
@@ -20,11 +23,30 @@
             </div>
         {% endif %}
     </div>
+  {% endcase %}    
+  {% endfor %}
+{%- endcomment -%}
+
+{%- assign numbertab = 0 -%}
+  {% for block in section.blocks %}
+    {% case block.type %}
+    {% when 'text' %}
+      <div class="tabs-container">
+        {% if block.settings.categoria != blank  %}
+            <div class="tab-buttons" id="tabContainer">
+                <div class="tab" onclick="changeTab({{ numbertab }})">{{ block.settings.categoria }}</div>
+            </div>
+            <div id="content{{numbertab}}" class="tab-content">
+              <h3>{{ block.settings.categoria }}</h3>
+              <p>{{ block.settings.parrafo }}</p>
+              <img width="300" height="200" src="{{ block.settings.imagecat |  url_decode }}">
+              <a href="{{ block.settings.btnlink }}" class="btn">{{ block.settings.btbtxt }}</a>
+            </div>
+        {% endif %}
+    </div>
     {%- assign numbertab = numbertab + 1 -%}  
   {% endcase %}    
   {% endfor %}
-
-
 
 {% schema %}
 {
