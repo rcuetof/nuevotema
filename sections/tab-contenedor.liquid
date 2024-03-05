@@ -1,41 +1,34 @@
 {{ 'tab-container.css' | asset_url | stylesheet_tag }}
 <script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
-
-
-{%- assign numbertab = 0 -%}
+<div class="page-width page-content">
   {% for block in section.blocks %}
     {% case block.type %}
     {% when 'section' %}
       <div class="tabs-container">
         {% if block.settings.categoria != blank  %}
             <div class="tab-buttons" id="tabContainer">
-                <div class="tab" onclick="changeTab({{ numbertab }})">{{ block.settings.categoria }}</div>
+                <div class="tab" onclick="changeTab(1)" style="background-image: url('{{ block.settings.imagecat | url_decode }}');">{{ block.settings.categoria }}</div>
             </div>
-            <div class="tab-content" id="content{{numbertab}}">
-                <h3>{{ block.settings.categoria }}</h3>
-                <p>{{ block.settings.parrafo }}</p>
-                <img width="300" height="200" src="{{ block.settings.imagecat }}">
-                <a href="{{ block.settings.btnlink }}" class="btn">{{ block.settings.btbtxt }}</a>
-            </div>
+        {% endif %}   
+        {% if section.settings.contenido != blank %}
+        <div id="content1" class="tab-content">
+        <h3>{{ block.settings.categoria }}</h3>
+        <p>{{ block.settings.parrafo }}</p>
+        <a href="{{ block.settings.btnlink }}" class="btn">{{ block.settings.btbtxt }}</a></div>
         {% endif %}
     </div>
-    {%- assign numbertab = numbertab + 1 -%}  
-  {% endcase %}    
+     {% endcase %}
   {% endfor %}
+</div>
+
 
 {% schema %}
 {
-<<<<<<< HEAD
-  
-  "name": "tab-container",
-=======
-  "name": "Contenedor TAB",
->>>>>>> parent of a9c5e16 (Update from Shopify for theme nuevotema/main)
+  "name": "tab-tontainer",
   "blocks": [
     {
-        "type": "text",
-        "id": "text",
-        "name": "text",
+      "type": "section",
+      "name": "Text",
       "settings": [
       {
         "type" : "text" ,
@@ -51,7 +44,7 @@
       {
         "type": "textarea",
         "id": "parrafo",
-        "label": "<p>Contenido de Contenedor</p>"
+        "label": "Contenido de Contenedor"
       },
       {
         "type": "url",
