@@ -24,7 +24,7 @@
                 <h3>{{ block.settings.title }}</h3>
                 <p>{{ block.settings.text }}</p>
                 <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a></div>
-                {%- if product.featured_media != blank -%}
+                {%- if block.settings.image != blank -%}
                   <img  src="{{ block.settings.image | image_url: width: 150 }}" alt="{{ block.settings.title }}" width="150" height="200">
                 {%- endif -%}
                 
