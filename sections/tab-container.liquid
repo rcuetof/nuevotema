@@ -5,7 +5,7 @@
 <div class="page-width page-content">
 {%- assign tabn = 1 -%}
 <div class="tabs-container">
-    <div class="tab-buttons" id="tabContainer"></div>
+    <div class="tab-buttons" id="tabContainer">
       {% for block in section.blocks %}
         {% case block.type %}
           {% when 'text' %}
