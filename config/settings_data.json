@@ -133,22 +133,33 @@
           "color_scheme": "scheme-1"
         }
       },
-      "tab-contenedor": {
-        "type": "tab-contenedor",
+      "tab-container": {
+        "type": "tab-container",
         "blocks": {
-          "text_eDWBLD": {
+          "text_fnCiB9": {
             "type": "text",
             "settings": {
-              "categoria": "Mini Vestidos",
-              "imagecat": "shopify:\/\/shop_images\/a71c63b5180e44f9b797657b3812d4f3-Max.jpg",
-              "parrafo": "KJLJLJK",
-              "btnlink": "shopify:\/\/collections\/red-mini-dresses",
-              "btntxt": "Ver"
+              "title": "Mini Dresses",
+              "text": "<p>Cositas de Vestidos<\/p>",
+              "image": "shopify:\/\/shop_images\/aa5ee88ca3854bc1984219a66325a4c8-Max.jpg",
+              "btn": "",
+              "btntxt": "Discover Collection"
+            }
+          },
+          "text_DJtxCT": {
+            "type": "text",
+            "settings": {
+              "title": "Midi Dresses",
+              "text": "<p>a;lka;lka;lka;ss<\/p>",
+              "image": "shopify:\/\/shop_images\/76133788152c4ee6b86cb40bdf3da826-Max.jpg",
+              "btn": "",
+              "btntxt": "Discover Collection"
             }
           }
         },
         "block_order": [
-          "text_eDWBLD"
+          "text_fnCiB9",
+          "text_DJtxCT"
         ],
         "settings": {
         }
