@@ -1,17 +1,15 @@
 {{ 'tab-container.css' | asset_url | stylesheet_tag }}
 <script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
 
-
+{%- assign numbertab = 0 -%}
   {% for block in section.blocks %}
-  {%- assign numbertab = 0 -%}
     {% case block.type %}
     {% when 'text' %}
       <div class="tabs-container">
         {% if block.settings.categoria != blank  %}
             <div class="tab-buttons" id="tabContainer">
                 <div class="tab" onclick="changeTab({{ numbertab }})">{{ block.settings.categoria }}</div>
-                
-                </div>
+            </div>
         {% endif %}   
         {% if block.settings.parrafo != blank %}
         <div id="content{{numbertab}}" class="tab-content">
