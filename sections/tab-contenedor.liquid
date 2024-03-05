@@ -9,6 +9,7 @@
         {% if block.settings.categoria != blank  %}
             <div class="tab-buttons" id="tabContainer">
                 <div class="tab" onclick="changeTab({{ numbertab }})">{{ block.settings.categoria }}</div>
+                <div class="tab" onclick="changeTab({{ numbertab + 1 }})">{{ block.settings.categoria }}</div>
             </div>
         {% endif %}   
         {% if block.settings.parrafo != blank %}
