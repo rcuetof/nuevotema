@@ -1,0 +1,52 @@
+{{ 'tab-container.css' | asset_url | stylesheet_tag }}
+<script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
+
+<div class="tabs-container">
+    {% if section.settings.categoria != blank  %}
+        <div class="tab-buttons" id="tabContainer">
+            <div class="tab" onclick="changeTab(1)" style="background-image: url('{{ section.settings.imagecat | url_decode }}');">{{ section.settings.categoria }}}</div>
+        </div>
+    {% endif %}   
+    {% if section.settings.contenido != blank %}
+    <div id="content1" class="tab-content">
+    <h3>{{ section.settings.categoria }}</h3>
+    <p>{{ section.settings.parrafo }}</p>
+    <a href="{{ section.settings.btnlink }}" class="btn">{{ section.settings.btbtxt }}</a></div>
+    {% endif %}
+</div>
+{% schema %}
+  {
+    "name": "tab-container",
+    "tag": "section",
+    "class": "tab-container.css",
+    "settings": [
+      {
+        "type" : "text" ,
+        "id" : "categoria" ,
+        "label" : "Categoria" ,
+        "default": "Introdusca de la Categoria"
+      },
+      {
+       "type": "image_picker",
+       "id": "imagecat",
+       "label": "Imagen de Categoria"
+      },
+      {
+        "type": "textarea",
+        "id": "parrafo",
+        "label": "Contenido de Contenedor"
+      },
+      {
+        "type": "url",
+        "id": "btnlink",
+        "label": "URL"
+      },
+      {
+        "type": "text",
+        "id": "btntxt",
+        "label": "Texto del Boton"
+      }
+
+    ]
+ }
+{% endschema %}

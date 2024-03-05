@@ -1,0 +1,79 @@
+.contenedor-style {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.style {
+    width: calc(25% - 20px); /* 4 productos en una fila para pantallas grandes */
+    margin-bottom: 20px;
+    position: relative;
+    width: 48%; /* Ajusta el ancho según tus necesidades */
+    margin-bottom: 20px;
+    padding: 30px;
+    border-radius: 3px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgb(226, 225, 225); /* Sombra suave */
+    transition: transform 0.3s ease-in-out; /* Transición suave al pasar el ratón */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: all 1s;
+}
+@media screen and (min-width: 769px) { /*COMPUTADORA*/
+    .contenedor-style{
+        margin-left: 18%;
+        margin-right: 18%;
+        }
+    .style {
+    height: 610px;
+    }
+    .style p 
+    {
+      transform: translate(-50%, -50%);
+      top: 102%;
+      left: 50%;
+      font-size: 16px;
+    }
+
+}
+/* Media query para pantallas más pequeñas (por ejemplo, dispositivos móviles) */
+@media (max-width: 768px) {
+.style {
+    width: calc(50% - 20px); /* 2 productos en una fila para pantallas más pequeñas */
+    height: 340px;
+    }
+
+
+.style p {
+    transform: translate(-50%, -50%);
+    top: 105%;
+    left: 50%;
+    font-size: 12px;
+}
+}
+
+/* Efecto al pasar el ratón sobre cada bloque de producto */
+.style:hover {
+    transform: scale(1.05); /* Escalar un poco al pasar el ratón */
+    rotate: 4g;
+}
+
+.style h3 {
+    font-size: 16px;
+    color: #333; /* Color del título */
+    margin-bottom: 10px;
+    font-family: Alegreya;
+    }
+    
+    .style p {
+    color: #ffffff;
+    font-weight: 900;
+    position: absolute;
+    text-align: center;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    white-space: normal;
+    }
