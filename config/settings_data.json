@@ -155,11 +155,22 @@
               "btn": "",
               "btntxt": "Discover Collection"
             }
+          },
+          "text_gw4zdj": {
+            "type": "text",
+            "settings": {
+              "title": "Maxi",
+              "text": "<p>jljxlkjxljlalamjlkxx<\/p>",
+              "image": "shopify:\/\/shop_images\/f4979ad4a89f4010a09af815c5b1599b-Min.jpg",
+              "btn": "",
+              "btntxt": "Discover Collection"
+            }
           }
         },
         "block_order": [
           "text_fnCiB9",
-          "text_DJtxCT"
+          "text_DJtxCT",
+          "text_gw4zdj"
         ],
         "settings": {
         }
