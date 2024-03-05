@@ -24,10 +24,11 @@
             <div id="content{{ tabn }}" class="tab-content">
                 <h3>{{ block.settings.title }}</h3>
                 <p>{{ block.settings.text }}</p>
-                <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a></div>
-                  {%- if block.settings.media != blank -%}
+                <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a>
+                  {%- if block.settings.image != blank -%}
                     <img  src="{{ block.settings.image | image_url: width: 150 }}" alt="{{ block.settings.title }}" width="150" height="200">
                   {%- endif -%}
+            </div>
           {% endif %}
       {% endcase %}
       {%- assign tabn = tabn | plus: 1 -%}
