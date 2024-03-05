@@ -62,6 +62,7 @@
         "button_pctLAN"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/blackminidressescasual1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
