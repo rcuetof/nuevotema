@@ -93,10 +93,10 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/8255a5595104405383cec3f090b76c6e-Min_05e44384-bd70-487b-9d00-ef14d585a334.jpg",
-            "title": "Column",
+            "title": "",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Midi Dresses",
+            "link": "shopify:\/\/collections\/shopping-midi-dressses"
           }
         },
         "column_bXqXHc": {
