@@ -6,7 +6,7 @@ function event(tabNumber) {
     var isTabVisible = window.getComputedStyle(selectedTabContent).display !== "none";
     
     // Oculta todos los contenidos
-    var tabContents = document.getElementsByClassName("Events");
+    var tabContents = document.getElementsByClassName("event");
     for (var i = 0; i < tabContents.length; i++) {
         tabContents[i].style.display = "none";
     }
