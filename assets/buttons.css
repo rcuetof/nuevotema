@@ -12,9 +12,9 @@
   padding: 5px 8px 5px 8px;  
   border-radius: 3px;
   box-shadow: 0px 0px 2px rgba(60, 59, 59, 0.478);
-  background-color: rgba(145, 126, 155, 0.285);
+  background-color: rgba(145, 126, 155, 0.623);
   right: 50%;
-  top:50%;
+  top:80%;
   transition: all 0.9s;
   }
 .btn:hover
