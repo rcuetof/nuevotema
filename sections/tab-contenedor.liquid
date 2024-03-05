@@ -36,11 +36,11 @@
             <div class="tab-buttons" id="tabContainer">
                 <div class="tab" onclick="changeTab({{ numbertab }})">{{ block.settings.categoria }}</div>
             </div>
-            <div id="content{{numbertab}}" class="tab-content">
-              <h3>{{ block.settings.categoria }}</h3>
-              <p>{{ block.settings.parrafo }}</p>
-              <img width="300" height="200" src="{{ block.settings.imagecat |  url_decode }}">
-              <a href="{{ block.settings.btnlink }}" class="btn">{{ block.settings.btbtxt }}</a>
+            <div class="tab-content" id="content{{numbertab}}">
+                <h3>{{ block.settings.categoria }}</h3>
+                <p>{{ block.settings.parrafo }}</p>
+                <img width="300" height="200" src="{{ block.settings.imagecat }}">
+                <a href="{{ block.settings.btnlink }}" class="btn">{{ block.settings.btbtxt }}</a>
             </div>
         {% endif %}
     </div>
