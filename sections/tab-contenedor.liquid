@@ -30,7 +30,7 @@
 {%- assign numbertab = 0 -%}
   {% for block in section.blocks %}
     {% case block.type %}
-    {% when 'text' %}
+    {% when 'section' %}
       <div class="tabs-container">
         {% if block.settings.categoria != blank  %}
             <div class="tab-buttons" id="tabContainer">
