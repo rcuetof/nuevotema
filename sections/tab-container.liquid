@@ -1,7 +1,6 @@
 {{ 'buttons.css' | asset_url | stylesheet_tag }}
 {{ 'tab-container.css' | asset_url | stylesheet_tag }}
-<script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
-<script src="{{ 'eventos.js' | asset_url }}" defer="defer"></script>
+
 {%- assign tabn = 1 -%}
 <div class="tabs-container">
     <div class="tab-buttons" id="tabContainer">
@@ -85,7 +84,9 @@
       {%- assign tabn = tabn | plus: 1 -%}
     {% endfor %}
 </div>
-  
+<script src="{{ 'eventos.js' | asset_url }}" defer="defer"></script>
+<script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
+
 {% schema %}
     {
       "name": "TAB-VICTORIA",

@@ -6,11 +6,11 @@ function event(tabNumber) {
     var isTabVisible = window.getComputedStyle(selectedTabContent).display !== "none";
     
     // Oculta todos los contenidos
-    var tabContents = document.getElementsByClassName("tab-content");
+  /*  var tabContents = document.getElementsByClassName("tab-content");
     for (var i = 0; i < tabContents.length; i++) {
         tabContents[i].style.display = "none";
     }
-    
+    */
     // Muestra el contenido de la pestaña seleccionada solo si no estaba visible previamente
     if (!isTabVisible) {
         selectedTabContent.style.display = "block";
