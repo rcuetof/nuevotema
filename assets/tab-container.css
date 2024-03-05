@@ -1,15 +1,9 @@
-body {
-    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
-}
 .tabs-container {
-    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
     max-width: 720px;
     margin: 2% auto;
-    overflow: hidden; /* Oculta la barra de desplazamiento horizontal en el contenedor de pestañas */
 }
 
 .tab-buttons {
-    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
     display: flex;
     white-space: nowrap;
     scrollbar-width: thin;
@@ -18,7 +12,6 @@ body {
 }
 
 .tab {
-    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
     cursor: pointer;
     padding: 5px 10px 5px 10px;
     margin: 10px 10px 20px 10px;
