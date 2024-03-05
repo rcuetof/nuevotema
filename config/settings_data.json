@@ -132,6 +132,26 @@
         "settings": {
           "color_scheme": "scheme-1"
         }
+      },
+      "tab-contenedor": {
+        "type": "tab-contenedor",
+        "blocks": {
+          "text_eDWBLD": {
+            "type": "text",
+            "settings": {
+              "categoria": "Mini Vestidos",
+              "imagecat": "shopify:\/\/shop_images\/a71c63b5180e44f9b797657b3812d4f3-Max.jpg",
+              "parrafo": "KJLJLJK",
+              "btnlink": "shopify:\/\/collections\/red-mini-dresses",
+              "btntxt": "Ver"
+            }
+          }
+        },
+        "block_order": [
+          "text_eDWBLD"
+        ],
+        "settings": {
+        }
       }
     },
     "content_for_index": [
