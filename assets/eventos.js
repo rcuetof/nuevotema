@@ -6,7 +6,7 @@ function event(tabNumber) {
     var isTabVisible = window.getComputedStyle(selectedTabContent).display !== "none";
     
     // Oculta todos los contenidos
-    var tabContents = document.getElementsByClassName("event");
+    var tabContents = document.getElementsByClassName("tab-content");
     for (var i = 0; i < tabContents.length; i++) {
         tabContents[i].style.display = "none";
     }
@@ -30,12 +30,4 @@ tabContainer.addEventListener("mousedown", function (event) {
 
 tabContainer.addEventListener("mouseup", function () {
     isMouseDown = false;
-});
-
-tabContainer.addEventListener("mousemove", function (event) {
-    if (isMouseDown) {
-        var delta = initialX - event.clientX;
-        tabContainer.scrollLeft += delta;
-        initialX = event.clientX;
-    }
 });
