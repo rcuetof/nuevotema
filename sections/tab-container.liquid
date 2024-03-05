@@ -1,5 +1,7 @@
+{{ 'buttons.css' | asset_url | stylesheet_tag }}
 {{ 'tab-container.css' | asset_url | stylesheet_tag }}
 <script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
+<script src="{{ 'eventos.js' | asset_url }}" defer="defer"></script>
 {%- assign tabn = 1 -%}
 <div class="tabs-container">
     <div class="tab-buttons" id="tabContainer">
@@ -25,9 +27,60 @@
                 <h3>{{ block.settings.title }}</h3>
                 <p>{{ block.settings.text }}</p>
                 <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a> 
-                {% section styles-categorias %}             
+             
+                <div class="tabs-container">
+                  <div class="tab-buttons" id="Events">
+                    {% if block.settings.title-event1 != blank %}<div class="tab" onclick="event(1)" {%- if block.settings.image-event1 != blank -%} 
+                      style="background-image: url('{{ block.settings.image-event1 | image_url: width: 150 }} ');"
+                    {% endif %}>{{ block.settings.title-event1 }}</div>{% endif %}
+
+                    {% if block.settings.title-event2 != blank %}<div class="tab" onclick="event(2)" {%- if block.settings.image-event2 != blank -%} 
+                      style="background-image: url('{{ block.settings.image-event2 | image_url: width: 150 }} ');"
+                    {% endif %}>{{ block.settings.title-event2 }}</div>{% endif %}
+
+                    {% if block.settings.title-event3 != blank %}<div class="tab" onclick="event(3)" {%- if block.settings.image-event3 != blank -%} 
+                      style="background-image: url('{{ block.settings.image-event3 | image_url: width: 150 }} ');"
+                    {% endif %}>{{ block.settings.title-event3 }}</div>{% endif %}
+
+                    {% if block.settings.title-event4 != blank %}<div class="tab" onclick="event(4)" {%- if block.settings.image-event4 != blank -%} 
+                      style="background-image: url('{{ block.settings.image-event4 | image_url: width: 150 }} ');"
+                    {% endif %}>{{ block.settings.title-event4 }}</div>{% endif %}
+                    
+                    {% if block.settings.title-event5 != blank %}<div class="tab" onclick="event(5)" {%- if block.settings.image-event5 != blank -%} 
+                      style="background-image: url('{{ block.settings.image-event5 | image_url: width: 150 }} ');"
+                    {% endif %}>{{ block.settings.title-event5 }}</div>{% endif %}
+                  </div>
+                  
+                  <div id="event1" class="tab-content">
+                    <h3>{{ block.settings.title-event1 }}</h3>
+                    <p>{{ block.settings.text-event1 }}</p>
+                    <a href="{{ block.settings.btnev1 }}" class="btn">{{ block.settings.btnevtxt1 }}</a>   
+                  </div>
+                  <div id="event2" class="tab-content">
+                    <h3>{{ block.settings.title-event2 }}</h3>
+                    <p>{{ block.settings.text-event2 }}</p>
+                    <a href="{{ block.settings.btnev2 }}" class="btn">{{ block.settings.btnevtxt2 }}</a>   
+                  </div>
+                  <div id="event3" class="tab-content">
+                    <h3>{{ block.settings.title-event3 }}</h3>
+                    <p>{{ block.settings.text-event3 }}</p>
+                    <a href="{{ block.settings.btnev3 }}" class="btn">{{ block.settings.btnevtxt3 }}</a>   
+                  </div>
+                  <div id="event4" class="tab-content">
+                    <h3>{{ block.settings.title-event4 }}</h3>
+                    <p>{{ block.settings.text-event4 }}</p>
+                    <a href="{{ block.settings.btnev4 }}" class="btn">{{ block.settings.btnevtxt4 }}</a>   
+                  </div>
+                  <div id="event5" class="tab-content">
+                    <h3>{{ block.settings.title-event5 }}</h3>
+                    <p>{{ block.settings.text-event5 }}</p>
+                    <a href="{{ block.settings.btnev5 }}" class="btn">{{ block.settings.btnevtxt5 }}</a>   
+                  </div>
+                  
+
+                </div>
             </div>
-          {% endif %}
+        {% endif %}    
       {% endcase %}
       {%- assign tabn = tabn | plus: 1 -%}
     {% endfor %}
@@ -67,7 +120,172 @@
               "id": "btntxt",
               "label":"Texto del Boton",
               "default": "Discover Collection"
+           },
+           
+
+
+
+
+
+
+
+           {
+              "type": "text",
+              "id": "title-event1",
+              "label": "Titulo-Evento"
+            },
+            {
+              "type": "textarea",
+              "id": "text-event1",
+              "label": "Parrafo"
+              
+            },
+            {
+                "type": "image_picker",
+                "id": "image-event1",
+                "label": "Presentacion del Evento"  
+            },
+            {
+              "type": "url",
+              "id": "btnev1",
+              "label": "Link Tarjeta"
+            },
+            {
+              "type": "text",
+              "id": "btnevtxt1",
+              "label":"Texto del Boton",
+              "default": "Discover Collection"
+           },
+
+
+
+
+           {
+              "type": "text",
+              "id": "title-event2",
+              "label": "Titulo-Evento"
+            },
+            {
+              "type": "textarea",
+              "id": "text-event2",
+              "label": "Parrafo"
+              
+            },
+            {
+                "type": "image_picker",
+                "id": "image-event2",
+                "label": "Presentacion del Evento"  
+            },
+            {
+              "type": "url",
+              "id": "btnev2",
+              "label": "Link Tarjeta"
+            },
+            {
+              "type": "text",
+              "id": "btnevtxt2",
+              "label":"Texto del Boton",
+              "default": "Discover Collection"
+           },
+
+
+
+
+
+           {
+              "type": "text",
+              "id": "title-event3",
+              "label": "Titulo-Evento"
+            },
+            {
+              "type": "textarea",
+              "id": "text-event3",
+              "label": "Parrafo"
+              
+            },
+            {
+                "type": "image_picker",
+                "id": "image-event3",
+                "label": "Presentacion del Evento"  
+            },
+            {
+              "type": "url",
+              "id": "btnev3",
+              "label": "Link Tarjeta"
+            },
+            {
+              "type": "text",
+              "id": "btnevtxt3",
+              "label":"Texto del Boton",
+              "default": "Discover Collection"
+           },
+
+
+
+
+
+           {
+              "type": "text",
+              "id": "title-event4",
+              "label": "Titulo-Evento"
+            },
+            {
+              "type": "textarea",
+              "id": "text-event4",
+              "label": "Parrafo"
+              
+            },
+            {
+                "type": "image_picker",
+                "id": "image-event4",
+                "label": "Presentacion del Evento"  
+            },
+            {
+              "type": "url",
+              "id": "btnev4",
+              "label": "Link Tarjeta"
+            },
+            {
+              "type": "text",
+              "id": "btnevtxt4",
+              "label":"Texto del Boton",
+              "default": "Discover Collection"
+           },
+
+
+
+
+           {
+              "type": "text",
+              "id": "title-event5",
+              "label": "Titulo-Evento"
+            },
+            {
+              "type": "textarea",
+              "id": "text-event5",
+              "label": "Parrafo"
+              
+            },
+            {
+                "type": "image_picker",
+                "id": "image-event5",
+                "label": "Presentacion del Evento"  
+            },
+            {
+              "type": "url",
+              "id": "btnev5",
+              "label": "Link Tarjeta"
+            },
+            {
+              "type": "text",
+              "id": "btnevtxt5",
+              "label":"Texto del Boton",
+              "default": "Discover Collection"
            }
+
+
+
+
           ]
         }
       ]
