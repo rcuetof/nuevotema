@@ -20,14 +20,16 @@
   {% for block in section.blocks %}
     {% case block.type %}
     {% when 'text' %}
-        {% if block.settings.text != blank %}
+        {% if block.settings.title != blank %}
             <div id="content{{ tabn }}" class="tab-content">
                 <h3>{{ block.settings.title }}</h3>
                 <p>{{ block.settings.text }}</p>
                 <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a></div>
                 <img scr="{{ block.settings.image |  file_url }}" width="300" height="300">
         {% endif %}
-      {% endcase %}
+        
+        
+    {% endcase %}
     {%- assign tabn = tabn +1 -%}
   {% endfor %}
 </div>
