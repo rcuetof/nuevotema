@@ -4,18 +4,17 @@
   {% for block in section.blocks %}
     {% case block.type %}
     {% when 'text' %}
-  <p>hola mundo</p>
       <div class="tabs-container">
-        {% if section.settings.categoria != blank  %}
+        {% if block.settings.categoria != blank  %}
             <div class="tab-buttons" id="tabContainer">
-                <div class="tab" onclick="changeTab(1)" style="background-image: url('{{ section.settings.imagecat | url_decode }}');">{{ section.settings.categoria }}</div>
+                <div class="tab" onclick="changeTab(1)" style="background-image: url('{{ block.settings.imagecat | url_decode }}');">{{ block.settings.categoria }}</div>
             </div>
         {% endif %}   
         {% if section.settings.contenido != blank %}
         <div id="content1" class="tab-content">
-        <h3>{{ section.settings.categoria }}</h3>
-        <p>{{ section.settings.parrafo }}</p>
-        <a href="{{ section.settings.btnlink }}" class="btn">{{ section.settings.btbtxt }}</a></div>
+        <h3>{{ block.settings.categoria }}</h3>
+        <p>{{ block.settings.parrafo }}</p>
+        <a href="{{ block.settings.btnlink }}" class="btn">{{ block.settings.btbtxt }}</a></div>
         {% endif %}
     </div>
      {% endcase %}
