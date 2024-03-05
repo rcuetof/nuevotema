@@ -1,6 +1,7 @@
 {{ 'tab-container.css' | asset_url | stylesheet_tag }}
 <script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
-<div class="page-width page-content">
+
+
   {% for block in section.blocks %}
   {%- assign numbertab = 0 -%}
     {% case block.type %}
@@ -22,7 +23,7 @@
     {%- assign numbertab = numbertab + 1 -%}  
   {% endcase %}    
   {% endfor %}
-</div>
+
 
 
 {% schema %}
