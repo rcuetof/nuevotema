@@ -24,7 +24,8 @@
             <div id="content{{ tabn }}" class="tab-content">
                 <h3>{{ block.settings.title }}</h3>
                 <p>{{ block.settings.text }}</p>
-                <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a>              
+                <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a> 
+                {%  section styles-categorias %}             
             </div>
           {% endif %}
       {% endcase %}
