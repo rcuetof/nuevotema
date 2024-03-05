@@ -15,6 +15,7 @@
   background-color: rgba(145, 126, 155, 0.623);
   right: 0%;
   transition: all 0.9s;
+  align-self: flex-end;
   }
 .btn:hover
   {
