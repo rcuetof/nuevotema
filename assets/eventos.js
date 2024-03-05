@@ -1,6 +1,6 @@
 function event(tabNumber) {
     // Obtiene el contenido de la pestaña seleccionada
-    var selectedTabContent = document.getElementById("content" + tabNumber);
+    var selectedTabContent = document.getElementById("event" + tabNumber);
     
     // Verifica si el contenido está visible
     var isTabVisible = window.getComputedStyle(selectedTabContent).display !== "none";
