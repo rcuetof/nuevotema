@@ -145,10 +145,21 @@
               "btn": "",
               "btntxt": "Discover Collection"
             }
+          },
+          "text_DJtxCT": {
+            "type": "text",
+            "settings": {
+              "title": "Midi Dresses",
+              "text": "<p>a;lka;lka;lka;ss<\/p>",
+              "image": "shopify:\/\/shop_images\/76133788152c4ee6b86cb40bdf3da826-Max.jpg",
+              "btn": "",
+              "btntxt": "Discover Collection"
+            }
           }
         },
         "block_order": [
-          "text_fnCiB9"
+          "text_fnCiB9",
+          "text_DJtxCT"
         ],
         "settings": {
         }
