@@ -1,8 +1,5 @@
 {{ 'tab-container.css' | asset_url | stylesheet_tag }}
 <script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
-
-
-<div class="page-width page-content">
 {%- assign tabn = 1 -%}
 <div class="tabs-container">
     <div class="tab-buttons" id="tabContainer">
@@ -34,6 +31,7 @@
       {%- assign tabn = tabn | plus: 1 -%}
     {% endfor %}
 </div>
+  
 {% schema %}
     {
       "name": "TAB",
@@ -74,4 +72,5 @@
         }
       ]
     }
-    {% endschema %}
+  
+{% endschema %}
