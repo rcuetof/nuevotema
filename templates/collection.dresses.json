@@ -103,28 +103,17 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/74afad39eed94404b5ca936791bf9a6c-Min.jpg",
-            "title": "Column",
+            "title": "",
             "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_qRFxan": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/547df9b40e764a8587db2f84a52daa2b-Max.jpg",
-            "title": "Column",
-            "text": "",
-            "link_label": "mini dresses",
-            "link": "shopify:\/\/pages\/tab-container"
+            "link_label": "Maxi Dresses",
+            "link": "shopify:\/\/collections\/shopping-maxi-dresses"
           }
         }
       },
       "block_order": [
         "column_kPbapR",
         "column_fNkPF6",
-        "column_bXqXHc",
-        "column_qRFxan"
+        "column_bXqXHc"
       ],
       "settings": {
         "title": "Dresses",
