@@ -1,25 +1,36 @@
 {{ 'tab-container.css' | asset_url | stylesheet_tag }}
 <script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
-
-<div class="tabs-container">
-    {% if section.settings.categoria != blank  %}
-        <div class="tab-buttons" id="tabContainer">
-            <div class="tab" onclick="changeTab(1)" style="background-image: url('{{ section.settings.imagecat | url_decode }}');">{{ section.settings.categoria }}}</div>
-        </div>
-    {% endif %}   
-    {% if section.settings.contenido != blank %}
-    <div id="content1" class="tab-content">
-    <h3>{{ section.settings.categoria }}</h3>
-    <p>{{ section.settings.parrafo }}</p>
-    <a href="{{ section.settings.btnlink }}" class="btn">{{ section.settings.btbtxt }}</a></div>
-    {% endif %}
+<div class="page-width page-content">
+  {% for block in section.blocks %}
+    {% case block.type %}
+    {% when 'text' %}
+  
+      <div class="tabs-container">
+        {% if section.settings.categoria != blank  %}
+            <div class="tab-buttons" id="tabContainer">
+                <div class="tab" onclick="changeTab(1)" style="background-image: url('{{ section.settings.imagecat | url_decode }}');">{{ section.settings.categoria }}</div>
+            </div>
+        {% endif %}   
+        {% if section.settings.contenido != blank %}
+        <div id="content1" class="tab-content">
+        <h3>{{ section.settings.categoria }}</h3>
+        <p>{{ section.settings.parrafo }}</p>
+        <a href="{{ section.settings.btnlink }}" class="btn">{{ section.settings.btbtxt }}</a></div>
+        {% endif %}
+    </div>
+     {% endcase %}
+  {% endfor %}
 </div>
+
+
 {% schema %}
-  {
-    "name": "tab-container",
-    "tag": "section",
-    "class": "tab-container.css",
-    "settings": [
+{
+  "name": "tab-tontainer",
+  "blocks": [
+    {
+      "type": "text",
+      "name": "Text",
+      "settings": [
       {
         "type" : "text" ,
         "id" : "categoria" ,
@@ -48,5 +59,11 @@
       }
 
     ]
- }
+    }
+  ]
+}
 {% endschema %}
+
+
+
+
