@@ -3,7 +3,7 @@ function event(tabNumber) {
     var selectedTabContent = document.getElementById("event" + tabNumber);
     
     // Verifica si el contenido está visible
-    var isTabVisible = window.getComputedStyle(selectedTabContent).display !== "none";
+    var isTabVisible = window.getComputedStyle(selectedTabContent).display != "none";
     
     // Oculta todos los contenidos
     var tabContents = document.getElementsByClassName("event-content");
