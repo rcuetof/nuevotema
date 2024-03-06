@@ -68,3 +68,68 @@
 .event-content p {
     color: #333;
 }
+
+
+
+/*SUBCATEGORIAS*/
+.subevent-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+/* Estilo para cada bloque de producto */
+.subevent {
+    position: sticky;
+    width: 15%; /* Calculamos el ancho de 3 columnas con un pequeño espacio entre ellas */
+    height: 240px;
+    padding: 30px;
+    border-radius: 3px; /* Bordes redondeados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    transition: transform 0.3s ease-in-out; /* Transición suave al pasar el ratón */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    padding: 5px 10px 5px 10px;
+    margin: 10px 10px 20px 10px;
+    box-shadow: 0px 0px 5px rgba(60, 59, 59, 0.478); 
+    flex: 0 0 auto;
+    transition: all 1.5s;
+}
+
+/* Efecto al pasar el ratón sobre cada bloque de producto */
+.subevent:hover {
+    transform: rotate(0.9deg);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.438); /* Sombra más pronunciada */
+}
+
+/* Estilo para el contenido dentro de cada bloque de producto */
+
+.subevent h3 {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 14px;
+    position: absolute;
+    text-align: center;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 1;
+    white-space: normal;
+    bottom: -30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+}
+
+/* Media query para dispositivos móviles */
+@media only screen and (max-width: 767px) {
+    .subevent-container {
+        justify-content: center; /* Centramos los productos */
+    }
+    .subevent {
+        width: 29%; /* Calculamos el ancho de 2 columnas con un pequeño espacio entre ellas */
+    }
+}
