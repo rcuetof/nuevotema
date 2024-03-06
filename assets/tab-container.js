@@ -41,21 +41,21 @@ tabContainer.addEventListener("mousemove", function (event) {
 });
 
 function event(EventNumber) {
-    // Obtiene el contenido de la pestaña seleccionada
+    // Obtiene el contenido del evento seleccionado
     var selectedEventContent = document.getElementById("event" + EventNumber);
     
     // Verifica si el contenido está visible
     var isEventVisible = window.getComputedStyle(selectedEventContent).display !== "none";
     
-    // Oculta todos los contenidos
+    // Oculta todos los contenidos de eventos
     var EventContents = document.getElementsByClassName("event-content");
-    for (var i = 0; i < tabContents.length; i++) {
+    for (var i = 0; i < EventContents.length; i++) {
         EventContents[i].style.display = "none";
     }
     
-    // Muestra el contenido de la pestaña seleccionada solo si no estaba visible previamente
+    // Muestra el contenido del evento seleccionado solo si no estaba visible previamente
     if (!isEventVisible) {
-        selectedTabContent.style.display = "block";
+        selectedEventContent.style.display = "block";
     }
 }
 
