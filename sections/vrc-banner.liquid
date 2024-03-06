@@ -1,0 +1,24 @@
+{{ 'vrc-banner.css' |  asset_url |  stylesheet_tag }}
+{%- if condition -%}
+    <div style="background-image: url('{{ section.settings.banner-movil |  image_url: width:100%  }}'); @media (max-width: 768px) { background-image: url('ruta_imagen_dispositivo_movil.jpg'); }" class="vrc-banner"></div>
+{%- endif -%}
+{% schema %}
+    {
+        "name": "Banner",
+              "settings": [
+               {
+                  "type": "image_picker",
+                  "id": "banner-movil",
+                  "label": "Imagen Para Moviles"
+               },
+               {
+                  "type": "image_picker",
+                  "id": "banner-escritorio",
+                  "label": "Imagen Para Compputadoras"
+               }
+
+            ]
+          }
+     
+    
+{% endschema %}

@@ -1,0 +1,103 @@
+.vrc-banner {
+    position: relative;
+    width: 100%;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    background-repeat: no-repeat;  
+    background-position: top;
+}
+
+/* Estilos para móvil */
+@media (max-width: 768px) {
+    .vrc-banner {
+        background-size: cover;
+        height: 105vh;
+        font-weight: 900;
+        margin-left: 0;
+        margin-right: 0;
+        background-repeat: no-repeat;
+        background-position: bottom;             
+    h1{
+        text-shadow: 2px 2px 4px #000000;
+        position: absolute;
+        font-size: 80px;
+        color: white;
+        text-align: left;
+        top: 38%;
+        left: 8%;
+      }
+      p{
+        position: absolute;
+        font-size: 18px;
+        color:black;
+        text-align: left;
+        top: 85%;
+        left: 8%;
+      }
+    .position-boton
+    {
+        position: absolute;
+        top: 80%;
+        left: 24%;
+        transform: translate(-50%, -50%);
+    }  
+    .position-mid
+    {
+        position: absolute;
+        top: 40%;
+        left: 110%;
+        transform: translate(-50%, -50%);
+        margin-left: -120px;
+        margin-right: -120px;
+    } 
+ }
+}
+
+/* Estilos para escritorio */
+@media (min-width: 769px) {
+    .vrc-banner {
+        font-size: 24px;
+        background-size: contain;
+        height: 95vh;
+        
+        h1{
+            text-shadow: 2px 2px 4px #000000;
+            position: absolute;
+            font-size: 100px;
+            font-weight: 900;
+            color: white;
+            text-shadow: 2px,10px,4px,black;
+            top: 10%;
+            left: 65%;
+            transform: translate(-50%, -50%);
+          }
+          p{
+            position: absolute;
+            font-size: 24px;
+            color:black;
+            text-align: left;
+            top: 45%;
+            left: 65%;
+            transform: translate(-50%, -50%);
+            
+          }
+        .position-boton
+        {
+            position: absolute;
+            top: 60%;
+            left: 70%;
+            transform: translate(-50%, -50%);
+        }  
+        .position-mid
+        {
+            position: absolute;
+            top: 60%;
+            left: 65%;
+            transform: translate(-50%, -50%);
+            margin-left: -120px;
+            margin-right: -120px;
+        } 
+     }
+    }
