@@ -40,16 +40,6 @@ tabContainer.addEventListener("mousemove", function (event) {
     }
 });
 
-
-
-
-
-
-
-
-
-
-
 function Changeevent(EventNumber) {
     // Obtiene el contenido del evento seleccionado
     var selectedEventContent = document.getElementById("event" + EventNumber);

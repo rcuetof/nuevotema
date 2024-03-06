@@ -58,7 +58,7 @@
 
 
 .event-content {
-    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
+    height: auto;
     display: none;
     margin: 5px;
 }
