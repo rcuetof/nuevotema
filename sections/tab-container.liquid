@@ -98,7 +98,11 @@
 
 {% schema %}
     {
-      "name": "TAB-VICTORIA",
+      "name": "t:sections.tab-container.name",
+      "class": "section",
+      "disabled_on": {
+      "groups": ["header", "footer"]
+      },  
       "blocks": [
         {
           "type": "text",
