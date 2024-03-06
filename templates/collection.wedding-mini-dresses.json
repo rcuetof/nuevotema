@@ -37,17 +37,18 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/0d24a48daf994aa6bdcf4ce0ec953e6e-Max.jpg",
-            "title": "",
+            "title": "Bridal Mini Dresses",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/wedding-mini-dresses"
           }
         },
         "column_b8ACEx": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/06d32d35181f4dffb6a6f010d76d6524-Max.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -55,8 +56,28 @@
         "column_pe6nJD": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/a2ee0fb6-646d-4f0e-bafb-056f83e1eb29-Max_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RmT8Da": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3fbdd88f081b4bf7bfb54357635a378e-Max.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yUJYc6": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -65,7 +86,9 @@
       "block_order": [
         "column_XiXPEQ",
         "column_b8ACEx",
-        "column_pe6nJD"
+        "column_pe6nJD",
+        "column_RmT8Da",
+        "column_yUJYc6"
       ],
       "settings": {
         "title": "",
@@ -73,7 +96,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "none",
         "button_label": "Button label",
         "button_link": "",
