@@ -21,8 +21,8 @@
     text-align: center;
     width: 180px;
     height: 360px;
-    background-size: auto;
-    background-position: 100%;
+    background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;    
     border-radius: 5px;
     transition: background-color 0.3s ease;
