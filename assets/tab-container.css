@@ -49,6 +49,12 @@
     margin: 5px;
 }
 
+.event-content {
+    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
+    display: none;
+    margin: 5px;
+}
+
 .tab-content h3 {
     color: #333;
     font-family: Alegreya;
