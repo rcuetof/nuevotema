@@ -144,7 +144,95 @@
                     <h3>{{ block.settings.title-event2 }}</h3>
                     <p>{{ block.settings.text-event2 }}</p>
                     <a href="{{ block.settings.btnev2 }}" class="btn">{{ block.settings.btnevtxt2 }}</a>   
+                      
+                    <div class="subevent-container">
+                      {% if block.settings.title-subevent1 != blank %}<div class="subevent" style="background-image: url('{{ block.settings.image-subevent1 | image_url: width: 150 }}');border: 10px solid {{ block.settings.color-subevent1 }}; border-bottom: 50px solid {{ block.settings.color-subevent1 }}"; >
+                      <a href="{{ block.settings.url-subevent1 }}" title="{{ block.settings.title-subevent1 }}">
+                      <h3>{{ block.settings.title-subevent1 }}</h3>
+                      </a>
+                      </div>
+                      {% endif %}
+                      {% if block.settings.title-subevent2 != blank %}<div class="subevent" style="background-image: url('{{ block.settings.image-subevent2 | image_url: width: 150 }}');border: 10px solid {{ block.settings.color-subevent2 }}; border-bottom: 50px solid {{ block.settings.color-subevent2 }}"; >
+                        <a href="{{ block.settings.url-subevent2 }}" title="{{ block.settings.title-subevent2 }}">
+                        <h3>{{ block.settings.title-subevent2 }}</h3>
+                        </a>
+                        </div>
+                      {% endif %}
+                      {% if block.settings.title-subevent3 != blank %}<div class="subevent" style="background-image: url('{{ block.settings.image-subevent3 | image_url: width: 150 }}');border: 10px solid {{ block.settings.color-subevent3 }}; border-bottom: 50px solid {{ block.settings.color-subevent3 }}"; >
+                        <a href="{{ block.settings.url-subevent3 }}" title="{{ block.settings.title-subevent3 }}">
+                        <h3>{{ block.settings.title-subevent3 }}</h3>
+                        </a>
+                        </div>
+                      {% endif %}
+                      {% if block.settings.title-subevent4 != blank %}
+                        <div class="subevent" style="background-image: url('{{ block.settings.image-subevent4 | image_url: width: 150 }}');border: 10px solid {{ block.settings.color-subevent4 }}; border-bottom: 50px solid {{ block.settings.color-subevent4 }}"; >
+                        <a href="{{ block.settings.url-subevent4 }}" title="{{ block.settings.title-subevent4 }}">
+                        <h3>{{ block.settings.title-subevent4 }}</h3>
+                        </a>
+                        </div>
+                      {% endif %}
+                      {% if block.settings.title-subevent5 != blank %}
+                        <div class="subevent" style="background-image: url('{{ block.settings.image-subevent5 | image_url: width: 150 }}');border: 10px solid {{ block.settings.color-subevent5 }}; border-bottom: 50px solid {{ block.settings.color-subevent5 }}"; >
+                        <a href="{{ block.settings.url-subevent5 }}" title="{{ block.settings.title-subevent5 }}">
+                        <h3>{{ block.settings.title-subevent1 }}</h3>
+                        </a>
+                        </div>
+                      {% endif %}
+                      {% if block.settings.title-subevent6 != blank %}
+                        <div class="subevent" style="background-image: url('{{ block.settings.image-subevent6 | image_url: width: 150 }}');border: 10px solid {{ block.settings.color-subevent6 }}; border-bottom: 50px solid {{ block.settings.color-subevent6 }}"; >
+                        <a href="{{ block.settings.url-subevent6 }}" title="{{ block.settings.title-subevent6 }}">
+                        <h3>{{ block.settings.title-subevent6 }}</h3>
+                        </a>
+                        </div>
+                      {% endif %}
+                      {% if block.settings.title-subevent7 != blank %}
+                        <div class="subevent" style="background-image: url('{{ block.settings.image-subevent7 | image_url: width: 150 }}');border: 10px solid {{ block.settings.color-subevent7 }}; border-bottom: 50px solid {{ block.settings.color-subevent7 }}"; >
+                        <a href="{{ block.settings.url-subevent7 }}" title="{{ block.settings.title-subevent7 }}">
+                        <h3>{{ block.settings.title-subevent1 }}</h3>
+                        </a>
+                        </div>
+                      {% endif %}
+                      {% if block.settings.title-subevent8 != blank %}
+                        <div class="subevent" style="background-image: url('{{ block.settings.image-subevent8 | image_url: width: 150 }}');border: 10px solid {{ block.settings.color-subevent8 }}; border-bottom: 50px solid {{ block.settings.color-subevent8 }}"; >
+                        <a href="{{ block.settings.url-subevent8 }}" title="{{ block.settings.title-subevent8 }}">
+                        <h3>{{ block.settings.title-subevent8 }}</h3>
+                        </a>
+                        </div>
+                      {% endif %}
+                      {% if block.settings.title-subevent9 != blank %}
+                        <div class="subevent" style="background-image: url('{{ block.settings.image-subevent9 | image_url: width: 150 }}');border: 10px solid {{ block.settings.color-subevent9 }}; border-bottom: 50px solid {{ block.settings.color-subevent9 }}"; >
+                        <a href="{{ block.settings.url-subevent9 }}" title="{{ block.settings.title-subevent9 }}">
+                        <h3>{{ block.settings.title-subevent9 }}</h3>
+                        </a>
+                        </div>
+                      {% endif %}
+                      {% if block.settings.title-subevent10 != blank %}
+                        <div class="subevent" style="background-image: url('{{ block.settings.image-subevent10 | image_url: width: 150 }}');border: 10px solid {{ block.settings.color-subevent10 }}; border-bottom: 50px solid {{ block.settings.color-subevent10 }}"; >
+                        <a href="{{ block.settings.url-subevent10 }}" title="{{ block.settings.title-subevent10 }}">
+                        <h3>{{ block.settings.title-subevent10 }}</h3>
+                        </a>
+                        </div>
+                      {% endif %}
+                      {% if block.settings.titlesubevent11 != blank %}
+                        <div class="subevent" style="background-image: url('{{ block.settings.image-subevent11 | image_url: width: 150 }}');border: 10px solid {{ block.settings.color-subevent11 }}; border-bottom: 50px solid {{ block.settings.color-subevent11 }}"; >
+                        <a href="{{ block.settings.url-subevent1 }}" title="{{ block.settings.title-subevent1 }}">
+                        <h3>{{ block.settings.title-subevent11 }}</h3>
+                        </a>
+                        </div>
+                      {% endif %}
+                      {% if block.settings.titlesubevent12 != blank %}
+                        <div class="subevent" style="background-image: url('{{ block.settings.image-subevent12 | image_url: width: 150 }}');border: 10px solid {{ block.settings.color-subevent12 }}; border-bottom: 50px solid {{ block.settings.color-subevent12 }}"; >
+                        <a href="{{ block.settings.url-subevent12 }}" title="{{ block.settings.title-subevent12 }}">
+                        <h3>{{ block.settings.title-subevent12 }}</h3>
+                        </a>
+                        </div>
+                      {% endif %}
                   </div>
+
+
+
+
+                   </div>
                   <div id="event3" class="event-content">
                     <h3>{{ block.settings.title-event3 }}</h3>
                     <p>{{ block.settings.text-event3 }}</p>
