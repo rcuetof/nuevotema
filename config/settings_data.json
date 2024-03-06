@@ -132,51 +132,6 @@
         "settings": {
           "color_scheme": "scheme-1"
         }
-      },
-      "tab-container": {
-        "type": "tab-container",
-        "blocks": {
-          "text_ezzezh": {
-            "type": "text",
-            "settings": {
-              "title": "Mini Dresses",
-              "text": "The options in mini dresses are immense, choose the right fit to comfortably highlight your curves.\nConsider the occasion and select accessories that fit, such as shoes and accessories.\nMake sure the length is appropriate for the situation and your comfort.\nOpt for colors that complement your skin tone.\nand remember that the most important thing is to feel comfortable in the dress you choose.",
-              "image": "shopify:\/\/shop_images\/MINI.jpg",
-              "btn": "shopify:\/\/collections\/shopping-mini-dresses",
-              "btntxt": "Discover Collection",
-              "title-event1": "Wedding Mini Dresses",
-              "text-event1": "A wedding is a special moment where we will share memorable memories with friends and family and to look beautiful on such an important day, choose an elegant mini dress according to the bridal dress code.\n Make sure the neckline and length are appropriate for the occasion.\n Opt for colors that do not compete with the bride's dress.\nCombine it with sophisticated accessories, such as jewelry. Wear comfortable heels to enjoy the celebration without problems.\n\n!",
-              "image-event1": "shopify:\/\/shop_images\/WEDDING-MINI.jpg",
-              "btnev1": "shopify:\/\/collections\/wedding-mini-dresses",
-              "btnevtxt1": "Discover Collection",
-              "title-event2": "Formal Mini Dresses",
-              "text-event2": "Choose a mini dress with formal details, such as lace or satin.\nAccompany with elegant accessories, such as jewelry.\nOpt for neutral colors or classic tones for formal events.\nMake sure the length is appropriate for the occasion.\nI recommend using it at events such as gala dinners, elegant weddings or black tie events.",
-              "image-event2": "shopify:\/\/shop_images\/FORMA-MINI.jpg",
-              "btnev2": "shopify:\/\/collections\/formal-mini-dresses",
-              "btnevtxt2": "Discover Collection",
-              "title-event3": "Casual Mini Dresses",
-              "text-event3": "Choose a casual mini dress in light and comfortable fabrics.\nPair it with casual footwear, such as sandals or sneakers.\nOpt for bright colors and relaxed prints for a casual look.\nPerfect for spring and summer, where the weather is warmer.\nIdeal for casual outings, picnics or walks during the warmer seasons.\nBe sure to wear simple accessories to keep the look relaxed.",
-              "image-event3": "shopify:\/\/shop_images\/CASUAL-MINI.jpg",
-              "btnev3": "shopify:\/\/collections\/casual-mini-dresses",
-              "btnevtxt3": "Discover Collection",
-              "title-event4": "Party Mini Dresses",
-              "text-event4": "Select a mini dress that highlights your best attributes and fits your style. Consider the type of party and dress code to ensure suitability.\n Opt for fabrics and details that add a festive touch, such as sequins or lace.\nChoose vibrant colors or classic shades, depending on the atmosphere of the party.\n Make sure you feel comfortable to enjoy the event. Mini dresses are ideal for informal parties, cocktails and social events.",
-              "image-event4": "shopify:\/\/shop_images\/PARTY-MINI.jpg",
-              "btnev4": "shopify:\/\/collections\/party-mini-dresses",
-              "btnevtxt4": "Discover Collection",
-              "title-event5": "Graduation Mini Dresses",
-              "text-event5": "Look for a mini dress that reflects your personality and fits the atmosphere of the graduation ceremony or events such as homecoming and prom.\nConsider the dress code and personal preferences when choosing the color and style of the dress.\nOpt for elegant details such as lace, rhinestones or cuts that add a special touch.\nMake sure the length is appropriate for the occasion and comfortable for dancing and moving.\nTry different options to find the perfect fit that flatters your figure.\nCombine the dress with accessories that complement your outfit and highlight your style.\nEnjoy the special moment with confidence and style in your choice of dress!",
-              "image-event5": "shopify:\/\/shop_images\/GRADUATION-MINI.jpg",
-              "btnev5": "shopify:\/\/collections\/graduation-mini-dresses",
-              "btnevtxt5": "Discover Collection"
-            }
-          }
-        },
-        "block_order": [
-          "text_ezzezh"
-        ],
-        "settings": {
-        }
       }
     },
     "content_for_index": [
