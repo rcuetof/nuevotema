@@ -84,8 +84,9 @@
       {%- assign tabn = tabn | plus: 1 -%}
     {% endfor %}
 </div>
-<script src="{{ 'eventos.js' | asset_url }}" defer="defer"></script>
-{%- comment -%}<script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>{%- endcomment -%}
+{%- comment -%}<script src="{{ 'eventos.js' | asset_url }}" defer="defer"></script>{%- endcomment -%}
+
+<script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
 
 {% schema %}
     {
