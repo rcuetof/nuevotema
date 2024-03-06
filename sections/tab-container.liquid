@@ -24,8 +24,9 @@
           {% if block.settings.title != blank %}
             <div id="content{{ tabn }}" class="tab-content">
                 <h3>{{ block.settings.title }}</h3>
-                <p>{{ block.settings.text }}</p>
                 <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a> 
+                <p>{{ block.settings.text }}</p>
+                
 
                 <div class="tabs-container">
                   <div class="tab-buttons" id="Events{{tabn}}">
@@ -53,32 +54,37 @@
                   {%- assign eventmod = tabn | times: 7 -%}
                   <div id="event{{eventmod}}" class="event-content" >
                     <h3>{{ block.settings.title-event1 }}</h3>
+                    <a href="{{ block.settings.btnev1 }}" class="btn">{{ block.settings.btnevtxt1 }}</a>  
                     <p>{{ block.settings.text-event1 }}</p>
-                    <a href="{{ block.settings.btnev1 }}" class="btn">{{ block.settings.btnevtxt1 }}</a>                   
+                                     
                   </div>
                   {%- assign eventmod = tabn | times: 8 -%}
                   <div id="event{{eventmod}}" class="event-content">
                     <h3>{{ block.settings.title-event2 }}</h3>
+                    <a href="{{ block.settings.btnev2 }}" class="btn">{{ block.settings.btnevtxt2 }}</a>
                     <p>{{ block.settings.text-event2 }}</p>
-                    <a href="{{ block.settings.btnev2 }}" class="btn">{{ block.settings.btnevtxt2 }}</a>   
+                       
                   </div>
                   {%- assign eventmod = tabn | times: 9 -%}
                   <div id="event{{eventmod}}" class="event-content">
                     <h3>{{ block.settings.title-event3 }}</h3>
-                    <p>{{ block.settings.text-event3 }}</p>
                     <a href="{{ block.settings.btnev3 }}" class="btn">{{ block.settings.btnevtxt3 }}</a>   
+                    <p>{{ block.settings.text-event3 }}</p>
+    
                   </div>
                   {%- assign eventmod = tabn | times: 10 -%}
                   <div id="event{{eventmod}}" class="event-content">
                     <h3>{{ block.settings.title-event4 }}</h3>
+                    <a href="{{ block.settings.btnev4 }}" class="btn">{{ block.settings.btnevtxt4 }}</a>  
                     <p>{{ block.settings.text-event4 }}</p>
-                    <a href="{{ block.settings.btnev4 }}" class="btn">{{ block.settings.btnevtxt4 }}</a>   
+                     
                   </div>
                   {%- assign eventmod = tabn | times: 11 -%}
                   <div id="event{{eventmod}}" class="event-content">
                     <h3>{{ block.settings.title-event5 }}</h3>
-                    <p>{{ block.settings.text-event5 }}</p>
                     <a href="{{ block.settings.btnev5 }}" class="btn">{{ block.settings.btnevtxt5 }}</a>   
+                    <p>{{ block.settings.text-event5 }}</p>
+          
                   </div>
                 </div>
             </div>
