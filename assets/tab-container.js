@@ -60,11 +60,13 @@ function Changeevent(EventNumber) {
 }
 
 // Agrega eventos para el desplazamiento con el mouse
-var EventContainer = document.getElementById("Events"+EventNumber);
+for(var i = 1;i<4;i++) {
+var EventContainer = document.getElementById("Events"+i);
 EventContainer.addEventListener("mousedown", function (event) {
     isMouseDown = true;
     initialX = event.clientX;
 });
+}
 
 EventContainer.addEventListener("mouseup", function () {
     isMouseDown = false;
