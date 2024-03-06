@@ -10,7 +10,7 @@
             {% if block.settings.title != blank %}
               <div class="tab" onclick="changeTab({{ tabn }})" 
                 {%- if block.settings.image != blank -%} 
-                  style="background-image: url('{{ block.settings.image | image_url: width: 2000px }} ');"
+                  style="background-image: url('{{ block.settings.image }} ');"
                 {% endif %}>{{ block.settings.title }}</div>      
             {% endif %}
         {% endcase %}
