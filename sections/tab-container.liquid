@@ -49,28 +49,34 @@
                       style="background-image: url('{{ block.settings.image-event5 | image_url: width: 150 }} ');"
                     {% endif %}>{{ block.settings.title-event5 }}</div>{% endif %}
                   </div>
-                  {% assign k = 1 %}
-                  {% assign l = 12 %}
-                  {% for i in (1..5) %}
-                  <div id="event{i}" class="event-content" >
-                    <h3>{{ block.settings.["title-event#{i}"] }}</h3>
-                    <p>{{ block.settings.["text-event#{i}"] }}</p>
-                    <a href="{{ block.settings.["btnev#{i}"] }}" class="btn">{{ block.settings.["btnevtxt#{i}"] }}</a>                     
-                    <div class="subevent-container">
-                    {% for j in (k..l) %}
-                      {% if block.settings["titlesubevent#{k}"] != blank %}
-                        <div class="subevent" style="background-image: url('{{ block.settings["image-subevent#{k}"] | image_url: width: 150 }}'); border: 10px solid {{ block.settings["color-subevent#{k}"] }}; border-bottom: 50px solid {{ block.settings["color-subevent#{k}"] }};">
-                          <a href="{{ block.settings["url-subevent#{k}"] }}" title="{{ block.settings["title-subevent#{k}"] }}">
-                        <h3>{{ block.settings["title-subevent#{k}"] }}</h3>
-                        </a>
-                        </div>
-                      {% endif %}
-                    {% endfor %}
-                    </div>
+
+                  <div id="event1" class="event-content" >
+                    <h3>{{ block.settings.title-event1 }}</h3>
+                    <p>{{ block.settings.text-event1 }}</p>
+                    <a href="{{ block.settings.btnev1 }}" class="btn">{{ block.settings.btnevtxt1 }}</a>   
                   </div>
-                  {%- assign k = | plus: 12 -%}
-                  {%- assign l = | plus: 12 -%}
-                  {% endfor %}
+                  <div id="event2" class="event-content">
+                    <h3>{{ block.settings.title-event2 }}</h3>
+                    <p>{{ block.settings.text-event2 }}</p>
+                    <a href="{{ block.settings.btnev2 }}" class="btn">{{ block.settings.btnevtxt2 }}</a>   
+                  </div>
+                  <div id="event3" class="event-content">
+                    <h3>{{ block.settings.title-event3 }}</h3>
+                    <p>{{ block.settings.text-event3 }}</p>
+                    <a href="{{ block.settings.btnev3 }}" class="btn">{{ block.settings.btnevtxt3 }}</a>   
+                  </div>
+                  <div id="event4" class="event-content">
+                    <h3>{{ block.settings.title-event4 }}</h3>
+                    <p>{{ block.settings.text-event4 }}</p>
+                    <a href="{{ block.settings.btnev4 }}" class="btn">{{ block.settings.btnevtxt4 }}</a>   
+                  </div>
+                  <div id="event5" class="event-content">
+                    <h3>{{ block.settings.title-event5 }}</h3>
+                    <p>{{ block.settings.text-event5 }}</p>
+                    <a href="{{ block.settings.btnev5 }}" class="btn">{{ block.settings.btnevtxt5 }}</a>   
+                  </div>
+                  
+
                 </div>
             </div>
         {% endif %}    
