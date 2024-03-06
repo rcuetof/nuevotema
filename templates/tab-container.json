@@ -1,1 +1,5 @@
-{"sections":{"main":{"type":"tab-container","settings":{}}},"order":["main"]}
+{
+    "sections":
+    {
+        "main":
+    {"type":"main-tab-container","settings":{"padding_top":28,"padding_bottom":28}}},"order":["main"]}
