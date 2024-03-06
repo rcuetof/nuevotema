@@ -52,7 +52,7 @@
 }
 
 .event-content {
-   
+    display: none;
     margin: 5px;
     h3{color: #333;}
     p{color: #333;}
