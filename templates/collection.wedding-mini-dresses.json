@@ -9,84 +9,6 @@
         "color_scheme": "scheme-1"
       }
     },
-    "multicolumn_ACAh9H": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_XiXPEQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/0d24a48daf994aa6bdcf4ce0ec953e6e-Max.jpg",
-            "title": "Bridal Mini Dresses",
-            "text": "",
-            "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/wedding-mini-dresses"
-          }
-        },
-        "column_b8ACEx": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/06d32d35181f4dffb6a6f010d76d6524-Max.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_pe6nJD": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/a2ee0fb6-646d-4f0e-bafb-056f83e1eb29-Max_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_RmT8Da": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/3fbdd88f081b4bf7bfb54357635a378e-Max.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yUJYc6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/c0fd80b5275a41aeb79ec84d4fd18000-Max.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_XiXPEQ",
-        "column_b8ACEx",
-        "column_pe6nJD",
-        "column_RmT8Da",
-        "column_yUJYc6"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -110,7 +32,6 @@
   },
   "order": [
     "banner",
-    "multicolumn_ACAh9H",
     "product-grid"
   ]
 }
