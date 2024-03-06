@@ -53,9 +53,9 @@
                   {% assign l = 12 %}
                   {% for i in (1..5) %}
                   <div id="event{i}" class="event-content" >
-                    <h3>{{ block.settings.["title-event#{i}"] }}</h3>
-                    <p>{{ block.settings.["text-event#{i}"] }}</p>
-                    <a href="{{ block.settings.["btnev#{i}"] }}" class="btn">{{ block.settings.["btnevtxt#{i}"] }}</a>                     
+                    <h3>{{ block.settings["title-event#{i}"] }}</h3>
+                    <p>{{ block.settings["text-event#{i}"] }}</p>
+                    <a href="{{ block.settings["btnev#{i}"] }}" class="btn">{{ block.settings["btnevtxt#{i}"] }}</a>                     
                     <div class="subevent-container">
                     {% for j in (k..l) %}
                       {% if block.settings["titlesubevent#{k}"] != blank %}
@@ -116,15 +116,7 @@
               "label":"Texto del Boton",
               "default": "Discover Collection"
            },
-           
-
-
-
-
-
-
-
-           {
+            {
               "type": "text",
               "id": "title-event1",
               "label": "Titulo-Evento-1"
@@ -279,7 +271,7 @@
            },
 
 
-           {
+  {
     "type": "text",
     "id": "title-subevent1",
     "label": "Titulo de Sub Evento 1"
