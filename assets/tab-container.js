@@ -39,3 +39,33 @@ tabContainer.addEventListener("mousemove", function (event) {
         initialX = event.clientX;
     }
 });
+
+function event(EventNumber) {
+    // Obtiene el contenido de la pestaña seleccionada
+    var selectedEventContent = document.getElementById("event" + EventNumber);
+    
+    // Verifica si el contenido está visible
+    var isEventVisible = window.getComputedStyle(selectedEventContent).display != "none";
+    
+    // Oculta todos los contenidos
+    var EventContents = document.getElementsByClassName("event-content");
+    for (var i = 0; i < tabContents.length; i++) {
+        EventContents[i].style.display = "none";
+    }
+    
+    // Muestra el contenido de la pestaña seleccionada solo si no estaba visible previamente
+    if (!isEventVisible) {
+        selectedTabContent.style.display = "block";
+    }
+}
+
+// Agrega eventos para el desplazamiento con el mouse
+var EventContainer = document.getElementById("Events");
+EventContainer.addEventListener("mousedown", function (event) {
+    isMouseDown = true;
+    initialX = event.clientX;
+});
+
+EventContainer.addEventListener("mouseup", function () {
+    isMouseDown = false;
+});
