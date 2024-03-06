@@ -9,6 +9,10 @@
         "color_scheme": "scheme-1"
       }
     },
+"tab-container":{
+  "type": "tab-container"
+},
+
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
@@ -111,6 +115,7 @@
   "order": [
     "banner",
     "product-grid",
-    "multicolumn_ACAh9H"
+    "multicolumn_ACAh9H",
+    "tab-container"
   ]
 }
