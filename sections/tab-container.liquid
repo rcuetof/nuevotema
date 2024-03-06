@@ -89,14 +89,12 @@
 <script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
 
 {% schema %}
-    {
-      "name": "TAB-VICTORIA",
-      "blocks": [
+  {
+    "name": "t:sections.tab-container.name",
+    "tag": "section",
+    "class": "section",
+    "settings": [
         {
-          "type": "text",
-          "name": "Categoria",
-          "settings": [
-            {
               "type": "text",
               "id": "title",
               "label": "Heading"
@@ -303,8 +301,6 @@
             }
 
           ]
-        }
-      ]
-    }
-  
+        }  
+     
 {% endschema %}
