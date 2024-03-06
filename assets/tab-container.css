@@ -15,7 +15,8 @@
     cursor: pointer;
     padding: 5px 10px 5px 10px;
     margin: 10px 10px 20px 10px;
-    border: 20px solid #ffffff;
+    border: 2px solid #ffffff;
+    border-top: 10px solid #ffffff;
     box-shadow: 0px 0px 5px rgba(60, 59, 59, 0.478);
     background-color: rgba(255, 255, 255, 0.658);
     text-align: center;
@@ -27,6 +28,10 @@
     border-radius: 5px;
     transition: background-color 0.3s ease;
     transition: all 0.9s;
+    h3{
+    position: absolute;
+    top: 50%;
+    }
 }
 
 .tab:hover {
