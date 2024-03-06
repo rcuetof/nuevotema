@@ -47,19 +47,15 @@
     border-radius: 5px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
     margin: 5px;
+    h3 {color: #333;}
+    p {color: #666;}
 }
 
 .event-content {
     overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
-    display: none;
+    
     margin: 5px;
+    h3{color: #333;}
+    p{color: #333;}
 }
 
-.tab-content h3 {
-    color: #333;
-    font-family: Alegreya;
-}
-
-.tab-content p {
-    color: #666;
-}
