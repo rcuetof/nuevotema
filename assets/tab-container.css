@@ -28,10 +28,7 @@
     border-radius: 5px;
     transition: background-color 0.3s ease;
     transition: all 0.9s;
-    h3{
-    position: absolute;
-    top: 50%;
-    }
+  
 }
 
 .tab:hover {
