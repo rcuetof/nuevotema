@@ -129,7 +129,7 @@ tabContainer.addEventListener("mousemove", function (event) {
     <div class="tab-buttons" id="Events">
         <div class="tab" onclick="changeevent(1)">Plus Size Mini Dresses</div>
     </div>   
-    <div id="event1" class="tab-content">
+    <div id="event1" class="event-content">
         <h3>Collection Plus size mini dresses</h3>
         <p>Explore the world of plus-size mini dresses that celebrate your unique beauty. Our wide variety of models and colors includes the classic black mini dress for casual outings or even your best friend's wedding. Dive into the complete collection and discover the perfect floral mini dress for the spring season, ensuring you look beautiful all season long. Are you ready to conquer the world with your style? Fashion has evolved, and real women are the ones leading the charge, irrespective of size. Click here to explore the diverse range of options and elevate your fashion to the next level!</p>
         <a class="btn">Discover Collection</a>
@@ -148,7 +148,7 @@ function event(tabNumber) {
     var isTabVisible = window.getComputedStyle(selectedTabContent).display !== "none";
     
     // Oculta todos los contenidos
-    var tabContents = document.getElementsByClassName("event");
+  var tabContents = document.getElementsByClassName("event-content");
     for (var i = 0; i < tabContents.length; i++) {
         tabContents[i].style.display = "none";
     }

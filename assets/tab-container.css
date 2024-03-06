@@ -52,8 +52,7 @@
 }
 
 .event-content {
-    overflow-x: hidden; /* Oculta la barra de desplazamiento horizontal en el cuerpo */
-    
+   
     margin: 5px;
     h3{color: #333;}
     p{color: #333;}
