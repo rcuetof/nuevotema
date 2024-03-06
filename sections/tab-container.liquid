@@ -28,7 +28,7 @@
                 <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a> 
 
                 <div class="tabs-container">
-                  <div class="tab-buttons" id="Events">
+                  <div class="tab-buttons" id="Events{{tabn}}">
                     {%- assign eventmod = tabn | times: 7 -%}
                     {% if block.settings.title-event1 != blank %}<div class="tab" onclick="Changeevent({{ eventmod }})" {%- if block.settings.image-event1 != blank -%} 
                       style="background-image: url('{{ block.settings.image-event1 | image_url: width: 150 }} ');"
