@@ -58,7 +58,7 @@
                     <a href="{{ block.settings.["btnev#{i}"] }}" class="btn">{{ block.settings.["btnevtxt#{i}"] }}</a>                     
                     <div class="subevent-container">
                     {% for j in (k..l) %}
-                      {% if block.settings["title-subevent#{k}"] != blank %}
+                      {% if block.settings["titlesubevent#{k}"] != blank %}
                         <div class="subevent" style="background-image: url('{{ block.settings["image-subevent#{k}"] | image_url: width: 150 }}'); border: 10px solid {{ block.settings["color-subevent#{k}"] }}; border-bottom: 50px solid {{ block.settings["color-subevent#{k}"] }};">
                           <a href="{{ block.settings["url-subevent#{k}"] }}" title="{{ block.settings["title-subevent#{k}"] }}">
                         <h3>{{ block.settings["title-subevent#{k}"] }}</h3>
@@ -68,9 +68,8 @@
                     {% endfor %}
                     </div>
                   </div>
-                  {%- assign k = | plus: 12 -%}
-                  {%- assign l = | plus: 12 -%}
-                  {% endfor %}
+                  
+
                 </div>
             </div>
         {% endif %}    
