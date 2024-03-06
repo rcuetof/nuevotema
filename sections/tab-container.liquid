@@ -29,23 +29,23 @@
              
                 <div class="tabs-container">
                   <div class="tab-buttons" id="Events">
-                    {% if block.settings.title-event1 != blank %}<div class="tab" onclick="event(1)" {%- if block.settings.image-event1 != blank -%} 
+                    {% if block.settings.title-event1 != blank %}<div class="tab" onclick="Changeevent(1)" {%- if block.settings.image-event1 != blank -%} 
                       style="background-image: url('{{ block.settings.image-event1 | image_url: width: 150 }} ');"
                     {% endif %}>{{ block.settings.title-event1 }}</div>{% endif %}
 
-                    {% if block.settings.title-event2 != blank %}<div class="tab" onclick="event(2)" {%- if block.settings.image-event2 != blank -%} 
+                    {% if block.settings.title-event2 != blank %}<div class="tab" onclick="Changeevent(2)" {%- if block.settings.image-event2 != blank -%} 
                       style="background-image: url('{{ block.settings.image-event2 | image_url: width: 150 }} ');"
                     {% endif %}>{{ block.settings.title-event2 }}</div>{% endif %}
 
-                    {% if block.settings.title-event3 != blank %}<div class="tab" onclick="event(3)" {%- if block.settings.image-event3 != blank -%} 
+                    {% if block.settings.title-event3 != blank %}<div class="tab" onclick="Changeevent(3)" {%- if block.settings.image-event3 != blank -%} 
                       style="background-image: url('{{ block.settings.image-event3 | image_url: width: 150 }} ');"
                     {% endif %}>{{ block.settings.title-event3 }}</div>{% endif %}
 
-                    {% if block.settings.title-event4 != blank %}<div class="tab" onclick="event(4)" {%- if block.settings.image-event4 != blank -%} 
+                    {% if block.settings.title-event4 != blank %}<div class="tab" onclick="Changeevent(4)" {%- if block.settings.image-event4 != blank -%} 
                       style="background-image: url('{{ block.settings.image-event4 | image_url: width: 150 }} ');"
                     {% endif %}>{{ block.settings.title-event4 }}</div>{% endif %}
                     
-                    {% if block.settings.title-event5 != blank %}<div class="tab" onclick="event(5)" {%- if block.settings.image-event5 != blank -%} 
+                    {% if block.settings.title-event5 != blank %}<div class="tab" onclick="Changeevent(5)" {%- if block.settings.image-event5 != blank -%} 
                       style="background-image: url('{{ block.settings.image-event5 | image_url: width: 150 }} ');"
                     {% endif %}>{{ block.settings.title-event5 }}</div>{% endif %}
                   </div>
