@@ -17,26 +17,20 @@
     margin: 10px 10px 20px 10px;
     border: 2px solid #ffffff;
     box-shadow: 0px 0px 5px rgba(60, 59, 59, 0.478);
-    background-color: rgba(255, 255, 255, 0.658);
     text-align: center;
     width: 190px;
     height: 300px;
-    background-size: contain;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;    
     border-radius: 5px;
     transition: background-color 0.3s ease;
     transition: all 0.9s;
-    h3{
-        background-color: #ffffff;
-    }
-  
 }
 
 .tab:hover {
-    background-color: rgba(145, 126, 155, 0.285);
     transform: rotate(0.2deg);
-    
+    box-shadow: 0px 0px 10px rgba(60, 59, 59, 0.478);
 }
 
 .tab-content {
