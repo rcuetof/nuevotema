@@ -31,7 +31,6 @@
 
 .tab:hover {
     background-color: rgba(145, 126, 155, 0.285);
-    scale: 101%;
     transform: rotate(0.2deg);
     
 }
