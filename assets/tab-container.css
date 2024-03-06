@@ -6,6 +6,7 @@
 .tab-buttons {
     display: flex;
     white-space: nowrap;
+    width: 190px;
     scrollbar-width: thin;
     -ms-overflow-style: none;
     overflow-x: auto;
