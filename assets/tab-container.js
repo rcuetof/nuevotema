@@ -45,7 +45,7 @@ function event(EventNumber) {
     var selectedEventContent = document.getElementById("event" + EventNumber);
     
     // Verifica si el contenido está visible
-    var isEventVisible = window.getComputedStyle(selectedEventContent).display != "none";
+    var isEventVisible = window.getComputedStyle(selectedEventContent).display !== "none";
     
     // Oculta todos los contenidos
     var EventContents = document.getElementsByClassName("event-content");
