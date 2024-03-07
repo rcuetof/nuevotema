@@ -32,12 +32,12 @@
         "button_wXCTrW": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
+            "button_label": "Collection of mini dresses for wedding guests",
+            "button_link": "shopify:\/\/collections\/formal-mini-dresses",
+            "button_style_secondary": true,
             "button_label_2": "",
             "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_style_secondary_2": true
           }
         }
       },
