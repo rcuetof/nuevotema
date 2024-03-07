@@ -10,7 +10,6 @@
     },
     "page_DEaAYx": {
       "type": "page",
-      "disabled": true,
       "custom_css": [
         "h2 {display: none;}"
       ],
