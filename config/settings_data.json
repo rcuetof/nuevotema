@@ -137,25 +137,6 @@
     "content_for_index": [
 
     ],
-    "blocks": {
-      "3770645089152979137": {
-        "type": "shopify:\/\/apps\/rapid-search\/blocks\/csb\/bd827795-feaa-41a8-9219-2b83f238aa7d",
-        "disabled": false,
-        "settings": {
-          "picker_enabled": false,
-          "icon_color": "#b776e4",
-          "button_background_color": "#e2cdef",
-          "position": "below",
-          "placeholder": "Search",
-          "width": 250,
-          "height": 37,
-          "show_on_desktop": true,
-          "show_on_mobile": true,
-          "hideDefaultSearch": true,
-          "css": ".rps-csb-container {\n}"
-        }
-      }
-    },
     "color_schemes": {
       "scheme-1": {
         "settings": {
