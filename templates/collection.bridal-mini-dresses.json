@@ -31,6 +31,60 @@
         "padding_bottom": 52
       }
     },
+    "multicolumn_bbjVUF": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_GPxcNj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/d51bf86f3d7f4aa1b161868caa6577ac-Max.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dpDFnR": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_EB83PJ": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_GPxcNj",
+        "column_dpDFnR",
+        "column_EB83PJ"
+      ],
+      "settings": {
+        "title": "<em><strong>Bridal mini dress styles<\/strong><\/em>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -112,60 +166,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_bbjVUF": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_GPxcNj": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/d51bf86f3d7f4aa1b161868caa6577ac-Max.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_dpDFnR": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_EB83PJ": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_GPxcNj",
-        "column_dpDFnR",
-        "column_EB83PJ"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_bnGGhH": {
       "type": "image-with-text",
       "blocks": {
@@ -218,9 +218,9 @@
   "order": [
     "banner",
     "rich_text_XfEJx4",
+    "multicolumn_bbjVUF",
     "product-grid",
     "collapsible_content_AkNULQ",
-    "multicolumn_bbjVUF",
     "image_with_text_bnGGhH"
   ]
 }
