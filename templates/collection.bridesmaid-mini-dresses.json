@@ -93,14 +93,14 @@
         "column_8BVycf"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "<em><strong>Categories of mini dresses for bridesmaid<\/strong><\/em>",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "2",
