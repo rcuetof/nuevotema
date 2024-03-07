@@ -284,8 +284,8 @@
         "collapsible_row_a937Yc": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "",
+            "icon": "chat_bubble",
             "row_content": "",
             "page": ""
           }
