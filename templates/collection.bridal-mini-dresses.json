@@ -57,7 +57,7 @@
         "collapsible_row_ayW7D4": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "",
             "icon": "check_mark",
             "row_content": "",
             "page": ""
@@ -99,7 +99,7 @@
       ],
       "settings": {
         "caption": "",
-        "heading": "Collapsible content",
+        "heading": "FAQ & Policies",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
