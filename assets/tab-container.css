@@ -1,5 +1,5 @@
 .tabs-container {
-    max-width: 920px;
+    max-width: 900px;
     margin: 2% auto;
 }
 
@@ -7,14 +7,13 @@
     font-weight: 600;
     font-size: 14px;
     display: flex;
-    scrollbar-width: 300px;
+    scrollbar-width: thin;
     -ms-overflow-style: none;
     overflow-x: auto;
-    width: 400px;
 }
 
 .tab {
-    position: relative;
+    
     cursor: pointer;
     padding: 5px 10px 5px 10px;
     margin: 10px 10px 20px 10px;
@@ -23,7 +22,7 @@
     border-bottom: 35px solid #ffffff;
     box-shadow: 0px 0px 5px rgba(60, 59, 59, 0.478);
     text-align: center;
-    width: 400px;
+    width: 190px;
     height: 330px;
     background-size: cover;
     background-position: center;
