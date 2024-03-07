@@ -267,7 +267,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "",
-            "icon": "check_mark",
+            "icon": "heart",
             "row_content": "",
             "page": ""
           }
@@ -275,8 +275,8 @@
         "collapsible_row_L7tMHb": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "",
+            "icon": "truck",
             "row_content": "",
             "page": ""
           }
