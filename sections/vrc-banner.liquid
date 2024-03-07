@@ -1,6 +1,12 @@
 {{ 'vrc-banner.css' |  asset_url |  stylesheet_tag }}
-{%- if condition -%}
-    <div style="background-image: url('{{ section.settings.banner-movil |  image_url: width:100%  }}'); @media (max-width: 768px) { background-image: url('ruta_imagen_dispositivo_movil.jpg'); }" class="vrc-banner"></div>
+{%- if section.settings.banner-escritorio != blank or section.settings.banner-movil != blank -%}
+    <div style="background-image: url('{{ section.settings.banner-escritorio |  image_url: 2592x1152  }}'); @media (max-width: 768px) { background-image: url('{{ section.settings.banner-movil |  image_url: 1152x2592  }}'); }" class="vrc-banner">
+        <h1 style="font-size: {{section.settings.size-tittle1}};">{{section.settings.title-banner}}</h1>
+        <p style="font-size: {{section.settings.size-tittle2}};">{{section.settings.tittl2-banner}}</p>
+        <a href="{{section.settings.link-botton1}}" class="button-banner position-boton">{{section.settings.text-botton1}}</a>
+        <a href="{{section.settings.link-botton1}}" class="button-banner position-mid">{{section.settings.text-botton1}}</a>
+    </div>
+   
 {%- endif -%}
 {% schema %}
     {
@@ -15,10 +21,58 @@
                   "type": "image_picker",
                   "id": "banner-escritorio",
                   "label": "Imagen Para Compputadoras"
-               }
+               },
+               {
+                 "type": "text",
+                 "id": "title-banner",
+                 "label": "Titulo del Banner"
+               },
+              {
+                "type": "range",
+                "id": "size-tittle1",
+                "min": 10,
+                "max": 40,
+                "step": 1,
+                "unit": "px",
+                "label": "Tamaño Titulo 1",
+                "default": 20
+              },
+                {
+                 "type": "textarea",
+                 "id": "tittl2-banner",
+                 "label": "2do Titulo del Banner"
+               },
+               {
+                "type": "range",
+                "id": "size-tittle2",
+                "min": 10,
+                "max": 40,
+                "step": 1,
+                "unit": "px",
+                "label": "Tamaño Titulo 1",
+                "default": 20
+              },
+               {
+                 "type": "text",
+                 "id": "text-botton1",
+                 "label": "Texto del Boton 1"
+               },
+               {
+                 "type": "url",
+                 "id": "link-botton1",
+                 "label": "Link Botton1"
+               },
+               {
+                 "type": "text",
+                 "id": "text-botton2",
+                 "label": "Texto del Boton 1"
+               },
+               {
+                 "type": "url",
+                 "id": "link-botton2",
+                 "label": "Link Botton2"
+               }               
 
             ]
           }
-     
-    
 {% endschema %}
