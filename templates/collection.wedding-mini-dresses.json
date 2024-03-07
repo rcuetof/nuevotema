@@ -9,6 +9,10 @@
         "color_scheme": "scheme-1"
       }
     },
+    "vrc-banner":
+    {
+      "type": "vrc-banner"
+    },
 "tab-container":{
   "type": "tab-container"
 },
