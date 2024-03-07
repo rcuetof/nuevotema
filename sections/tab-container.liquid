@@ -1,9 +1,10 @@
 {{ 'buttons.css' | asset_url | stylesheet_tag }}
 {{ 'tab-container.css' | asset_url | stylesheet_tag }}
-<style>
-.texttop{position: absolute;}
-.textbtn{position: absolute;}  
-</style>
+{% style  %} 
+.texttop{position: absolute;transform: translate(-50%:-50%); left:50%; top:0%;}
+.textbtn{
+  position: absolute;transform: translate(-50%:-50%); left:50%; top:120%;}  
+ {% endstyle %}
 
 {%- assign tabn = 1 -%}
 <div class="tabs-container">
