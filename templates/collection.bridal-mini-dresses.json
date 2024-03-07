@@ -54,12 +54,12 @@
             "link": ""
           }
         },
-        "column_EB83PJ": {
+        "column_AwHrdA": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/bfea8b3db21448ed9a0e59fc7aa14a35-Max.jpg",
             "title": "Beach wedding",
-            "text": "<p>.<\/p>",
+            "text": "",
             "link_label": "Show More",
             "link": ""
           }
@@ -68,7 +68,7 @@
       "block_order": [
         "column_GPxcNj",
         "column_dpDFnR",
-        "column_EB83PJ"
+        "column_AwHrdA"
       ],
       "settings": {
         "title": "<em><strong>Bridal mini dress styles<\/strong><\/em>",
