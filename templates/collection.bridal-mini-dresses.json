@@ -102,7 +102,7 @@
         "heading": "FAQ & Policies",
         "heading_size": "h1",
         "heading_alignment": "center",
-        "layout": "none",
+        "layout": "row",
         "color_scheme": "",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
@@ -197,6 +197,7 @@
         "button_FWGEeA"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/0d24a48daf994aa6bdcf4ce0ec953e6e-Max.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
