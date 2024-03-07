@@ -63,12 +63,22 @@
             "link_label": "Show More",
             "link": ""
           }
+        },
+        "column_9PpA7q": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_GPxcNj",
         "column_dpDFnR",
-        "column_AwHrdA"
+        "column_AwHrdA",
+        "column_9PpA7q"
       ],
       "settings": {
         "title": "<em><strong>Bridal mini dress styles<\/strong><\/em>",
@@ -161,7 +171,7 @@
         "column_rqRT9w": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/644d947263ac42e3a0fc5411bd9f2ead-Max.jpg",
+            "image": "shopify:\/\/shop_images\/b759139e797949acafb31f7006636336-Max.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -177,12 +187,23 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_K6dQYb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_U6tCBC",
         "column_rqRT9w",
-        "column_inMWw9"
+        "column_inMWw9",
+        "column_K6dQYb"
       ],
       "settings": {
         "title": "",
