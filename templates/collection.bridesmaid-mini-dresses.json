@@ -73,13 +73,24 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_8BVycf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/00a07c0a-7146-4000-b44d-2f5238308e9f-Max.jpg",
+            "title": "",
+            "text": "<h6><em><strong>Short Cheap Bridesmaid Dresses<\/strong><\/em><\/h6>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_JUNzTP",
         "column_KwYy69",
         "column_gkFr7F",
-        "column_mr9yRE"
+        "column_mr9yRE",
+        "column_8BVycf"
       ],
       "settings": {
         "title": "",
