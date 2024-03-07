@@ -232,20 +232,11 @@
             "text": "<p>When we talk about weddings, one of the most iconic and immortal elements that comes to mind is the bride's white dress. This symbol of purity and elegance has been a fundamental part of marriage ceremonies for centuries. However, times have changed and now brides are free to choose the color of dress that best suits their personality, just as it was previously considered that the wedding dress should be long, and<br\/> ostentatious but today you can choose the dress that makes you feel most comfortable. You can choose other colors and fabrics. We present different collections of mini dresses in light tones that you can choose from.<\/p>",
             "text_style": "body"
           }
-        },
-        "button_UJH6X8": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
         "heading_TCVykP",
-        "text_zVxMGE",
-        "button_UJH6X8"
+        "text_zVxMGE"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/69c411243f9945bb81ca52864007a3c6-Max_1.jpg",
