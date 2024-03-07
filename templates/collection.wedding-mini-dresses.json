@@ -12,6 +12,16 @@
     "vrc-banner": {
       "type": "vrc-banner",
       "settings": {
+        "banner-movil": "shopify:\/\/shop_images\/bridesmiad916_254f151e-4175-4170-ae9d-f4356da34059.png",
+        "banner-escritorio": "shopify:\/\/shop_images\/bridesmiad169_dff0e992-81ec-49e5-b927-4cddfd9dc1d8.png",
+        "title-banner": "Wedding",
+        "size-tittle1": 20,
+        "tittl2-banner": "",
+        "size-tittle2": 20,
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
       }
     },
     "tab-container": {
