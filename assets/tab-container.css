@@ -4,15 +4,15 @@
 }
 
 .tab-buttons {
+    font-weight: 500;
     display: flex;
-    white-space: nowrap;
     scrollbar-width: thin;
     -ms-overflow-style: none;
     overflow-x: auto;
 }
 
 .tab {
-    font-weight: 500;
+    
     cursor: pointer;
     padding: 5px 10px 5px 10px;
     margin: 10px 10px 20px 10px;
