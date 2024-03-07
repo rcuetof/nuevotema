@@ -193,8 +193,9 @@
         "column_PjBdr3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/fc08cfdb24cd490ea45b30b5e85a97ca-Max.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
