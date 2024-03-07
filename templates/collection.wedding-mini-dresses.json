@@ -266,6 +266,66 @@
             "btnev5": "",
             "btnevtxt5": "Discover Collection"
           }
+        },
+        "text_EknyhK": {
+          "type": "text",
+          "settings": {
+            "title": "Dress Reception Wedding",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/48ab745c8eeb4b6ab27a73089dce49d7-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
+        },
+        "text_HDQcic": {
+          "type": "text",
+          "settings": {
+            "title": "Mini Dress for Bridal shower",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/06d32d35181f4dffb6a6f010d76d6524-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
         }
       },
       "block_order": [
@@ -275,7 +335,9 @@
         "text_GxPtwC",
         "text_ibBQTd",
         "text_reydrW",
-        "text_zkzBh7"
+        "text_zkzBh7",
+        "text_EknyhK",
+        "text_HDQcic"
       ],
       "settings": {
       }
