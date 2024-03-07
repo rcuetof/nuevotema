@@ -9,13 +9,111 @@
         "color_scheme": "scheme-1"
       }
     },
-   
-    "tab-container":{
-      "type": "tab-container"
+    "vrc-banner": {
+      "type": "vrc-banner",
+      "settings": {
+      }
     },
-    "vrc-banner":
-    {
-      "type": "vrc-banner"
+    "tab-container": {
+      "type": "tab-container",
+      "blocks": {
+        "text_eUnGL4": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
+        },
+        "text_GBQmg4": {
+          "type": "text",
+          "settings": {
+            "title": "Bridal Mini Dresses  Show More",
+            "text": "Look for a mini dress that reflects your personal style and the theme of the wedding.\n Consider comfort and mobility, since you will be in the center of attention during the day.\nChoose a design that flatters your figure and fits your body type.\nOpt for elegant fabrics such as lace, silk or tulle for a special touch.\n Make sure the dress complements the setting and time of year of the wedding.\nTry different styles and colors to find the one that highlights your natural beauty.\nThink about accessories like short veils or subtle jewelry to enhance your look.\n Consult a dressmaker for adjustments and customizations to make the dress unique.\nConsider the versatility so you can enjoy it at other events after the wedding.\nFinally, choose a dress that will make you feel radiant and special on your big day.",
+            "image": "shopify:\/\/shop_images\/fbbd3e9509784a54b552b1b86852d548-Max.jpg",
+            "btn": "https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.price.gte=&filter.v.price.lte=&filter.v.option.color=Cream&filter.v.option.color=White&sort_by=best-selling",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
+        },
+        "text_tXwXBY": {
+          "type": "text",
+          "settings": {
+            "title": "Bridesmaid Mini Dresses Show More",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/bd4504a0-d4d4-4930-98f9-912d8ef6b340-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_eUnGL4",
+        "text_GBQmg4",
+        "text_tXwXBY"
+      ],
+      "settings": {
+      }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
@@ -41,7 +139,7 @@
   "order": [
     "banner",
     "vrc-banner",
-    "product-grid",
-    "tab-container"
+    "tab-container",
+    "product-grid"
   ]
 }
