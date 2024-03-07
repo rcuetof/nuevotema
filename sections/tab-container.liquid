@@ -10,7 +10,7 @@
               <div class="tab" onclick="changeTab({{ tabn }})" 
                 {%- if block.settings.image != blank -%} 
                   style="background-image: url('{{ block.settings.image | image_url: width: 2000, height: 3500 }} ');"
-                {% endif %}>{{ block.settings.title }}</div>      
+                {% endif %}><h2>{{ block.settings.title }}</h2></div>      
             {% endif %}
         {% endcase %}
         {%- assign tabn = tabn | plus: 1 -%}
