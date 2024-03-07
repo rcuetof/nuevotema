@@ -1,16 +1,17 @@
 {{ 'vrc-banner.css' |  asset_url |  stylesheet_tag }}
 {%- if section.settings.banner-escritorio != blank or section.settings.banner-movil != blank -%}
-    {% capture desktop_style %}
+    <style>
+    .vrc-banner {
+        /* Estilo predeterminado para escritorio */
         background-image: url('{{ section.settings.banner-escritorio | image_url: '2592x1152' }}');
-      {% endcapture %}
-      
-      {% capture mobile_style %}
-        background-image: url('{{ section.settings.banner-movil | image_url: '1152x2592' }}');
-      {% endcapture %}
-      
-      <div class="vrc-banner" style="{% if is_mobile_view %}{{ mobile_style }}{% else %}{{ desktop_style }}{% endif %}">
- 
-
+               
+       /* Estilo para dispositivos móviles */
+        @media (max-width: 768px) {
+            background-image: url('{{ section.settings.banner-movil | image_url: '1152x2592' }}');
+        }
+    }
+</style>
+    <div class="vrc-banner">
         <h1 style="font-size: {{section.settings.size-tittle1}};">{{section.settings.title-banner}}</h1>
         <p style="font-size: {{section.settings.size-tittle2}};">{{section.settings.tittl2-banner}}</p>
         <a href="{{section.settings.link-botton1}}" class="button-banner position-boton">{{section.settings.text-botton1}}</a>
