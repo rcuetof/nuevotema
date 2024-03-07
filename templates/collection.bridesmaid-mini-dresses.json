@@ -2,24 +2,33 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "scheme-1"
       }
     },
-    "page_DEaAYx": {
-      "type": "page",
-      "disabled": true,
-      "custom_css": [
-        "h2 {display: none;}"
+    "rich_text_fMPNtQ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_HXDWKK": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><em><strong>Bridesmaid  Mini Dresses Collection<\/strong><\/em><\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "text_HXDWKK"
       ],
       "settings": {
-        "page": "tab-container",
-        "heading_size": "h1",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "product-grid": {
@@ -45,7 +54,7 @@
   },
   "order": [
     "banner",
-    "page_DEaAYx",
+    "rich_text_fMPNtQ",
     "product-grid"
   ]
 }
