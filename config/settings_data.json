@@ -142,7 +142,7 @@
         "type": "shopify:\/\/apps\/rapid-search\/blocks\/csb\/bd827795-feaa-41a8-9219-2b83f238aa7d",
         "disabled": false,
         "settings": {
-          "picker_enabled": true,
+          "picker_enabled": false,
           "icon_color": "#b776e4",
           "button_background_color": "#e2cdef",
           "position": "below",
