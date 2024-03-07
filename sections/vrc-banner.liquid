@@ -8,7 +8,7 @@
         background-image: url('{{ section.settings.banner-movil | image_url: '1152x2592' }}');
       {% endcapture %}
       
-      <div class="vrc-banner" style="{% if is mobile_view %}{{ mobile_style }}{% else %}{{ desktop_style }}{% endif %}">
+      <div class="vrc-banner" style="{% if is_mobile_view %}{{ mobile_style }}{% else %}{{ desktop_style }}{% endif %}">
  
 
         <h1 style="font-size: {{section.settings.size-tittle1}};">{{section.settings.title-banner}}</h1>
