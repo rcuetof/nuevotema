@@ -7,7 +7,6 @@
     font-weight: 600;
     font-size: 14px;
     display: flex;
-    scrollbar-width: thin;
     -ms-overflow-style: none;
     overflow-x: auto;
     width: 400px;
