@@ -38,17 +38,17 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/d51bf86f3d7f4aa1b161868caa6577ac-Max.jpg",
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "title": "Garden Wedding",
+            "text": "",
+            "link_label": "Show More",
             "link": ""
           }
         },
         "column_dpDFnR": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
