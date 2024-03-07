@@ -61,8 +61,37 @@
           "type": "text",
           "settings": {
             "title": "Bridesmaid Mini Dresses",
-            "text": "",
+            "text": "Consider the wedding dress code and choose a mini dress that fits the style of the event.\nCoordinate the color of the dress with the wedding palette, opting for tones that complement the theme.\nLook for a design that flatters the figure and adapts to the diversity of body shapes of bridesmaids.\nMake sure the dress highlights each bridesmaid's personality and makes them feel comfortable.\nAvoid colors that are too bright or prints that could distract the bride's attention.\nOpt for quality fabrics and elegant cuts for a sophisticated and timeless look.",
             "image": "shopify:\/\/shop_images\/bd4504a0-d4d4-4930-98f9-912d8ef6b340-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
+        },
+        "text_f4drNU": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "",
             "btn": "",
             "btntxt": "Discover Collection",
             "title-event1": "",
@@ -90,7 +119,8 @@
       },
       "block_order": [
         "text_GBQmg4",
-        "text_tXwXBY"
+        "text_tXwXBY",
+        "text_f4drNU"
       ],
       "settings": {
       }
