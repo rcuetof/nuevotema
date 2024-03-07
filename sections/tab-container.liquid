@@ -2,8 +2,8 @@
 {{ 'tab-container.css' | asset_url | stylesheet_tag }}
 {% style  %} 
 .texttop{position: relative; left:1%; top:-20%;white-space: nowrap;}
-.textbtn{position: absolute; left:80%; top:60%;white-space: nowrap;}  
-.textizq{position: absolute; left:-60%; top:60%;white-space: nowrap;}  
+.textbtn{position: flex; left:80%; top:60%;white-space: nowrap;}  
+.textizq{position: flex; left:-60%; top:60%;white-space: nowrap;}  
 {% endstyle %}
 
 {%- assign tabn = 1 -%}
