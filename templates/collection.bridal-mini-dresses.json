@@ -107,6 +107,100 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_QpE7kC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TCVykP": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>What does the color white mean in the wedding dress?<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_zVxMGE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When we talk about weddings, one of the most iconic and immortal elements that comes to mind is the bride's white dress. This symbol of purity and elegance has been a fundamental part of marriage ceremonies for centuries. However, times have changed and now brides are free to choose the color of dress that best suits their personality, just as it was previously considered that the wedding dress should be long, and<br\/> ostentatious but today you can choose the dress that makes you feel most comfortable. You can choose other colors and fabrics. We present different collections of mini dresses in light tones that you can choose from.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TCVykP",
+        "text_zVxMGE"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/69c411243f9945bb81ca52864007a3c6-Max_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_Tzrii4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_U6tCBC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/74f788f4b5e844e3bd284ce5978a0980-Max.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rqRT9w": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/644d947263ac42e3a0fc5411bd9f2ead-Max.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_inMWw9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/63658522-8c97-4456-ac5a-fec77b566fe8-Max.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_U6tCBC",
+        "column_rqRT9w",
+        "column_inMWw9"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_bnGGhH": {
       "type": "image-with-text",
       "blocks": {
@@ -141,44 +235,6 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/0d24a48daf994aa6bdcf4ce0ec953e6e-Max.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_QpE7kC": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_TCVykP": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em><strong>What does the color white mean in the wedding dress?<\/strong><\/em>",
-            "heading_size": "h2"
-          }
-        },
-        "text_zVxMGE": {
-          "type": "text",
-          "settings": {
-            "text": "<p>When we talk about weddings, one of the most iconic and immortal elements that comes to mind is the bride's white dress. This symbol of purity and elegance has been a fundamental part of marriage ceremonies for centuries. However, times have changed and now brides are free to choose the color of dress that best suits their personality, just as it was previously considered that the wedding dress should be long, and<br\/> ostentatious but today you can choose the dress that makes you feel most comfortable. You can choose other colors and fabrics. We present different collections of mini dresses in light tones that you can choose from.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_TCVykP",
-        "text_zVxMGE"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/69c411243f9945bb81ca52864007a3c6-Max_1.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -260,8 +316,9 @@
     "rich_text_XfEJx4",
     "multicolumn_bbjVUF",
     "product-grid",
-    "image_with_text_bnGGhH",
     "image_with_text_QpE7kC",
+    "multicolumn_Tzrii4",
+    "image_with_text_bnGGhH",
     "collapsible_content_AkNULQ"
   ]
 }
