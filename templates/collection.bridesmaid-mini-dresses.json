@@ -190,12 +190,12 @@
             "link": ""
           }
         },
-        "column_PjBdr3": {
+        "column_facejq": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/fc08cfdb24cd490ea45b30b5e85a97ca-Max.jpg",
             "title": "",
-            "text": "<p><span style=\"text-decoration:underline\">b<\/span><\/p>",
+            "text": "<h3><em><strong>Black Short Bridesmaid  Dresses<\/strong><\/em><\/h3>",
             "link_label": "",
             "link": ""
           }
@@ -204,7 +204,7 @@
       "block_order": [
         "column_DeAPfh",
         "column_yYaYNi",
-        "column_PjBdr3"
+        "column_facejq"
       ],
       "settings": {
         "title": "<em><strong>Bridesmaid Color Palette<\/strong><\/em>",
