@@ -3,11 +3,11 @@
     <style>
     .vrc-banner {
         /* Estilo predeterminado para escritorio */
-        background-image: url('{{ section.settings.banner-escritorio | image_url: '2592x1152' }}');
+        background-image: url('{{ section.settings.banner-escritorio | image_url: width: 2592, height: 1152}}');
                
        /* Estilo para dispositivos móviles */
         @media (max-width: 768px) {
-            background-image: url('{{ section.settings.banner-movil | image_url: '1152x2592' }}');
+            background-image: url('{{ section.settings.banner-movil | image_url: width: 1152, height: 2592 }}');
         }
     }
 </style>
