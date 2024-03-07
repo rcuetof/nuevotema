@@ -176,13 +176,44 @@
             "btnev5": "",
             "btnevtxt5": "Discover Collection"
           }
+        },
+        "text_ibBQTd": {
+          "type": "text",
+          "settings": {
+            "title": "Beach Wedding Dress",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/46c8ec9ca0b24b36b4003d0b547d7769-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
         }
       },
       "block_order": [
         "text_GBQmg4",
         "text_tXwXBY",
         "text_f4drNU",
-        "text_GxPtwC"
+        "text_GxPtwC",
+        "text_ibBQTd"
       ],
       "settings": {
       }
