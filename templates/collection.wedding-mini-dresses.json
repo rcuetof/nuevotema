@@ -30,14 +30,14 @@
         "heading_MWjgNA": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
+            "heading": "<em><strong>Mini Dresses Collections for Wedding<\/strong><\/em>",
+            "heading_size": "h2"
           }
         },
         "text_qF8d4J": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>A wedding is an event where we will keep memorable memories with friends and family, being a bridesmaid is one of the most beautiful experiences, sharing with the bride the most important day of her life. The mother of the bride will also keep that moment as one of the most emotional days of her life, and whether you are invited to this event regardless of where it takes place, at sunset on the beach or in a beautiful garden, you will find here the special mini dress for you<\/p>"
           }
         }
       },
@@ -61,10 +61,10 @@
           "type": "text",
           "settings": {
             "title": "Bridal Mini Dresses",
-            "text": "Look for a mini dress that reflects your personal style and the theme of the wedding.\n Consider comfort and mobility, since you will be in the center of attention during the day.\nChoose a design that flatters your figure and fits your body type.\nOpt for elegant fabrics such as lace, silk or tulle for a special touch.\n Make sure the dress complements the setting and time of year of the wedding.\nTry different styles and colors to find the one that highlights your natural beauty.\nThink about accessories like short veils or subtle jewelry to enhance your look.\n Consult a dressmaker for adjustments and customizations to make the dress unique.\nConsider the versatility so you can enjoy it at other events after the wedding.\nFinally, choose a dress that will make you feel radiant and special on your big day.",
+            "text": "The dress for a wedding is one of the most important choices in a woman's life, it is the dress that she will wear on the most important day of her life, that is why at Violetta & Rc we want to help you find that special dress for you, We invite you to discover our mini wedding dresses",
             "image": "shopify:\/\/shop_images\/fbbd3e9509784a54b552b1b86852d548-Max.jpg",
-            "btn": "https:\/\/www.violettarc.com\/collections\/shopping-mini-dresses?filter.v.price.gte=&filter.v.price.lte=&filter.v.option.color=Cream&filter.v.option.color=White&sort_by=best-selling",
-            "btntxt": "Discover Collection",
+            "btn": "shopify:\/\/collections\/bridal-mini-dresses",
+            "btntxt": "Collection of mini dresses for brides",
             "title-event1": "",
             "text-event1": "",
             "btnev1": "",
@@ -93,8 +93,8 @@
             "title": "Bridesmaid Mini Dresses",
             "text": "Consider the wedding dress code and choose a mini dress that fits the style of the event.\nCoordinate the color of the dress with the wedding palette, opting for tones that complement the theme.\nLook for a design that flatters the figure and adapts to the diversity of body shapes of bridesmaids.\nMake sure the dress highlights each bridesmaid's personality and makes them feel comfortable.\nAvoid colors that are too bright or prints that could distract the bride's attention.\nOpt for quality fabrics and elegant cuts for a sophisticated and timeless look.",
             "image": "shopify:\/\/shop_images\/bd4504a0-d4d4-4930-98f9-912d8ef6b340-Max.jpg",
-            "btn": "",
-            "btntxt": "Discover Collection",
+            "btn": "shopify:\/\/collections\/bridesmaid-mini-dresses",
+            "btntxt": "Collection of Mini Dresses for Bridesmaids",
             "title-event1": "",
             "text-event1": "",
             "btnev1": "",
@@ -121,7 +121,7 @@
           "type": "text",
           "settings": {
             "title": "Wedding Guest Dress",
-            "text": "",
+            "text": "Appropriate Length: Opt for a mini dress with a length that is appropriate for the occasion and respects the event.\n\nDress Code: Make sure you know the wedding dress code and choose a mini dress that aligns with that theme.\n\nElegant Accessories: Complete your look with chic and discreet accessories for a touch of sophistication.\n\nChoice of Fabrics: Opt for quality fabrics that add a touch of elegance to your guest mini dress.\n\nAppropriate Colors: Choose colors that do not compete with the bride's dress and fit the wedding palette.",
             "image": "shopify:\/\/shop_images\/3d714cdc60a240f690a52b9391defeb6-Max.jpg",
             "btn": "",
             "btntxt": "Discover Collection",
@@ -151,7 +151,7 @@
           "type": "text",
           "settings": {
             "title": "Mother Of The Bride Dress",
-            "text": "",
+            "text": "Elegance and Moderation: As the mother of the bride, opt for a mini dress that reflects elegance and moderation to stand out without stealing the spotlight.\n\nCoordination with the Bride: Coordinate the color and style of the dress with the general theme of the wedding, maintaining visual harmony.\n\nComfort and Sophistication: Look for a mini dress that makes you feel comfortable and at the same time reflects the appropriate sophistication for the occasion.\n\nAppropriate Accessories: Add refined accessories that complement your look without being too flashy.\n\nPerfect Fit: Make sure the mini dress has an impeccable fit to enhance your figure in an elegant and sober way.",
             "image": "shopify:\/\/shop_images\/6e1a7206f5a14915a93e6e04cc67ce70-Max.jpg",
             "btn": "",
             "btntxt": "Discover Collection",
@@ -181,7 +181,7 @@
           "type": "text",
           "settings": {
             "title": "Dress for Beach Wedding",
-            "text": "",
+            "text": "Light Fabrics: Opt for mini dresses with light, flowy fabrics for a fresh and comfortable feeling on the beach.\n\nVibrant Colors: Choose vibrant colors and tropical prints to complement the beach setting and create a festive look.\n\nWear elegant sandals or espadrilles to ensure comfort in the sand and on the go.\n\nTropical Accessories: Complete your look with tropical accessories such as hats, bracelets and earrings that add a beachy touch.\n\nAppropriate Length: Opt for mini dresses of appropriate length, avoiding models that are too short for a balance between style and comfort at the beach wedding.",
             "image": "shopify:\/\/shop_images\/46c8ec9ca0b24b36b4003d0b547d7769-Max.jpg",
             "btn": "",
             "btntxt": "Discover Collection",
