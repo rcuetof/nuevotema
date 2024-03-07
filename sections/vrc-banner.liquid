@@ -9,13 +9,14 @@
         @media (max-width: 768px) {
             background-image: url('{{ section.settings.banner-movil | image_url: width: 1152, height: 2592 }}');
         }
-        p{
+
+    }
+    .vrc-banner p{
      font-size: {{section.settings.size-tittle2}};
     }
-    h1{
+    .vrc-banner h1{
      font-size: {{section.settings.size-tittle1}};
     } 
-    }
 
     {% endstyle %}
     <div class="vrc-banner">
