@@ -31,6 +31,62 @@
         "padding_bottom": 52
       }
     },
+    "multicolumn_wWebKt": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JUNzTP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/c5992fb913714ec295f5d630fefa6d23-Max.jpg",
+            "title": "",
+            "text": "<h6><em>Romantic Style Bridesmaid Dresses<\/em><\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KwYy69": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/e1e9a96121a04a07995a5af3eddfe9a3-Max.jpg",
+            "title": "",
+            "text": "<h6><em><strong>Vintage Bridesmaid Mini Dresses<\/strong><\/em><\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gkFr7F": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8815aa20131c4e54be07ca910778258d-Max.jpg",
+            "title": "",
+            "text": "<h6><em><strong>Short A Line Bridesmaid Dresses<\/strong><\/em><\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JUNzTP",
+        "column_KwYy69",
+        "column_gkFr7F"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -55,6 +111,7 @@
   "order": [
     "banner",
     "rich_text_fMPNtQ",
+    "multicolumn_wWebKt",
     "product-grid"
   ]
 }
