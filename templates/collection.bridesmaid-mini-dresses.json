@@ -195,7 +195,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/fc08cfdb24cd490ea45b30b5e85a97ca-Max.jpg",
             "title": "",
-            "text": "",
+            "text": "<p><span style=\"text-decoration:underline\">b<\/span><\/p>",
             "link_label": "",
             "link": ""
           }
@@ -207,7 +207,7 @@
         "column_PjBdr3"
       ],
       "settings": {
-        "title": "Bridesmaid Color Palette",
+        "title": "<em><strong>Bridesmaid Color Palette<\/strong><\/em>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
