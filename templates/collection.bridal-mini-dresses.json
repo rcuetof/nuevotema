@@ -47,18 +47,20 @@
         "column_dpDFnR": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/32a369d630fb494ca23a0368dbf86b11-Max.jpg",
             "title": "Elegant Wedding",
             "text": "",
-            "link_label": "",
+            "link_label": "Show More",
             "link": ""
           }
         },
         "column_EB83PJ": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "image": "shopify:\/\/shop_images\/bfea8b3db21448ed9a0e59fc7aa14a35-Max.jpg",
+            "title": "Beach wedding",
+            "text": "<p>.<\/p>",
+            "link_label": "Show More",
             "link": ""
           }
         }
