@@ -275,9 +275,9 @@
         "collapsible_row_L7tMHb": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "",
+            "heading": "Shipping Policy",
             "icon": "truck",
-            "row_content": "",
+            "row_content": "<p><em>Our shipping time is 10 to 15 days, including weekends and holidays, taking into account 2 days in advance in which the order is prepared and shipped. If you have any questions about shipping methods or shipping times, write to us at our email address violettarccompany@gmail.com<\/em><\/p>",
             "page": ""
           }
         },
