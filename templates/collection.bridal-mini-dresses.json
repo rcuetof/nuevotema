@@ -63,22 +63,12 @@
             "link_label": "Show More",
             "link": ""
           }
-        },
-        "column_WWYAtT": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_GPxcNj",
         "column_dpDFnR",
-        "column_AwHrdA",
-        "column_WWYAtT"
+        "column_AwHrdA"
       ],
       "settings": {
         "title": "<em><strong>Bridal mini dress styles<\/strong><\/em>",
