@@ -61,8 +61,8 @@
         "heading_aajaxT": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "<em><strong>Common Wedding Dress Codes:<\/strong><\/em>",
+            "heading_size": "h2"
           }
         },
         "text_LBeKk8": {
