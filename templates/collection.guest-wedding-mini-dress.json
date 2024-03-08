@@ -213,6 +213,16 @@
         "column_rRhmJH": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/67c50ea0f10246b8b095d28a5cf50f79-Max.jpg",
+            "title": "",
+            "text": "<h6><em><strong>A blue dress for a wedding guest is one of the favorite colors for this event, from soft blue tones to more intense ones like navy blue.<\/strong><\/em><\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xjgJDC": {
+          "type": "column",
+          "settings": {
             "title": "",
             "text": "",
             "link_label": "",
@@ -223,7 +233,8 @@
       "block_order": [
         "column_BfQFzM",
         "column_BRE7gR",
-        "column_rRhmJH"
+        "column_rRhmJH",
+        "column_xjgJDC"
       ],
       "settings": {
         "title": "<em><strong>Colorful Wedding Guest Dresses<\/strong><\/em>",
