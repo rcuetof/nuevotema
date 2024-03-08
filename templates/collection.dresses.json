@@ -120,8 +120,8 @@
   },
   "order": [
     "banner",
-    "vrc-banner",
-    "tab-container",
+    "BANNER-VRC",
+    "TAB-VRC",
     "image_with_text_RXKyGa",
     "multicolumn_8zCBPL"
   ]
