@@ -9,6 +9,28 @@
         "color_scheme": "scheme-1"
       }
     },
+    "rich_text_REGzJQ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_rpkkpW": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><em><strong>Mini dresses for weddings<\/strong><\/em><\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "text_rpkkpW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "multicolumn_pNeDDD": {
       "type": "multicolumn",
       "blocks": {
@@ -121,6 +143,7 @@
   },
   "order": [
     "banner",
+    "rich_text_REGzJQ",
     "multicolumn_pNeDDD",
     "product-grid"
   ]
