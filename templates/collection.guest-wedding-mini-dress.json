@@ -203,8 +203,9 @@
         "column_BRE7gR": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/be0df7ae-537d-44fd-9b4f-c88a2445782e-Max.jpg",
             "title": "",
-            "text": "<p>Red cocktail dresses are versatile to attend multiple events, a wedding is a great choice, they provide elegance and drama.<\/p>",
+            "text": "<h6><em><strong>Red cocktail dresses are versatile to attend multiple events, a wedding is a great choice, they provide elegance and drama.<\/strong><\/em><\/h6>",
             "link_label": "",
             "link": ""
           }
@@ -212,8 +213,8 @@
         "column_rRhmJH": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
