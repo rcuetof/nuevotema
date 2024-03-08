@@ -20,7 +20,7 @@
           "type": "text",
           "settings": {
             "title": "Formal Mini Dresses",
-            "text": "",
+            "text": "Discover elegance at its finest whenever you wear a formal mini dress. Be versatile with short dresses that fuse style and modernity. Wear elegant mini dresses to that occasion whenever you feel necessary, this collection offers you essential options to show you that you don't have to spend too much, find cheap short formal dresses. We have prepared the perfect choice for you, from mini formal dresses with high necks to short formal silk dresses. Black formal mini dresses can give you a charming look for closing deals or attending that job interview. Look at the immense variety that we have prepared for you, you can always have those plus size formal mini dresses or wrap-around mini formal dresses, you will really find here what you were looking for.",
             "image": "shopify:\/\/shop_images\/3477de5b80574e97abbd904fd1fc8b72-Min.jpg",
             "btn": "",
             "btntxt": "Discover Collection",
@@ -135,13 +135,44 @@
             "btnev5": "",
             "btnevtxt5": "Discover Collection"
           }
+        },
+        "text_pWbhBa": {
+          "type": "text",
+          "settings": {
+            "title": "    Party Mini Dresses      ",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/477e78206cb04c2d8f44b8f63b83e4bb-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
         }
       },
       "block_order": [
         "text_UqWTN7",
         "text_4m4BzL",
         "text_wayLNC",
-        "text_XBdPHt"
+        "text_XBdPHt",
+        "text_pWbhBa"
       ],
       "settings": {
       }
