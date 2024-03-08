@@ -17,12 +17,26 @@
         "padding_bottom": 36
       }
     },
-    "TAB-VRC-SHOPMINIDRESSES":
-{"type": "tab-container"},
-
-"BANNER-VRC-SHOPMINIDRESSES":
-{"type": "vrc-banner"},
-
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "page_jwEH9E": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+        "page": "tab-container",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 16
+      }
+    },
     "multicolumn_rPCUhY": {
       "type": "multicolumn",
       "blocks": {
@@ -61,6 +75,7 @@
         "column_8XbxmH",
         "column_axn7iz"
       ],
+      "disabled": true,
       "settings": {
         "title": "Multicolumn",
         "heading_size": "h2",
@@ -241,8 +256,8 @@
   },
   "order": [
     "collapsible_content_TBGhpM",
-    "vrc-banner",
-    "tab-container",
+    "banner",
+    "page_jwEH9E",
     "multicolumn_rPCUhY",
     "product-grid",
     "collapsible_content_9jMVxh",
