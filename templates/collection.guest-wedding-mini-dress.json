@@ -82,14 +82,14 @@
         "column_NVpFCx"
       ],
       "settings": {
-        "title": "",
+        "title": "<em><strong>Categories of short dress for wedding guest<\/strong><\/em>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "2",
