@@ -210,12 +210,40 @@
             "link": ""
           }
         },
-        "column_kaC383": {
+        "column_zLKVCC": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/291e48d1edf04208a187a7fc27f8f1b3-Max.jpg",
             "title": "",
-            "text": "<h3><span style=\"text-decoration:underline\"><em><strong>Champagne Short Mini Dresses<\/strong><\/em><\/span><\/h3>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JatdXQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7e966a1050284ba98de946aad4fb711f-Min.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DNFdVF": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aTLeeX": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -226,7 +254,10 @@
         "column_yYaYNi",
         "column_facejq",
         "column_aTxA9b",
-        "column_kaC383"
+        "column_zLKVCC",
+        "column_JatdXQ",
+        "column_DNFdVF",
+        "column_aTLeeX"
       ],
       "settings": {
         "title": "<em><strong>Bridesmaid Color Palette<\/strong><\/em>",
@@ -236,11 +267,118 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "none",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_TRkrzV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RwWTAc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_DUy3Xq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_gXMAgk": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RwWTAc",
+        "text_DUy3Xq",
+        "button_gXMAgk"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_HpzWVq": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_KFFReA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_QYgjwL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_BReBrM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_A8cWNq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_KFFReA",
+        "collapsible_row_QYgjwL",
+        "collapsible_row_BReBrM",
+        "collapsible_row_A8cWNq"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -252,6 +390,8 @@
     "multicolumn_wWebKt",
     "product-grid",
     "image_with_text_cRdGd7",
-    "multicolumn_RdRCYC"
+    "multicolumn_RdRCYC",
+    "image_with_text_TRkrzV",
+    "collapsible_content_HpzWVq"
   ]
 }
