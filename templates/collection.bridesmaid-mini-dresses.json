@@ -233,6 +233,7 @@
         "column_DNFdVF": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/144c113e0dad4dc2be25d2d8f8e87db9-Max.jpg",
             "title": "",
             "text": "",
             "link_label": "",
