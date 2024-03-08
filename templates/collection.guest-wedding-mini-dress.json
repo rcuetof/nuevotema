@@ -266,20 +266,20 @@
             "page": ""
           }
         },
-        "collapsible_row_dXpK4X": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Refund Policy",
-            "icon": "return",
-            "row_content": "",
-            "page": ""
-          }
-        },
         "collapsible_row_eMLDWH": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
             "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_dXpK4X": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Refund Policy",
+            "icon": "return",
             "row_content": "",
             "page": ""
           }
@@ -296,8 +296,8 @@
       },
       "block_order": [
         "collapsible_row_kbHf7y",
-        "collapsible_row_dXpK4X",
         "collapsible_row_eMLDWH",
+        "collapsible_row_dXpK4X",
         "collapsible_row_pGpbDh"
       ],
       "settings": {
