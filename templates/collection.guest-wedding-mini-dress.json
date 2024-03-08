@@ -61,6 +61,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_NVpFCx": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/516c02952c6540748d35f9d05bff04b5-Min_c38ca552-e7f4-496d-8ca4-c2375602bc1a.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Plus size short dresses for wedding<\/strong><\/em><\/h5>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -68,7 +78,8 @@
         "column_XCUEzd",
         "column_U4YUM6",
         "column_rEdDNg",
-        "column_bmKwEJ"
+        "column_bmKwEJ",
+        "column_NVpFCx"
       ],
       "settings": {
         "title": "",
