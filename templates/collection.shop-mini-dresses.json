@@ -17,26 +17,12 @@
         "padding_bottom": 36
       }
     },
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
-    "page_jwEH9E": {
-      "type": "page",
-      "disabled": true,
-      "settings": {
-        "page": "tab-container",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 0,
-        "padding_bottom": 16
-      }
-    },
+    "TAB-VRC-SHOPMINIDRESSES":
+{"type": "tab-container"},
+
+"BANNER-VRC-SHOPMINIDRESSES":
+{"type": "vrc-banner"},
+
     "multicolumn_rPCUhY": {
       "type": "multicolumn",
       "blocks": {
@@ -255,8 +241,8 @@
   },
   "order": [
     "collapsible_content_TBGhpM",
-    "banner",
-    "page_jwEH9E",
+    "vrc-banner",
+    "tab-container",
     "multicolumn_rPCUhY",
     "product-grid",
     "collapsible_content_9jMVxh",
