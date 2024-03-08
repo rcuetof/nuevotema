@@ -187,6 +187,59 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_jXAxLW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BfQFzM": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BRE7gR": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rRhmJH": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_BfQFzM",
+        "column_BRE7gR",
+        "column_rRhmJH"
+      ],
+      "settings": {
+        "title": "<em><strong>Colorful Wedding Guest Dresses<\/strong><\/em>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collapsible_content_gRmPUE": {
       "type": "collapsible-content",
       "blocks": {
@@ -255,6 +308,7 @@
     "multicolumn_pNeDDD",
     "product-grid",
     "image_with_text_NA6RFy",
+    "multicolumn_jXAxLW",
     "collapsible_content_gRmPUE"
   ]
 }
