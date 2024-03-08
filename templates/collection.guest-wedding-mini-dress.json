@@ -9,6 +9,73 @@
         "color_scheme": "scheme-1"
       }
     },
+    "multicolumn_pNeDDD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_E4YMq7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5f2ddba97a914ed096d01916a77b0898-Max.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Short Sleeve Wedding Guest Dress<\/strong><\/em><\/h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XCUEzd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a2ee0fb6-646d-4f0e-bafb-056f83e1eb29-Max_1.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Short petite dresses for wedding guests<\/strong><\/em><\/h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_U4YUM6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8202d9db55424001921324ac47a6188a-Max.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Formal short dresses for weddings<\/strong><\/em><\/h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rEdDNg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a04498d050d443459db0d00dd8b7c782-Max.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Short summer wedding guest dresses<\/strong><\/em><\/h5>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_E4YMq7",
+        "column_XCUEzd",
+        "column_U4YUM6",
+        "column_rEdDNg"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -32,6 +99,7 @@
   },
   "order": [
     "banner",
+    "multicolumn_pNeDDD",
     "product-grid"
   ]
 }
