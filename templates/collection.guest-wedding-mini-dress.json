@@ -146,23 +146,23 @@
         "heading_XEBm8F": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "<em><strong>Formal wedding guest dresses<\/strong><\/em>",
+            "heading_size": "h2"
           }
         },
         "text_GFBRAz": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<h5><em><strong>Dress code for weddings, whether it is a black tie wedding event or a more formal event, the most important thing is to find out about the dress code that the bride and groom chose. Neutral colors like black will always be an elegant option, chamfer colors add glamor and sophistication to your outfit<\/strong><\/em><\/h5>",
             "text_style": "body"
           }
         },
         "button_tewMdn": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Show Collection",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": true
           }
         }
       },
@@ -172,6 +172,7 @@
         "button_tewMdn"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/b206c14e88c54083af649734684b7738-Max.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
