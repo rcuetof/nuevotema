@@ -13,6 +13,7 @@
     {"type": "tab-container"},
     "BANNER-VRC":
     {"type": "vrc-banner"},
+
     "image_with_text_RXKyGa": {
       "type": "image-with-text",
       "blocks": {
@@ -119,7 +120,8 @@
   },
   "order": [
     "banner",
-    "product-grid",
+    "vrc-banner",
+    "tab-container",
     "image_with_text_RXKyGa",
     "multicolumn_8zCBPL"
   ]
