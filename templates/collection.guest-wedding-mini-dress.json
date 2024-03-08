@@ -260,8 +260,8 @@
         "collapsible_row_kbHf7y": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Privacy Policy",
+            "icon": "heart",
             "row_content": "",
             "page": ""
           }
@@ -269,8 +269,8 @@
         "collapsible_row_dXpK4X": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Refund Policy",
+            "icon": "return",
             "row_content": "",
             "page": ""
           }
