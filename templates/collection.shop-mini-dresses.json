@@ -17,13 +17,16 @@
         "padding_bottom": 36
       }
     },
-    "TAB-VRC-minidresses":
-{"type": "tab-container"},
-
-"BANNER-VRC-minidresses":
-{"type": "vrc-banner"},
-
-    
+    "TAB-VRC-minidresses": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-minidresses": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "multicolumn_rPCUhY": {
       "type": "multicolumn",
       "blocks": {
