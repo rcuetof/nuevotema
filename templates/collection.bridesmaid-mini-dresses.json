@@ -215,7 +215,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/291e48d1edf04208a187a7fc27f8f1b3-Max.jpg",
             "title": "",
-            "text": "",
+            "text": "<h3><em><strong>Champagne Short Bridesmaid Dresses<\/strong><\/em><\/h3>",
             "link_label": "",
             "link": ""
           }
@@ -243,6 +243,7 @@
         "column_aTLeeX": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/e201f954a90249128e7ea65c0342b124-Max.jpg",
             "title": "",
             "text": "",
             "link_label": "",
