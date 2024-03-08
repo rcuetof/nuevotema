@@ -331,8 +331,8 @@
         "collapsible_row_KFFReA": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Privacy Policy",
+            "icon": "heart",
             "row_content": "",
             "page": ""
           }
@@ -340,8 +340,8 @@
         "collapsible_row_QYgjwL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Shipping Policy",
+            "icon": "truck",
             "row_content": "",
             "page": ""
           }
