@@ -284,23 +284,23 @@
         "heading_RwWTAc": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "<em><strong>Spring Bridesmaid Dresses<\/strong><\/em>",
+            "heading_size": "h2"
           }
         },
         "text_DUy3Xq": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<h5><em><strong>The spring season is approaching and if you want to wear a romantic outfit at a beautiful garden wedding or perhaps a beach wedding, we invite you to explore options for floral bridesmaid dresses, visit our collection, our dresses are so versatile that you can Save them and continue using them for more special occasions in addition to feeling in that romantic harmony with flowers and the spring season.<\/strong><\/em><\/h5>",
             "text_style": "body"
           }
         },
         "button_gXMAgk": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Spring Short Bridesmaid Dresses Collection",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": true
           }
         }
       },
@@ -310,6 +310,7 @@
         "button_gXMAgk"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/228dc71eaaaf4d9b8262c0963846577e-Max.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
