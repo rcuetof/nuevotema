@@ -23,8 +23,69 @@
           "settings": {
             "title": "Mini Dresses",
             "text": "You are looking for a short mini dress for a special event, a casual outfit, you have come to the right place, we have dresses for all types of events, even if you are only a lover of mini dresses and wear them frequently. Immerse yourself in our collections and find that piece you were looking for. Here you can find floral mini dresses for women, emerald green, black, hot pink or that shade of cherry red that says what your soul is like.",
-            "image": "shopify:\/\/shop_images\/e201f954a90249128e7ea65c0342b124-Max.jpg",
+            "image": "shopify:\/\/shop_images\/098c4182c8b34c5a841d3e98c95f1029-Max.jpg",
             "btn": "shopify:\/\/collections\/shopping-mini-dresses",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
+        },
+        "text_CE4kE4": {
+          "type": "text",
+          "settings": {
+            "title": "Midi Dresses",
+            "text": "We agree with you when choosing a midi cut or rather a midi dress for special occasions, because they really are a decision that meets all the expectations you expected. With midi clothing, a good choice is based on combining colors and styles like that long-sleeved midi dress or a white midi dress, you should wear them safely and affirm your style, remember that the most important thing is how you feel, not what you feel. you put Dazzle at that formal meeting or on an informal afternoon to spend with your friends.",
+            "image": "shopify:\/\/shop_images\/6946ea11fc2b48eca097fdf258716933-Min.jpg",
+            "btn": "shopify:\/\/collections\/shopping-midi-dressses",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "image-event1": "shopify:\/\/shop_images\/79beb9ad-863e-406b-9a8a-9202d4938858-Max.jpg",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
+        },
+        "text_iT8fwH": {
+          "type": "text",
+          "settings": {
+            "title": "Maxi Dresses",
+            "text": "It is not surprising that maxi dresses have become the latest trend since their elegance rises to other levels, spectacular at those weddings to look like as a bridesmaid or simply as a wedding guest. Their nature leads them to dominate all seasons of the year. Wear long spring dresses or long fall dresses, when you want to look like the queen of the season that. Who says you have to stop showing off your charm in those long prom dresses at the next graduation? You can also look daring with those long party dresses and when the cold night comes, wear your maxi dress with a jacket. You set the limits on the styles in the maxi dresses either by using a multi tie maxi dress or a loose fitting plus size maxi dresses.",
+            "image": "shopify:\/\/shop_images\/07e31849b08c40e79d7fd9d7b4fb2308-Min.jpg",
+            "btn": "shopify:\/\/collections\/shopping-maxi-dresses",
             "btntxt": "Discover Collection",
             "title-event1": "",
             "text-event1": "",
@@ -50,119 +111,16 @@
         }
       },
       "block_order": [
-        "text_AHqixe"
+        "text_AHqixe",
+        "text_CE4kE4",
+        "text_iT8fwH"
       ],
       "settings": {
-      }
-    },
-    "image_with_text_RXKyGa": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_M7VV4B": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "text_BHkj9h": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_pctLAN": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_M7VV4B",
-        "text_BHkj9h",
-        "button_pctLAN"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/blackminidressescasual1.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_8zCBPL": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_kPbapR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/76133788152c4ee6b86cb40bdf3da826-Max.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Mini Dresses",
-            "link": "shopify:\/\/collections\/shopping-mini-dresses"
-          }
-        },
-        "column_fNkPF6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8255a5595104405383cec3f090b76c6e-Min_05e44384-bd70-487b-9d00-ef14d585a334.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Midi Dresses",
-            "link": "shopify:\/\/collections\/shopping-midi-dressses"
-          }
-        },
-        "column_bXqXHc": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/74afad39eed94404b5ca936791bf9a6c-Min.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Maxi Dresses",
-            "link": "shopify:\/\/collections\/shopping-maxi-dresses"
-          }
-        }
-      },
-      "block_order": [
-        "column_kPbapR",
-        "column_fNkPF6",
-        "column_bXqXHc"
-      ],
-      "settings": {
-        "title": "Dresses",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 6,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     }
   },
   "order": [
     "BANNER-VRC",
-    "TAB-VRC",
-    "image_with_text_RXKyGa",
-    "multicolumn_8zCBPL"
+    "TAB-VRC"
   ]
 }
