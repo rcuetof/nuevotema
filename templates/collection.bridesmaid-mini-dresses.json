@@ -199,12 +199,34 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_aTxA9b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/63005c47-dca0-4100-9a5a-790b1692826d-Max.jpg",
+            "title": "",
+            "text": "<h3><em><strong>Green Short Bridesmaid Dresses<\/strong><\/em><\/h3>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kaC383": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/291e48d1edf04208a187a7fc27f8f1b3-Max.jpg",
+            "title": "",
+            "text": "<h3><span style=\"text-decoration:underline\"><em><strong>Champagne Short Mini Dresses<\/strong><\/em><\/span><\/h3>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_DeAPfh",
         "column_yYaYNi",
-        "column_facejq"
+        "column_facejq",
+        "column_aTxA9b",
+        "column_kaC383"
       ],
       "settings": {
         "title": "<em><strong>Bridesmaid Color Palette<\/strong><\/em>",
