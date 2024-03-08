@@ -51,13 +51,23 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_bmKwEJ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h5><em><strong>Long sleeve short wedding guest dress<\/strong><\/em><\/h5>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_E4YMq7",
         "column_XCUEzd",
         "column_U4YUM6",
-        "column_rEdDNg"
+        "column_rEdDNg",
+        "column_bmKwEJ"
       ],
       "settings": {
         "title": "",
