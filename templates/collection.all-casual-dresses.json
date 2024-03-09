@@ -20,6 +20,36 @@
         "link-botton2": ""
       }
     },
+    "rich_text_KHTPLz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KipBtC": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Casual Dresses Categories<\/strong><\/em>",
+            "heading_size": "h1"
+          }
+        },
+        "text_Fxkytz": {
+          "type": "text",
+          "settings": {
+            "text": "<h6><em><strong>Find that casual dress that highlights your maxi, mini or midi style, long or short sleeve, we have the dress for you<\/strong><\/em><\/h6>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KipBtC",
+        "text_Fxkytz"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "TAB-VRC-DEFAULT": {
       "type": "tab-container",
       "blocks": {
@@ -298,6 +328,7 @@
   },
   "order": [
     "BANNER-VRC-DEFAULT",
+    "rich_text_KHTPLz",
     "TAB-VRC-DEFAULT",
     "product-grid",
     "featured_collection_Pnjhcg"
