@@ -11,12 +11,14 @@
         }
 
     }
-    .vrc-banner p{
-     font-size:{{section.settings.size-tittle2}}px;
-    }
     .vrc-banner h1{
      font-size:{{section.settings.size-tittle1}}px;
+     color:{{ section.settings.font-color-tittle1 }};
     } 
+    .vrc-banner p{
+     font-size:{{section.settings.size-tittle2}}px;
+     color:{{ section.settings.font-color-tittle2 }};
+    }
 
     {% endstyle %}
     <div class="vrc-banner">
@@ -56,6 +58,12 @@
                 "label": "Tamaño Titulo 1",
                 "default": 45
               },
+              {
+                "type": "color",
+                "id": "font-color-tittle1",
+                "label": "Color Titulo 1",
+                "default": "#FFFFFF"
+              },
                 {
                  "type": "textarea",
                  "id": "tittl2-banner",
@@ -70,6 +78,12 @@
                 "unit": "px",
                 "label": "Tamaño Titulo 1",
                 "default": 25
+              },
+              {
+                "type": "color",
+                "id": "font-color-tittle2",
+                "label": "Color Titulo 2",
+                "default": "#000000"
               },
                {
                  "type": "text",
