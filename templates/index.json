@@ -226,9 +226,9 @@
         "button_U9Yb3c": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Show Collection",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": true
           }
         }
       },
