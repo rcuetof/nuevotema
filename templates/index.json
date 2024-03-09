@@ -120,9 +120,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/69c411243f9945bb81ca52864007a3c6-Max_1.jpg",
-            "heading": "White Mini Dress",
-            "heading_size": "h1",
-            "subheading": "",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "White Mini Dress",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/pastel-mini-dresses-for-bride",
             "button_style_secondary": true,
