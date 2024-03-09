@@ -3,7 +3,7 @@
     "banner-principal": {
       "type": "vrc-banner",
       "settings": {
-        "banner-movil": "shopify:\/\/shop_images\/banner-principal.png",
+        "banner-movil": "shopify:\/\/shop_images\/Diseno_sin_titulo_19.png",
         "posm-x-tittle1": 0,
         "posm-y-tittle1": 31,
         "banner-escritorio": "shopify:\/\/shop_images\/banner-principal-e.png",
@@ -11,7 +11,7 @@
         "pose-y-tittle1": 22,
         "title-banner": "Fashion <br>Violetta & Rc <br>Shop",
         "size-tittle1": 70,
-        "font-color-tittle1": "#FFFFFF",
+        "font-color-tittle1": "#ffffff",
         "tittl2-banner": "",
         "size-tittle2": 10,
         "font-color-tittle2": "#000000",
