@@ -49,7 +49,7 @@
     "featured_collection_TMGkKt": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
