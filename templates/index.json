@@ -80,8 +80,8 @@
             "image": "shopify:\/\/shop_images\/a04498d050d443459db0d00dd8b7c782-Max.jpg",
             "title": "",
             "text": "<h3><em><strong>Short Slevee Dresess<\/strong><\/em><\/h3>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/short-slevee-dresses"
           }
         },
         "column_PdXbUQ": {
@@ -90,8 +90,8 @@
             "image": "shopify:\/\/shop_images\/e810ff709edd409987e9fab6052fd7f7-Max.jpg",
             "title": "",
             "text": "<h3><em><strong>Long Slevee Dresses<\/strong><\/em><\/h3>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/long-slevee-dresses"
           }
         }
       },
@@ -191,7 +191,7 @@
             "heading_size": "h2",
             "subheading": "White Mini Dress",
             "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/white-mini-dress",
+            "link": "shopify:\/\/collections\/pastel-mini-dresses-for-bride",
             "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -209,7 +209,7 @@
             "heading_size": "h0",
             "subheading": "Black Mini Dress",
             "button_label": "Shop Now",
-            "link": "",
+            "link": "shopify:\/\/collections\/mini-black-dress",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
