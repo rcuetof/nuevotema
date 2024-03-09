@@ -169,12 +169,31 @@
             "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_4Nt9dy": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7e966a1050284ba98de946aad4fb711f-Min.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "slide_brFLBV",
         "slide_6QTF9A",
-        "slide_FWBpBE"
+        "slide_FWBpBE",
+        "slide_4Nt9dy"
       ],
       "settings": {
         "layout": "full_bleed",
