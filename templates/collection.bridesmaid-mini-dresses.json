@@ -1,11 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-BRIDESMAID-MINI-DRESSES":
-    {"type": "tab-container"},
-    
-    "BANNER-VRC-BRIDESMAID-MINI-DRESSES":
-    {"type": "vrc-banner"},
-    
+    "TAB-VRC-BRIDESMAID-MINI-DRESSES": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-BRIDESMAID-MINI-DRESSES": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "rich_text_fMPNtQ": {
       "type": "rich-text",
       "blocks": {

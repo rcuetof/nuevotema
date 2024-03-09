@@ -1,12 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-GWMINIDRESS":
-    {"type": "tab-container"},
-    
-    "BANNER-VRC-GWMINIDRESS":
-    {"type": "vrc-banner"},
-    
-    
+    "TAB-VRC-GWMINIDRESS": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-GWMINIDRESS": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "rich_text_REGzJQ": {
       "type": "rich-text",
       "blocks": {

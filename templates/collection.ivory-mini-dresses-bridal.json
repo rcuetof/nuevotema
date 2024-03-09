@@ -1,11 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-MINI-DRESSES-BRIDAL":
-    {"type": "tab-container"},
-    
-    "BANNER-VRC-MINI-DRESSES-BRIDAL":
-    {"type": "vrc-banner"},
-    
+    "TAB-VRC-MINI-DRESSES-BRIDAL": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-MINI-DRESSES-BRIDAL": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,

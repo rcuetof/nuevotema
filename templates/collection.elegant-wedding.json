@@ -1,12 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-ELEGANT-WEDDING":
-    {"type": "tab-container"},
- 
-    "BANNER-VRC-ELEGANT-WEDDING":
-    {"type": "vrc-banner"},
-    
-    
+    "TAB-VRC-ELEGANT-WEDDING": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-ELEGANT-WEDDING": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
