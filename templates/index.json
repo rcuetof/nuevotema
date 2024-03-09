@@ -323,6 +323,13 @@
     "image_banner_w7KVPX": {
       "type": "image-banner",
       "blocks": {
+        "heading_gwnjKU": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Dresses For Special Events<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        },
         "text_tAiMiX": {
           "type": "text",
           "settings": {
@@ -330,17 +337,10 @@
             "text_style": "body"
           }
         },
-        "heading_gwnjKU": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
         "buttons_teJPhe": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Dresses For Special Events",
+            "button_label_1": "Show Now",
             "button_link_1": "shopify:\/\/collections\/shop-dresses",
             "button_style_secondary_1": true,
             "button_label_2": "",
@@ -350,8 +350,8 @@
         }
       },
       "block_order": [
-        "text_tAiMiX",
         "heading_gwnjKU",
+        "text_tAiMiX",
         "buttons_teJPhe"
       ],
       "settings": {
