@@ -58,6 +58,36 @@
           "settings": {
             "title": "Casual midi dresses",
             "text": "",
+            "image": "shopify:\/\/shop_images\/a7d8efbee02440629f30555fc36a8f29-Min_d55ef7e8-c14b-42d4-b276-118bcd823cf3.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
+        },
+        "text_U9EVdF": {
+          "type": "text",
+          "settings": {
+            "title": "Casual Mxi Dresses",
+            "text": "",
             "btn": "",
             "btntxt": "Discover Collection",
             "title-event1": "",
@@ -85,7 +115,8 @@
       },
       "block_order": [
         "text_TW7pJA",
-        "text_pKkAmG"
+        "text_pKkAmG",
+        "text_U9EVdF"
       ],
       "settings": {
       }
