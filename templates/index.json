@@ -77,8 +77,9 @@
         "column_FrCKpr": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/a04498d050d443459db0d00dd8b7c782-Max.jpg",
+            "title": "",
+            "text": "<h3><em><strong>Short Slevee Dresess<\/strong><\/em><\/h3>",
             "link_label": "",
             "link": ""
           }
@@ -86,8 +87,9 @@
         "column_PdXbUQ": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/e810ff709edd409987e9fab6052fd7f7-Max.jpg",
+            "title": "",
+            "text": "<h3><em><strong>Long Slevee Dresses<\/strong><\/em><\/h3>",
             "link_label": "",
             "link": ""
           }
