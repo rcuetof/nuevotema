@@ -4,11 +4,11 @@
     .vrc-banner {
         /* Estilo predeterminado para escritorio */
         background-image: url('{{ section.settings.banner-escritorio | image_url: width: 2592, height: 1152 }}');
-               
+            h1{top: {{section.settings.pose-y-tittle1}}%; left: {{section.settings.pose-x-tittle1}}%;}    
        /* Estilo para dispositivos móviles */
         @media (max-width: 768px) {
             background-image: url('{{ section.settings.banner-movil | image_url: width: 1152, height: 2592 }}');
-            h1{top: {{section.settings.pos-y-tittle1}}%; left: {{section.settings.pos-x-tittle1}}%;}     
+            h1{top: {{section.settings.posm-y-tittle1}}%; left: {{section.settings.posm-x-tittle1}}%;}     
           }
 
     }
@@ -44,10 +44,50 @@
                   "label": "Imagen Para Moviles"
                },
                {
+                "type": "range",
+                "id": "posm-x-tittle1",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "unit": "%",
+                "label": "Posicion Horizaontal Titulo 1",
+                "default": 8
+              },
+              {  
+                "type": "range",
+                "id": "posm-y-tittle1",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "unit": "%",
+                "label": "Posicion Vertical Titulo 1",
+                "default": 8
+              },
+               {
                   "type": "image_picker",
                   "id": "banner-escritorio",
                   "label": "Imagen Para Compputadoras"
                },
+               {
+               "type": "range",
+                "id": "pose-x-tittle1",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "unit": "%",
+                "label": "Posicion Horizaontal Titulo 1",
+                "default": 8
+              },
+              {  
+                "type": "range",
+                "id": "pose-y-tittle1",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "unit": "%",
+                "label": "Posicion Vertical Titulo 1",
+                "default": 8
+              },
                {
                  "type": "text",
                  "id": "title-banner",
@@ -69,26 +109,7 @@
                 "label": "Color Titulo 1",
                 "default": "#FFFFFF"
               },
-              {
-                "type": "range",
-                "id": "pos-x-tittle1",
-                "min": 0,
-                "max": 100,
-                "step": 1,
-                "unit": "%",
-                "label": "Posicion Horizaontal Titulo 1",
-                "default": 8
-              },
-              {  
-                "type": "range",
-                "id": "pos-y-tittle1",
-                "min": 0,
-                "max": 100,
-                "step": 1,
-                "unit": "%",
-                "label": "Posicion Vertical Titulo 1",
-                "default": 8
-              },
+         
                 {
                  "type": "textarea",
                  "id": "tittl2-banner",
