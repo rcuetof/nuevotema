@@ -137,18 +137,18 @@
         "slide_6QTF9A": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/95138f60d9264a2793c3c20b73e82c41-Max.jpg",
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/97cdeadb-9076-42e5-abcf-f51ea3345306-Max_ccb30372-b4af-4772-a17d-113d7e48f03c.jpg",
+            "heading": "",
+            "heading_size": "h0",
+            "subheading": "Black Mini Dress",
+            "button_label": "Shop Now",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
         }
