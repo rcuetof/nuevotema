@@ -170,6 +170,35 @@
             "btnev5": "",
             "btnevtxt5": "Discover Collection"
           }
+        },
+        "text_F7iGiw": {
+          "type": "text",
+          "settings": {
+            "title": "Long sleeve casual dress",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
         }
       },
       "block_order": [
@@ -177,7 +206,8 @@
         "text_pKkAmG",
         "text_U9EVdF",
         "text_cFK6dB",
-        "text_K9mXPB"
+        "text_K9mXPB",
+        "text_F7iGiw"
       ],
       "settings": {
       }
@@ -212,11 +242,11 @@
         "show_description": false,
         "description_style": "body",
         "collection": "all-casual-dresses",
-        "products_to_show": 25,
-        "columns_desktop": 4,
+        "products_to_show": 10,
+        "columns_desktop": 5,
         "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
+        "show_view_all": true,
+        "view_all_style": "outline",
         "enable_desktop_slider": false,
         "color_scheme": "",
         "image_ratio": "portrait",
