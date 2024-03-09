@@ -8,13 +8,15 @@
        /* Estilo para dispositivos móviles */
         @media (max-width: 768px) {
             background-image: url('{{ section.settings.banner-movil | image_url: width: 1152, height: 2592 }}');
-        }
+            h1{top: {{section.settings.pos-y-tittle1}}%; left: {{section.settings.pos-x-tittle1}}%;}     
+          }
 
     }
     .vrc-banner h1{
       position : absolute; 
       font-size:{{section.settings.size-tittle1}}px;
       color:{{ section.settings.font-color-tittle1 }};
+  
     } 
     .vrc-banner p{
      position : absolute;
@@ -22,6 +24,7 @@
      color:{{ section.settings.font-color-tittle2 }};
     }
 
+    
     {% endstyle %}
     <div class="vrc-banner">
         <h1>{{section.settings.title-banner}}</h1>
@@ -54,7 +57,7 @@
                 "type": "range",
                 "id": "size-tittle1",
                 "min": 10,
-                "max": 80,
+                "max": 90,
                 "step": 1,
                 "unit": "px",
                 "label": "Tamaño Titulo 1",
@@ -66,6 +69,26 @@
                 "label": "Color Titulo 1",
                 "default": "#FFFFFF"
               },
+              {
+                "type": "range",
+                "id": "pos-x-tittle1",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "unit": "%",
+                "label": "Posicion Horizaontal Titulo 1",
+                "default": 8
+              },
+              {  
+                "type": "range",
+                "id": "pos-y-tittle1",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "unit": "%",
+                "label": "Posicion Vertical Titulo 1",
+                "default": 8
+              },
                 {
                  "type": "textarea",
                  "id": "tittl2-banner",
@@ -75,7 +98,7 @@
                 "type": "range",
                 "id": "size-tittle2",
                 "min": 10,
-                "max": 45,
+                "max": 50,
                 "step": 1,
                 "unit": "px",
                 "label": "Tamaño Titulo 1",
