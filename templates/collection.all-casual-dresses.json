@@ -118,6 +118,7 @@
           "settings": {
             "title": "Floral casual dresses",
             "text": "",
+            "image": "shopify:\/\/shop_images\/bc371d5dceec439b8ca87586460d546e-Max.jpg",
             "btn": "",
             "btntxt": "Discover Collection",
             "title-event1": "",
@@ -147,6 +148,7 @@
           "settings": {
             "title": "Short Sleeve Casual Dress",
             "text": "",
+            "image": "shopify:\/\/shop_images\/9c3cf609-f106-47ef-93a8-789b9b42cc72-Min_2527e306-afa4-4c6b-9614-06bff1eb469f.jpg",
             "btn": "",
             "btntxt": "Discover Collection",
             "title-event1": "",
@@ -176,6 +178,37 @@
           "settings": {
             "title": "Long sleeve casual dress",
             "text": "",
+            "image": "shopify:\/\/shop_images\/769b151ec30949338a61d8f4d02407a0-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
+        },
+        "text_FgwPd9": {
+          "type": "text",
+          "settings": {
+            "title": "Plus Size Casual Dress",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/b13b25f8b27444508bbbbd090f87549b-Max.jpg",
             "btn": "",
             "btntxt": "Discover Collection",
             "title-event1": "",
@@ -207,7 +240,8 @@
         "text_U9EVdF",
         "text_cFK6dB",
         "text_K9mXPB",
-        "text_F7iGiw"
+        "text_F7iGiw",
+        "text_FgwPd9"
       ],
       "settings": {
       }
