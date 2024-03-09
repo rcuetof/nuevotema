@@ -3,7 +3,7 @@
 {% style  %}  
     .vrc-banner {
         /* Estilo predeterminado para escritorio */
-        background-image: url('{{ section.settings.banner-escritorio | image_url: width: 2592, height: 1152}}');
+        background-image: url('{{ section.settings.banner-escritorio | image_url: width: 2592, height: 1152 }}');
                
        /* Estilo para dispositivos móviles */
         @media (max-width: 768px) {
@@ -12,10 +12,10 @@
 
     }
     .vrc-banner p{
-     font-size: {{section.settings.size-tittle2}};
+     font-size: {{section.settings.size-tittle2}}px;
     }
     .vrc-banner h1{
-     font-size: {{section.settings.size-tittle1}};
+     font-size: {{section.settings.size-size-tittle1 | }}px;
     } 
 
     {% endstyle %}
