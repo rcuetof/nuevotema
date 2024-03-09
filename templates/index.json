@@ -4,8 +4,8 @@
       "type": "vrc-banner",
       "settings": {
         "banner-movil": "shopify:\/\/shop_images\/banner-principal.png",
-        "posm-x-tittle1": 2,
-        "posm-y-tittle1": 23,
+        "posm-x-tittle1": 0,
+        "posm-y-tittle1": 31,
         "banner-escritorio": "shopify:\/\/shop_images\/banner-principal-e.png",
         "pose-x-tittle1": 42,
         "pose-y-tittle1": 22,
