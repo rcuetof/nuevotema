@@ -1,14 +1,11 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
+    "TAB-VRC-MINI-DRESSES-BRIDAL":
+    {"type": "tab-container"},
+    
+    "BANNER-VRC-MINI-DRESSES-BRIDAL":
+    {"type": "vrc-banner"},
+    
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
@@ -60,7 +57,8 @@
     }
   },
   "order": [
-    "banner",
+    "TAB-VRC-MINI-DRESSES-BRIDAL",
+    "BANNER-VRC-MINI-DRESSES-BRIDAL",
     "product-grid",
     "featured_collection_Uf9K7q"
   ]

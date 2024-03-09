@@ -1,14 +1,11 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
+    "TAB-VRC-GOLDEN-BRIDE":
+    {"type": "tab-container"},
+    
+    "BANNER-VRC-GOLDEN-BRIDE":
+    {"type": "vrc-banner"},
+    
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
@@ -60,7 +57,8 @@
     }
   },
   "order": [
-    "banner",
+    "TAB-VRC-GOLDEN-BRIDE",
+    "BANNER-VRC-GOLDEN-BRIDE",
     "product-grid",
     "featured_collection_AzDYC4"
   ]

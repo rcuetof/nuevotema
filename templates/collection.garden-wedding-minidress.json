@@ -1,13 +1,11 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
+    "TAB-VRC-GARDENWMD":
+    {"type": "tab-container"},
+    
+    "BANNER-VRC-GARDENWMD":
+    {"type": "vrc-banner"},
+    
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -30,7 +28,9 @@
     }
   },
   "order": [
-    "banner",
+    "BANNER-VRC-GARDENWMD",
+    "TAB-VRC-GARDENWMD",
+    "BANNER-VRC-",
     "product-grid"
   ]
 }

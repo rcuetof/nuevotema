@@ -1,0 +1,17 @@
+/interface wireguard
+add listen-port=13231 mtu=1420 name=wireguard-inet private-key="kGJblBfaTHMlndeWB2f9z7txM94v9pOUoE4ZsB6Z13E="
+/ip address
+add address=10.2.0.2/30 interface=wireguard-inet network=10.2.0.0  
+/interface wireguard peers
+add allowed-address=0.0.0.0/0 endpoint-address=146.70.147.98 endpoint-port=51820 interface=wireguard-inet persistent-keepalive=25s public-key="11ScmFnWCAFMI6tdc6/wO+P7biBc/5foA7WayNXxSG0=
+/ip firewall nat
+add action=masquerade chain=srcnat out-interface=wireguard-inet src-address=183.0.0.1/24
+/ip route
+add disabled=no distance=1 dst-address=0.0.0.0/1 gateway=10.2.0.1 pref-src="" routing-table=main scope=30 suppress-hw-offload=no target-scope=10
+add disabled=no distance=1 dst-address=128.0.0.0/1 gateway=10.2.0.1 pref-src="" routing-table=main scope=30 suppress-hw-offload=no target-scope=10
+/ip dns
+set servers=10.2.0.1
+/ip dhcp-client
+set 0 use-peer-dns=no
+/ip route
+add disabled=no dst-address=146.70.147.98/32 gateway=[/ip dhcp-client get [find interface=ether1] gateway] routing-table=main suppress-hw-offload=no

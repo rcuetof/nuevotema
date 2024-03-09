@@ -1,14 +1,11 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
+    "TAB-VRC-BRIDAL-MINI":
+    {"type": "tab-container"},
+    
+    "BANNER-VRC-BRIDAL-MINI":
+    {"type": "vrc-banner"},
+    
     "rich_text_XfEJx4": {
       "type": "rich-text",
       "blocks": {
@@ -323,7 +320,8 @@
     }
   },
   "order": [
-    "banner",
+    "TAB-VRC-BRIDAL-MINI",
+    "BANNER-VRC-BRIDAL-MINI",
     "rich_text_XfEJx4",
     "multicolumn_bbjVUF",
     "product-grid",

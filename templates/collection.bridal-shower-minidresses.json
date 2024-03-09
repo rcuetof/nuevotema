@@ -1,14 +1,9 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
+    "TAB-VRC-BRIDAL-SHOWER-MINI":
+    {"type": "tab-container"},    
+    "BANNER-VRC-BRIDAL-SHOWER-MINI":
+    {"type": "vrc-banner"},       
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -31,7 +26,8 @@
     }
   },
   "order": [
-    "banner",
+    "TAB-VRC-BRIDAL-SHOWER-MINI",
+    "BANNER-VRC-BRIDAL-SHOWER-MINI",
     "product-grid"
   ]
 }

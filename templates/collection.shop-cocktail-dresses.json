@@ -1,17 +1,10 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "custom_css": [
-        ".color-scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1 {display: flex; flex-direction: column;}"
-      ],
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": true,
-        "color_scheme": "scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
-      }
-    },
+    "TAB-VRC-COCKTAIL-D":
+{"type": "tab-container"},
+
+"BANNER-VRC-COCKTAIL-D":
+{"type": "vrc-banner"},
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -143,7 +136,8 @@
     }
   },
   "order": [
-    "banner",
+    "TAB-VRC-COCKTAIL-D",
+    "BANNER-VRC-COCKTAIL-D",
     "product-grid",
     "image_with_text_H4fC93",
     "collapsible_content_Crkwh6"

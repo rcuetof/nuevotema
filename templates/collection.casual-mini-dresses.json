@@ -1,15 +1,12 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
-    "product-grid": {
+    "TAB-VRC-CASUAL-DRESSES":
+    {"type": "tab-container"},
+    
+    "BANNER-VRC-CASUAL-DRESSES":
+    {"type": "vrc-banner"},
+    
+     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
       "settings": {
@@ -209,7 +206,8 @@
     }
   },
   "order": [
-    "banner",
+    "TAB-VRC-CASUAL-DRESSES",
+    "BANNER-VRC-CASUAL-DRESSES",
     "product-grid",
     "rich_text_BjmcJw",
     "multicolumn_7wHamH",

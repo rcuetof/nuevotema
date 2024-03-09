@@ -1,14 +1,11 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
+    "TAB-VRC-BRIDESMAID-MINI-DRESSES":
+    {"type": "tab-container"},
+    
+    "BANNER-VRC-BRIDESMAID-MINI-DRESSES":
+    {"type": "vrc-banner"},
+    
     "rich_text_fMPNtQ": {
       "type": "rich-text",
       "blocks": {
@@ -388,7 +385,8 @@
     }
   },
   "order": [
-    "banner",
+    "TAB-VRC-BRIDESMAID-MINI-DRESSES",
+    "BANNER-VRC-BRIDESMAID-MINI-DRESSES",
     "rich_text_fMPNtQ",
     "multicolumn_wWebKt",
     "product-grid",

@@ -1,14 +1,12 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
+    "TAB-VRC-BRIDAL-CREAM-MINIDRESS":
+    {"type": "tab-container"},
+    
+    "BANNER-VRC-BRIDAL-CREAM-MINIDRESS":
+    {"type": "vrc-banner"},
+    
+    
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
@@ -60,7 +58,8 @@
     }
   },
   "order": [
-    "banner",
+    "TAB-VRC-BRIDAL-CREAM-MINIDRESS",
+    "BANNER-VRC-BRIDAL-CREAM-MINIDRESS",
     "product-grid",
     "featured_collection_yBy4Xa"
   ]

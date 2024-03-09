@@ -1,14 +1,12 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
+    "TAB-VRC-GWMINIDRESS":
+    {"type": "tab-container"},
+    
+    "BANNER-VRC-GWMINIDRESS":
+    {"type": "vrc-banner"},
+    
+    
     "rich_text_REGzJQ": {
       "type": "rich-text",
       "blocks": {
@@ -317,7 +315,8 @@
     }
   },
   "order": [
-    "banner",
+    "TAB-VRC-GWMINIDRESS",
+    "BANNER-VRC-GWMINIDRESS",
     "rich_text_REGzJQ",
     "multicolumn_pNeDDD",
     "product-grid",

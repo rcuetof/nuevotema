@@ -1,14 +1,12 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
+    "TAB-VRC-ELEGANT-WEDDING":
+    {"type": "tab-container"},
+ 
+    "BANNER-VRC-ELEGANT-WEDDING":
+    {"type": "vrc-banner"},
+    
+    
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
@@ -60,7 +58,8 @@
     }
   },
   "order": [
-    "banner",
+    "TAB-VRC-ELEGANT-WEDDING",
+    "BANNER-VRC-ELEGANT-WEDDING",
     "product-grid",
     "featured_collection_rYeEKG"
   ]

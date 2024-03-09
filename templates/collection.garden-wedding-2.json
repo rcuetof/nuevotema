@@ -1,14 +1,12 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
+    "TAB-VRC-GARDEN-WEDDING2":
+    {"type": "tab-container"},
+    
+    "BANNER-VRC-GARDEN-WEDDING2":
+    {"type": "vrc-banner"},
+    
+    
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -59,7 +57,8 @@
     }
   },
   "order": [
-    "banner",
+    "TAB-VRC-GARDEN-WEDDING2",
+    "BANNER-VRC-GARDEN-WEDDING2-",
     "product-grid",
     "featured_collection_8Wmjnq"
   ]

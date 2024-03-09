@@ -1,14 +1,10 @@
 {
   "sections": {
-    "banner": {
-      "type": "main-collection-banner",
-      "disabled": true,
-      "settings": {
-        "show_collection_description": true,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
+    "TAB-VRC-SHOP-MIDI-DRESSES":
+    {"type": "tab-container"},
+    
+    "BANNER-VRC-SHOP-MIDI-DRESSES":
+    {"type": "vrc-banner"},
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -139,7 +135,8 @@
     }
   },
   "order": [
-    "banner",
+    "TAB-VRC-SHOP-MIDI-DRESSES",
+    "BANNER-VRC-SHOP-MIDI-DRESSES",
     "product-grid",
     "collapsible_content_WJQwMa",
     "image_with_text_feCEQt"
