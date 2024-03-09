@@ -1,11 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-BRIDAL-MINI":
-    {"type": "tab-container"},
-    
-    "BANNER-VRC-BRIDAL-MINI":
-    {"type": "vrc-banner"},
-    
+    "TAB-VRC-BRIDAL-MINI": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-BRIDAL-MINI": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "rich_text_XfEJx4": {
       "type": "rich-text",
       "blocks": {

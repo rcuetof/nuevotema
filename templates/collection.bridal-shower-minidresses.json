@@ -1,9 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-BRIDAL-SHOWER-MINI":
-    {"type": "tab-container"},    
-    "BANNER-VRC-BRIDAL-SHOWER-MINI":
-    {"type": "vrc-banner"},       
+    "TAB-VRC-BRIDAL-SHOWER-MINI": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-BRIDAL-SHOWER-MINI": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {

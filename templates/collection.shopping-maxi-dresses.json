@@ -1,13 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-MAXI-DRESSES":
-    {"type": "tab-container"},
-    
-    "BANNER-VRC-MAXI-DRESSES":
-    {"type": "vrc-banner"},
-    
-    
-    
+    "TAB-VRC-MAXI-DRESSES": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-MAXI-DRESSES": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {

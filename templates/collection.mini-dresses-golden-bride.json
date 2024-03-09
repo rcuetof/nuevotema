@@ -1,11 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-GOLDEN-BRIDE":
-    {"type": "tab-container"},
-    
-    "BANNER-VRC-GOLDEN-BRIDE":
-    {"type": "vrc-banner"},
-    
+    "TAB-VRC-GOLDEN-BRIDE": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-GOLDEN-BRIDE": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,

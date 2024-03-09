@@ -1,12 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-BEACH-WEDDING2":
-    {"type": "tab-container"},
-    
-    "BANNER-VRC-BEACH-WEDDING2":
-    {"type": "vrc-banner"},
-    
-
+    "TAB-VRC-BEACH-WEDDING2": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-BEACH-WEDDING2": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,

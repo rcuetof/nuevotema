@@ -1,10 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-COCKTAIL-D":
-{"type": "tab-container"},
-
-"BANNER-VRC-COCKTAIL-D":
-{"type": "vrc-banner"},
+    "TAB-VRC-COCKTAIL-D": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-COCKTAIL-D": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {

@@ -1,10 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-SHOP-MIDI-DRESSES":
-    {"type": "tab-container"},
-    
-    "BANNER-VRC-SHOP-MIDI-DRESSES":
-    {"type": "vrc-banner"},
+    "TAB-VRC-SHOP-MIDI-DRESSES": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-SHOP-MIDI-DRESSES": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {

@@ -1,12 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-BRIDAL-PASTEL-MINI-DRESSES":
-    {"type": "tab-container"},
-    
-    "BANNER-VRC-BRIDAL-PASTEL-MINI-DRESSES":
-    {"type": "vrc-banner"},
-    
-   
+    "TAB-VRC-BRIDAL-PASTEL-MINI-DRESSES": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-BRIDAL-PASTEL-MINI-DRESSES": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,

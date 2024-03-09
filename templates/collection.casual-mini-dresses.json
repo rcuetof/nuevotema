@@ -1,12 +1,16 @@
 {
   "sections": {
-    "TAB-VRC-CASUAL-DRESSES":
-    {"type": "tab-container"},
-    
-    "BANNER-VRC-CASUAL-DRESSES":
-    {"type": "vrc-banner"},
-    
-     "product-grid": {
+    "TAB-VRC-CASUAL-DRESSES": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-CASUAL-DRESSES": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
+    "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
       "settings": {

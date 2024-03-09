@@ -1,12 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-DEFAULT":
-    {"type": "tab-container"},
-    
-    "BANNER-VRC-DEFAULT":
-    {"type": "vrc-banner"},
-    
-
+    "TAB-VRC-DEFAULT": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-DEFAULT": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {

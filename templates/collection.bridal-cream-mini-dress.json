@@ -1,12 +1,15 @@
 {
   "sections": {
-    "TAB-VRC-BRIDAL-CREAM-MINIDRESS":
-    {"type": "tab-container"},
-    
-    "BANNER-VRC-BRIDAL-CREAM-MINIDRESS":
-    {"type": "vrc-banner"},
-    
-    
+    "TAB-VRC-BRIDAL-CREAM-MINIDRESS": {
+      "type": "tab-container",
+      "settings": {
+      }
+    },
+    "BANNER-VRC-BRIDAL-CREAM-MINIDRESS": {
+      "type": "vrc-banner",
+      "settings": {
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
