@@ -176,15 +176,15 @@
             "image": "shopify:\/\/shop_images\/7e966a1050284ba98de946aad4fb711f-Min.webp",
             "heading": "",
             "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Button label",
+            "subheading": "Red Mini Dress",
+            "button_label": "Shop Now",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
         }
