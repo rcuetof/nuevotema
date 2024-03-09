@@ -112,12 +112,68 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "slideshow_ebPK49": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_brFLBV": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/69c411243f9945bb81ca52864007a3c6-Max_1.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_6QTF9A": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/95138f60d9264a2793c3c20b73e82c41-Max.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_brFLBV",
+        "slide_6QTF9A"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
     "banner-principal",
     "featured_collection",
     "image_with_text_xUfLnL",
-    "rich_text_kwi7pt"
+    "rich_text_kwi7pt",
+    "slideshow_ebPK49"
   ]
 }
