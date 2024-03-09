@@ -3,14 +3,15 @@
     "banner-principal": {
       "type": "vrc-banner",
       "settings": {
+        "title-banner": "Fashion <br>Violetta & Rc <br>Shop",
         "banner-movil": "shopify:\/\/shop_images\/Diseno_sin_titulo_19.png",
-        "posm-x-tittle1": 0,
+        "posm-x-tittle1": 3,
         "posm-y-tittle1": 31,
+        "size-m-tittle1": 55,
         "banner-escritorio": "shopify:\/\/shop_images\/banner-principal-e.png",
         "pose-x-tittle1": 42,
         "pose-y-tittle1": 22,
-        "title-banner": "Fashion <br>Violetta & Rc <br>Shop",
-        "size-tittle1": 70,
+        "size-e-tittle1": 90,
         "font-color-tittle1": "#ffffff",
         "tittl2-banner": "",
         "size-tittle2": 10,
