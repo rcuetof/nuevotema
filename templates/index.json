@@ -326,7 +326,7 @@
         "heading_gwnjKU": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "",
             "heading_size": "h1"
           }
         },
@@ -355,18 +355,17 @@
         "buttons_teJPhe"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Instagram_Historia_Fashion_1.png",
-        "image_2": "shopify:\/\/shop_images\/fFashion_magazine_4_5dceb768-459f-4bec-9b07-3d19a8bec0b8.png",
+        "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_20.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
-        "show_text_below": true
+        "show_text_below": false
       }
     }
   },
