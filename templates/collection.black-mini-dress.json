@@ -12,7 +12,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Plus Size Little Black Dress <\/p>",
+            "text": "<h5><em><strong>Plus Size Little Black Dress <\/strong><\/em><\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -48,11 +48,11 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "Button label",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
