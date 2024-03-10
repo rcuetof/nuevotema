@@ -7,7 +7,8 @@
           "type": "text",
           "settings": {
             "title": "Floral Mini Dress",
-            "text": "",
+            "text": "An outfit of mini dresses are an incredible option for any occasion, they represent femininity, romance and style, get the tutorial today",
+            "image": "shopify:\/\/shop_images\/1000048737.jpg",
             "btn": "",
             "btntxt": "Discover Collection",
             "title-event1": "",
@@ -49,7 +50,7 @@
         "pose-x-tittle1": 8,
         "pose-y-tittle1": 8,
         "size-e-tittle1": 45,
-        "font-color-tittle1": "#FFFFFF",
+        "font-color-tittle1": "#ffffff",
         "tittl2-banner": "",
         "size-tittle2": 25,
         "font-color-tittle2": "#000000",
