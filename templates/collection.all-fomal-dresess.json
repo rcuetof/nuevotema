@@ -32,10 +32,41 @@
             "btnev5": "",
             "btnevtxt5": "Discover Collection"
           }
+        },
+        "text_3YzQGz": {
+          "type": "text",
+          "settings": {
+            "title": "Formal Gala Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/abb139a11ca64733bc78961e8b3490ba-Min.webp",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
         }
       },
       "block_order": [
-        "text_xA7ybG"
+        "text_xA7ybG",
+        "text_3YzQGz"
       ],
       "settings": {
       }
