@@ -62,11 +62,42 @@
             "btnev5": "",
             "btnevtxt5": "Discover Collection"
           }
+        },
+        "text_NWDf3n": {
+          "type": "text",
+          "settings": {
+            "title": "Formal Plus Size Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/9f3967ffff5c4d87baa792f3f71f2d80-Min.webp",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
         }
       },
       "block_order": [
         "text_LYGHDt",
-        "text_bTgwHc"
+        "text_bTgwHc",
+        "text_NWDf3n"
       ],
       "settings": {
       }
