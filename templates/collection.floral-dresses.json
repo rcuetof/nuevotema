@@ -2,12 +2,61 @@
   "sections": {
     "TAB-VRC-DEFAULT": {
       "type": "tab-container",
+      "blocks": {
+        "text_FrNAV7": {
+          "type": "text",
+          "settings": {
+            "title": "Floral Mini Dress",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_FrNAV7"
+      ],
       "settings": {
       }
     },
     "BANNER-VRC-DEFAULT": {
       "type": "vrc-banner",
       "settings": {
+        "title-banner": "",
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#FFFFFF",
+        "tittl2-banner": "",
+        "size-tittle2": 25,
+        "font-color-tittle2": "#000000",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
       }
     },
     "product-grid": {
