@@ -157,8 +157,8 @@
         "collapsible_row_YBcDyn": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Shipping Policy",
+            "icon": "truck",
             "row_content": "",
             "page": ""
           }
