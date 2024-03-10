@@ -1,5 +1,25 @@
 {
   "sections": {
+    "BANNER-VRC-DEFAULT": {
+      "type": "vrc-banner",
+      "settings": {
+        "title-banner": "",
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#ffffff",
+        "tittl2-banner": "",
+        "size-tittle2": 25,
+        "font-color-tittle2": "#000000",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
+      }
+    },
     "TAB-VRC-DEFAULT": {
       "type": "tab-container",
       "blocks": {
@@ -102,26 +122,6 @@
       "settings": {
       }
     },
-    "BANNER-VRC-DEFAULT": {
-      "type": "vrc-banner",
-      "settings": {
-        "title-banner": "",
-        "posm-x-tittle1": 8,
-        "posm-y-tittle1": 8,
-        "size-m-tittle1": 45,
-        "pose-x-tittle1": 8,
-        "pose-y-tittle1": 8,
-        "size-e-tittle1": 45,
-        "font-color-tittle1": "#ffffff",
-        "tittl2-banner": "",
-        "size-tittle2": 25,
-        "font-color-tittle2": "#000000",
-        "text-botton1": "",
-        "link-botton1": "",
-        "text-botton2": "",
-        "link-botton2": ""
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -141,11 +141,73 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collapsible_content_b7MhVB": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_KE8JrX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_YBcDyn": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_mPQiaz": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_3zp3xw": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_KE8JrX",
+        "collapsible_row_YBcDyn",
+        "collapsible_row_mPQiaz",
+        "collapsible_row_3zp3xw"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Polices & FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "TAB-VRC-DEFAULT",
     "BANNER-VRC-DEFAULT",
-    "product-grid"
+    "TAB-VRC-DEFAULT",
+    "product-grid",
+    "collapsible_content_b7MhVB"
   ]
 }
