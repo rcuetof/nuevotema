@@ -34,12 +34,22 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_gxL9xi": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<h5><em><strong>Short Black Sweater Dress<\/strong><\/em><\/h5>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_U3fmdw",
         "column_Tia8mM",
-        "column_kkQWB4"
+        "column_kkQWB4",
+        "column_gxL9xi"
       ],
       "settings": {
         "title": "",
