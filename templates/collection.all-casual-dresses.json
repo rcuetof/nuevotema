@@ -227,8 +227,8 @@
         "collapsible_row_NFcFPR": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
+            "heading": "Refund Policy",
+            "icon": "return",
             "row_content": "",
             "page": ""
           }
