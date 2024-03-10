@@ -62,11 +62,42 @@
             "btnev5": "",
             "btnevtxt5": "Discover Collection"
           }
+        },
+        "text_Yw3KQR": {
+          "type": "text",
+          "settings": {
+            "title": "Floral Maxi Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/07a608f63e714d3eb18ccfc6592e0f7e-Min.webp",
+            "btn": "shopify:\/\/collections\/floral-maxi-dresses",
+            "btntxt": "Discover Collection",
+            "title-event1": "",
+            "text-event1": "",
+            "btnev1": "",
+            "btnevtxt1": "Discover Collection",
+            "title-event2": "",
+            "text-event2": "",
+            "btnev2": "",
+            "btnevtxt2": "Discover Collection",
+            "title-event3": "",
+            "text-event3": "",
+            "btnev3": "",
+            "btnevtxt3": "Discover Collection",
+            "title-event4": "",
+            "text-event4": "",
+            "btnev4": "",
+            "btnevtxt4": "Discover Collection",
+            "title-event5": "",
+            "text-event5": "",
+            "btnev5": "",
+            "btnevtxt5": "Discover Collection"
+          }
         }
       },
       "block_order": [
         "text_FrNAV7",
-        "text_CQpytJ"
+        "text_CQpytJ",
+        "text_Yw3KQR"
       ],
       "settings": {
       }
