@@ -1,10 +1,5 @@
 {
   "sections": {
-    "VRC-GUIDE": {
-      "type": "vrc-multiboxg",
-      "settings": {
-      }
-    },
     "BANNER-VRC-DEFAULT": {
       "type": "vrc-banner",
       "settings": {
@@ -145,6 +140,26 @@
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "VRC-GUIDE": {
+      "type": "vrc-multiboxg",
+      "settings": {
+        "tittleguide": "Vestidos Negros",
+        "tittleguide-color": "#39ce42",
+        "tittleguide-size": 32,
+        "imgguide1": "shopify:\/\/shop_images\/c9bc45cafbf64d839a5228763121c416-Max.jpg",
+        "textguide1": "Todo sobre vestidos negros",
+        "textguide1-color": "#39ce42",
+        "textguide1-url": "shopify:\/\/collections\/formal-gala-dresses",
+        "imgguide2": "shopify:\/\/shop_images\/32ea3943b123467492a995b3f8191775-Max.jpg",
+        "textguide2": "Cerca de la naturaleza",
+        "textguide2-url": "",
+        "textguide2-color": "#b7bd40",
+        "imgguide3": "shopify:\/\/shop_images\/c31dbe496c524b4796609614e521e629-Max.jpg",
+        "textguide3": "Cositas de la vida hoy",
+        "textguide3-url": "",
+        "textguide3-color": "#843aa0"
       }
     }
   },
