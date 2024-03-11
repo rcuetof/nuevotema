@@ -1,4 +1,4 @@
-{%- if section.settings.banner-escritorio2 != blank or section.settings.banner-movil2 != blank -%}
+
 {% style  %}  
 .vrc-banner2 {
     position: relative;
@@ -136,6 +136,7 @@
 
     
     {% endstyle %}
+    {%- if section.settings.banner-escritorio2 != blank or section.settings.banner-movil2 != blank -%}
     <div class="vrc-banner2">
         <h1>{{section.settings.title-banner2}}</h1>
         <p >{{section.settings.tittl2-banner2}}</p>
