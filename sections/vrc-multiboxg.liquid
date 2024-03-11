@@ -93,7 +93,7 @@
       background-color: {{ section.settings.textguide3-color }};
   }
   {% endstyle %}
-    
+  {% if section.settings.tittleguide != blank %}  
   <div class="cont-guide">
     {% if section.settings.tittleguide != blank %}
       <div class="tittleguide">{{ section.settings.tittleguide }}</div>{% endif %}
@@ -110,6 +110,7 @@
       {% if section.settings.textguide3 != blank %}
       <div class="textguide3">{{ section.settings.textguide3 }}<a style="align-self: end;" class="btn" href="#">GET GUIDE</a></div>{% endif %}
   </div>
+ {% endif %}
   
   {% schema %}
       {
