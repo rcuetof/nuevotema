@@ -42,8 +42,8 @@
         font-size: 18px;
         color:black;
         text-align: left;
-        top: 40%;
-        left: 4%;
+        top: 85%;
+        left: 8%;
       }
     .position-boton
     {
@@ -51,7 +51,6 @@
         top: 80%;
         left: 24%;
         transform: translate(-50%, -50%);
-
     }  
     .position-mid
     {
