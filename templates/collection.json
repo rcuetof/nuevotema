@@ -32,8 +32,8 @@
     }
   },
   "order": [
-    "TAB-VRC-DEFAULT",
     "BANNER-VRC-DEFAULT",
+    "TAB-VRC-DEFAULT",
     "product-grid"
   ]
 }
