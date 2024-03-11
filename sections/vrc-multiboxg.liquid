@@ -1,184 +1,185 @@
 {% style  %}
-.cont-guide {
-    width: 90%;
-    max-width: 980px;
-    margin: auto;
-    text-align: center;
-    justify-content: center;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 300px 100px 300px 300px;
-    grid-template-areas: "tittleguide imgguide1"
-                         "textguide1 textguide1"
-                         "imgguide2 textguide2"
-                         "textguide3 imgguide3";
-
-div{
-    color: #ffffff;
-    font-weight: 800;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    box-shadow: 0px 0px 3px rgba(60, 59, 59, 0.164);
-    padding: 20px;
-    margin-left: 10px;
-    text-align: left;
-   }                         
-}
-
-
-/* Consulta de medios para pantallas más grandes (PC) */
-@media screen and (min-width: 769px) {
-    .cont-guide {
-        grid-template-columns: minmax(150px, 1fr) repeat(3, minmax(250px, 2fr));
-        grid-template-rows: 370px auto;
-        grid-template-areas: "tittleguide imgguide1 imgguide2 imgguide3"
-                            "textguide1 textguide1 textguide2 textguide3";
-    }
-    .textguide1{
-        margin-bottom: 0px;   
-   }
-} 
-/* Consulta de medios para pantallas más grandes (MOVIL) */
-@media screen and (max-width: 768px) {
-   .textguide1{
-    margin-bottom: 20px;   
-}
-}
-
-.tittleguide{
-   grid-area: tittleguide;
-   border-radius: 5px 0px 0px 0px;
-   font-size: {{ section.settings.tittleguidesize }}px;
-   background-color: {{ section.settings.tittleguide-color }};
-   
-}
-.imgguide1{
-    align-items: end;
-    justify-items: start;
-    grid-area: imgguide1;
-    background-image: url('{{ section.settings.imgguide1 | image_url: width: 1050, height: 2590}}');
-    border-radius: 0px 5px 0px 0px;       
-    margin-left: 0px !important;  
-   
-}
-.textguide1{
-      grid-area: textguide1;
-      border-radius: 0px 0px 5px 5px;
-      background-color: {{ section.settings.textguide1-color }};
- }
-.imgguide2{
-    align-items: end;
-    justify-items: start;
-    grid-area: imgguide2;
-    background-image: url('{{ section.settings.imgguide2 | image_url: width: 1050, height: 2590}}'); 
-    border-radius: 5px 5px 0px 0px;   
-}
-.textguide2{
-    grid-area: textguide2;
-    border-radius: 0px 0px 5px 5px;
-    background-color: {{ section.settings.textguide2-color }};
-}
-.imgguide3{
-    align-items: end;
-    justify-items: start;
-    grid-area:imgguide3;
-    background-image: url('{{ section.settings.imgguide3 | image_url: width: 1050, height: 2590}}');
-    border-radius: 5px 5px 0px 0px;       
-}
-.textguide3{
-    border-radius: 0px 0px 5px 5px;
-    grid-area: textguide3; 
-    background-color: {{ section.settings.textguide3-color }};
-}
-{% endstyle %}
+  .cont-guide {
+      width: 90%;
+      max-width: 980px;
+      margin: auto;
+      text-align: center;
+      justify-content: center;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 300px 100px 300px 300px;
+      grid-template-areas: "tittleguide imgguide1"
+                           "textguide1 textguide1"
+                           "imgguide2 textguide2"
+                           "textguide3 imgguide3";
   
-<div class="cont-guide">
-    <div class="tittleguide">{{ section.settings.tittleguide }}</div>
-    <div class="imgguide1">{% render 'vrc-arrowviollet' %}</div>
-    <div class="textguide1">{{ section.settings.textguide1 }}</div>
-    <div class="imgguide2">{% render 'vrc-arrowviollet' %}</div>
-    <div class="textguide2">{{ section.settings.textguide2 }}</div>
-    <div class="imgguide3">{% render 'vrc-arrowviollet' %}</div>
-    <div class="textguide3">{{ section.settings.textguide3 }}</div>
-</div>
-
-{% schema %}
-    {
-        "name": "VRC-MULTIBOX",
-        "tag": "section",
-        "class": "section",
-        "settings":[
-            {
-              "type": "text",
-              "id": "tittleguide",
-              "label": "Titulo Principal"
-            },
-            {
-              "type": "color",
-              "id": "tittleguide-color",
-              "label": "Color de Fondo",
-              "default": "#000000"
-            },
-            {
-              "type": "range",
-              "id": "tittleguide-size",
-              "min": 20,
-              "max": 80,
-              "step": 1,
-              "unit": "px",
-              "label": "Tamaño Titulo Principal",
-              "default" : 30 
-            },
-            {
-              "type": "image_picker",
-              "id": "imgguide1",
-              "label": "Imagen Bloque 1"
-            },
-            {
-              "type": "textarea",
-              "id": "textguide1",
-              "label": "Texto Guia 1"
-            },
-            {
-              "type": "color",
-              "id": "textguide1-color",
-              "label": "Color de Fondo",
-              "default": "#000000"
-            },
-            {
-              "type": "image_picker",
-              "id": "imgguide2",
-              "label": "Imagen Bloque 2"
-            },
-            {
-              "type": "textarea",
-              "id": "textguide2",
-              "label": "Texto Guia 2"
-            },
-            {
-              "type": "color",
-              "id": "textguide2-color",
-              "label": "Color de Fondo",
-              "default": "#000000"
-            },
-            {
-              "type": "image_picker",
-              "id": "imgguide3",
-              "label": "Imagen Bloque 3"
-            },
-            {
-              "type": "textarea",
-              "id": "textguide3",
-              "label": "Texto Guia 3"
-            },
-            {
-              "type": "color",
-              "id": "textguide3-color",
-              "label": "Color de Fondo",
-              "default": "#000000"
-            }
-        ]     
-    }
-{% endschema %}  
-
+  div{
+      color: #ffffff;
+      font-weight: 800;
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+      box-shadow: 0px 0px 3px rgba(60, 59, 59, 0.164);
+      padding: 20px;
+      margin-left: 10px;
+      text-align: left;
+     }                         
+  }
+  
+  
+  /* Consulta de medios para pantallas más grandes (PC) */
+  @media screen and (min-width: 769px) {
+      .cont-guide {
+          grid-template-columns: minmax(150px, 1fr) repeat(3, minmax(250px, 2fr));
+          grid-template-rows: 370px auto;
+          grid-template-areas: "tittleguide imgguide1 imgguide2 imgguide3"
+                              "textguide1 textguide1 textguide2 textguide3";
+      }
+      .textguide1{
+          margin-bottom: 0px;   
+     }
+  } 
+  /* Consulta de medios para pantallas más grandes (MOVIL) */
+  @media screen and (max-width: 768px) {
+     .textguide1{
+      margin-bottom: 20px;   
+  }
+  }
+  
+  .tittleguide{
+     grid-area: tittleguide;
+     border-radius: 5px 0px 0px 0px;
+     font-size: {{ section.settings.tittleguide-size }}px;
+     background-color: {{ section.settings.tittleguide-color }};
+     
+  }
+  .imgguide1{
+      align-items: end;
+      justify-items: start;
+      grid-area: imgguide1;
+      background-image: url('{{ section.settings.imgguide1 | image_url: width: 1050, height: 2590}}');
+      border-radius: 0px 5px 0px 0px;       
+      margin-left: 0px !important;  
+     
+  }
+  .textguide1{
+        grid-area: textguide1;
+        border-radius: 0px 0px 5px 5px;
+        background-color: {{ section.settings.textguide1-color }};
+   }
+  .imgguide2{
+      align-items: end;
+      justify-items: start;
+      grid-area: imgguide2;
+      background-image: url('{{ section.settings.imgguide2 | image_url: width: 1050, height: 2590}}'); 
+      border-radius: 5px 5px 0px 0px;   
+  }
+  .textguide2{
+      grid-area: textguide2;
+      border-radius: 0px 0px 5px 5px;
+      background-color: {{ section.settings.textguide2-color }};
+  }
+  .imgguide3{
+      align-items: end;
+      justify-items: start;
+      grid-area:imgguide3;
+      background-image: url('{{ section.settings.imgguide3 | image_url: width: 1050, height: 2590}}');
+      border-radius: 5px 5px 0px 0px;       
+  }
+  .textguide3{
+      border-radius: 0px 0px 5px 5px;
+      grid-area: textguide3; 
+      background-color: {{ section.settings.textguide3-color }};
+  }
+  {% endstyle %}
+    
+  <div class="cont-guide">
+      <div class="tittleguide">{{ section.settings.tittleguide }}</div>
+      <div class="imgguide1">{% render 'vrc-arrowviollet' %}</div>
+      <div class="textguide1">{{ section.settings.textguide1 }}</div>
+      <div class="imgguide2">{% render 'vrc-arrowviollet' %}</div>
+      <div class="textguide2">{{ section.settings.textguide2 }}</div>
+      <div class="imgguide3">{% render 'vrc-arrowviollet' %}</div>
+      <div class="textguide3">{{ section.settings.textguide3 }}</div>
+  </div>
+  
+  {% schema %}
+      {
+          "name": "VRC-MULTIBOX",
+          "tag": "section",
+          "class": "section",
+          "settings":[
+              {
+                "type": "text",
+                "id": "tittleguide",
+                "label": "Titulo Principal"
+              },
+              {
+                "type": "color",
+                "id": "tittleguide-color",
+                "label": "Color de Fondo",
+                "default": "#000000"
+              },
+              {
+                "type": "range",
+                "id": "tittleguide-size",
+                "min": 20,
+                "max": 80,
+                "step": 1,
+                "unit": "px",
+                "label": "Tamaño Titulo Principal",
+                "default" : 30 
+              },
+              {
+                "type": "image_picker",
+                "id": "imgguide1",
+                "label": "Imagen Bloque 1"
+              },
+              {
+                "type": "textarea",
+                "id": "textguide1",
+                "label": "Texto Guia 1"
+              },
+              {
+                "type": "color",
+                "id": "textguide1-color",
+                "label": "Color de Fondo",
+                "default": "#000000"
+              },
+              {
+                "type": "image_picker",
+                "id": "imgguide2",
+                "label": "Imagen Bloque 2"
+              },
+              {
+                "type": "textarea",
+                "id": "textguide2",
+                "label": "Texto Guia 2"
+              },
+              {
+                "type": "color",
+                "id": "textguide2-color",
+                "label": "Color de Fondo",
+                "default": "#000000"
+              },
+              {
+                "type": "image_picker",
+                "id": "imgguide3",
+                "label": "Imagen Bloque 3"
+              },
+              {
+                "type": "textarea",
+                "id": "textguide3",
+                "label": "Texto Guia 3"
+              },
+              {
+                "type": "color",
+                "id": "textguide3-color",
+                "label": "Color de Fondo",
+                "default": "#000000"
+              }
+          ]     
+      }
+  {% endschema %}  
+  
+  
