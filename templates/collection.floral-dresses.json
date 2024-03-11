@@ -1,6 +1,6 @@
 {
   "sections": {
-    "VRC-GUIDES": {
+    "VRC-MULTIBOX": {
       "type": "vrc-multibox",
       "settings": {
       }
@@ -152,6 +152,6 @@
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
     "product-grid",
-    "VRC-GUIDES"
+    "VRC-MULTIBOX"
   ]
 }
