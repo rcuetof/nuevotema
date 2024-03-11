@@ -51,6 +51,12 @@
      .textguide1{
       margin-bottom: 20px;   
   }
+  .textguide3{
+      border-radius: 0px 0px 5px 5px;
+    } 
+    .imgguide3{
+      border-radius: 5px 5px 0px 0px;   
+    }
   }
   
   .tittleguide{
@@ -88,16 +94,13 @@
       background-color: {{ section.settings.textguide2-color }};
       font-size: {{ section.settings.textguide-size }}px;
   }
-  .imgguide3{
-      border-radius: 5px 5px 0px 0px;     
-      align-items: end;
+  .imgguide3{  
       justify-items: start;
       grid-area:imgguide3;
       background-image: url('{{ section.settings.imgguide3 | image_url: width: 1050, height: 2590}}');
          
   }
   .textguide3{
-      border-radius: 0px 0px 5px 5px;
       grid-area: textguide3; 
       background-color: {{ section.settings.textguide3-color }};
       font-size: {{ section.settings.textguide-size }}px;
