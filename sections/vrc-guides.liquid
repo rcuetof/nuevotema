@@ -2,6 +2,7 @@
 {% style  %}
 .cont-guide {
     width: 90%;
+    height: 105vh;
     max-width: 980px;
     margin: auto;
     text-align: center;
@@ -9,7 +10,7 @@
     display: grid;
     grid-gap: 10px;
     grid-template-columns: 1fr 1fr;
-    grid-template-rows: auto auto auto;
+    grid-template-rows: minmax(100 px, 50%) minmax(auto, 5%) minmax(100 px, 30%) minmax(100 px, 25%);
     grid-template-areas: "tittleguide imgguide1"
                          "textguide1 textguide1"
                          "imgguide2 textguide2"
