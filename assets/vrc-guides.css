@@ -1,5 +1,7 @@
 .cont-guide
 {
+    width: 90%;
+    max-width: 980px;
     margin: auto;
     text-align: center;
     justify-content: center ;
