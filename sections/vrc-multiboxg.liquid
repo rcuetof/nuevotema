@@ -116,7 +116,8 @@ svg:hover {
   }
   {% endstyle %}
   {% if section.settings.tittleguide != blank %}  
-  <div class="cont-guide">
+    <li class="grid__item scroll-trigger animate--slide-in">
+    <div class="cont-guide">
     {% if section.settings.tittleguide != blank %}
       <div class="tittleguide">{{ section.settings.tittleguide }}</div>{% endif %}
       {% if section.settings.imgguide1 != blank %}
@@ -132,6 +133,7 @@ svg:hover {
       {% if section.settings.textguide3 != blank %}
       <div class="textguide3">{{ section.settings.textguide3 }}<br><br><a class="btn" href="{{ section.settings.textguide3-url }}">{{ section.settings.textguide3-textbtn }}</a></div>{% endif %}
   </div>
+  </li>
  {% endif %}
   
   {% schema %}
