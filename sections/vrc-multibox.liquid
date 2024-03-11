@@ -57,7 +57,7 @@ div{
     align-items: end;
     justify-items: start;
     grid-area: imgguide1;
-    background-image: url('{{ section.settings.imgguide1 }}');
+    background-image: url('{{ section.settings.imgguide1 | image_url: width: 1050, height: 2590}}');
     border-radius: 0px 5px 0px 0px;       
     margin-left: 0px !important;  
    
@@ -71,7 +71,7 @@ div{
     align-items: end;
     justify-items: start;
     grid-area: imgguide2;
-    background-image: url('{{ section.settings.imgguide2 }}'); 
+    background-image: url('{{ section.settings.imgguide2 | image_url: width: 1050, height: 2590}}'); 
     border-radius: 5px 5px 0px 0px;   
 }
 .textguide2{
@@ -83,7 +83,7 @@ div{
     align-items: end;
     justify-items: start;
     grid-area:imgguide3;
-    background-image: url('{{ section.settings.imgguide3 }}');
+    background-image: url('{{ section.settings.imgguide3 | image_url: width: 1050, height: 2590}}');
     border-radius: 5px 5px 0px 0px;       
 }
 .textguide3{
