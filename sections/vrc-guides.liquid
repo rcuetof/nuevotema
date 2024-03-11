@@ -17,7 +17,6 @@
 div{
     color: #ffffff;
     font-weight: 800;
-    background-color: rgba(179, 71, 189, 0.733);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -51,56 +50,136 @@ div{
 .tittleguide{
    grid-area: tittleguide;
    border-radius: 5px 0px 0px 0px;
+   font-size: {{ section.settings.tittleguidesize }}px;
+   background-color: {{ section.settings.tittleguide-color }};
+   
 }
 .imgguide1{
     align-items: end;
     justify-items: start;
     grid-area: imgguide1;
-    background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/files/Fashion_3.png');
+    background-image: url('{{ section.settings.imgguide1 }}');
     border-radius: 0px 5px 0px 0px;       
     margin-left: 0px !important;  
+   
 }
 .textguide1{
       grid-area: textguide1;
       border-radius: 0px 0px 5px 5px;
+      background-color: {{ section.settings.textguide1-color }};
  }
 .imgguide2{
     align-items: end;
     justify-items: start;
     grid-area: imgguide2;
-    background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/files/Fashion_3.png'); 
+    background-image: url('{{ section.settings.imgguide2 }}'); 
     border-radius: 5px 5px 0px 0px;   
 }
 .textguide2{
     grid-area: textguide2;
     border-radius: 0px 0px 5px 5px;
+    background-color: {{ section.settings.textguide2-color }};
 }
 .imgguide3{
     align-items: end;
     justify-items: start;
     grid-area:imgguide3;
-    background-image: url('https://cdn.shopify.com/s/files/1/0643/4789/8056/files/Fashion_3.png');
+    background-image: url('{{ section.settings.imgguide3 }}');
     border-radius: 5px 5px 0px 0px;       
 }
 .textguide3{
     border-radius: 0px 0px 5px 5px;
     grid-area: textguide3; 
+    background-color: {{ section.settings.textguide3-color }};
 }
 {% endstyle %}
 <div class="cont-guide">
-    <div class="tittleguide"><h2>Las gorditas no tienen fronteras guia completa aki tu alcance</h2></div>
+    <div class="tittleguide">{{ section.settings.tittleguide }}</div>
     <div class="imgguide1">{% render 'vrc-arrowviollet' %}</div>
-    <div class="textguide1">Number: 8628b5ecadc667ea1.0.0.0 Safari/537.36 Edg/121.0.0.0Timestamp: 2024-03-11 04:13:20 UTC</div>
+    <div class="textguide1">{{ section.settings.textguide1 }}</div>
     <div class="imgguide2">{% render 'vrc-arrowviollet' %}</div>
-    <div class="textguide2">Number: 8628b5ecadc667eaIP Address: 149.3t: Mozilla/5.0 (Windows NT 10.0; Win64;21.0.0.0Timestamp: 2024-03-11 04:13:20 UTC</div>
+    <div class="textguide2">{{ section.settings.textguide2 }}</div>
     <div class="imgguide3">{% render 'vrc-arrowviollet' %}</div>
-    <div class="textguide3">8b5ecadc667eaIP Address: 149.ndows NT 10.0; Win64; x64)afari/537.36 Edg/121.0.0.0Timestamp: 2024-03-11 04:13:20 UTC</div>
+    <div class="textguide3">{{ section.settings.textguide3 }}</div>
 </div>
 
 {%- comment -%}
 {% schema %}
     {
-        
+        "name": "VRC-MULTIBOX",
+        "tag": "section",
+        "class": "section",
+        "settings":[
+            {
+              "type": "text",
+              "id": "tittleguide",
+              "label": "Titulo Principal"
+            },
+            {
+              "type": "color",
+              "id": "tittleguide-color",
+              "label": "Color de Fondo",
+              "default": "#000000"
+            },
+            {
+              "type": "range",
+              "id": "tittleguide-size",
+              "min": 20,
+              "max": 80,
+              "step": 1,
+              "unit": "px",
+              "label": "Tamaño Titulo Principal",
+              "default" : 30 
+            },
+            {
+              "type": "image_picker",
+              "id": "imgguide1",
+              "label": "Imagen Bloque 1"
+            },
+            {
+              "type": "textarea",
+              "id": "textguide1",
+              "label": "Texto Guia 1"
+            },
+            {
+              "type": "color",
+              "id": "tittleguide1-color",
+              "label": "Color de Fondo",
+              "default": "#000000"
+            },
+            {
+              "type": "image_picker",
+              "id": "imgguide2",
+              "label": "Imagen Bloque 2"
+            },
+            {
+              "type": "textarea",
+              "id": "textguide2",
+              "label": "Texto Guia 2"
+            },
+            {
+              "type": "color",
+              "id": "tittleguide2-color",
+              "label": "Color de Fondo",
+              "default": "#000000"
+            },
+            {
+              "type": "image_picker",
+              "id": "imgguide3",
+              "label": "Imagen Bloque 3"
+            },
+            {
+              "type": "textarea",
+              "id": "textguide3",
+              "label": "Texto Guia 3"
+            },
+            {
+              "type": "color",
+              "id": "tittleguide3-color",
+              "label": "Color de Fondo",
+              "default": "#000000"
+            }
+        ]     
     }
 {% endschema %}  
 {%- endcomment -%}
