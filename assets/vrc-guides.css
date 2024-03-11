@@ -7,9 +7,9 @@
     /*grid-template-areas:    "tittleguide imgguide1 textguide2 imgguide3"
                             "tittleguide textguide1 imgguide2 textguide3";*/
 }
-/*
+
 .tittleguide{
-    grid-area: tittleguide;
+   grid-area: tittleguide;
     background-color: aqua;
 }
 .imgguide1{
@@ -36,4 +36,4 @@
     grid-area: textguide3; 
     background-color: aqua;
 
-}*/
+}
