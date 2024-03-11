@@ -281,53 +281,8 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_w7KVPX": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_gwnjKU": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em><strong>Dresses For Special Events<\/strong><\/em>",
-            "heading_size": "h2"
-          }
-        },
-        "text_tAiMiX": {
-          "type": "text",
-          "settings": {
-            "text": "<em><strong>You can combine each dress according to the occasion, you can choose the style that most highlights your personality, using a mini dress, a midi dress or maxi<\/strong><\/em>",
-            "text_style": "body"
-          }
-        },
-        "buttons_teJPhe": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Show Now",
-            "button_link_1": "shopify:\/\/collections\/shop-dresses",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_gwnjKU",
-        "text_tAiMiX",
-        "buttons_teJPhe"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_20.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-4",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
+    "VRC-BANNER2DO": {
+      "type": "vrc-banner"
     },
     "VRC-MULTIBOXG": {
       "type": "vrc-multiboxg",
@@ -361,7 +316,7 @@
     "rich_text_kwi7pt",
     "slideshow_ebPK49",
     "image_with_text_a9H4KU",
-    "image_banner_w7KVPX",
+    "VRC-BANNER2DO",
     "VRC-MULTIBOXG"
   ]
 }
