@@ -151,14 +151,18 @@
         "imgguide1": "shopify:\/\/shop_images\/c9bc45cafbf64d839a5228763121c416-Max.jpg",
         "textguide1": "Todo sobre vestidos negros",
         "textguide1-color": "#39ce42",
+        "textguide-size": 16,
         "textguide1-url": "shopify:\/\/collections\/formal-gala-dresses",
+        "textguide1-textbtn": "Get Guide",
         "imgguide2": "shopify:\/\/shop_images\/32ea3943b123467492a995b3f8191775-Max.jpg",
         "textguide2": "Cerca de la naturaleza",
         "textguide2-url": "",
+        "textguide2-textbtn": "Get Guide",
         "textguide2-color": "#b7bd40",
         "imgguide3": "shopify:\/\/shop_images\/c31dbe496c524b4796609614e521e629-Max.jpg",
         "textguide3": "Cositas de la vida hoy",
         "textguide3-url": "",
+        "textguide3-textbtn": "Patria o Vida",
         "textguide3-color": "#843aa0"
       }
     }
