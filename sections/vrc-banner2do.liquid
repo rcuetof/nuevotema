@@ -3,53 +3,53 @@
 {% style  %}  
     .vrc-banner {
         /* Estilo predeterminado para escritorio */
-        background-image: url('{{ section.settings.banner-escritorio | image_url: width: 2592, height: 1152 }}');
-            h1{top: {{section.settings.pose-y-tittle1}}%; left: {{section.settings.pose-x-tittle1}}%;font-size:{{section.settings.size-e-tittle1}}px;}    
+        background-image: url('{{ section.settings.banner-escritorio2 | image_url: width: 2592, height: 1152 }}');
+            h1{top: {{section.settings.pose-y-tittle12}}%; left: {{section.settings.pose-x-tittle12}}%;font-size:{{section.settings.size-e-tittle12}}px;}    
        /* Estilo para dispositivos móviles */
         @media (max-width: 768px) {
-            background-image: url('{{ section.settings.banner-movil | image_url: width: 1152, height: 2592 }}');
-            h1{top: {{section.settings.posm-y-tittle1}}%; left: {{section.settings.posm-x-tittle1}}%;font-size:{{section.settings.size-m-tittle1}}px;}     
+            background-image: url('{{ section.settings.banner-movil2 | image_url: width: 1152, height: 2592 }}');
+            h1{top: {{section.settings.posm-y-tittle12}}%; left: {{section.settings.posm-x-tittle12}}%;font-size:{{section.settings.size-m-tittle12}}px;}     
           }
 
     }
     .vrc-banner h1{
       position : absolute; 
-      color:{{ section.settings.font-color-tittle1 }};
+      color:{{ section.settings.font-color-tittle12 }};
   
     } 
     .vrc-banner p{
      position : absolute;
-     font-size:{{section.settings.size-tittle2}}px;
-     color:{{ section.settings.font-color-tittle2 }};
+     font-size:{{section.settings.size-tittle22}}px;
+     color:{{ section.settings.font-color-tittle22 }};
     }
 
     
     {% endstyle %}
     <div class="vrc-banner">
-        <h1>{{section.settings.title-banner}}</h1>
-        <p >{{section.settings.tittl2-banner}}</p>
-        <a href="{{section.settings.link-botton1}}" class="button-banner position-boton">{{section.settings.text-botton1}}</a>
-        <a href="{{section.settings.link-botton2}}" class="button-banner position-mid">{{section.settings.text-botton2}}</a>
+        <h1>{{section.settings.title-banner2}}</h1>
+        <p >{{section.settings.tittl2-banner2}}</p>
+        <a href="{{section.settings.link-botton12}}" class="button-banner position-boton">{{section.settings.text-botton12}}</a>
+        <a href="{{section.settings.link-botton22}}" class="button-banner position-mid">{{section.settings.text-botton22}}</a>
     </div>
    
-{%- endif -%}
+{%- endif -%}x
 {% schema %}
     {
         "name": "VRC-BANNER2do",
               "settings": [
                 {
                  "type": "text",
-                 "id": "title-banner",
+                 "id": "title-banner2",
                  "label": "Titulo del Banner"
                }, 
                {
                 "type": "image_picker",
-                "id": "banner-movil",
+                "id": "banner-movil2",
                 "label": "Imagen Para Moviles"
                },
                {
                 "type": "range",
-                "id": "posm-x-tittle1",
+                "id": "posm-x-tittle12",
                 "min": 0,
                 "max": 100,
                 "step": 1,
@@ -59,7 +59,7 @@
               },
               {  
                 "type": "range",
-                "id": "posm-y-tittle1",
+                "id": "posm-y-tittle12",
                 "min": 0,
                 "max": 100,
                 "step": 1,
@@ -69,7 +69,7 @@
               },
               {
                 "type": "range",
-                "id": "size-m-tittle1",
+                "id": "size-m-tittle12",
                 "min": 10,
                 "max": 90,
                 "step": 1,
@@ -84,12 +84,12 @@
 
                {
                 "type": "image_picker",
-                "id": "banner-escritorio",
+                "id": "banner-escritorio2",
                 "label": "Imagen Para Compputadoras"
                },
                {
                "type": "range",
-                "id": "pose-x-tittle1",
+                "id": "pose-x-tittle12",
                 "min": 0,
                 "max": 100,
                 "step": 1,
@@ -99,7 +99,7 @@
               },
               {  
                 "type": "range",
-                "id": "pose-y-tittle1",
+                "id": "pose-y-tittle12",
                 "min": 0,
                 "max": 100,
                 "step": 1,
@@ -109,7 +109,7 @@
               },
                 {
                 "type": "range",
-                "id": "size-e-tittle1",
+                "id": "size-e-tittle12",
                 "min": 10,
                 "max": 90,
                 "step": 1,
@@ -119,7 +119,7 @@
               },
               {
                 "type": "color",
-                "id": "font-color-tittle1",
+                "id": "font-color-tittle12",
                 "label": "Color Titulo 1",
                 "default": "#FFFFFF"
               },
@@ -129,12 +129,12 @@
          
                 {
                  "type": "textarea",
-                 "id": "tittl2-banner",
+                 "id": "tittl2-banner2",
                  "label": "2do Titulo del Banner"
                },
                {
                 "type": "range",
-                "id": "size-tittle2",
+                "id": "size-tittle22",
                 "min": 10,
                 "max": 50,
                 "step": 1,
@@ -144,28 +144,28 @@
               },
               {
                 "type": "color",
-                "id": "font-color-tittle2",
+                "id": "font-color-tittle22",
                 "label": "Color Titulo 2",
                 "default": "#000000"
               },
                {
                  "type": "text",
-                 "id": "text-botton1",
+                 "id": "text-botton12",
                  "label": "Texto del Boton 1"
                },
                {
                  "type": "url",
-                 "id": "link-botton1",
+                 "id": "link-botton12",
                  "label": "Link Botton1"
                },
                {
                  "type": "text",
-                 "id": "text-botton2",
+                 "id": "text-botton22",
                  "label": "Texto del Boton 1"
                },
                {
                  "type": "url",
-                 "id": "link-botton2",
+                 "id": "link-botton22",
                  "label": "Link Botton2"
                }               
             ]
