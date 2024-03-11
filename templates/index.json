@@ -281,8 +281,10 @@
         "padding_bottom": 36
       }
     },
-    "VRC-BANNER2DO_65456": {
-      "type": "vrc-banner2do"
+    "VRC-BANNER2DO": {
+      "type": "vrc-banner2do",
+      "settings": {
+      }
     },
     "VRC-MULTIBOXG": {
       "type": "vrc-multiboxg",
