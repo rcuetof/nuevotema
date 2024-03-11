@@ -1,6 +1,5 @@
 {
   "sections": {
-    "VRC-MULTIBOXG":{"type": "vrc-multiboxg"},
     "banner-principal": {
       "type": "vrc-banner",
       "settings": {
@@ -367,6 +366,27 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": false
+      }
+    },
+    "VRC-MULTIBOXG": {
+      "type": "vrc-multiboxg",
+      "settings": {
+        "tittleguide": "10 Versatile Short Black Casual Dresses For Any Event",
+        "tittleguide-color": "#000000",
+        "tittleguide-size": 30,
+        "textguide1": "",
+        "textguide1-color": "#000000",
+        "textguide-size": 16,
+        "textguide1-url": "",
+        "textguide1-textbtn": "",
+        "textguide2": "",
+        "textguide2-url": "",
+        "textguide2-textbtn": "",
+        "textguide2-color": "#000000",
+        "textguide3": "",
+        "textguide3-url": "",
+        "textguide3-textbtn": "",
+        "textguide3-color": "#000000"
       }
     }
   },
