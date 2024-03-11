@@ -1,5 +1,6 @@
 .cont-guide
 {
+    margin: auto;
     display: grid;
     grid-gap: 10px;
     grid-template-columns: minmax(250px, 2fr) repeat(auto-fill, minmax(100px,1fr));
