@@ -1,6 +1,10 @@
 {
   "sections": {
-   "VRC-GUIDES":{"type": "vrc-guides"},
+    "VRC-GUIDES": {
+      "type": "vrc-guides",
+      "settings": {
+      }
+    },
     "BANNER-VRC-DEFAULT": {
       "type": "vrc-banner",
       "settings": {
@@ -148,6 +152,6 @@
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
     "product-grid",
-    "vrc-guides"
+    "VRC-GUIDES"
   ]
 }
