@@ -100,15 +100,15 @@
       {% if section.settings.imgguide1 != blank %}
       <div class="imgguide1">{% render 'vrc-arrowviollet' %}</div>{% endif %}
       {% if section.settings.textguide1 != blank %}
-      <div class="textguide1">{{ section.settings.textguide1 }}<a style="align-self: end;" class="btn" href="#">GET GUIDE</a></div>{% endif %}
+      <div class="textguide1">{{ section.settings.textguide1 }}<br><br><a style="align-self: end;" class="btn" href="{{ section.settings.textguide1-url }}">GET GUIDE</a></div>{% endif %}
       {% if section.settings.imgguide2 != blank %}
       <div class="imgguide2">{% render 'vrc-arrowviollet' %}</div>{% endif %}
       {% if section.settings.textguide2 != blank %}
-      <div class="textguide2">{{ section.settings.textguide2 }}<a style="align-self: end;" class="btn" href="#">GET GUIDE</a></div>{% endif %}
+      <div class="textguide2">{{ section.settings.textguide2 }}<br><br><a style="align-self: end;" class="btn" href="{{ section.settings.textguide2-url }}">GET GUIDE</a></div>{% endif %}
       {% if section.settings.imgguide3 != blank %}
       <div class="imgguide3">{% render 'vrc-arrowviollet' %}</div>{% endif %}
       {% if section.settings.textguide3 != blank %}
-      <div class="textguide3">{{ section.settings.textguide3 }}<a style="align-self: end;" class="btn" href="#">GET GUIDE</a></div>{% endif %}
+      <div class="textguide3">{{ section.settings.textguide3 }}<br><br><a style="align-self: end;" class="btn" href="{{ section.settings.textguide3-url }}">GET GUIDE</a></div>{% endif %}
   </div>
  {% endif %}
   
@@ -156,6 +156,11 @@
                 "default": "#000000"
               },
               {
+                "type": "url",
+                "id": "textguide1-url",
+                "label": "Link Boton"
+              },
+              {
                 "type": "image_picker",
                 "id": "imgguide2",
                 "label": "Imagen Bloque 2"
@@ -164,6 +169,11 @@
                 "type": "textarea",
                 "id": "textguide2",
                 "label": "Texto Guia 2"
+              },
+              {
+                "type": "url",
+                "id": "textguide2-url",
+                "label": "Link Boton 2"
               },
               {
                 "type": "color",
@@ -180,6 +190,11 @@
                 "type": "textarea",
                 "id": "textguide3",
                 "label": "Texto Guia 3"
+              },
+              {
+                "type": "url",
+                "id": "textguide3-url",
+                "label": "Link Boton 3"
               },
               {
                 "type": "color",
