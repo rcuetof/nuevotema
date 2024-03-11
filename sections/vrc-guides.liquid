@@ -27,7 +27,7 @@ text-align: left;
 
 
 /* Consulta de medios para pantallas más grandes (PC) */
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 769px) {
     .cont-guide {
         grid-template-columns: minmax(150px, 1fr) repeat(3, minmax(250px, 2fr));
         grid-template-rows: 370px auto;
@@ -35,10 +35,17 @@ text-align: left;
                             "textguide1 textguide1 textguide2 textguide3";
     }
     .textguide1{
-        margin-bottom: -20px !important;   
+        margin-bottom: 0px;   
    }
+} 
+/* Consulta de medios para pantallas más grandes (MOVIL) */
+@media screen and (max-width: 768px) {
+   .textguide1{
+    margin-bottom: 20px;   
+}
 }
 
+margin-bottom: 20px;
 .tittleguide{
    grid-area: tittleguide;
    border-radius: 5px 0px 0px 0px;
@@ -52,7 +59,6 @@ text-align: left;
 .textguide1{
       grid-area: textguide1;
       border-radius: 0px 0px 5px 5px;
-      
  }
 .imgguide2{
     grid-area: imgguide2;
