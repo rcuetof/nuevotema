@@ -1,0 +1,175 @@
+{{ 'vrc-banner.css' |  asset_url |  stylesheet_tag }}
+{%- if section.settings.banner-escritorio != blank or section.settings.banner-movil != blank -%}
+{% style  %}  
+    .vrc-banner {
+        /* Estilo predeterminado para escritorio */
+        background-image: url('{{ section.settings.banner-escritorio | image_url: width: 2592, height: 1152 }}');
+            h1{top: {{section.settings.pose-y-tittle1}}%; left: {{section.settings.pose-x-tittle1}}%;font-size:{{section.settings.size-e-tittle1}}px;}    
+       /* Estilo para dispositivos móviles */
+        @media (max-width: 768px) {
+            background-image: url('{{ section.settings.banner-movil | image_url: width: 1152, height: 2592 }}');
+            h1{top: {{section.settings.posm-y-tittle1}}%; left: {{section.settings.posm-x-tittle1}}%;font-size:{{section.settings.size-m-tittle1}}px;}     
+          }
+
+    }
+    .vrc-banner h1{
+      position : absolute; 
+      color:{{ section.settings.font-color-tittle1 }};
+  
+    } 
+    .vrc-banner p{
+     position : absolute;
+     font-size:{{section.settings.size-tittle2}}px;
+     color:{{ section.settings.font-color-tittle2 }};
+    }
+
+    
+    {% endstyle %}
+    <div class="vrc-banner">
+        <h1>{{section.settings.title-banner}}</h1>
+        <p >{{section.settings.tittl2-banner}}</p>
+        <a href="{{section.settings.link-botton1}}" class="button-banner position-boton">{{section.settings.text-botton1}}</a>
+        <a href="{{section.settings.link-botton2}}" class="button-banner position-mid">{{section.settings.text-botton2}}</a>
+    </div>
+   
+{%- endif -%}
+{% schema %}
+    {
+        "name": "VRC-BANNER",
+        "tag": "section",
+        "class": "section",
+              "settings": [
+                {
+                 "type": "text",
+                 "id": "title-banner",
+                 "label": "Titulo del Banner"
+               }, 
+               {
+                "type": "image_picker",
+                "id": "banner-movil",
+                "label": "Imagen Para Moviles"
+               },
+               {
+                "type": "range",
+                "id": "posm-x-tittle1",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "unit": "%",
+                "label": "Posicion Horizaontal Titulo 1",
+                "default": 8
+              },
+              {  
+                "type": "range",
+                "id": "posm-y-tittle1",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "unit": "%",
+                "label": "Posicion Vertical Titulo 1",
+                "default": 8
+              },
+              {
+                "type": "range",
+                "id": "size-m-tittle1",
+                "min": 10,
+                "max": 90,
+                "step": 1,
+                "unit": "px",
+                "label": "Tamaño Movil Titulo 1",
+                "default": 45
+              },
+
+
+
+
+
+               {
+                "type": "image_picker",
+                "id": "banner-escritorio",
+                "label": "Imagen Para Compputadoras"
+               },
+               {
+               "type": "range",
+                "id": "pose-x-tittle1",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "unit": "%",
+                "label": "Posicion Horizaontal Escritorio Titulo 1",
+                "default": 8
+              },
+              {  
+                "type": "range",
+                "id": "pose-y-tittle1",
+                "min": 0,
+                "max": 100,
+                "step": 1,
+                "unit": "%",
+                "label": "Posicion Vertical Escritorio Titulo 1",
+                "default": 8
+              },
+                {
+                "type": "range",
+                "id": "size-e-tittle1",
+                "min": 10,
+                "max": 90,
+                "step": 1,
+                "unit": "px",
+                "label": "Tamaño Escritorio Titulo 1",
+                "default": 45
+              },
+              {
+                "type": "color",
+                "id": "font-color-tittle1",
+                "label": "Color Titulo 1",
+                "default": "#FFFFFF"
+              },
+
+
+    
+         
+                {
+                 "type": "textarea",
+                 "id": "tittl2-banner",
+                 "label": "2do Titulo del Banner"
+               },
+               {
+                "type": "range",
+                "id": "size-tittle2",
+                "min": 10,
+                "max": 50,
+                "step": 1,
+                "unit": "px",
+                "label": "Tamaño Titulo 2",
+                "default": 25
+              },
+              {
+                "type": "color",
+                "id": "font-color-tittle2",
+                "label": "Color Titulo 2",
+                "default": "#000000"
+              },
+               {
+                 "type": "text",
+                 "id": "text-botton1",
+                 "label": "Texto del Boton 1"
+               },
+               {
+                 "type": "url",
+                 "id": "link-botton1",
+                 "label": "Link Botton1"
+               },
+               {
+                 "type": "text",
+                 "id": "text-botton2",
+                 "label": "Texto del Boton 1"
+               },
+               {
+                 "type": "url",
+                 "id": "link-botton2",
+                 "label": "Link Botton2"
+               }               
+            ]
+          }
+{% endschema %}

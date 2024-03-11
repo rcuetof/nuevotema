@@ -282,7 +282,7 @@
       }
     },
     "VRC-BANNER2DO_65456": {
-      "type": "vrc-banner"
+      "type": "vrc-banner2do"
     },
     "VRC-MULTIBOXG": {
       "type": "vrc-multiboxg",
@@ -316,7 +316,7 @@
     "rich_text_kwi7pt",
     "slideshow_ebPK49",
     "image_with_text_a9H4KU",
-    "VRC-BANNER2DO_65456",
+    "VRC-BANNER2DO",
     "VRC-MULTIBOXG"
   ]
 }
