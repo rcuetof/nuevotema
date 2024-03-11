@@ -67,6 +67,7 @@
         grid-area: textguide1;
         border-radius: 0px 0px 5px 5px;
         background-color: {{ section.settings.textguide1-color }};
+        font-size: {{ section.settings.textguide-size }}px;
    }
   .imgguide2{
       align-items: end;
@@ -79,6 +80,7 @@
       grid-area: textguide2;
       border-radius: 0px 0px 5px 5px;
       background-color: {{ section.settings.textguide2-color }};
+      font-size: {{ section.settings.textguide-size }}px;
   }
   .imgguide3{
       align-items: end;
@@ -91,6 +93,7 @@
       border-radius: 0px 0px 5px 5px;
       grid-area: textguide3; 
       background-color: {{ section.settings.textguide3-color }};
+      font-size: {{ section.settings.textguide-size }}px;
   }
   {% endstyle %}
   {% if section.settings.tittleguide != blank %}  
@@ -154,6 +157,16 @@
                 "id": "textguide1-color",
                 "label": "Color de Fondo",
                 "default": "#000000"
+              },
+              {
+                "type": "range",
+                "id": "textguide-size",
+                "min": 20,
+                "max": 80,
+                "step": 1,
+                "unit": "px",
+                "label": "Tamaño de los parrafos",
+                "default" : 30 
               },
               {
                 "type": "url",
