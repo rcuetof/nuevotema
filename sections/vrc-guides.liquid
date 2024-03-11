@@ -1,28 +1,46 @@
-{{ 'vrc-guides.css' | asset_url | stylesheet_tag }}
+
 {% style  %}
-  /*
-.cont-guide
-{
-    marguin:
+.cont-guide {
+    width: 90%;
+    max-width: 980px;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
     display: grid;
     grid-gap: 10px;
-    grid-template-columns: minmax(250px, 2fr) repeat(auto-fill, minmax(100px,1fr));
-    /*grid-template-areas:    "tittleguide imgguide1 textguide2 imgguide3"
-                            "tittleguide textguide1 imgguide2 textguide3";
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
+    grid-template-areas: "tittleguide"
+                        "imgguide1"
+                        "textguide1";
 }
-/*
+
+/* Consulta de medios para pantallas más grandes (PC) */
+@media screen and (min-width: 600px) {
+    .cont-guide {
+        grid-template-columns: minmax(300px, 2fr) repeat(auto-fit, minmax(250px, 1fr));
+        grid-template-rows: 500px 1fr;
+        grid-template-areas: "tittleguide imgguide1 textguide1 imgguide2"
+                            "tittleguide imgguide3 textguide3 imgguide3";
+    }
+}
+
+
+
+.textguide1{
+      background-color: aqua;
+      grid-column: span 2;
+ }
+
 .tittleguide{
-    grid-area: tittleguide;
+   grid-area: tittleguide;
     background-color: aqua;
 }
 .imgguide1{
     grid-area: img1;
     background-color: aqua;
 }
-.textguide1{
-   grid-area: textguide1;
-   background-color: aqua;
-}
+
 .imgguide2{
     grid-area: imgguide2;
     background-color: aqua;
@@ -40,7 +58,6 @@
     background-color: aqua;
 
 }
-*/
 {% endstyle %}
 <div class="cont-guide">
     <div class="tittleguide">TITLE GUIDE</div>

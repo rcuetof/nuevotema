@@ -9,8 +9,8 @@
     grid-gap: 10px;
     grid-template-columns: minmax(300px, 2fr) repeat(auto-fit, minmax(250px,1fr));
     grid-template-rows: 500px 1fr;
-    /*grid-template-areas:    "tittleguide imgguide1 textguide2 imgguide3"
-                            "tittleguide textguide1 imgguide2 textguide3";*/
+    grid-template-areas:    "tittleguide imgguide1 textguide2 imgguide3"
+                            "tittleguide textguide1 imgguide2 textguide3";
 }
 .cont-guide div{
     background-color: rgb(55, 133, 85);
@@ -24,7 +24,7 @@
       background-color: aqua;
       grid-column: span 2;
  }
-/*
+
 .tittleguide{
    grid-area: tittleguide;
     background-color: aqua;
@@ -47,4 +47,4 @@
     grid-area: textguide3; 
     background-color: aqua;
 
-}*/
+}
