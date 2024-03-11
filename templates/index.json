@@ -1,5 +1,6 @@
 {
   "sections": {
+    "VRC-MULTIBOXG":{"type": "vrc-multiboxg"},
     "banner-principal": {
       "type": "vrc-banner",
       "settings": {
@@ -377,6 +378,7 @@
     "rich_text_kwi7pt",
     "slideshow_ebPK49",
     "image_with_text_a9H4KU",
-    "image_banner_w7KVPX"
+    "image_banner_w7KVPX",
+    "VRC-MULTIBOXG"
   ]
 }
