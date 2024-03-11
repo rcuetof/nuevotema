@@ -1,7 +1,7 @@
 {{ 'vrc-banner.css' |  asset_url |  stylesheet_tag }}
 {%- if section.settings.banner-escritorio2 != blank or section.settings.banner-movil2 != blank -%}
 {% style  %}  
-    .vrc-banner {
+    .vrc-banner2 {
         /* Estilo predeterminado para escritorio */
         background-image: url('{{ section.settings.banner-escritorio2 | image_url: width: 2592, height: 1152 }}');
             h1{top: {{section.settings.pose-y-tittle12}}%; left: {{section.settings.pose-x-tittle12}}%;font-size:{{section.settings.size-e-tittle12}}px;}    
@@ -12,12 +12,12 @@
           }
 
     }
-    .vrc-banner h1{
+    .vrc-banner2 h1{
       position : absolute; 
       color:{{ section.settings.font-color-tittle12 }};
   
     } 
-    .vrc-banner p{
+    .vrc-banner2 p{
      position : absolute;
      font-size:{{section.settings.size-tittle22}}px;
      color:{{ section.settings.font-color-tittle22 }};
@@ -25,7 +25,7 @@
 
     
     {% endstyle %}
-    <div class="vrc-banner">
+    <div class="vrc-banner2">
         <h1>{{section.settings.title-banner2}}</h1>
         <p >{{section.settings.tittl2-banner2}}</p>
         <a href="{{section.settings.link-botton12}}" class="button-banner position-boton">{{section.settings.text-botton12}}</a>
