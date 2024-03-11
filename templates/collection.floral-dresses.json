@@ -1,7 +1,7 @@
 {
   "sections": {
     "VRC-GUIDES": {
-      "type": "vrc-guides",
+      "type": "vrc-multibox",
       "settings": {
       }
     },

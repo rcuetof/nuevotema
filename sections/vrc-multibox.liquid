@@ -93,6 +93,7 @@ div{
     background-color: {{ section.settings.textguide3-color }};
 }
 {% endstyle %}
+  
 <div class="cont-guide">
     <div class="tittleguide">{{ section.settings.tittleguide }}</div>
     <div class="imgguide1">{% render 'vrc-arrowviollet' %}</div>
@@ -103,7 +104,6 @@ div{
     <div class="textguide3">{{ section.settings.textguide3 }}</div>
 </div>
 
-{%- comment -%}
 {% schema %}
     {
         "name": "VRC-MULTIBOX",
