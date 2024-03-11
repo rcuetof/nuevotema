@@ -147,8 +147,6 @@
   "order": [
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
-    "product-grid",
-    "VRC-GUIDE"
-    
+    "product-grid"
   ]
 }
