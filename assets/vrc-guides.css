@@ -8,6 +8,7 @@
     display: grid;
     grid-gap: 10px;
     grid-template-columns: minmax(300px, 2fr) repeat(auto-fit, minmax(250px,1fr));
+    grid-template-rows: 500px 1fr;
     /*grid-template-areas:    "tittleguide imgguide1 textguide2 imgguide3"
                             "tittleguide textguide1 imgguide2 textguide3";*/
 }
