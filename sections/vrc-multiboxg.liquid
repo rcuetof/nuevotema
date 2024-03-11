@@ -1,4 +1,6 @@
+{{ 'buttons.css' |  stylesheet_tag |  asset_url }}
 {% style  %}
+
   .cont-guide {
       width: 90%;
       max-width: 980px;
@@ -94,13 +96,20 @@
   {% endstyle %}
     
   <div class="cont-guide">
-      <div class="tittleguide">{{ section.settings.tittleguide }}</div>
-      <div class="imgguide1">{% render 'vrc-arrowviollet' %}</div>
-      <div class="textguide1">{{ section.settings.textguide1 }}</div>
-      <div class="imgguide2">{% render 'vrc-arrowviollet' %}</div>
-      <div class="textguide2">{{ section.settings.textguide2 }}</div>
-      <div class="imgguide3">{% render 'vrc-arrowviollet' %}</div>
-      <div class="textguide3">{{ section.settings.textguide3 }}</div>
+    {% if section.settings.tittleguide != blank %}
+      <div class="tittleguide">{{ section.settings.tittleguide }}</div>{% endif %}
+      {% if section.settings.imgguide1 != blank %}
+      <div class="imgguide1">{% render 'vrc-arrowviollet' %}</div>{% endif %}
+      {% if section.settings.textguide1 != blank %}
+      <div class="textguide1">{{ section.settings.textguide1 }}</div>{% endif %}
+      {% if section.settings.imgguide2 != blank %}
+      <div class="imgguide2">{% render 'vrc-arrowviollet' %}</div>{% endif %}
+      {% if section.settings.textguide2 != blank %}
+      <div class="textguide2">{{ section.settings.textguide2 }}</div>{% endif %}
+      {% if section.settings.imgguide3 != blank %}
+      <div class="imgguide3">{% render 'vrc-arrowviollet' %}</div>{% endif %}
+      {% if section.settings.textguide3 != blank %}
+      <div class="textguide3">{{ section.settings.textguide3 }}</div>{% endif %}
   </div>
   
   {% schema %}
