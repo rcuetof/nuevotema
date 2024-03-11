@@ -1,6 +1,6 @@
 {
   "sections": {
-    "VRC-GUIDE":{"type": "vrc-multibox"},
+    "VRC-GUIDE":{"type": "vrc-multiboxg"},
     "BANNER-VRC-DEFAULT": {
       "type": "vrc-banner",
       "settings": {
