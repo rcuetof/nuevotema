@@ -1,0 +1,57 @@
+{% style  %} 
+.cont-guide
+{
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: minmax(250px, 2fr) repeat(auto-fill, minmax(100px,1fr));
+    grid-template-areas:    "tittleguide imgguide1 textguide2 imgguide3"
+                            "tittleguide textguide1 imgguide2 textguide3";
+}
+
+.tittleguide{
+    grid-area: tittleguide;
+    background-color: aqua;
+}
+.imgguide1{
+    grid-area: img1;
+    background-color: aqua;
+}
+.textguide1{
+   grid-area: textguide1;
+   background-color: aqua;
+}
+.imgguide2{
+    grid-area: imgguide2;
+    background-color: aqua;
+}
+.textguide2{
+    grid-area: textguide2;
+    background-color: aqua;
+}
+.imgguide3{
+    grid-area:imgguide3;
+    background-color: aqua;
+}
+.textguide3{
+    grid-area: textguide3; 
+    background-color: aqua;
+
+}
+{% endstyle %}
+<div class="cont-guide">
+    <div class="tittleguide">TITLE GUIDE</div>
+    <div class="imgguide1">IMAGEN</div>
+    <div class="textguide1">TEXT GUIDE</div>
+    <div class="imgguide2">IMAGE GUIDE 2</div>
+    <div class="textguide2">TEXT GUIDE 2</div>
+    <div class="imgguide3">IMAGE GUIDE 3</div>
+    <div class="textguide3">TEXT GUIDE 3</div>
+</div>
+
+{%- comment -%}
+{% schema %}
+    {
+        
+    }
+{% endschema %}  
+{%- endcomment -%}
