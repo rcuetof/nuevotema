@@ -1,10 +1,5 @@
 {
   "sections": {
-    "VRC-MULTIBOX": {
-      "type": "vrc-multibox",
-      "settings": {
-      }
-    },
     "BANNER-VRC-DEFAULT": {
       "type": "vrc-banner",
       "settings": {
@@ -151,7 +146,7 @@
   "order": [
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
-    "product-grid",
-    "VRC-MULTIBOX"
+    "product-grid"
+    
   ]
 }
