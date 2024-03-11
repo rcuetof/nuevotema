@@ -285,7 +285,7 @@
       "type": "vrc-banner2do",
       "settings": {
         "title-banner2": "",
-        "banner-movil2": "shopify:\/\/shop_images\/Diseno_sin_titulo_20.png",
+        "banner-movil2": "shopify:\/\/shop_images\/banner-creamblackwhite-m.png",
         "posm-x-tittle12": 8,
         "posm-y-tittle12": 8,
         "size-m-tittle12": 45,
@@ -293,7 +293,7 @@
         "pose-x-tittle12": 8,
         "pose-y-tittle12": 8,
         "size-e-tittle12": 45,
-        "font-color-tittle12": "#FFFFFF",
+        "font-color-tittle12": "#ffffff",
         "tittl2-banner2": "",
         "size-tittle22": 25,
         "font-color-tittle22": "#000000",
