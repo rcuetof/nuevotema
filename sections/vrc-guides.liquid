@@ -18,7 +18,7 @@ div{
 background-position: center;
 background-size: cover;
 background-repeat: no-repeat;
-box-shadow: 0px 5px 5px rgba(60, 59, 59, 0.478);
+box-shadow: 0px 0px 3px rgba(60, 59, 59, 0.164);
 padding: 20px;
 margin-left: 10px;
 text-align: left;
@@ -34,11 +34,15 @@ text-align: left;
         grid-template-areas: "tittleguide imgguide1 imgguide2 imgguide3"
                             "textguide1 textguide1 textguide2 textguide3";
     }
+    .textguide1{
+        margin-bottom: 0px;   
+   }
 }
 
 .tittleguide{
    grid-area: tittleguide;
-   border-radius: 5px 0px 0px 0px;   
+   border-radius: 5px 0px 0px 0px;
+   margin-right: 0px;   
 }
 .imgguide1{
     grid-area: imgguide1;
