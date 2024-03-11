@@ -16,9 +16,13 @@
 }
 
 .imgguide2{
-    grid-row: span 2;
+    
     background-color: aqua;
 }
+.textguide1{
+      background-color: aqua;
+      grid-row: span 2;
+ }
 /*
 .tittleguide{
    grid-area: tittleguide;
@@ -28,10 +32,7 @@
     grid-area: img1;
     background-color: aqua;
 }
-.textguide1{
-   grid-area: textguide1;
-   background-color: aqua;
-}
+
 
 .textguide2{
     grid-area: textguide2;
