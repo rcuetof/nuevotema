@@ -116,24 +116,22 @@ svg:hover {
   }
   {% endstyle %}
   {% if section.settings.tittleguide != blank %}  
-    <li class="scroll-trigger animate--slide-in">
-    <div class="cont-guide">
+    <div class="cont-guide scroll-trigger animate--slide-in">
     {% if section.settings.tittleguide != blank %}
-      <div class="tittleguide">{{ section.settings.tittleguide }}</div>{% endif %}
+      <div class="tittleguide scroll-trigger animate--slide-in">{{ section.settings.tittleguide }}</div>{% endif %}
       {% if section.settings.imgguide1 != blank %}
-      <div class="imgguide1 card__content"><a href="{{ section.settings.textguide1-url }}">{% render 'vrc-arrowviollet' %}</a></div>{% endif %}
+      <div class="imgguide1 scroll-trigger animate--slide-in"><a href="{{ section.settings.textguide1-url }}">{% render 'vrc-arrowviollet' %}</a></div>{% endif %}
       {% if section.settings.textguide1 != blank %}
-      <div class="textguide1">{{ section.settings.textguide1 }}<br><br><a class="btn" href="{{ section.settings.textguide1-url }}">{{ section.settings.textguide1-textbtn }}</a></div>{% endif %}
+      <div class="textguide1 scroll-trigger animate--slide-in">{{ section.settings.textguide1 }}<br><br><a class="btn" href="{{ section.settings.textguide1-url }}">{{ section.settings.textguide1-textbtn }}</a></div>{% endif %}
       {% if section.settings.imgguide2 != blank %}
-      <div class="imgguide2"><a href="{{ section.settings.textguide2-url }}">{% render 'vrc-arrowviollet' %}</a></div>{% endif %}
+      <div class="imgguide2 scroll-trigger animate--slide-in"><a href="{{ section.settings.textguide2-url }}">{% render 'vrc-arrowviollet' %}</a></div>{% endif %}
       {% if section.settings.textguide2 != blank %}
-      <div class="textguide2">{{ section.settings.textguide2 }}<br><br><a class="btn" href="{{ section.settings.textguide2-url }}">{{ section.settings.textguide2-textbtn }}</a></div>{% endif %}
+      <div class="textguide2 scroll-trigger animate--slide-in">{{ section.settings.textguide2 }}<br><br><a class="btn" href="{{ section.settings.textguide2-url }}">{{ section.settings.textguide2-textbtn }}</a></div>{% endif %}
       {% if section.settings.imgguide3 != blank %}
-      <div class="imgguide3"><a href="{{ section.settings.textguide2-url }}">{% render 'vrc-arrowviollet' %}</a></div>{% endif %}
+      <div class="imgguide3 scroll-trigger animate--slide-in"><a href="{{ section.settings.textguide2-url }}">{% render 'vrc-arrowviollet' %}</a></div>{% endif %}
       {% if section.settings.textguide3 != blank %}
-      <div class="textguide3">{{ section.settings.textguide3 }}<br><br><a class="btn" href="{{ section.settings.textguide3-url }}">{{ section.settings.textguide3-textbtn }}</a></div>{% endif %}
+      <div class="textguide3 scroll-trigger animate--slide-in">{{ section.settings.textguide3 }}<br><br><a class="btn" href="{{ section.settings.textguide3-url }}">{{ section.settings.textguide3-textbtn }}</a></div>{% endif %}
   </div>
-  </li>
  {% endif %}
   
   {% schema %}
