@@ -118,6 +118,27 @@
         "padding_bottom": 36
       }
     },
+    "VRC-MULTIBOXG": {
+      "type": "vrc-multiboxg",
+      "settings": {
+        "tittleguide": "10 Versatile Short Black Casual Dresses For Any Event",
+        "tittleguide-color": "#000000",
+        "tittleguide-size": 30,
+        "textguide1": "",
+        "textguide1-color": "#000000",
+        "textguide-size": 16,
+        "textguide1-url": "",
+        "textguide1-textbtn": "",
+        "textguide2": "",
+        "textguide2-url": "",
+        "textguide2-textbtn": "",
+        "textguide2-color": "#000000",
+        "textguide3": "",
+        "textguide3-url": "",
+        "textguide3-textbtn": "",
+        "textguide3-color": "#000000"
+      }
+    },
     "image_with_text_xUfLnL": {
       "type": "image-with-text",
       "blocks": {
@@ -367,38 +388,17 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
-    },
-    "VRC-MULTIBOXG": {
-      "type": "vrc-multiboxg",
-      "settings": {
-        "tittleguide": "10 Versatile Short Black Casual Dresses For Any Event",
-        "tittleguide-color": "#000000",
-        "tittleguide-size": 30,
-        "textguide1": "",
-        "textguide1-color": "#000000",
-        "textguide-size": 16,
-        "textguide1-url": "",
-        "textguide1-textbtn": "",
-        "textguide2": "",
-        "textguide2-url": "",
-        "textguide2-textbtn": "",
-        "textguide2-color": "#000000",
-        "textguide3": "",
-        "textguide3-url": "",
-        "textguide3-textbtn": "",
-        "textguide3-color": "#000000"
-      }
     }
   },
   "order": [
     "banner-principal",
     "featured_collection",
     "multicolumn_Cx9wzQ",
+    "VRC-MULTIBOXG",
     "image_with_text_xUfLnL",
     "rich_text_kwi7pt",
     "slideshow_ebPK49",
     "image_with_text_a9H4KU",
-    "image_banner_w7KVPX",
-    "VRC-MULTIBOXG"
+    "image_banner_w7KVPX"
   ]
 }
