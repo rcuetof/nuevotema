@@ -1,6 +1,117 @@
-{{ 'vrc-banner.css' |  asset_url |  stylesheet_tag }}
 {%- if section.settings.banner-escritorio2 != blank or section.settings.banner-movil2 != blank -%}
 {% style  %}  
+.vrc-banner2 {
+    position: relative;
+    width: 100%;
+    background-position: center;
+    color: white;
+    padding: 20px;
+    background-repeat: no-repeat;  
+    background-position: top;
+    
+}
+.button-banner2 {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color:rgba(163, 149, 149, 0.376);;
+    color: rgb(19, 18, 18,0.7);
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 5px;
+}
+.button-banner2:hover{border: 2px solid rgba(225, 225, 225, 0.179);background-color: antiquewhite;}
+       
+/* Estilos para móvil */
+@media (max-width: 768px) {
+    .vrc-banner2 {
+        background-size: cover;
+        height: 105vh;
+        font-weight: 900;
+        margin-left: 0;
+        margin-right: 0;
+        background-repeat: no-repeat;
+        background-position: bottom;        
+    h1{
+        text-shadow: 2px 2px 4px #000000;
+        position: absolute;
+        font-size: 80px;
+        color: white;
+        text-align: left;
+
+      }
+      p{
+        position: absolute;
+        font-size: 18px;
+        color:black;
+        text-align: left;
+        top: 85%;
+        left: 8%;
+      }
+    .position-boton
+    {
+        position: absolute;
+        top: 80%;
+        left: 24%;
+        transform: translate(-50%, -50%);
+    }  
+    .position-mid
+    {
+        position: absolute;
+        top: 40%;
+        left: 110%;
+        transform: translate(-50%, -50%);
+        margin-left: -120px;
+        margin-right: -120px;
+    } 
+ }
+}
+
+/* Estilos para escritorio */
+@media (min-width: 769px) {
+    .vrc-banner2 {
+        font-size: 24px;
+        background-size: contain;
+        height: 95vh;
+        
+        h1{
+            text-shadow: 2px 2px 4px #000000;
+            position: absolute;
+            font-size: 100px;
+            font-weight: 900;
+            color: white;
+            text-shadow: 2px,10px,4px,black;
+            top: 10%;
+            left: 65%;
+            transform: translate(-50%, -50%);
+          }
+          p{
+            position: absolute;
+            font-size: 24px;
+            color:black;
+            text-align: left;
+            top: 45%;
+            left: 65%;
+            transform: translate(-50%, -50%);
+            
+          }
+        .position-boton
+        {
+            position: absolute;
+            top: 60%;
+            left: 70%;
+            transform: translate(-50%, -50%);
+        }  
+        .position-mid
+        {
+            position: absolute;
+            top: 60%;
+            left: 65%;
+            transform: translate(-50%, -50%);
+            margin-left: -120px;
+            margin-right: -120px;
+        } 
+     }
+    }
     .vrc-banner2 {
         /* Estilo predeterminado para escritorio */
         background-image: url('{{ section.settings.banner-escritorio2 | image_url: width: 2592, height: 1152 }}');
@@ -28,8 +139,8 @@
     <div class="vrc-banner2">
         <h1>{{section.settings.title-banner2}}</h1>
         <p >{{section.settings.tittl2-banner2}}</p>
-        <a href="{{section.settings.link-botton12}}" class="button-banner position-boton">{{section.settings.text-botton12}}</a>
-        <a href="{{section.settings.link-botton22}}" class="button-banner position-mid">{{section.settings.text-botton22}}</a>
+        <a href="{{section.settings.link-botton12}}" class="button-banner2 position-boton">{{section.settings.text-botton12}}</a>
+        <a href="{{section.settings.link-botton22}}" class="button-banner2 position-mid">{{section.settings.text-botton22}}</a>
     </div>
    
 {%- endif -%}x
