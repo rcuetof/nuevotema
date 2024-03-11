@@ -8,11 +8,10 @@
     grid-template-columns: minmax(250px, 2fr) repeat(auto-fill, minmax(100px,1fr));
     /*grid-template-areas:    "tittleguide imgguide1 textguide2 imgguide3"
                             "tittleguide textguide1 imgguide2 textguide3";*/
-
-div{
+}
+.cont-guid div{
     background-color: rgb(55, 133, 85);
 }
-                        }
 
 
 /*
