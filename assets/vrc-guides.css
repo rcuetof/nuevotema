@@ -2,6 +2,7 @@
 {
     margin: auto;
     text-align: center;
+    justify-content: center ;
     display: grid;
     grid-gap: 10px;
     grid-template-columns: minmax(250px, 2fr) repeat(auto-fill, minmax(100px,1fr));
@@ -9,7 +10,7 @@
                             "tittleguide textguide1 imgguide2 textguide3";*/
 
 div{
-    background-color: blue;
+    background-color: rgb(55, 133, 85);
 }
                         }
 
