@@ -67,6 +67,7 @@
 /* Estilos para escritorio */
 @media (min-width: 769px) {
     .vrc-banner {
+        width: 100%;
         font-size: 24px;
         background-size: contain;
         height: auto;
