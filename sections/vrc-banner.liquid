@@ -6,8 +6,8 @@
         background-image: url('{{ section.settings.banner-escritorio | image_url: width: 2592, height: 1152 }}');
         h1{top: {{section.settings.pose-y-tittle1}}%; left: {{section.settings.pose-x-tittle1}}%;font-size:{{section.settings.size-e-tittle1}}px;}    
         .vrc-banner {
-          height: 95vh;
-
+          height: {{ section.settings.banner-escritorio.height | divided_by: section.settings.banner-escritorio.aspect_ratio}};
+          width: {{ section.settings.banner-escritorio.width | divided_by: section.settings.banner-escritorio.aspect_ratio }};
         }
         /* Estilo para dispositivos móviles */
         @media (max-width: 768px) {
