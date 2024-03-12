@@ -13,7 +13,7 @@
           "type": "title",
           "settings": {
             "blog_show_date": true,
-            "blog_show_author": false
+            "blog_show_author": true
           }
         },
         "share": {
@@ -36,9 +36,73 @@
       ],
       "settings": {
       }
+    },
+    "featured_product_KrzUTF": {
+      "type": "featured-product",
+      "blocks": {
+        "title_aJVPha": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_JDgxdr": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_rz8Eaa": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown",
+            "swatch_shape": "square"
+          }
+        },
+        "quantity_selector_Y3k6Mk": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_69GDaP": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_HyXUqQ": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "title_aJVPha",
+        "price_JDgxdr",
+        "variant_picker_rz8Eaa",
+        "quantity_selector_Y3k6Mk",
+        "buy_buttons_69GDaP",
+        "share_HyXUqQ"
+      ],
+      "settings": {
+        "product": "plus-size-contrast-v-neck-slit-dress",
+        "color_scheme": "scheme-3949eb00-512a-4e21-8568-06fe5434d288",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "hover",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "featured_product_KrzUTF"
   ]
 }
