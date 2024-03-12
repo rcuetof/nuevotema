@@ -85,6 +85,9 @@
         "buy_buttons_69GDaP",
         "share_HyXUqQ"
       ],
+      "custom_css": [
+        ".shopify-installments {display:none;}"
+      ],
       "settings": {
         "product": "plus-size-contrast-v-neck-slit-dress",
         "color_scheme": "scheme-3949eb00-512a-4e21-8568-06fe5434d288",
