@@ -1,12 +1,27 @@
 {
   "sections": {
-    "TAB-VRC-DEFAULT": {
-      "type": "tab-container",
-      "settings": {
-      }
-    },
     "BANNER-VRC-DEFAULT": {
       "type": "vrc-banner",
+      "settings": {
+        "title-banner": "",
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#FFFFFF",
+        "tittl2-banner": "",
+        "size-tittle2": 25,
+        "font-color-tittle2": "#000000",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
+      }
+    },
+    "TAB-VRC-DEFAULT": {
+      "type": "tab-container",
       "settings": {
       }
     },
@@ -14,7 +29,7 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 16,
-        "columns_desktop": 2,
+        "columns_desktop": 4,
         "color_scheme": "scheme-1",
         "image_ratio": "portrait",
         "image_shape": "default",
