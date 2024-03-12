@@ -237,12 +237,18 @@
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "VRC-MULTIBOXG":
+    {
+      "type": "vrc-multiboxg"
     }
+
   },
   "order": [
     "BANNER-VRC",
     "TAB-VRC",
     "product-grid",
-    "slideshow_UBKfQy"
+    "slideshow_UBKfQy",
+    "VRC-MULTIBOXG"
   ]
 }
