@@ -6,12 +6,12 @@
         "title-banner": "Dresses<br>    Violetta & Rc",
         "banner-movil": "shopify:\/\/shop_images\/banner-dresses-principal-pc.png",
         "posm-x-tittle1": 8,
-        "posm-y-tittle1": 39,
+        "posm-y-tittle1": 50,
         "size-m-tittle1": 58,
         "banner-escritorio": "shopify:\/\/shop_images\/banner-dresses-pincipal-m.png",
         "pose-x-tittle1": 49,
-        "pose-y-tittle1": 11,
-        "size-e-tittle1": 69,
+        "pose-y-tittle1": 21,
+        "size-e-tittle1": 90,
         "font-color-tittle1": "#ffffff",
         "tittl2-banner": "",
         "size-tittle2": 20,
@@ -238,11 +238,27 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "VRC-MULTIBOXG":
-    {
-      "type": "vrc-multiboxg"
+    "VRC-MULTIBOXG": {
+      "type": "vrc-multiboxg",
+      "settings": {
+        "tittleguide": "",
+        "tittleguide-color": "#000000",
+        "tittleguide-size": 30,
+        "textguide1": "",
+        "textguide1-color": "#000000",
+        "textguide-size": 16,
+        "textguide1-url": "",
+        "textguide1-textbtn": "",
+        "textguide2": "",
+        "textguide2-url": "",
+        "textguide2-textbtn": "",
+        "textguide2-color": "#000000",
+        "textguide3": "",
+        "textguide3-url": "",
+        "textguide3-textbtn": "",
+        "textguide3-color": "#000000"
+      }
     }
-
   },
   "order": [
     "BANNER-VRC",
