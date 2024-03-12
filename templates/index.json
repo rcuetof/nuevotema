@@ -17,9 +17,9 @@
         "size-tittle2": 10,
         "font-color-tittle2": "#000000",
         "text-botton1": "Dresses",
-        "link-botton1": "shopify:\/\/pages\/shop-dresses",
-        "text-botton2": "",
-        "link-botton2": ""
+        "link-botton1": "shopify:\/\/collections\/shop-dresses",
+        "text-botton2": "All Collections",
+        "link-botton2": "shopify:\/\/collections"
       }
     },
     "featured_collection": {
