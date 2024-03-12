@@ -152,17 +152,17 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/spring.png",
-            "heading": "Image slide",
-            "heading_size": "h2",
+            "heading": "Spring Season",
+            "heading_size": "h0",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-1",
+            "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
         }
