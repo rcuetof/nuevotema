@@ -1,12 +1,14 @@
 .vrc-banner {
     position: relative;
     width: 100%;
-    background-position: center;
     color: white;
     padding: 20px;
+    background-size: cover;
     background-repeat: no-repeat;  
     background-position: top;
-    
+    margin-left: 0;
+    margin-right: 0;    
+    font-weight: 900;    
 }
 .button-banner {
     display: inline-block;
@@ -22,20 +24,13 @@
 /* Estilos para móvil */
 @media (max-width: 768px) {
     .vrc-banner {
-        background-size: cover;
-        height: 105vh;
-        font-weight: 900;
-        margin-left: 0;
-        margin-right: 0;
-        background-repeat: no-repeat;
-        background-position: bottom;        
+        height: 100vh;        
     h1{
         text-shadow: 2px 2px 4px #000000;
         position: absolute;
         font-size: 80px;
         color: white;
         text-align: left;
-
       }
       p{
         position: absolute;
@@ -67,9 +62,7 @@
 /* Estilos para escritorio */
 @media (min-width: 769px) {
     .vrc-banner {
-        font-size: 24px;
-        background-size: contain;
-        height: 95vh;
+        height: 100vh;
         h1{
             text-shadow: 2px 2px 4px #000000;
             position: absolute;
