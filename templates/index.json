@@ -30,7 +30,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
+        "collection": "best-seller",
         "products_to_show": 25,
         "columns_desktop": 4,
         "full_width": true,
@@ -38,7 +38,7 @@
         "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -47,73 +47,6 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 44,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_Cx9wzQ": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_twTLTp": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/621a0ac212e14a70b5fb416dded4d50e-Min_fff762ef-e5ad-41fe-b4d6-e638058768d5.jpg",
-            "title": "",
-            "text": "<h3><em><strong>Casual Dresses<\/strong><\/em><\/h3>",
-            "link_label": "Show More",
-            "link": "shopify:\/\/collections\/all-casual-dresses"
-          }
-        },
-        "column_8cHtj9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/62f1acea12d54bb5bcc1ee22e87841b4-Min_1.jpg",
-            "title": "",
-            "text": "<h3><em><strong>Formal Dresses<\/strong><\/em><\/h3>",
-            "link_label": "Show More",
-            "link": "shopify:\/\/collections\/all-formal-dresses"
-          }
-        },
-        "column_FrCKpr": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/a04498d050d443459db0d00dd8b7c782-Max.jpg",
-            "title": "",
-            "text": "<h3><em><strong>Short Slevee Dresess<\/strong><\/em><\/h3>",
-            "link_label": "Show More",
-            "link": "shopify:\/\/collections\/short-slevee-dresses"
-          }
-        },
-        "column_PdXbUQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/e810ff709edd409987e9fab6052fd7f7-Max.jpg",
-            "title": "",
-            "text": "<h3><em><strong>Long Slevee Dresses<\/strong><\/em><\/h3>",
-            "link_label": "Show More",
-            "link": "shopify:\/\/collections\/long-slevee-dresses"
-          }
-        }
-      },
-      "block_order": [
-        "column_twTLTp",
-        "column_8cHtj9",
-        "column_FrCKpr",
-        "column_PdXbUQ"
-      ],
-      "settings": {
-        "title": "Shop By Category",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -233,6 +166,73 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "multicolumn_Cx9wzQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_twTLTp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/621a0ac212e14a70b5fb416dded4d50e-Min_fff762ef-e5ad-41fe-b4d6-e638058768d5.jpg",
+            "title": "",
+            "text": "<h3><em><strong>Casual Dresses<\/strong><\/em><\/h3>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/all-casual-dresses"
+          }
+        },
+        "column_8cHtj9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/62f1acea12d54bb5bcc1ee22e87841b4-Min_1.jpg",
+            "title": "",
+            "text": "<h3><em><strong>Formal Dresses<\/strong><\/em><\/h3>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/all-formal-dresses"
+          }
+        },
+        "column_FrCKpr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a04498d050d443459db0d00dd8b7c782-Max.jpg",
+            "title": "",
+            "text": "<h3><em><strong>Short Slevee Dresess<\/strong><\/em><\/h3>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/short-slevee-dresses"
+          }
+        },
+        "column_PdXbUQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/e810ff709edd409987e9fab6052fd7f7-Max.jpg",
+            "title": "",
+            "text": "<h3><em><strong>Long Slevee Dresses<\/strong><\/em><\/h3>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/long-slevee-dresses"
+          }
+        }
+      },
+      "block_order": [
+        "column_twTLTp",
+        "column_8cHtj9",
+        "column_FrCKpr",
+        "column_PdXbUQ"
+      ],
+      "settings": {
+        "title": "<strong>Shop By Category<\/strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_a9H4KU": {
       "type": "image-with-text",
       "blocks": {
@@ -330,9 +330,9 @@
   "order": [
     "banner-principal",
     "featured_collection",
-    "multicolumn_Cx9wzQ",
     "rich_text_kwi7pt",
     "slideshow_ebPK49",
+    "multicolumn_Cx9wzQ",
     "image_with_text_a9H4KU",
     "VRC-BANNER2DO",
     "VRC-MULTIBOXG"
