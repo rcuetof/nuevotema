@@ -152,7 +152,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/spring.png",
-            "heading": "Spring Season",
+            "heading": "<strong>Spring Season<\/strong>",
             "heading_size": "h0",
             "subheading": "",
             "button_label": "Button label",
