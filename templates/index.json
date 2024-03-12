@@ -304,6 +304,7 @@
     },
     "VRC-MULTIBOXG": {
       "type": "vrc-multiboxg",
+      "disabled": true,
       "settings": {
         "tittleguide": "Casual Date Outfit",
         "tittleguide-color": "#000000",
