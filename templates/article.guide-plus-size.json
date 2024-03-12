@@ -86,7 +86,7 @@
         "share_HyXUqQ"
       ],
       "custom_css": [
-        ".shopify-installments {display:none;}"
+        ".p shopify-installments {display: none;}"
       ],
       "settings": {
         "product": "plus-size-contrast-v-neck-slit-dress",
