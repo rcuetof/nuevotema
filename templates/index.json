@@ -16,10 +16,10 @@
         "tittl2-banner": "",
         "size-tittle2": 10,
         "font-color-tittle2": "#000000",
-        "text-botton1": "All Dresses",
-        "link-botton1": "shopify:\/\/collections\/all-dresses",
+        "text-botton1": "Dresses",
+        "link-botton1": "shopify:\/\/collections\/shop-dresses",
         "text-botton2": "All Collections",
-        "link-botton2": "shopify:\/\/collections"
+        "link-botton2": "shopify:\/\/collections\/shop-dresses"
       }
     },
     "featured_collection": {
@@ -304,7 +304,6 @@
     },
     "VRC-MULTIBOXG": {
       "type": "vrc-multiboxg",
-      "disabled": true,
       "settings": {
         "tittleguide": "Casual Date Outfit",
         "tittleguide-color": "#000000",
