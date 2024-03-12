@@ -12,7 +12,7 @@
         "pose-x-tittle1": 57,
         "pose-y-tittle1": 10,
         "size-e-tittle1": 69,
-        "font-color-tittle1": "#FFFFFF",
+        "font-color-tittle1": "#ffffff",
         "tittl2-banner": "Season Collection",
         "size-tittle2": 20,
         "font-color-tittle2": "#000000",
@@ -144,11 +144,22 @@
         "padding_top": 28,
         "padding_bottom": 36
       }
+    },
+    "page_zzgzRX": {
+      "type": "page",
+      "settings": {
+        "page": "shop-dresses",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "BANNER-VRC",
     "TAB-VRC",
-    "product-grid"
+    "product-grid",
+    "page_zzgzRX"
   ]
 }
