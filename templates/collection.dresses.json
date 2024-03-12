@@ -3,14 +3,14 @@
     "BANNER-VRC": {
       "type": "vrc-banner",
       "settings": {
-        "title-banner": "Dresses<br>Violetta & Rc",
+        "title-banner": "Dresses<br>    Violetta & Rc",
         "banner-movil": "shopify:\/\/shop_images\/banner-dresses-principal-pc.png",
         "posm-x-tittle1": 8,
         "posm-y-tittle1": 39,
         "size-m-tittle1": 58,
         "banner-escritorio": "shopify:\/\/shop_images\/banner-dresses-pincipal-m.png",
-        "pose-x-tittle1": 57,
-        "pose-y-tittle1": 10,
+        "pose-x-tittle1": 49,
+        "pose-y-tittle1": 11,
         "size-e-tittle1": 69,
         "font-color-tittle1": "#ffffff",
         "tittl2-banner": "",
