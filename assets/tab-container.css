@@ -4,6 +4,7 @@
 }
 
 .tab-buttons {
+    width: 350px;
     font-weight: 600;
     font-size: 14px;
     display: flex;
