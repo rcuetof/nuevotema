@@ -69,7 +69,8 @@
     .vrc-banner {
         font-size: 24px;
         background-size: contain;
-        height: 70vh;
+        min-height: 70vh;
+        max-height: 95vh;
         
         h1{
             text-shadow: 2px 2px 4px #000000;
