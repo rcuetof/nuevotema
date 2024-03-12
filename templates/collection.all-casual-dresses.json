@@ -56,7 +56,7 @@
         "slide_UCMz7R": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_20240311_172006_Chrome.jpg",
+            "image": "shopify:\/\/shop_images\/9ac939ec00f449b087359de035b0acab-Max.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "Podriamos Hablar de Moda pero vamos a hablar de gorditas.",
@@ -77,7 +77,7 @@
       ],
       "settings": {
         "layout": "grid",
-        "slide_height": "adapt_image",
+        "slide_height": "small",
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
