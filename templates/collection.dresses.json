@@ -163,7 +163,7 @@
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-3",
-            "text_alignment_mobile": "right"
+            "text_alignment_mobile": "center"
           }
         }
       },
