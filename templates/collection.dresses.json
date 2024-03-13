@@ -156,7 +156,7 @@
             "heading_size": "h0",
             "subheading": "",
             "button_label": "Show Collection",
-            "link": "",
+            "link": "shopify:\/\/collections\/floral-dresses",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -174,8 +174,8 @@
             "heading_size": "h0",
             "subheading": "",
             "button_label": "Show Collection",
-            "link": "",
-            "button_style_secondary": false,
+            "link": "shopify:\/\/collections\/summer-dresses",
+            "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
@@ -192,7 +192,7 @@
             "heading_size": "h0",
             "subheading": "",
             "button_label": "Show Collection",
-            "link": "",
+            "link": "shopify:\/\/collections\/autumn-dresses",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -210,7 +210,7 @@
             "heading_size": "h0",
             "subheading": "",
             "button_label": "Show Collection",
-            "link": "",
+            "link": "shopify:\/\/collections\/winter-dresses",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -258,6 +258,36 @@
         "textguide3-textbtn": "",
         "textguide3-color": "#000000"
       }
+    },
+    "rich_text_aPEka8": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_aERWyT": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dressses For Women",
+            "heading_size": "h2"
+          }
+        },
+        "text_wPkxGW": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Find the perfect dress for a wedding, cocktail, graduation or bachelorette party, or maybe if you are just looking for a dress for a normal day, the dresses are versatile and easy to combine with white shoes, sandals, platforms, ankle boots or heels, Combine your dress to suit your personality, for any event or occasion.<\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_aERWyT",
+        "text_wPkxGW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -265,6 +295,7 @@
     "TAB-VRC",
     "product-grid",
     "slideshow_UBKfQy",
-    "VRC-MULTIBOXG"
+    "VRC-MULTIBOXG",
+    "rich_text_aPEka8"
   ]
 }
