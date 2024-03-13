@@ -56,6 +56,28 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "rich_text_qwzbxM": {
+      "type": "rich-text",
+      "blocks": {
+        "text_7RHeUn": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>Shop by Category<\/strong><\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_7RHeUn"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "TAB-VRC-minidresses": {
       "type": "tab-container",
       "blocks": {
@@ -384,6 +406,7 @@
   "order": [
     "BANNER-VRC-minidresses",
     "slideshow_q7LwzM",
+    "rich_text_qwzbxM",
     "TAB-VRC-minidresses",
     "product-grid",
     "collapsible_content_9jMVxh",
