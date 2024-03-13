@@ -4,13 +4,56 @@
       "type": "vrc-banner",
       "settings": {
         "title-banner": "",
-        "size-tittle1": 20,
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#FFFFFF",
         "tittl2-banner": "",
         "size-tittle2": 20,
+        "font-color-tittle2": "#000000",
         "text-botton1": "",
         "link-botton1": "",
         "text-botton2": "",
         "link-botton2": ""
+      }
+    },
+    "slideshow_q7LwzM": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_aFVpJz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_25.png",
+            "heading": "Image slide",
+            "heading_size": "h2",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_aFVpJz"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "TAB-VRC-minidresses": {
@@ -177,62 +220,6 @@
       "settings": {
       }
     },
-    "multicolumn_rPCUhY": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_gX4gff": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ec54faa66ef74f489da9a951b7f2ddf4-Max.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Casual Mini Dresses",
-            "link": "shopify:\/\/collections\/casual-mini-dresses"
-          }
-        },
-        "column_8XbxmH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/blackminidressescocktel.png",
-            "title": "Column",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_axn7iz": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>P<\/p>",
-            "link_label": "",
-            "link": "shopify:\/\/collections\/pink-mini-dresses"
-          }
-        }
-      },
-      "block_order": [
-        "column_gX4gff",
-        "column_8XbxmH",
-        "column_axn7iz"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 8,
-        "padding_bottom": 0
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -396,8 +383,8 @@
   },
   "order": [
     "BANNER-VRC-minidresses",
+    "slideshow_q7LwzM",
     "TAB-VRC-minidresses",
-    "multicolumn_rPCUhY",
     "product-grid",
     "collapsible_content_9jMVxh",
     "image_with_text_xzAmC3",
