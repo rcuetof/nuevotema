@@ -193,7 +193,7 @@
             "subheading": "",
             "button_label": "Show Collection",
             "link": "shopify:\/\/collections\/autumn-dresses",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
