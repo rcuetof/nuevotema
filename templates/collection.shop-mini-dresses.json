@@ -32,7 +32,7 @@
             "subheading": "Evening dresses are characterized by their details in sequins and lace fabrics.",
             "button_label": "Show Dresses",
             "link": "shopify:\/\/collections\/short-evening-dresses",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
