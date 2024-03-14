@@ -56,8 +56,8 @@
             <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a>
             <p>{{ block.settings.text }}</p>
             {% style %}
-              .tab-content{
-               img{
+              
+               flotting{
                 border-radius: 5px;
                 position: absolute;
                 left: 50%;
@@ -69,11 +69,10 @@
                 background-image: url('{{ block.settings.image | image_url: width: 1150, height: 1750 }}');
                 background-position: center;
                 background-size: contain;
-               }
-               p{z-index: 3;}
+               
               }
             {% endstyle %}
-            <div class="img" > </div>
+            <div class="flotting" > </div>
             
             
             {%- comment -%}
