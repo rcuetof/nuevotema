@@ -65,12 +65,14 @@
                 transform: translateX(-50%);
                 z-index: 1;
                 border: 5px 50px 5px 50px solid white;
-                
+                background-image: url('{{ block.settings.image | image_url: width: 1150, height: 1750 }}');
+                background-position: center;
+                background-size: contain;
                }
                p{z-index: 3;}
               }
             {% endstyle %}
-            <img src="{{ block.settings.image | image_url: width: 1150, height: 1750 }}" alt="" width="350" height="400">
+            <div class="img" width="350" height="400"></div>
             
             
             {%- comment -%}
