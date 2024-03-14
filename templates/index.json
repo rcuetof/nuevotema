@@ -387,7 +387,7 @@
             "title": "<strong>Offers Less $ 100 <\/strong>",
             "text": "",
             "link_label": "View Offers",
-            "link": "https:\/\/www.violettarcshop.com\/collections\/all?filter.v.price.gte=0&filter.v.price.lte=100&sort_by=title-ascending"
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-100"
           }
         },
         "column_fbwDgQ": {
@@ -419,20 +419,31 @@
             "link_label": "View Offers",
             "link": "https:\/\/www.violettarcshop.com\/collections\/all?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=title-ascending"
           }
+        },
+        "column_T7xAhJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/0ea282778097433d83d8525a05ed7a04-Min.jpg",
+            "title": "<strong>Offers Less $ 25<\/strong>",
+            "text": "",
+            "link_label": "View Offers",
+            "link": "https:\/\/www.violettarcshop.com\/collections\/all?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=title-ascending"
+          }
         }
       },
       "block_order": [
         "column_qFPRJ6",
         "column_fbwDgQ",
         "column_A7PG34",
-        "column_RrzDWh"
+        "column_RrzDWh",
+        "column_T7xAhJ"
       ],
       "settings": {
         "title": "<em>Cheap dresses. Low price offers available to everyone<\/em>",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
