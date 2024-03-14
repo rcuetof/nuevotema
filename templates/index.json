@@ -427,7 +427,7 @@
             "title": "<strong>Offers Less $ 25<\/strong>",
             "text": "",
             "link_label": "View Offers",
-            "link": "https:\/\/www.violettarcshop.com\/collections\/all?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=title-ascending"
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-25"
           }
         }
       },
