@@ -50,6 +50,84 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_yEpacf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_qFPRJ6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/f4548189aa164305903c1f7e8ebbfcce-Min.jpg",
+            "title": "<strong>Offers Less $ 100 <\/strong>",
+            "text": "",
+            "link_label": "View Offers",
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-100"
+          }
+        },
+        "column_fbwDgQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/394ab5454772419faa410dcd03b315ea-Max.jpg",
+            "title": "<strong>Offers Less $ 75<\/strong>",
+            "text": "",
+            "link_label": "View Offers",
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-75"
+          }
+        },
+        "column_A7PG34": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/f9bfce6c-d77f-4107-8144-20174c28ec64-Min.jpg",
+            "title": "<strong>Offers Less $ 50<\/strong>",
+            "text": "",
+            "link_label": "View Offers",
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-50"
+          }
+        },
+        "column_RrzDWh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/b25f0e952e6c402ba0bd464ab9d023f0-Max.jpg",
+            "title": "<strong>Offers Less $ 35<\/strong>",
+            "text": "",
+            "link_label": "View Offers",
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-35"
+          }
+        },
+        "column_T7xAhJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/0ea282778097433d83d8525a05ed7a04-Min.jpg",
+            "title": "<strong>Offers Less $ 25<\/strong>",
+            "text": "",
+            "link_label": "View Offers",
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-25"
+          }
+        }
+      },
+      "block_order": [
+        "column_qFPRJ6",
+        "column_fbwDgQ",
+        "column_A7PG34",
+        "column_RrzDWh",
+        "column_T7xAhJ"
+      ],
+      "settings": {
+        "title": "<em>Cheap dresses. Low price offers available to everyone<\/em>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_kwi7pt": {
       "type": "rich-text",
       "blocks": {
@@ -297,21 +375,11 @@
             "text": "<p>In our Two Pieces Dresses collection you will find a wide selection for you who love this style, each set is designed to highlight your unique beauty. From coordinated dresses to daring combinations, each piece is made with fabrics that often range from very versatile to almost imperceptible, always with high quality and taking care of every detail to make you stand out at any time. With a variety of styles ranging from chic to bohemian, our collection offers options for every personality and preference. Whether you're planning a brunch with friends or a gala night out, these outfits will give you the confidence and style you need to shine. Discover the magic of fashion with our Two Pieces Dresses and pay tribute to this great style wherever you go.\"<\/p>",
             "text_style": "body"
           }
-        },
-        "button_K7T6AE": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Show Collection",
-            "button_link": "shopify:\/\/collections\/floral-dresses",
-            "button_style_secondary": true
-          }
         }
       },
       "block_order": [
         "heading_yAaXHP",
-        "text_KYX4jA",
-        "button_K7T6AE"
+        "text_KYX4jA"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/415398d7-3ae5-4887-b0f7-11aa854ea32d-Max.jpg",
@@ -376,96 +444,18 @@
         "textguide3-textbtn": "Read More",
         "textguide3-color": "#000000"
       }
-    },
-    "multicolumn_yEpacf": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_qFPRJ6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/f4548189aa164305903c1f7e8ebbfcce-Min.jpg",
-            "title": "<strong>Offers Less $ 100 <\/strong>",
-            "text": "",
-            "link_label": "View Offers",
-            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-100"
-          }
-        },
-        "column_fbwDgQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/394ab5454772419faa410dcd03b315ea-Max.jpg",
-            "title": "<strong>Offers Less $ 75<\/strong>",
-            "text": "",
-            "link_label": "View Offers",
-            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-75"
-          }
-        },
-        "column_A7PG34": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/f9bfce6c-d77f-4107-8144-20174c28ec64-Min.jpg",
-            "title": "<strong>Offers Less $ 50<\/strong>",
-            "text": "",
-            "link_label": "View Offers",
-            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-50"
-          }
-        },
-        "column_RrzDWh": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/b25f0e952e6c402ba0bd464ab9d023f0-Max.jpg",
-            "title": "<strong>Offers Less $ 35<\/strong>",
-            "text": "",
-            "link_label": "View Offers",
-            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-35"
-          }
-        },
-        "column_T7xAhJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/0ea282778097433d83d8525a05ed7a04-Min.jpg",
-            "title": "<strong>Offers Less $ 25<\/strong>",
-            "text": "",
-            "link_label": "View Offers",
-            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-25"
-          }
-        }
-      },
-      "block_order": [
-        "column_qFPRJ6",
-        "column_fbwDgQ",
-        "column_A7PG34",
-        "column_RrzDWh",
-        "column_T7xAhJ"
-      ],
-      "settings": {
-        "title": "<em>Cheap dresses. Low price offers available to everyone<\/em>",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 5,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "banner-principal",
     "featured_collection",
+    "multicolumn_yEpacf",
     "rich_text_kwi7pt",
     "slideshow_ebPK49",
     "multicolumn_Cx9wzQ",
     "image_with_text_a9H4KU",
     "image_with_text_B86CmH",
     "VRC-BANNER2DO",
-    "VRC-MULTIBOXG",
-    "multicolumn_yEpacf"
+    "VRC-MULTIBOXG"
   ]
 }
