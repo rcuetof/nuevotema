@@ -42,11 +42,22 @@
             "btn": "",
             "btntxt": "Discover Collection"
           }
+        },
+        "text_jkTbfN": {
+          "type": "text",
+          "settings": {
+            "title": "Graduation Ceremony",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/394ab5454772419faa410dcd03b315ea-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
         }
       },
       "block_order": [
         "text_x9bp88",
-        "text_VzcLzM"
+        "text_VzcLzM",
+        "text_jkTbfN"
       ],
       "settings": {
       }
