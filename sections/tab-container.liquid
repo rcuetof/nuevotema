@@ -60,10 +60,10 @@
                 align-self: end;
                 justify-self: end;
                 border-radius: 5px;
-                z-index: -1;
+                z-index: 1;
               }
             {% endstyle %}
-            <img scr="{{ block.settings.image | image_url: width: 1150, height: 1750 }}" width="300" height="500">
+            <img src="{{ block.settings.image | image_url: width: 1150, height: 1750 }}" alt="">
             
             
             {%- comment -%}
