@@ -397,7 +397,7 @@
             "title": "<strong>Offers Less $ 75<\/strong>",
             "text": "",
             "link_label": "View Offers",
-            "link": "https:\/\/www.violettarcshop.com\/collections\/all?filter.v.price.gte=0&filter.v.price.lte=75&sort_by=title-ascending"
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-75"
           }
         },
         "column_A7PG34": {
