@@ -16,10 +16,10 @@
         "tittl2-banner": "",
         "size-tittle2": 10,
         "font-color-tittle2": "#000000",
-        "text-botton1": "Dresses",
-        "link-botton1": "shopify:\/\/collections\/shop-dresses",
-        "text-botton2": "All Collections",
-        "link-botton2": "shopify:\/\/collections"
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "Dresses for Women",
+        "link-botton2": "shopify:\/\/collections\/shop-dresses"
       }
     },
     "featured_collection": {
@@ -282,6 +282,7 @@
     },
     "VRC-BANNER2DO": {
       "type": "vrc-banner2do",
+      "disabled": true,
       "settings": {
         "title-banner2": "Dresses for special events",
         "banner-movil2": "shopify:\/\/shop_images\/banner-creamblackwhite2-m.png",
@@ -299,7 +300,7 @@
         "text-botton12": "",
         "link-botton12": "",
         "text-botton22": "Show More",
-        "link-botton22": "shopify:\/\/collections\/shop-dresses"
+        "link-botton22": "shopify:\/\/collections\/shopping-maxi-dresses"
       }
     },
     "VRC-MULTIBOXG": {
