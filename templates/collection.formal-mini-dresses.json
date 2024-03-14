@@ -23,34 +23,23 @@
     "TAB-VRC-DEFAULT": {
       "type": "tab-container",
       "blocks": {
+        "text_aRRUWb": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        },
         "text_wHaQBp": {
           "type": "text",
           "settings": {
             "title": "Cocktail Mini Dresses",
-            "text": "",
+            "text": "xxlkjkxlaklakja\n<br>\nxxlkjkxlaklakja\n<br>\nxxlkjkxlaklakja\n<br>\nxxlkjkxlaklakja\n<br>x",
             "image": "shopify:\/\/shop_images\/c46b25590d054a608b3ed878b991809a-Max.jpg",
             "btn": "",
-            "btntxt": "Discover Collection",
-            "title-event1": "",
-            "text-event1": "",
-            "btnev1": "",
-            "btnevtxt1": "Discover Collection",
-            "title-event2": "",
-            "text-event2": "",
-            "btnev2": "",
-            "btnevtxt2": "Discover Collection",
-            "title-event3": "",
-            "text-event3": "",
-            "btnev3": "",
-            "btnevtxt3": "Discover Collection",
-            "title-event4": "",
-            "text-event4": "",
-            "btnev4": "",
-            "btnevtxt4": "Discover Collection",
-            "title-event5": "",
-            "text-event5": "",
-            "btnev5": "",
-            "btnevtxt5": "Discover Collection"
+            "btntxt": "Discover Collection"
           }
         },
         "text_FmbV8D": {
@@ -60,57 +49,17 @@
             "text": "x",
             "image": "shopify:\/\/shop_images\/08ee2279d9b945beb176f9ce87014e9a-Max.jpg",
             "btn": "",
-            "btntxt": "Discover Collection",
-            "title-event1": "",
-            "text-event1": "",
-            "btnev1": "",
-            "btnevtxt1": "Discover Collection",
-            "title-event2": "",
-            "text-event2": "",
-            "btnev2": "",
-            "btnevtxt2": "Discover Collection",
-            "title-event3": "",
-            "text-event3": "",
-            "btnev3": "",
-            "btnevtxt3": "Discover Collection",
-            "title-event4": "",
-            "text-event4": "",
-            "btnev4": "",
-            "btnevtxt4": "Discover Collection",
-            "title-event5": "",
-            "text-event5": "",
-            "btnev5": "",
-            "btnevtxt5": "Discover Collection"
+            "btntxt": "Discover Collection"
           }
         },
         "text_EE6f66": {
           "type": "text",
           "settings": {
             "title": "Work Mini Dresses",
-            "text": "",
+            "text": "Lorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslx",
             "image": "shopify:\/\/shop_images\/bcedeb47ad3e4d20b17ad737a749b5a4-Max.jpg",
             "btn": "",
-            "btntxt": "Discover Collection",
-            "title-event1": "",
-            "text-event1": "",
-            "btnev1": "",
-            "btnevtxt1": "Discover Collection",
-            "title-event2": "",
-            "text-event2": "",
-            "btnev2": "",
-            "btnevtxt2": "Discover Collection",
-            "title-event3": "",
-            "text-event3": "",
-            "btnev3": "",
-            "btnevtxt3": "Discover Collection",
-            "title-event4": "",
-            "text-event4": "",
-            "btnev4": "",
-            "btnevtxt4": "Discover Collection",
-            "title-event5": "",
-            "text-event5": "",
-            "btnev5": "",
-            "btnevtxt5": "Discover Collection"
+            "btntxt": "Discover Collectio"
           }
         },
         "text_aUBDFq": {
@@ -119,27 +68,7 @@
             "title": "Evening Mini Dresses",
             "text": "",
             "btn": "",
-            "btntxt": "Discover Collection",
-            "title-event1": "",
-            "text-event1": "",
-            "btnev1": "",
-            "btnevtxt1": "Discover Collection",
-            "title-event2": "",
-            "text-event2": "",
-            "btnev2": "",
-            "btnevtxt2": "Discover Collection",
-            "title-event3": "",
-            "text-event3": "",
-            "btnev3": "",
-            "btnevtxt3": "Discover Collection",
-            "title-event4": "",
-            "text-event4": "",
-            "btnev4": "",
-            "btnevtxt4": "Discover Collection",
-            "title-event5": "",
-            "text-event5": "",
-            "btnev5": "",
-            "btnevtxt5": "Discover Collection"
+            "btntxt": "Discover Collection"
           }
         },
         "text_EWDehe": {
@@ -148,27 +77,7 @@
             "title": "Christening Mini Dresses",
             "text": "",
             "btn": "",
-            "btntxt": "Discover Collection",
-            "title-event1": "",
-            "text-event1": "",
-            "btnev1": "",
-            "btnevtxt1": "Discover Collection",
-            "title-event2": "",
-            "text-event2": "",
-            "btnev2": "",
-            "btnevtxt2": "Discover Collection",
-            "title-event3": "",
-            "text-event3": "",
-            "btnev3": "",
-            "btnevtxt3": "Discover Collection",
-            "title-event4": "",
-            "text-event4": "",
-            "btnev4": "",
-            "btnevtxt4": "Discover Collection",
-            "title-event5": "",
-            "text-event5": "",
-            "btnev5": "",
-            "btnevtxt5": "Discover Collection"
+            "btntxt": "Discover Collection"
           }
         },
         "text_NEPCPt": {
@@ -177,27 +86,7 @@
             "title": "Black Tie Mini Dresses",
             "text": "",
             "btn": "",
-            "btntxt": "Discover Collection",
-            "title-event1": "",
-            "text-event1": "",
-            "btnev1": "",
-            "btnevtxt1": "Discover Collection",
-            "title-event2": "",
-            "text-event2": "",
-            "btnev2": "",
-            "btnevtxt2": "Discover Collection",
-            "title-event3": "",
-            "text-event3": "",
-            "btnev3": "",
-            "btnevtxt3": "Discover Collection",
-            "title-event4": "",
-            "text-event4": "",
-            "btnev4": "",
-            "btnevtxt4": "Discover Collection",
-            "title-event5": "",
-            "text-event5": "",
-            "btnev5": "",
-            "btnevtxt5": "Discover Collection"
+            "btntxt": "Discover Collection"
           }
         },
         "text_3eJcBB": {
@@ -206,27 +95,7 @@
             "title": "Goin Out Mini Dresses",
             "text": "",
             "btn": "",
-            "btntxt": "Discover Collection",
-            "title-event1": "",
-            "text-event1": "",
-            "btnev1": "",
-            "btnevtxt1": "Discover Collection",
-            "title-event2": "",
-            "text-event2": "",
-            "btnev2": "",
-            "btnevtxt2": "Discover Collection",
-            "title-event3": "",
-            "text-event3": "",
-            "btnev3": "",
-            "btnevtxt3": "Discover Collection",
-            "title-event4": "",
-            "text-event4": "",
-            "btnev4": "",
-            "btnevtxt4": "Discover Collection",
-            "title-event5": "",
-            "text-event5": "",
-            "btnev5": "",
-            "btnevtxt5": "Discover Collection"
+            "btntxt": "Discover Collection"
           }
         },
         "text_rizVCM": {
@@ -235,27 +104,7 @@
             "title": "Gala Mini Dresses",
             "text": "",
             "btn": "",
-            "btntxt": "Discover Collection",
-            "title-event1": "",
-            "text-event1": "",
-            "btnev1": "",
-            "btnevtxt1": "Discover Collection",
-            "title-event2": "",
-            "text-event2": "",
-            "btnev2": "",
-            "btnevtxt2": "Discover Collection",
-            "title-event3": "",
-            "text-event3": "",
-            "btnev3": "",
-            "btnevtxt3": "Discover Collection",
-            "title-event4": "",
-            "text-event4": "",
-            "btnev4": "",
-            "btnevtxt4": "Discover Collection",
-            "title-event5": "",
-            "text-event5": "",
-            "btnev5": "",
-            "btnevtxt5": "Discover Collection"
+            "btntxt": "Discover Collection"
           }
         },
         "text_Y7c3R7": {
@@ -264,31 +113,12 @@
             "title": "Modest Mini Dresses",
             "text": "",
             "btn": "",
-            "btntxt": "Discover Collection",
-            "title-event1": "",
-            "text-event1": "",
-            "btnev1": "",
-            "btnevtxt1": "Discover Collection",
-            "title-event2": "",
-            "text-event2": "",
-            "btnev2": "",
-            "btnevtxt2": "Discover Collection",
-            "title-event3": "",
-            "text-event3": "",
-            "btnev3": "",
-            "btnevtxt3": "Discover Collection",
-            "title-event4": "",
-            "text-event4": "",
-            "btnev4": "",
-            "btnevtxt4": "Discover Collection",
-            "title-event5": "",
-            "text-event5": "",
-            "btnev5": "",
-            "btnevtxt5": "Discover Collection"
+            "btntxt": "Discover Collection"
           }
         }
       },
       "block_order": [
+        "text_aRRUWb",
         "text_wHaQBp",
         "text_FmbV8D",
         "text_EE6f66",
@@ -298,6 +128,9 @@
         "text_3eJcBB",
         "text_rizVCM",
         "text_Y7c3R7"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
       }
