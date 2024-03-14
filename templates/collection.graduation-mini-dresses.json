@@ -20,6 +20,42 @@
         "link-botton2": ""
       }
     },
+    "slideshow_bmFjRE": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_bc4kEC": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_32.png",
+            "heading": "Short Graduation Dresses",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_bc4kEC"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "TAB-VRC-DEFAULT": {
       "type": "tab-container",
       "blocks": {
@@ -96,6 +132,7 @@
   },
   "order": [
     "BANNER-VRC-DEFAULT",
+    "slideshow_bmFjRE",
     "TAB-VRC-DEFAULT",
     "product-grid"
   ]
