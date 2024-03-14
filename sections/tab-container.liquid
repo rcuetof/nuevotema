@@ -29,7 +29,7 @@
         {% when 'text' %}
           {% if block.settings.title != blank %}
             <div
-              class="tab"
+              class="tab scroll-trigger animate--slide-in"
               onclick="changeTab({{ tabn }})"
               {%- if block.settings.image != blank -%}
               style="background-image: url('{{ block.settings.image | image_url: width: 1150, height: 1750 }} ');"
