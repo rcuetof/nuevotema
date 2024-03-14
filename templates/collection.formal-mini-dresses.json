@@ -82,15 +82,6 @@
     "TAB-VRC-DEFAULT": {
       "type": "tab-container",
       "blocks": {
-        "text_aRRUWb": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "text": "",
-            "btn": "",
-            "btntxt": "Discover Collection"
-          }
-        },
         "text_wHaQBp": {
           "type": "text",
           "settings": {
@@ -177,7 +168,6 @@
         }
       },
       "block_order": [
-        "text_aRRUWb",
         "text_wHaQBp",
         "text_FmbV8D",
         "text_EE6f66",
@@ -192,6 +182,29 @@
 
       ],
       "settings": {
+      }
+    },
+    "rich_text_EtMVce": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4XieTi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mini Formal Dresses Collection",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4XieTi"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "product-grid": {
@@ -361,13 +374,6 @@
             "heading_size": "h1"
           }
         },
-        "text_HzJDAU": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        },
         "button_cRWNij": {
           "type": "button",
           "settings": {
@@ -379,7 +385,6 @@
       },
       "block_order": [
         "heading_p7aYzL",
-        "text_HzJDAU",
         "button_cRWNij"
       ],
       "settings": {
@@ -403,6 +408,7 @@
     "slideshow_kTT4eE",
     "rich_text_3nYMyR",
     "TAB-VRC-DEFAULT",
+    "rich_text_EtMVce",
     "product-grid",
     "multicolumn_H4m6LK",
     "featured_collection_6m76KY",
