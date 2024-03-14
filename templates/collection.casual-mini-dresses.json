@@ -52,12 +52,23 @@
             "btn": "",
             "btntxt": "Discover Collection"
           }
+        },
+        "text_pkQVMe": {
+          "type": "text",
+          "settings": {
+            "title": "Casual Date Night Outfit",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/bfc367d0-5cd4-4a28-a2ff-a4d698f62b36-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
         }
       },
       "block_order": [
         "text_JANRPi",
         "text_LYzJin",
-        "text_chgpEY"
+        "text_chgpEY",
+        "text_pkQVMe"
       ],
       "settings": {
       }
