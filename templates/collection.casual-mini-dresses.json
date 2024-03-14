@@ -42,11 +42,22 @@
             "btn": "",
             "btntxt": "Discover Collection"
           }
+        },
+        "text_chgpEY": {
+          "type": "text",
+          "settings": {
+            "title": "BBQ Outfit",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/9cf410ee-b74d-41e0-b5ea-99b20c9ff811-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
         }
       },
       "block_order": [
         "text_JANRPi",
-        "text_LYzJin"
+        "text_LYzJin",
+        "text_chgpEY"
       ],
       "settings": {
       }
