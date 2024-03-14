@@ -1,301 +1,300 @@
 {{ 'buttons.css' | asset_url | stylesheet_tag }}
 {{ 'tab-container.css' | asset_url | stylesheet_tag }}
-{% style  %} 
-.texttop{position: relative; left:1%; top:-20%;white-space: nowrap;}
-.textbtn{position: relative; left:1%; top:80%;white-space: nowrap;}  
+{% style %}
+  .texttop {
+    position: relative;
+    left: 1%;
+    top: -20%;
+    white-space: nowrap;
+    width: 250px;
+  }
+  .textbtn {
+    position: relative;
+    left: 1%;
+    top: 80%;
+    white-space: nowrap;
+  }
 
 {% endstyle %}
 
 
 {%- assign tabn = 1 -%}
 <div class="tabs-container">
-    <div class="tab-buttons" id="tabContainer">
-      {% for block in section.blocks %}
-        {% case block.type %}
-          {% when 'text' %}
-            {% if block.settings.title != blank %}
-              <div class="tab" onclick="changeTab({{ tabn }})" 
-                {%- if block.settings.image != blank -%} 
-                  style="background-image: url('{{ block.settings.image | image_url: width: 2660, height: 3500 }} ');"
-                {% endif %}>
-                <div class="texttop"><p>{{ block.settings.title }}</p></div>
-                <div class="textbtn"><p>Show More</p></div>
-                </div>      
-            {% endif %}
-        {% endcase %}
-        {%- assign tabn = tabn | plus: 1 -%}
-      {% endfor %}
-    </div>
-    {%- assign tabn = 1 -%}
+  <div class="tab-buttons" id="tabContainer">
     {% for block in section.blocks %}
       {% case block.type %}
         {% when 'text' %}
           {% if block.settings.title != blank %}
-            <div id="content{{ tabn }}" class="tab-content">
-                <h3>{{ block.settings.title }}</h3>
-                <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a> 
-                <p>{{ block.settings.text }}</p>
-                
-
-                <div class="tabs-container">
-                  <div class="tab-buttons" id="Events{{tabn}}">
-                    {%- assign eventmod = tabn | times: 7 -%}
-                    {% if block.settings.title-event1 != blank %}<div class="tab" onclick="Changeevent({{ eventmod }})" {%- if block.settings.image-event1 != blank -%} 
-                      style="background-image: url('{{ block.settings.image-event1 | image_url: width: 2000, height: 3500 }} ');"
-                    {% endif %}>{{ block.settings.title-event1 }}</div>{% endif %}
-                    {%- assign eventmod = tabn | times: 8 -%}
-                    {% if block.settings.title-event2 != blank %}<div class="tab" onclick="Changeevent({{eventmod}})" {%- if block.settings.image-event2 != blank -%} 
-                      style="background-image: url('{{ block.settings.image-event2 | image_url: width: 2000, height: 3500}} ');"
-                    {% endif %}>{{ block.settings.title-event2 }}</div>{% endif %}
-                    {%- assign eventmod = tabn | times: 9 -%}
-                    {% if block.settings.title-event3 != blank %}<div class="tab" onclick="Changeevent({{eventmod}})" {%- if block.settings.image-event3 != blank -%} 
-                      style="background-image: url('{{ block.settings.image-event3 | image_url: width: 2000, height: 3500}} ');"
-                    {% endif %}>{{ block.settings.title-event3 }}</div>{% endif %}
-                    {%- assign eventmod = tabn | times: 10 -%}
-                    {% if block.settings.title-event4 != blank %}<div class="tab" onclick="Changeevent({{eventmod}})" {%- if block.settings.image-event4 != blank -%} 
-                      style="background-image: url('{{ block.settings.image-event4 | image_url: width: 2000, height: 3500 }} ');"
-                    {% endif %}>{{ block.settings.title-event4 }}</div>{% endif %}
-                    {%- assign eventmod = tabn | times: 11 -%}
-                    {% if block.settings.title-event5 != blank %}<div class="tab" onclick="Changeevent({{eventmod}})" {%- if block.settings.image-event5 != blank -%} 
-                      style="background-image: url('{{ block.settings.image-event5 | image_url: width: 2000, height: 3500 }} ');"
-                    {% endif %}>{{ block.settings.title-event5 }}</div>{% endif %}
-                  </div>
-                  {%- assign eventmod = tabn | times: 7 -%}
-                  <div id="event{{eventmod}}" class="event-content" >
-                    <h3>{{ block.settings.title-event1 }}</h3>
-                    <a href="{{ block.settings.btnev1 }}" class="btn">{{ block.settings.btnevtxt1 }}</a>  
-                    <p>{{ block.settings.text-event1 }}</p>
-                                     
-                  </div>
-                  {%- assign eventmod = tabn | times: 8 -%}
-                  <div id="event{{eventmod}}" class="event-content">
-                    <h3>{{ block.settings.title-event2 }}</h3>
-                    <a href="{{ block.settings.btnev2 }}" class="btn">{{ block.settings.btnevtxt2 }}</a>
-                    <p>{{ block.settings.text-event2 }}</p>
-                       
-                  </div>
-                  {%- assign eventmod = tabn | times: 9 -%}
-                  <div id="event{{eventmod}}" class="event-content">
-                    <h3>{{ block.settings.title-event3 }}</h3>
-                    <a href="{{ block.settings.btnev3 }}" class="btn">{{ block.settings.btnevtxt3 }}</a>   
-                    <p>{{ block.settings.text-event3 }}</p>
-    
-                  </div>
-                  {%- assign eventmod = tabn | times: 10 -%}
-                  <div id="event{{eventmod}}" class="event-content">
-                    <h3>{{ block.settings.title-event4 }}</h3>
-                    <a href="{{ block.settings.btnev4 }}" class="btn">{{ block.settings.btnevtxt4 }}</a>  
-                    <p>{{ block.settings.text-event4 }}</p>
-                     
-                  </div>
-                  {%- assign eventmod = tabn | times: 11 -%}
-                  <div id="event{{eventmod}}" class="event-content">
-                    <h3>{{ block.settings.title-event5 }}</h3>
-                    <a href="{{ block.settings.btnev5 }}" class="btn">{{ block.settings.btnevtxt5 }}</a>   
-                    <p>{{ block.settings.text-event5 }}</p>
-          
-                  </div>
-                </div>
+            <div
+              class="tab"
+              onclick="changeTab({{ tabn }})"
+              {%- if block.settings.image != blank -%}
+              style="background-image: url('{{ block.settings.image | image_url: width: 2660, height: 3500 }} ');"
+              {% endif %}>
+              <div class="texttop">
+                <p>{{ block.settings.title }}</p>
+              </div>
+              <div class="textbtn">
+                <p>Show More</p>
+              </div>
             </div>
-        {% endif %}    
+          {% endif %}
       {% endcase %}
       {%- assign tabn = tabn | plus: 1 -%}
     {% endfor %}
+  </div>
+  {%- assign tabn = 1 -%}
+  {% for block in section.blocks %}
+    {% case block.type %}
+      {% when 'text' %}
+        {% if block.settings.title != blank %}
+          <div id="content{{ tabn }}" class="tab-content">
+            <h3>{{ block.settings.title }}</h3>
+            <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a>
+            <p>{{ block.settings.text }}</p>
+
+
+            <div class="tabs-container">
+              <div class="tab-buttons" id="Events{{tabn}}">
+                {%- assign eventmod = tabn | times: 7 -%}
+                {% if block.settings.title-event1 != blank %}
+                  <div
+                    class="tab"
+                    onclick="Changeevent({{ eventmod }})"
+                    {%- if block.settings.image-event1 != blank -%}
+                    style="background-image: url('{{ block.settings.image-event1 | image_url: width: 2000, height: 3500 }} ');"
+                    {% endif %}>{{ block.settings.title-event1 }}</div>
+                {% endif %}
+                {%- assign eventmod = tabn | times: 8 -%}
+                {% if block.settings.title-event2 != blank %}
+                  <div
+                    class="tab"
+                    onclick="Changeevent({{eventmod}})"
+                    {%- if block.settings.image-event2 != blank -%}
+                    style="background-image: url('{{ block.settings.image-event2 | image_url: width: 2000, height: 3500}} ');"
+                    {% endif %}>{{ block.settings.title-event2 }}</div>
+                {% endif %}
+                {%- assign eventmod = tabn | times: 9 -%}
+                {% if block.settings.title-event3 != blank %}
+                  <div
+                    class="tab"
+                    onclick="Changeevent({{eventmod}})"
+                    {%- if block.settings.image-event3 != blank -%}
+                    style="background-image: url('{{ block.settings.image-event3 | image_url: width: 2000, height: 3500}} ');"
+                    {% endif %}>{{ block.settings.title-event3 }}</div>
+                {% endif %}
+                {%- assign eventmod = tabn | times: 10 -%}
+                {% if block.settings.title-event4 != blank %}
+                  <div
+                    class="tab"
+                    onclick="Changeevent({{eventmod}})"
+                    {%- if block.settings.image-event4 != blank -%}
+                    style="background-image: url('{{ block.settings.image-event4 | image_url: width: 2000, height: 3500 }} ');"
+                    {% endif %}>{{ block.settings.title-event4 }}</div>
+                {% endif %}
+                {%- assign eventmod = tabn | times: 11 -%}
+                {% if block.settings.title-event5 != blank %}
+                  <div
+                    class="tab"
+                    onclick="Changeevent({{eventmod}})"
+                    {%- if block.settings.image-event5 != blank -%}
+                    style="background-image: url('{{ block.settings.image-event5 | image_url: width: 2000, height: 3500 }} ');"
+                    {% endif %}>{{ block.settings.title-event5 }}</div>
+                {% endif %}
+              </div>
+              {%- assign eventmod = tabn | times: 7 -%}
+              <div id="event{{eventmod}}" class="event-content">
+                <h3>{{ block.settings.title-event1 }}</h3>
+                <a href="{{ block.settings.btnev1 }}" class="btn">{{ block.settings.btnevtxt1 }}</a>
+                <p>{{ block.settings.text-event1 }}</p>
+
+              </div>
+              {%- assign eventmod = tabn | times: 8 -%}
+              <div id="event{{eventmod}}" class="event-content">
+                <h3>{{ block.settings.title-event2 }}</h3>
+                <a href="{{ block.settings.btnev2 }}" class="btn">{{ block.settings.btnevtxt2 }}</a>
+                <p>{{ block.settings.text-event2 }}</p>
+
+              </div>
+              {%- assign eventmod = tabn | times: 9 -%}
+              <div id="event{{eventmod}}" class="event-content">
+                <h3>{{ block.settings.title-event3 }}</h3>
+                <a href="{{ block.settings.btnev3 }}" class="btn">{{ block.settings.btnevtxt3 }}</a>
+                <p>{{ block.settings.text-event3 }}</p>
+
+              </div>
+              {%- assign eventmod = tabn | times: 10 -%}
+              <div id="event{{eventmod}}" class="event-content">
+                <h3>{{ block.settings.title-event4 }}</h3>
+                <a href="{{ block.settings.btnev4 }}" class="btn">{{ block.settings.btnevtxt4 }}</a>
+                <p>{{ block.settings.text-event4 }}</p>
+
+              </div>
+              {%- assign eventmod = tabn | times: 11 -%}
+              <div id="event{{eventmod}}" class="event-content">
+                <h3>{{ block.settings.title-event5 }}</h3>
+                <a href="{{ block.settings.btnev5 }}" class="btn">{{ block.settings.btnevtxt5 }}</a>
+                <p>{{ block.settings.text-event5 }}</p>
+
+              </div>
+            </div>
+          </div>
+        {% endif %}
+    {% endcase %}
+    {%- assign tabn = tabn | plus: 1 -%}
+  {% endfor %}
 </div>
 <script src="{{ 'eventos.js' | asset_url }}" defer="defer"></script>
 <script src="{{ 'tab-container.js' | asset_url }}" defer="defer"></script>
 
 {% schema %}
-    {
-      "name": "TAB-VICTORIA",
-      "blocks": [
-        {
-          "type": "text",
-          "name": "Categoria",
-          "settings": [
-            {
-              "type": "text",
-              "id": "title",
-              "label": "Heading"
-            },
-            {
-              "type": "textarea",
-              "id": "text",
-              "label": "Texto"
-              
-            },
-            {
-                "type": "image_picker",
-                "id": "image",
-                "label": "Presentacion de la categoria"  
-            },
-            {
-              "type": "url",
-              "id": "btn",
-              "label": "Link Tarjeta"
-            },
-            {
-              "type": "text",
-              "id": "btntxt",
-              "label":"Texto del Boton",
-              "default": "Discover Collection"
-           },
-           
-           {
-              "type": "text",
-              "id": "title-event1",
-              "label": "Titulo-Evento-1"
-            },
-            {
-              "type": "textarea",
-              "id": "text-event1",
-              "label": "Parrafo"
-              
-            },
-            {
-                "type": "image_picker",
-                "id": "image-event1",
-                "label": "Presentacion del Evento"  
-            },
-            {
-              "type": "url",
-              "id": "btnev1",
-              "label": "Link Tarjeta"
-            },
-            {
-              "type": "text",
-              "id": "btnevtxt1",
-              "label":"Texto del Boton",
-              "default": "Discover Collection"
-           },
+  {
+    "name": "TAB-VICTORIA",
+    "blocks": [
+      {
+        "type": "text",
+        "name": "Categoria",
+        "settings": [
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Heading"
+          },
+          {
+            "type": "textarea",
+            "id": "text",
+            "label": "Texto"
 
-   
-           {
-              "type": "text",
-              "id": "title-event2",
-              "label": "Titulo-Evento-2"
-            },
-            {
-              "type": "textarea",
-              "id": "text-event2",
-              "label": "Parrafo"
-              
-            },
-            {
-                "type": "image_picker",
-                "id": "image-event2",
-                "label": "Presentacion del Evento"  
-            },
-            {
-              "type": "url",
-              "id": "btnev2",
-              "label": "Link Tarjeta"
-            },
-            {
-              "type": "text",
-              "id": "btnevtxt2",
-              "label":"Texto del Boton",
-              "default": "Discover Collection"
-           },
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Presentacion de la categoria"
+          },
+          {
+            "type": "url",
+            "id": "btn",
+            "label": "Link Tarjeta"
+          }, {
+            "type": "text",
+            "id": "btntxt",
+            "label": "Texto del Boton",
+            "default": "Discover Collection"
+          }, {
+            "type": "text",
+            "id": "title-event1",
+            "label": "Titulo-Evento-1"
+          }, {
+            "type": "textarea",
+            "id": "text-event1",
+            "label": "Parrafo"
 
+          }, {
+            "type": "image_picker",
+            "id": "image-event1",
+            "label": "Presentacion del Evento"
+          }, {
+            "type": "url",
+            "id": "btnev1",
+            "label": "Link Tarjeta"
+          }, {
+            "type": "text",
+            "id": "btnevtxt1",
+            "label": "Texto del Boton",
+            "default": "Discover Collection"
+          }, {
+            "type": "text",
+            "id": "title-event2",
+            "label": "Titulo-Evento-2"
+          }, {
+            "type": "textarea",
+            "id": "text-event2",
+            "label": "Parrafo"
 
+          }, {
+            "type": "image_picker",
+            "id": "image-event2",
+            "label": "Presentacion del Evento"
+          }, {
+            "type": "url",
+            "id": "btnev2",
+            "label": "Link Tarjeta"
+          }, {
+            "type": "text",
+            "id": "btnevtxt2",
+            "label": "Texto del Boton",
+            "default": "Discover Collection"
+          }, {
+            "type": "text",
+            "id": "title-event3",
+            "label": "Titulo-Evento-3"
+          }, {
+            "type": "textarea",
+            "id": "text-event3",
+            "label": "Parrafo"
 
+          }, {
+            "type": "image_picker",
+            "id": "image-event3",
+            "label": "Presentacion del Evento"
+          }, {
+            "type": "url",
+            "id": "btnev3",
+            "label": "Link Tarjeta"
+          }, {
+            "type": "text",
+            "id": "btnevtxt3",
+            "label": "Texto del Boton",
+            "default": "Discover Collection"
+          }, {
+            "type": "text",
+            "id": "title-event4",
+            "label": "Titulo-Evento-4"
+          }, {
+            "type": "textarea",
+            "id": "text-event4",
+            "label": "Parrafo"
 
+          }, {
+            "type": "image_picker",
+            "id": "image-event4",
+            "label": "Presentacion del Evento"
+          }, {
+            "type": "url",
+            "id": "btnev4",
+            "label": "Link Tarjeta"
+          }, {
+            "type": "text",
+            "id": "btnevtxt4",
+            "label": "Texto del Boton",
+            "default": "Discover Collection"
+          }, {
+            "type": "text",
+            "id": "title-event5",
+            "label": "Titulo-Evento-5"
+          }, {
+            "type": "textarea",
+            "id": "text-event5",
+            "label": "Parrafo"
 
-           {
-              "type": "text",
-              "id": "title-event3",
-              "label": "Titulo-Evento-3"
-            },
-            {
-              "type": "textarea",
-              "id": "text-event3",
-              "label": "Parrafo"
-              
-            },
-            {
-                "type": "image_picker",
-                "id": "image-event3",
-                "label": "Presentacion del Evento"  
-            },
-            {
-              "type": "url",
-              "id": "btnev3",
-              "label": "Link Tarjeta"
-            },
-            {
-              "type": "text",
-              "id": "btnevtxt3",
-              "label":"Texto del Boton",
-              "default": "Discover Collection"
-           },
+          }, {
+            "type": "image_picker",
+            "id": "image-event5",
+            "label": "Presentacion del Evento"
+          }, {
+            "type": "url",
+            "id": "btnev5",
+            "label": "Link Tarjeta"
+          }, {
+            "type": "text",
+            "id": "btnevtxt5",
+            "label": "Texto del Boton",
+            "default": "Discover Collection"
+          }
 
-
-
-
-
-           {
-              "type": "text",
-              "id": "title-event4",
-              "label": "Titulo-Evento-4"
-            },
-            {
-              "type": "textarea",
-              "id": "text-event4",
-              "label": "Parrafo"
-              
-            },
-            {
-                "type": "image_picker",
-                "id": "image-event4",
-                "label": "Presentacion del Evento"  
-            },
-            {
-              "type": "url",
-              "id": "btnev4",
-              "label": "Link Tarjeta"
-            },
-            {
-              "type": "text",
-              "id": "btnevtxt4",
-              "label":"Texto del Boton",
-              "default": "Discover Collection"
-           },
-
-            
-
-
-           {
-              "type": "text",
-              "id": "title-event5",
-              "label": "Titulo-Evento-5"
-            },
-            {
-              "type": "textarea",
-              "id": "text-event5",
-              "label": "Parrafo"
-              
-            },
-            {
-                "type": "image_picker",
-                "id": "image-event5",
-                "label": "Presentacion del Evento"  
-            },
-            {
-              "type": "url",
-              "id": "btnev5",
-              "label": "Link Tarjeta"
-            },
-            {
-              "type": "text",
-              "id": "btnevtxt5",
-              "label":"Texto del Boton",
-              "default": "Discover Collection"
-           }
-
-          ]
-        }    
+        ]
+      }
     ]
   }
-  
+
 {% endschema %}
