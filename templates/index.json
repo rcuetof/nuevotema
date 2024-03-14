@@ -386,7 +386,7 @@
             "image": "shopify:\/\/shop_images\/f4548189aa164305903c1f7e8ebbfcce-Min.jpg",
             "title": "<strong>Offers Less $ 100 <\/strong>",
             "text": "",
-            "link_label": "View Produc",
+            "link_label": "View Offers",
             "link": "https:\/\/www.violettarcshop.com\/collections\/all?filter.v.price.gte=0&filter.v.price.lte=100&sort_by=title-ascending"
           }
         },
@@ -406,8 +406,8 @@
             "image": "shopify:\/\/shop_images\/f9bfce6c-d77f-4107-8144-20174c28ec64-Min.jpg",
             "title": "<strong>Offers Less $ 50<\/strong>",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "View Offers",
+            "link": "https:\/\/www.violettarcshop.com\/collections\/all?filter.v.price.gte=0&filter.v.price.lte=50&sort_by=title-ascending"
           }
         },
         "column_RrzDWh": {
