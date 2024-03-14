@@ -26,15 +26,27 @@
         "text_x9bp88": {
           "type": "text",
           "settings": {
-            "title": "",
+            "title": "Bachelorette Party Dresses",
             "text": "",
+            "image": "shopify:\/\/shop_images\/66cb85a0b4484c9da4658a6275843266-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        },
+        "text_wBkxfy": {
+          "type": "text",
+          "settings": {
+            "title": "Anniversary  Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/67c50ea0f10246b8b095d28a5cf50f79-Max.jpg",
             "btn": "",
             "btntxt": "Discover Collection"
           }
         }
       },
       "block_order": [
-        "text_x9bp88"
+        "text_x9bp88",
+        "text_wBkxfy"
       ],
       "settings": {
       }
