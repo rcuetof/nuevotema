@@ -56,13 +56,16 @@
             <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a>
             <p>{{ block.settings.text }}</p>
             {% style %}
-              .tab-content img{
+              .tab-content{
+               img{
                 border-radius: 5px;
                 position: relative;
                 left: 60%;
                 top:0%;
-                z-index: 0;
+                z-index: 1;
                }
+               p{z-index: 3;}
+              }
             {% endstyle %}
             <img src="{{ block.settings.image | image_url: width: 1150, height: 1750 }}" alt="" width="300" height="480">
             
