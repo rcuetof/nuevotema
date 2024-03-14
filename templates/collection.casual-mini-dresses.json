@@ -12,7 +12,7 @@
             "subheading": "",
             "button_label": "All Casual Dresses",
             "link": "shopify:\/\/collections\/all-casual-dresses",
-            "button_style_secondary": false,
+            "button_style_secondary": true,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
