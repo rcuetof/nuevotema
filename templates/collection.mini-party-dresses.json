@@ -42,11 +42,22 @@
             "btn": "",
             "btntxt": "Discover Collection"
           }
+        },
+        "text_3aRwFA": {
+          "type": "text",
+          "settings": {
+            "title": "Quinceanera Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/573f3ee69e23436db5e11ba9b3206030-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
         }
       },
       "block_order": [
         "text_x9bp88",
-        "text_wBkxfy"
+        "text_wBkxfy",
+        "text_3aRwFA"
       ],
       "settings": {
       }
