@@ -57,11 +57,11 @@
             <p>{{ block.settings.text }}</p>
             {% style %}
               .tab-content img{
-                align-items: end;
-                justify-items: end;
+                position: absolute;  
                 border-radius: 5px;
-                z-index: -2;
-              }
+                right: 0%;
+                top: 0%;
+               }
             {% endstyle %}
             <img src="{{ block.settings.image | image_url: width: 1150, height: 1750 }}" alt="" width="300" height="480">
             
