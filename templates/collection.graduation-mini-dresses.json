@@ -32,10 +32,21 @@
             "btn": "",
             "btntxt": "Discover Collection"
           }
+        },
+        "text_VzcLzM": {
+          "type": "text",
+          "settings": {
+            "title": "Mini Homecoming Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/5d24590c7b85424fb04150e87b80f38b-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
         }
       },
       "block_order": [
-        "text_x9bp88"
+        "text_x9bp88",
+        "text_VzcLzM"
       ],
       "settings": {
       }
