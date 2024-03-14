@@ -2,6 +2,7 @@
   "sections": {
     "BANNER-VRC-DEFAULT": {
       "type": "vrc-banner",
+      "disabled": true,
       "settings": {
         "title-banner": "",
         "posm-x-tittle1": 8,
@@ -125,8 +126,8 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 16,
-        "columns_desktop": 2,
+        "products_per_page": 12,
+        "columns_desktop": 4,
         "color_scheme": "scheme-1",
         "image_ratio": "portrait",
         "image_shape": "default",
