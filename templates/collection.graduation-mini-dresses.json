@@ -56,6 +56,28 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "rich_text_77Hk4k": {
+      "type": "rich-text",
+      "blocks": {
+        "text_TjyKrk": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shop by Ctegory<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_TjyKrk"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "TAB-VRC-DEFAULT": {
       "type": "tab-container",
       "blocks": {
@@ -133,6 +155,7 @@
   "order": [
     "BANNER-VRC-DEFAULT",
     "slideshow_bmFjRE",
+    "rich_text_77Hk4k",
     "TAB-VRC-DEFAULT",
     "product-grid"
   ]
