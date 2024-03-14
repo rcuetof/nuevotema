@@ -227,62 +227,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_H4m6LK": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_gUt7wj": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/f0a69c5ed8da4b4ea67f7ced59bec1ae-Min_2dcf1e1f-093e-40f8-837a-0e368a96f834.jpg",
-            "title": "",
-            "text": "<h5><em><strong>Classic style dresses<\/strong><\/em><\/h5>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_DGAJAj": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/d01fb968d31f41e59906df8f846ff711-Min.webp",
-            "title": "",
-            "text": "<h5><em><strong>Vintage Style Dresses<\/strong><\/em><\/h5>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_JDxhix": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/98bed886-dfef-4518-a9d6-3f37561291cb-Max_55fb0062-bf35-49b3-b57c-d7d8590e2157.jpg",
-            "title": "",
-            "text": "<h5><em><strong>Formal Sexy Short Dress<\/strong><\/em><\/h5>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_gUt7wj",
-        "column_DGAJAj",
-        "column_JDxhix"
-      ],
-      "settings": {
-        "title": "Recommended categories",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection_6m76KY": {
       "type": "featured-collection",
       "settings": {
@@ -410,7 +354,6 @@
     "TAB-VRC-DEFAULT",
     "rich_text_EtMVce",
     "product-grid",
-    "multicolumn_H4m6LK",
     "featured_collection_6m76KY",
     "slideshow_8UfCfj",
     "image_with_text_JfFL6J"
