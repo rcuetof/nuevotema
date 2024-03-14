@@ -56,8 +56,10 @@
             <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a>
             <p>{{ block.settings.text }}</p>
 
-
-            <div class="tabs-container">
+            
+            
+            {%- comment -%}
+              <div class="tabs-container">
               <div class="tab-buttons" id="Events{{tabn}}">
                 {%- assign eventmod = tabn | times: 7 -%}
                 {% if block.settings.title-event1 != blank %}
@@ -107,7 +109,7 @@
               </div>
               {%- assign eventmod = tabn | times: 7 -%}
               <div id="event{{eventmod}}" class="event-content">
-                <h3>{{ block.settings.title-event1 }}</h3>
+                <h3 >{{ block.settings.title-event1 }}</h3>
                 <a href="{{ block.settings.btnev1 }}" class="btn">{{ block.settings.btnevtxt1 }}</a>
                 <p>{{ block.settings.text-event1 }}</p>
 
@@ -141,7 +143,9 @@
 
               </div>
             </div>
+            {%- endcomment -%}
           </div>
+
         {% endif %}
     {% endcase %}
     {%- assign tabn = tabn | plus: 1 -%}
@@ -183,7 +187,10 @@
             "id": "btntxt",
             "label": "Texto del Boton",
             "default": "Discover Collection"
-          }, {
+          } 
+          
+      /****
+          {
             "type": "text",
             "id": "title-event1",
             "label": "Titulo-Evento-1"
@@ -293,7 +300,7 @@
             "id": "btnevtxt5",
             "label": "Texto del Boton",
             "default": "Discover Collection"
-          }
+          }***/
 
         ]
       }
