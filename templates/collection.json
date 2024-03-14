@@ -10,7 +10,7 @@
         "pose-x-tittle1": 8,
         "pose-y-tittle1": 8,
         "size-e-tittle1": 45,
-        "font-color-tittle1": "#FFFFFF",
+        "font-color-tittle1": "#ffffff",
         "tittl2-banner": "",
         "size-tittle2": 25,
         "font-color-tittle2": "#000000",
@@ -22,6 +22,20 @@
     },
     "TAB-VRC-DEFAULT": {
       "type": "tab-container",
+      "blocks": {
+        "text_x9bp88": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_x9bp88"
+      ],
       "settings": {
       }
     },
