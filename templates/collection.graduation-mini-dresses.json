@@ -52,12 +52,23 @@
             "btn": "",
             "btntxt": "Discover Collection"
           }
+        },
+        "text_dpPTd7": {
+          "type": "text",
+          "settings": {
+            "title": "Graduation Guest Dress",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/8202d9db55424001921324ac47a6188a-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
         }
       },
       "block_order": [
         "text_x9bp88",
         "text_VzcLzM",
-        "text_jkTbfN"
+        "text_jkTbfN",
+        "text_dpPTd7"
       ],
       "settings": {
       }
