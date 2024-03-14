@@ -56,23 +56,20 @@
             <a href="{{ block.settings.btn }}" class="btn">{{ block.settings.btntxt }}</a>
             <p>{{ block.settings.text }}</p>
             {% style %}
-                flotting
-                {
-                z-index: -1;
+              .tab-content{
+               img{
                 border-radius: 5px;
                 position: absolute;
                 left: 50%;
                 top:20%;
                 transform: translateX(-50%);
-                width: 350px;
-                height: 400px;
-                border: 5px 50px 5px 50px solid white;
-                background-image: url('{{ block.settings.image | image_url: width: 1150, height: 1750 }}');
-                background-position: center;
-                background-size: contain;
+                z-index: 1;
+                border: 5px;
                }
+               p{z-index: 3;}
+              }
             {% endstyle %}
-            <div class="flotting">a5a1651s65</div>
+            <img src="{{ block.settings.image | image_url: width: 1150, height: 1750 }}" alt="" width="300" height="400">
             
             
             {%- comment -%}
