@@ -238,27 +238,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "VRC-MULTIBOXG": {
-      "type": "vrc-multiboxg",
-      "settings": {
-        "tittleguide": "",
-        "tittleguide-color": "#000000",
-        "tittleguide-size": 30,
-        "textguide1": "",
-        "textguide1-color": "#000000",
-        "textguide-size": 16,
-        "textguide1-url": "",
-        "textguide1-textbtn": "",
-        "textguide2": "",
-        "textguide2-url": "",
-        "textguide2-textbtn": "",
-        "textguide2-color": "#000000",
-        "textguide3": "",
-        "textguide3-url": "",
-        "textguide3-textbtn": "",
-        "textguide3-color": "#000000"
-      }
-    },
     "rich_text_aPEka8": {
       "type": "rich-text",
       "blocks": {
@@ -288,6 +267,30 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "VRC-MULTIBOXG": {
+      "type": "vrc-multiboxg",
+      "settings": {
+        "tittleguide": "Fashion Plus Size",
+        "tittleguide-color": "#dc7290",
+        "tittleguide-size": 26,
+        "imgguide1": "shopify:\/\/shop_images\/ce0e149037df48c78baa187868900c93-Max.jpg",
+        "textguide1": "Guide for fashion plus size.",
+        "textguide1-color": "#dc7290",
+        "textguide-size": 16,
+        "textguide1-url": "shopify:\/\/blogs\/guides-2\/style-guide-for-plus-size-dresses-how-to-always-look-pretty",
+        "textguide1-textbtn": "Show Guide",
+        "imgguide2": "shopify:\/\/shop_images\/78352032bb064c8ea220a10495f50a2c-Max.jpg",
+        "textguide2": "Discover fashion curvy",
+        "textguide2-url": "shopify:\/\/blogs\/news\/it-has-never-been-so-easy-to-get-dressed-it-reaches-all-fashion-curvy",
+        "textguide2-textbtn": "Show Guide",
+        "textguide2-color": "#ae2727",
+        "imgguide3": "shopify:\/\/shop_images\/bf7ace5f3b1747359aaee89b25d740ea-Max.jpg",
+        "textguide3": "What color in what event?",
+        "textguide3-url": "shopify:\/\/blogs\/news\/what-occasion-are-you-looking-for-a-dress-for-and-what-are-your-favorite-colors",
+        "textguide3-textbtn": "Show Guide",
+        "textguide3-color": "#36a46f"
+      }
     }
   },
   "order": [
@@ -295,7 +298,7 @@
     "TAB-VRC",
     "product-grid",
     "slideshow_UBKfQy",
-    "VRC-MULTIBOXG",
-    "rich_text_aPEka8"
+    "rich_text_aPEka8",
+    "VRC-MULTIBOXG"
   ]
 }

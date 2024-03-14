@@ -16,9 +16,9 @@
         "tittl2-banner": "",
         "size-tittle2": 10,
         "font-color-tittle2": "#000000",
-        "text-botton1": "Dresses",
-        "link-botton1": "shopify:\/\/collections\/shop-dresses",
-        "text-botton2": "All Collections",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "Dresses for Women",
         "link-botton2": "shopify:\/\/collections\/shop-dresses"
       }
     },
@@ -239,19 +239,20 @@
         "heading_cDBrQD": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>Spring Dresses<\/strong><\/em>",
+            "heading": "<em><strong>Bodycon Dresses<\/strong><\/em>",
             "heading_size": "h2"
           }
         },
         "text_9qCPpy": {
           "type": "text",
           "settings": {
-            "text": "<h4><em><strong>Cute casual or formal spring dresses find your floral mini dress for any occasion<\/strong><\/em><\/h4>",
+            "text": "<p>\"Get ready to stand out in every curve with our dazzling collection of Bodycon Dresses! Discover the wide variety of bodycom dresses, they can come to you with many styles of fabrics such as cotton, polyester, lace, sequins, satin, viscose, or linen. These dresses adjust to your figure, always making you look very sensual. We have a palette of bold colors, such as ruby red, navy blue, emerald green, burgundy, black, forest green, pastel tones and many others. Here you will find an incomparable selection of options for any occasion.<\/p>",
             "text_style": "body"
           }
         },
         "button_U9Yb3c": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Show Collection",
             "button_link": "shopify:\/\/collections\/floral-dresses",
@@ -265,7 +266,7 @@
         "button_U9Yb3c"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/b0d0332b39084c37becc6e02a3638058-Max.jpg",
+        "image": "shopify:\/\/shop_images\/05ceebdb030a4292b92d2d090a0656c2-Max.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -280,8 +281,57 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_B86CmH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_yAaXHP": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Two Pieces Dresses<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_KYX4jA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In our Two Pieces Dresses collection you will find a wide selection for you who love this style, each set is designed to highlight your unique beauty. From coordinated dresses to daring combinations, each piece is made with fabrics that often range from very versatile to almost imperceptible, always with high quality and taking care of every detail to make you stand out at any time. With a variety of styles ranging from chic to bohemian, our collection offers options for every personality and preference. Whether you're planning a brunch with friends or a gala night out, these outfits will give you the confidence and style you need to shine. Discover the magic of fashion with our Two Pieces Dresses and pay tribute to this great style wherever you go.\"<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_K7T6AE": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Show Collection",
+            "button_link": "shopify:\/\/collections\/floral-dresses",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_yAaXHP",
+        "text_KYX4jA",
+        "button_K7T6AE"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/415398d7-3ae5-4887-b0f7-11aa854ea32d-Max.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "VRC-BANNER2DO": {
       "type": "vrc-banner2do",
+      "disabled": true,
       "settings": {
         "title-banner2": "Dresses for special events",
         "banner-movil2": "shopify:\/\/shop_images\/banner-creamblackwhite2-m.png",
@@ -299,7 +349,7 @@
         "text-botton12": "",
         "link-botton12": "",
         "text-botton22": "Show More",
-        "link-botton22": "shopify:\/\/collections\/shop-dresses"
+        "link-botton22": "shopify:\/\/collections\/shopping-maxi-dresses"
       }
     },
     "VRC-MULTIBOXG": {
@@ -326,6 +376,84 @@
         "textguide3-textbtn": "Read More",
         "textguide3-color": "#000000"
       }
+    },
+    "multicolumn_yEpacf": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_qFPRJ6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/f4548189aa164305903c1f7e8ebbfcce-Min.jpg",
+            "title": "<strong>Offers Less $ 100 <\/strong>",
+            "text": "",
+            "link_label": "View Offers",
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-100"
+          }
+        },
+        "column_fbwDgQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/394ab5454772419faa410dcd03b315ea-Max.jpg",
+            "title": "<strong>Offers Less $ 75<\/strong>",
+            "text": "",
+            "link_label": "View Offers",
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-75"
+          }
+        },
+        "column_A7PG34": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/f9bfce6c-d77f-4107-8144-20174c28ec64-Min.jpg",
+            "title": "<strong>Offers Less $ 50<\/strong>",
+            "text": "",
+            "link_label": "View Offers",
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-50"
+          }
+        },
+        "column_RrzDWh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/b25f0e952e6c402ba0bd464ab9d023f0-Max.jpg",
+            "title": "<strong>Offers Less $ 35<\/strong>",
+            "text": "",
+            "link_label": "View Offers",
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-35"
+          }
+        },
+        "column_T7xAhJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/0ea282778097433d83d8525a05ed7a04-Min.jpg",
+            "title": "<strong>Offers Less $ 25<\/strong>",
+            "text": "",
+            "link_label": "View Offers",
+            "link": "shopify:\/\/collections\/dresses-offers-for-less-than-25"
+          }
+        }
+      },
+      "block_order": [
+        "column_qFPRJ6",
+        "column_fbwDgQ",
+        "column_A7PG34",
+        "column_RrzDWh",
+        "column_T7xAhJ"
+      ],
+      "settings": {
+        "title": "<em>Cheap dresses. Low price offers available to everyone<\/em>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -335,7 +463,9 @@
     "slideshow_ebPK49",
     "multicolumn_Cx9wzQ",
     "image_with_text_a9H4KU",
+    "image_with_text_B86CmH",
     "VRC-BANNER2DO",
-    "VRC-MULTIBOXG"
+    "VRC-MULTIBOXG",
+    "multicolumn_yEpacf"
   ]
 }
