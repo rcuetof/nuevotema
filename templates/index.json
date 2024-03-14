@@ -416,8 +416,8 @@
             "image": "shopify:\/\/shop_images\/b25f0e952e6c402ba0bd464ab9d023f0-Max.jpg",
             "title": "<strong>Offers Less $ 35<\/strong>",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "View Offers",
+            "link": "https:\/\/www.violettarcshop.com\/collections\/all?filter.v.price.gte=0&filter.v.price.lte=35&sort_by=title-ascending"
           }
         }
       },
