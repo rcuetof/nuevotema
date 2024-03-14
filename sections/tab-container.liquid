@@ -57,13 +57,13 @@
             <p>{{ block.settings.text }}</p>
             {% style %}
               .tab-content img{
-                align-self: end;
-                justify-self: end;
+                align-items: end;
+                justify-items: end;
                 border-radius: 5px;
                 z-index: 1;
               }
             {% endstyle %}
-            <img src="{{ block.settings.image | image_url: width: 1150, height: 1750 }}" alt="">
+            <img src="{{ block.settings.image | image_url: width: 1150, height: 1750 }}" alt="" width="300" height="500">
             
             
             {%- comment -%}
