@@ -298,51 +298,57 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_3VJNhF": {
-      "type": "image-banner",
+    "slideshow_8UfCfj": {
+      "type": "slideshow",
       "blocks": {
-        "heading_aJGNND": {
-          "type": "heading",
+        "slide_YjGeh3": {
+          "type": "slide",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
           }
         },
-        "text_6Hyxd4": {
-          "type": "text",
+        "slide_4AH3jr": {
+          "type": "slide",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_j7c99T": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "heading_aJGNND",
-        "text_6Hyxd4",
-        "buttons_j7c99T"
+        "slide_YjGeh3",
+        "slide_4AH3jr"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "image_with_text_JfFL6J": {
@@ -400,7 +406,7 @@
     "product-grid",
     "multicolumn_H4m6LK",
     "featured_collection_6m76KY",
-    "image_banner_3VJNhF",
+    "slideshow_8UfCfj",
     "image_with_text_JfFL6J"
   ]
 }
