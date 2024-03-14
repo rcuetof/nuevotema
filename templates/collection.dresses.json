@@ -238,27 +238,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "VRC-MULTIBOXG": {
-      "type": "vrc-multiboxg",
-      "settings": {
-        "tittleguide": "",
-        "tittleguide-color": "#000000",
-        "tittleguide-size": 30,
-        "textguide1": "",
-        "textguide1-color": "#000000",
-        "textguide-size": 16,
-        "textguide1-url": "",
-        "textguide1-textbtn": "",
-        "textguide2": "",
-        "textguide2-url": "",
-        "textguide2-textbtn": "",
-        "textguide2-color": "#000000",
-        "textguide3": "",
-        "textguide3-url": "",
-        "textguide3-textbtn": "",
-        "textguide3-color": "#000000"
-      }
-    },
     "rich_text_aPEka8": {
       "type": "rich-text",
       "blocks": {
@@ -288,6 +267,28 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "VRC-MULTIBOXG": {
+      "type": "vrc-multiboxg",
+      "settings": {
+        "tittleguide": "Fashion Plus Size",
+        "tittleguide-color": "#000000",
+        "tittleguide-size": 26,
+        "imgguide1": "shopify:\/\/shop_images\/ce0e149037df48c78baa187868900c93-Max.jpg",
+        "textguide1": "Guide for fashion plus size.",
+        "textguide1-color": "#c685ae",
+        "textguide-size": 16,
+        "textguide1-url": "",
+        "textguide1-textbtn": "",
+        "textguide2": "",
+        "textguide2-url": "",
+        "textguide2-textbtn": "",
+        "textguide2-color": "#000000",
+        "textguide3": "",
+        "textguide3-url": "",
+        "textguide3-textbtn": "",
+        "textguide3-color": "#000000"
+      }
     }
   },
   "order": [
@@ -295,7 +296,7 @@
     "TAB-VRC",
     "product-grid",
     "slideshow_UBKfQy",
-    "VRC-MULTIBOXG",
-    "rich_text_aPEka8"
+    "rich_text_aPEka8",
+    "VRC-MULTIBOXG"
   ]
 }
