@@ -52,12 +52,23 @@
             "btn": "",
             "btntxt": "Discover Collection"
           }
+        },
+        "text_gT6fy8": {
+          "type": "text",
+          "settings": {
+            "title": "Baby Shower Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/e7e471ac-7d69-41a1-8031-1bbeab56a687-Max.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
         }
       },
       "block_order": [
         "text_x9bp88",
         "text_wBkxfy",
-        "text_3aRwFA"
+        "text_3aRwFA",
+        "text_gT6fy8"
       ],
       "settings": {
       }
