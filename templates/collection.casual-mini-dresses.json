@@ -36,6 +36,28 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "rich_text_XkFMYy": {
+      "type": "rich-text",
+      "blocks": {
+        "text_bPJaQQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shop By Category<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_bPJaQQ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "BANNER-VRC-CASUAL-DRESSES": {
       "type": "vrc-banner",
       "settings": {
@@ -132,6 +154,7 @@
   },
   "order": [
     "slideshow_39feVJ",
+    "rich_text_XkFMYy",
     "BANNER-VRC-CASUAL-DRESSES",
     "TAB-VRC-CASUAL-DRESSES",
     "product-grid"
