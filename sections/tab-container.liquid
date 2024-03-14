@@ -58,7 +58,10 @@
             {% style %}
               .tab-content img{
                 border-radius: 5px;
-                position: relative tab-content;
+                position: relative;
+                right: 3%;
+                transform: translateY(-50%);
+                top:50%;
                }
             {% endstyle %}
             <img src="{{ block.settings.image | image_url: width: 1150, height: 1750 }}" alt="" width="300" height="480">
