@@ -57,7 +57,8 @@
           "type": "text",
           "settings": {
             "title": "Business Mini Dresses",
-            "text": "",
+            "text": "x",
+            "image": "shopify:\/\/shop_images\/08ee2279d9b945beb176f9ce87014e9a-Max.jpg",
             "btn": "",
             "btntxt": "Discover Collection",
             "title-event1": "",
@@ -85,8 +86,9 @@
         "text_EE6f66": {
           "type": "text",
           "settings": {
-            "title": "   Work Mini Dresses   ",
+            "title": "Work Mini Dresses",
             "text": "",
+            "image": "shopify:\/\/shop_images\/bcedeb47ad3e4d20b17ad737a749b5a4-Max.jpg",
             "btn": "",
             "btntxt": "Discover Collection",
             "title-event1": "",
@@ -300,6 +302,29 @@
       "settings": {
       }
     },
+    "rich_text_3nYMyR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wLyhPc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Formal Mini Dresses Collection",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wLyhPc"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 28
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -324,6 +349,7 @@
   "order": [
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
+    "rich_text_3nYMyR",
     "product-grid"
   ]
 }
