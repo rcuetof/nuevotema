@@ -28,7 +28,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/midiformal.png",
             "heading": "Midi Formal Dresses",
-            "heading_size": "h1",
+            "heading_size": "h0",
             "subheading": "",
             "button_label": "All Formal Dresses",
             "link": "shopify:\/\/collections\/all-formal-dresses",
