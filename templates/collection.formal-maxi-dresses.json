@@ -1,0 +1,358 @@
+{
+  "sections": {
+    "BANNER-VRC-DEFAULT": {
+      "type": "vrc-banner",
+      "settings": {
+        "title-banner": "",
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#ffffff",
+        "tittl2-banner": "",
+        "size-tittle2": 25,
+        "font-color-tittle2": "#000000",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
+      }
+    },
+    "slideshow_kTT4eE": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_qyPQwr": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/midiformal.png",
+            "heading": "Midi Formal Dresses",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "All Formal Dresses",
+            "link": "shopify:\/\/collections\/all-formal-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_qyPQwr"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Midi Formal Dresses"
+      }
+    },
+    "rich_text_3nYMyR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wLyhPc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop by Category",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_wLyhPc"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 28
+      }
+    },
+    "TAB-VRC-DEFAULT": {
+      "type": "tab-container",
+      "blocks": {
+        "text_wHaQBp": {
+          "type": "text",
+          "settings": {
+            "title": "Cocktail Midi Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/10e2c2aebb8b40208db9898a535eab86-Min.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        },
+        "text_FmbV8D": {
+          "type": "text",
+          "settings": {
+            "title": "Business Midi Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/71cc8a91be9e4309b57a131b990b0583-Min.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        },
+        "text_EE6f66": {
+          "type": "text",
+          "settings": {
+            "title": "Work Midi Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/7ea0e88147e34187995cfb4546ab7131-Min.jpg",
+            "btn": "",
+            "btntxt": "Discover Collectio"
+          }
+        },
+        "text_NEPCPt": {
+          "type": "text",
+          "settings": {
+            "title": "Black Tie Midi Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/f2e44107b2c3434cb43c6a62dac4d503-Min.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        },
+        "text_3eJcBB": {
+          "type": "text",
+          "settings": {
+            "title": "Goin Out Midi Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/624f6f99a05e467488c74cd2b9f15d32-Min.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        },
+        "text_rizVCM": {
+          "type": "text",
+          "settings": {
+            "title": "Gala Midi Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/04dcb2e343be41fc857e9f97fd1ddbe1-Min.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        },
+        "text_XMBYp7": {
+          "type": "text",
+          "settings": {
+            "title": "Modest Midi Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/8bb9c69d7ef6484f868d473456cab468-Min.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        },
+        "text_9hFJfX": {
+          "type": "text",
+          "settings": {
+            "title": "Chirstian Midi Dresses",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/0ea282778097433d83d8525a05ed7a04-Min.jpg",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_wHaQBp",
+        "text_FmbV8D",
+        "text_EE6f66",
+        "text_NEPCPt",
+        "text_3eJcBB",
+        "text_rizVCM",
+        "text_XMBYp7",
+        "text_9hFJfX"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+      }
+    },
+    "rich_text_EtMVce": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_4XieTi": {
+          "type": "heading",
+          "settings": {
+            "heading": "Short Formal Dresses Collection",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4XieTi"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 16
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_6m76KY": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "<h5><em><strong>Best Selling Midi Formal Dresses<\/strong><\/em><\/h5>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "best-seller-midi-formal-dresses",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_8UfCfj": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_YjGeh3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/formalmaxidresses_9cca079c-1a66-48a2-97de-0752fd18fe80.png",
+            "heading": "Maxi Formal Dresses",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_mdchDG": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_31.png",
+            "heading": "Mini Formal Dresses",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "Collection",
+            "link": "shopify:\/\/collections\/formal-mini-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_YjGeh3",
+        "slide_mdchDG"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Oter Formal Dresses"
+      }
+    },
+    "image_with_text_JfFL6J": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_p7aYzL": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "button_cRWNij": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_p7aYzL",
+        "button_cRWNij"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "BANNER-VRC-DEFAULT",
+    "slideshow_kTT4eE",
+    "rich_text_3nYMyR",
+    "TAB-VRC-DEFAULT",
+    "rich_text_EtMVce",
+    "product-grid",
+    "featured_collection_6m76KY",
+    "slideshow_8UfCfj",
+    "image_with_text_JfFL6J"
+  ]
+}
