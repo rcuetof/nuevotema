@@ -85,9 +85,8 @@
         "text_wHaQBp": {
           "type": "text",
           "settings": {
-            "title": "Cocktail Mini Dresses",
-            "text": "xxlkjkxlaklakja\n<br>\nxxlkjkxlaklakja\n<br>\nxxlkjkxlaklakja\n<br>\nxxlkjkxlaklakja\n<br>x",
-            "image": "shopify:\/\/shop_images\/c46b25590d054a608b3ed878b991809a-Max.jpg",
+            "title": "Cocktail Midi Dresses",
+            "text": "",
             "btn": "",
             "btntxt": "Discover Collection"
           }
@@ -95,9 +94,8 @@
         "text_FmbV8D": {
           "type": "text",
           "settings": {
-            "title": "Business Mini Dresses",
-            "text": "x",
-            "image": "shopify:\/\/shop_images\/08ee2279d9b945beb176f9ce87014e9a-Max.jpg",
+            "title": "Business Midi Dresses",
+            "text": "",
             "btn": "",
             "btntxt": "Discover Collection"
           }
@@ -105,9 +103,8 @@
         "text_EE6f66": {
           "type": "text",
           "settings": {
-            "title": "Work Mini Dresses",
-            "text": "Lorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslxLorium xlkjslx",
-            "image": "shopify:\/\/shop_images\/bcedeb47ad3e4d20b17ad737a749b5a4-Max.jpg",
+            "title": "Work Midi Dresses",
+            "text": "",
             "btn": "",
             "btntxt": "Discover Collectio"
           }
@@ -115,9 +112,8 @@
         "text_NEPCPt": {
           "type": "text",
           "settings": {
-            "title": "Black Tie Mini Dresses",
+            "title": "Black Tie Midi Dresses",
             "text": "",
-            "image": "shopify:\/\/shop_images\/a28ddd6550cf4df9ba65820c2b9536b9-Min.webp",
             "btn": "",
             "btntxt": "Discover Collection"
           }
@@ -125,9 +121,8 @@
         "text_3eJcBB": {
           "type": "text",
           "settings": {
-            "title": "Goin Out Mini Dresses",
+            "title": "Goin Out Midi Dresses",
             "text": "",
-            "image": "shopify:\/\/shop_images\/d3da5b3e-d2d5-4063-9c3f-ea85275abb8e-Min_92041aeb-f883-464f-a347-fdb65a952c81.jpg",
             "btn": "",
             "btntxt": "Discover Collection"
           }
@@ -135,9 +130,26 @@
         "text_rizVCM": {
           "type": "text",
           "settings": {
-            "title": "Gala Mini Dresses",
+            "title": "Gala Midi Dresses",
             "text": "",
-            "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max.webp",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        },
+        "text_XMBYp7": {
+          "type": "text",
+          "settings": {
+            "title": "Modest Midi Dresses",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        },
+        "text_9hFJfX": {
+          "type": "text",
+          "settings": {
+            "title": "Chirstian Midi Dresses",
+            "text": "",
             "btn": "",
             "btntxt": "Discover Collection"
           }
@@ -149,7 +161,9 @@
         "text_EE6f66",
         "text_NEPCPt",
         "text_3eJcBB",
-        "text_rizVCM"
+        "text_rizVCM",
+        "text_XMBYp7",
+        "text_9hFJfX"
       ],
       "custom_css": [
 
