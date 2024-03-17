@@ -39,6 +39,28 @@
       "settings": {
       }
     },
+    "rich_text_p6KKKF": {
+      "type": "rich-text",
+      "blocks": {
+        "text_MEmqFX": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><em><strong>Cocktail Short Dresses<\/strong><\/em><\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "text_MEmqFX"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -58,11 +80,68 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_YLJ6KX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_in6wmi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/f0a69c5ed8da4b4ea67f7ced59bec1ae-Min_2dcf1e1f-093e-40f8-837a-0e368a96f834.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Work Short Dresses<\/strong><\/em><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/work-formal-mini-dresses"
+          }
+        },
+        "column_HcmJt4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/d3da5b3e-d2d5-4063-9c3f-ea85275abb8e-Min_92041aeb-f883-464f-a347-fdb65a952c81.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Business Short Dresses<\/strong><\/em><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/work-formal-mini-dresses"
+          }
+        },
+        "column_bkqKaR": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_in6wmi",
+        "column_HcmJt4",
+        "column_bkqKaR"
+      ],
+      "settings": {
+        "title": "<em><strong>Dresses for formal and semi-formal events <\/strong><\/em>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
-    "product-grid"
+    "rich_text_p6KKKF",
+    "product-grid",
+    "multicolumn_YLJ6KX"
   ]
 }
