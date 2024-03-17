@@ -269,6 +269,7 @@
         },
         "column_FrCKpr": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/a04498d050d443459db0d00dd8b7c782-Max.jpg",
             "title": "",
@@ -279,6 +280,7 @@
         },
         "column_PdXbUQ": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/e810ff709edd409987e9fab6052fd7f7-Max.jpg",
             "title": "",
