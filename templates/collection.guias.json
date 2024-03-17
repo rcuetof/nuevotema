@@ -143,6 +143,28 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_9pty4g": {
+      "type": "rich-text",
+      "blocks": {
+        "text_NeazRU": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><em><strong>Featured  Mini Formal Dinner Dresses<\/strong><\/em><\/h4>"
+          }
+        }
+      },
+      "block_order": [
+        "text_NeazRU"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -169,6 +191,7 @@
     "TAB-VRC-DEFAULT",
     "rich_text_xkaNit",
     "multicolumn_L6ExA9",
+    "rich_text_9pty4g",
     "product-grid"
   ]
 }
