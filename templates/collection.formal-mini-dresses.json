@@ -208,7 +208,7 @@
         "description": "<h5><em><strong>Best Selling Short Formal Dresses<\/strong><\/em><\/h5>",
         "show_description": false,
         "description_style": "body",
-        "collection": "best-selling-short-dresses",
+        "collection": "best-selling-short-formal-dresses",
         "products_to_show": 25,
         "columns_desktop": 4,
         "full_width": false,
@@ -234,8 +234,8 @@
         "slide_YjGeh3": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/formalmaxidresses_9cca079c-1a66-48a2-97de-0752fd18fe80.png",
-            "heading": "Maxi Formal Dresses",
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_30.png",
+            "heading": "Casual Short Dresses",
             "heading_size": "h0",
             "subheading": "",
             "button_label": "Collection",
@@ -252,8 +252,8 @@
         "slide_mdchDG": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/midiformal.png",
-            "heading": "Midi Formal Dresses",
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_33.png",
+            "heading": "Wedding Short Dresses",
             "heading_size": "h0",
             "subheading": "",
             "button_label": "Collection",
