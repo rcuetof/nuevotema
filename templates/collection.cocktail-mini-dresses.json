@@ -147,6 +147,60 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "slideshow_gpfeqR": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_hKt7aD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_25.png",
+            "heading": "Evening Dresses",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/evening-mini-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_aBj79g": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_hKt7aD",
+        "slide_aBj79g"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -154,6 +208,7 @@
     "TAB-VRC-DEFAULT",
     "rich_text_p6KKKF",
     "product-grid",
-    "multicolumn_YLJ6KX"
+    "multicolumn_YLJ6KX",
+    "slideshow_gpfeqR"
   ]
 }
