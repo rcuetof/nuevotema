@@ -54,11 +54,18 @@
           "settings": {
             "text": "<h5>Looking elegant at a formal dinner means taking care of every detail of your appearance to project sophistication and style.<br\/><br\/> Opt for a dark suit, an elegant evening dress will be an appropriate option. Choose an elegant dress that is true to your personal style. You can opt for a more discreet style like a long-sleeved dress with a high neck or something more glamorous like an open-back or bodycon dress.<br\/><br\/> Dark colors like black, navy blue or gray are safe options for a formal dinner. If you prefer something more striking, you can choose dark colors in champagne tones such as burgundy, golden ruby ​​red or emerald green.<br\/><br\/>Opt for discreet, quality jewelry. Small earrings, a delicate necklace or an elegant watch can complement your outfit without taking away from its sophistication.<br\/><br\/> High heels and ankle boots combine perfectly with this type of events and clothing.<br\/><br\/>A classic hairstyle, such as a high ponytail, and sophisticated makeup will complete your look.<br\/><br\/><br\/>Remember that the key to looking elegant at a formal dinner is to feel comfortable and confident in the dress you choose. Additionally, it is always important to adapt your clothing to the specific dress code of the event.<\/h5>"
           }
+        },
+        "text_DcxyP8": {
+          "type": "text",
+          "settings": {
+            "text": "<h5><em><strong>Find the perfect dress for that formal dinner at Violetta & Rc<\/strong><\/em><\/h5>"
+          }
         }
       },
       "block_order": [
         "heading_kKfKCH",
-        "text_jicdDC"
+        "text_jicdDC",
+        "text_DcxyP8"
       ],
       "settings": {
         "desktop_content_position": "center",
