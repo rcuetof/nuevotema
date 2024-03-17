@@ -297,6 +297,52 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_VcygcU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_XJn4qN": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_XEpQ3W": {
+          "type": "text",
+          "settings": {
+            "text": "<h5><em><strong>He ended up dressed in a cocktail dress. It originated in the 1920s in the United States. At that time, cocktail parties became an important part of social life, and women needed appropriate attire for these more informal occasions than a formal dinner.<br\/><br\/>The dresses were characterized as shorter and less formal than traditional evening dresses, but still elegant.<br\/><br\/>They were often embellished with elegant details, such as lace, pearls or sequins, and were made of lighter, flowier fabrics.<br\/><br\/>Over time, the term \"cocktail dress\" has been used more generally to describe any elegant, semi-formal dress that is suitable for social events, not necessarily related to cocktail hour. However, the name has remained, recalling its origin and its association with the fashion and culture of the 1920s.<\/strong><\/em><\/h5>",
+            "text_style": "body"
+          }
+        },
+        "button_CxqGhN": {
+          "type": "button",
+          "settings": {
+            "button_label": "How to look elegant at a formal dinner... Read More",
+            "button_link": "shopify:\/\/collections\/how-to-look-elegant-at-a-formal-dinner",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XJn4qN",
+        "text_XEpQ3W",
+        "button_CxqGhN"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -307,6 +353,7 @@
     "featured_collection_8XVmgT",
     "multicolumn_YLJ6KX",
     "slideshow_gpfeqR",
-    "multicolumn_NT3WRD"
+    "multicolumn_NT3WRD",
+    "image_with_text_VcygcU"
   ]
 }
