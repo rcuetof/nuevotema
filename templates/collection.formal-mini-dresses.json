@@ -277,14 +277,23 @@
         "text_fVckwE": {
           "type": "text",
           "settings": {
-            "text": "<p><em>Discover elegance at its finest whenever you wear a formal mini dress. Be versatile with short dresses that fuse style and modernity. Wear elegant mini dresses to that occasion whenever you feel necessary, this collection offers you essential options to show you that you don't have to spend too much, find cheap short formal dresses. We have prepared the perfect choice for you, from mini formal dresses with high necks to short formal silk dresses. Black formal mini dresses can give you a charming look for closing deals or attending that job interview. Look at the immense variety that we have prepared for you, you can always have those plus size formal mini dresses or wrap-around mini formal dresses, you will really find here what you were looking for.<\/em><\/p>",
+            "text": "<h5><em><strong>Formal dresses can be used for specific dress codes such as for a formal dinner, cocktail or even to work. Formal dresses, along with elegant dresses, are the most appropriate for business events, or to look elegant at a formal dinner, or a cocktail, choose a dress according to the occasion.<\/strong><\/em><\/h5>",
             "text_style": "body"
+          }
+        },
+        "button_yG8Vxh": {
+          "type": "button",
+          "settings": {
+            "button_label": "READ MORE",
+            "button_link": "shopify:\/\/collections\/how-to-look-elegant-at-a-formal-dinner",
+            "button_style_secondary": true
           }
         }
       },
       "block_order": [
         "heading_p7aYzL",
-        "text_fVckwE"
+        "text_fVckwE",
+        "button_yG8Vxh"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/1d6a968196664edcbdfc7ad852759771-Max.jpg",
