@@ -103,10 +103,10 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/f0a69c5ed8da4b4ea67f7ced59bec1ae-Min_2dcf1e1f-093e-40f8-837a-0e368a96f834.jpg",
-            "title": "Formal Short Dresses",
-            "text": "",
-            "link_label": "",
-            "link": ""
+            "title": "",
+            "text": "<h4><em><strong>Formal Short Dresses<\/strong><\/em><\/h4>",
+            "link_label": "Show more",
+            "link": "shopify:\/\/collections\/formal-mini-dresses"
           }
         },
         "column_rbmfqi": {
