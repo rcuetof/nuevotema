@@ -76,6 +76,73 @@
         "padding_bottom": 52
       }
     },
+    "multicolumn_L6ExA9": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_ycHBiX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/98bed886-dfef-4518-a9d6-3f37561291cb-Max_55fb0062-bf35-49b3-b57c-d7d8590e2157.jpg",
+            "title": "Evening Short Dresses",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LWa7XX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max.webp",
+            "title": "",
+            "text": "<p>Cocktail Short Dresses<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6UKMb9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/f0a69c5ed8da4b4ea67f7ced59bec1ae-Min_2dcf1e1f-093e-40f8-837a-0e368a96f834.jpg",
+            "title": "Formal Short Dresses",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rbmfqi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/036b7c09-8a1b-4baf-aa91-aed28ee1226f-Max.jpg",
+            "title": "",
+            "text": "<p>Black Tie Short Dresses<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_ycHBiX",
+        "column_LWa7XX",
+        "column_6UKMb9",
+        "column_rbmfqi"
+      ],
+      "settings": {
+        "title": "<em><strong>Explore our recommended categories for formal dinners<\/strong><\/em>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "See All Formal Dresses",
+        "button_link": "shopify:\/\/collections\/formal-mini-dresses",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -101,6 +168,7 @@
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
     "rich_text_xkaNit",
+    "multicolumn_L6ExA9",
     "product-grid"
   ]
 }
