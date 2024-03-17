@@ -114,9 +114,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/036b7c09-8a1b-4baf-aa91-aed28ee1226f-Max.jpg",
             "title": "",
-            "text": "<p>Black Tie Short Dresses<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<h4><em><strong>Black Tie Short Dresses<\/strong><\/em><\/h4>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/black-tie-formal-mini-dresses"
           }
         }
       },
