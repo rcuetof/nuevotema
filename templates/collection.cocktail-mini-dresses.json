@@ -344,9 +344,10 @@
         "slide_KHC96j": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/8b932f07e82a49a194d673eb3dcd439b-Min_2.webp",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
+            "subheading": "Red Mini Sequin Dress",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
@@ -354,7 +355,7 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
         }
