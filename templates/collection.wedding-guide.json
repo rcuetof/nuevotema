@@ -39,6 +39,53 @@
       "settings": {
       }
     },
+    "image_with_text_jfrTJH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CkEWCN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Style guide for wedding guest",
+            "heading_size": "h2"
+          }
+        },
+        "text_VD6Tfi": {
+          "type": "text",
+          "settings": {
+            "text": "<h6><em><strong>When you are invited to a wedding, it is important to dress appropriately for the occasion and follow the dress code indicated on the invitation. Here's a general style guide to help you choose the perfect outfit as a wedding guest:<br\/><br\/>Dress Code: First and foremost, make sure you know the dress code specified in the invitation. Common options include “casual,” “semi-formal,” “formal,” or “black tie.” This will give you a clear idea of ​​what type of outfit is suitable for the occasion.<br\/><br\/>Avoid white: Unless the invitation explicitly states otherwise, avoid using white or similar shades, as this is traditionally the color reserved for the bride.<br\/><br\/>Opt for clothing appropriate for the time of day and season: Consider the time of day and season in which the wedding is taking place when choosing your outfit. Lighter, more colorful dresses are appropriate for daytime spring or summer weddings, while darker, more formal dresses are more appropriate for evening or fall and winter weddings.<br\/><br\/>Dress Length: Dress length may vary depending on the formality of the wedding and your personal preference. Short dresses are usually appropriate for more informal weddings or during the day. If you want to wear a short dress for an evening wedding or with a more formal and elegant dress code, opt for colors such as black, navy blue or red.<br\/><br\/>Accessories: Complete your look with elegant accessories that complement your outfit. This can include delicate jewelry, a stylish clutch, appropriate shoes such as pointed heels or booties for the occasion, and a shawl or jacket in case it's cold.<br\/><br\/>Makeup and hairstyle: Consider your makeup and hairstyle to complete your look. Opt for natural makeup and a hairstyle that makes you feel comfortable and confident.<br\/><br\/>Comfort: Last but not least, it is important to feel comfortable in your outfit. Choose a dress that makes you feel confident and comfortable so you can fully enjoy the event.<br\/><br\/>Remember that every wedding is unique, so don't hesitate to adapt your outfit based on the style and theme of the wedding, as well as your own personal style. If you have any questions about what to wear, you can always ask the hosts or close friends who are also attending the wedding.<\/strong><\/em><\/h6>",
+            "text_style": "body"
+          }
+        },
+        "button_WV94X3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Wedding Guest Collection",
+            "button_link": "shopify:\/\/collections\/wedding-guest-mini-dresses",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_CkEWCN",
+        "text_VD6Tfi",
+        "button_WV94X3"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/a28ddd6550cf4df9ba65820c2b9536b9-Min.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -63,6 +110,7 @@
   "order": [
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
+    "image_with_text_jfrTJH",
     "product-grid"
   ]
 }
