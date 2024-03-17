@@ -11,6 +11,7 @@
     },
     "vrc-banner": {
       "type": "vrc-banner",
+      "disabled": true,
       "settings": {
         "title-banner": "Wedding",
         "banner-movil": "shopify:\/\/shop_images\/bridesmiad916_254f151e-4175-4170-ae9d-f4356da34059.png",
@@ -21,7 +22,7 @@
         "pose-x-tittle1": 8,
         "pose-y-tittle1": 8,
         "size-e-tittle1": 45,
-        "font-color-tittle1": "#FFFFFF",
+        "font-color-tittle1": "#ffffff",
         "tittl2-banner": "Collections of mini dresses for brides",
         "size-tittle2": 17,
         "font-color-tittle2": "#000000",
@@ -37,7 +38,7 @@
         "text_7mkkNh": {
           "type": "text",
           "settings": {
-            "text": "<p>Shop by Category<\/p>"
+            "text": "<p>Wedding Mini Dresses<\/p>"
           }
         }
       },
