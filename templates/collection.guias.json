@@ -39,6 +39,36 @@
       "settings": {
       }
     },
+    "rich_text_xkaNit": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kKfKCH": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h2"
+          }
+        },
+        "text_jicdDC": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>Looking elegant at a formal dinner means taking care of every detail of your appearance to project sophistication and style.<br\/><br\/> Opt for a dark suit, an elegant evening dress will be an appropriate option. Choose an elegant dress that is true to your personal style. You can opt for a more discreet style like a long-sleeved dress with a high neck or something more glamorous like an open-back or bodycon dress.<br\/><br\/> Dark colors like black, navy blue or gray are safe options for a formal dinner. If you prefer something more striking, you can choose dark colors in champagne tones such as burgundy, golden ruby ​​red or emerald green.<br\/><br\/>Opt for discreet, quality jewelry. Small earrings, a delicate necklace or an elegant watch can complement your outfit without taking away from its sophistication.<br\/><br\/> High heels and ankle boots combine perfectly with this type of events and clothing.<br\/><br\/>A classic hairstyle, such as a high ponytail, and sophisticated makeup will complete your look.<br\/><br\/><br\/>Remember that the key to looking elegant at a formal dinner is to feel comfortable and confident in the dress you choose. Additionally, it is always important to adapt your clothing to the specific dress code of the event.<\/h5>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_kKfKCH",
+        "text_jicdDC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -63,6 +93,7 @@
   "order": [
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
+    "rich_text_xkaNit",
     "product-grid"
   ]
 }
