@@ -107,17 +107,29 @@
         "column_bkqKaR": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/7b75011fb5b3448eae763926f62cad2b-Max.jpg",
+            "title": "",
+            "text": "<h4><em><strong>Semi Formal Dresses<\/strong><\/em><\/h4>",
             "link_label": "",
             "link": ""
+          }
+        },
+        "column_eUHHXL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max.webp",
+            "title": "",
+            "text": "<h5><em><strong>Gala Mini Dresses<\/strong><\/em><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/gala-formal-mini-dresses"
           }
         }
       },
       "block_order": [
         "column_in6wmi",
         "column_HcmJt4",
-        "column_bkqKaR"
+        "column_bkqKaR",
+        "column_eUHHXL"
       ],
       "settings": {
         "title": "<em><strong>Dresses for formal and semi-formal events <\/strong><\/em>",
