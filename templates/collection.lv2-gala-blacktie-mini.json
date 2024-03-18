@@ -405,14 +405,14 @@
         "heading_XJn4qN": {
           "type": "heading",
           "settings": {
-            "heading": "More about Short Dresses for Work and Business",
+            "heading": "More about Short Dresses for Gala and Black-Tie",
             "heading_size": "h2"
           }
         },
         "text_XEpQ3W": {
           "type": "text",
           "settings": {
-            "text": "<h6>Mini dresses in the work and business environment have experienced a notable evolution over time. In the 1960s, the rise of \"mod\" fashion introduced mini dresses as an expression of freedom and modernity in women's clothing. However, its acceptance in the workplace was initially limited due to its risqué length. As social norms changed and fashion became more inclusive, mini dresses began to find their place in professional settings.<br\/><br\/>In the following decades, visionary designers and companies have worked to adapt the concept of the mini dress to the needs of the workplace. More structured and attractive designs emerged, with classic cuts and high-quality fabrics, allowing mini dresses to integrate more harmoniously into the business environment.<br\/><br\/>Nowadays, mini dresses at work are an accepted reality, as long as they are carefully chosen to reflect the seriousness and professionalism required. Modern designs often feature clean lines, neutral colors and understated details, providing a stylish and contemporary option for women who want to maintain their personal style without compromising professional integrity. This historic shift reflects an evolution in attitudes towards fashion in the workplace, where individual expression and professionalism can coexist in harmony.<\/h6>",
+            "text": "<h4>Mini dresses in the context of gala events and \"black tie\" dress codes have undergone a significant evolution over time. Although long dresses are traditionally associated with the \"black tie\" label, in recent decades, mini dresses have gained acceptance at these events, especially among celebrities and high society. This change has been influenced by iconic designers who have challenged the established norms of formal fashion.<br\/><\/h4><h4>&lt;li&gt;Blake Lively: She has been seen on several occasions wearing mini dresses at red carpet events and galas, combining elegance and modern style.&lt;\/li&gt;<br\/><br\/>Jennifer Lopez: Known for her bold and glamorous style, Jennifer Lopez has worn mini dresses at gala events, showing off her toned figure and her fashion confidence.<br\/><br\/>Rihanna: Singer and businesswoman Rihanna has worn designer mini dresses at red carpet events, showing off her own unique approach to formal fashion.<br\/><br\/>Zendaya: She is known for her avant-garde style and has opted for mini dresses at gala events, fusing contemporary trends with classic elegance.<br\/><br\/>Kendall Jenner: As a model, Kendall Jenner has been seen wearing mini dresses at fashion events and galas, showing off her sense of style and slim figure.<br\/><br\/>These are just a few of the many celebrities who have opted for mini dresses at gala and black tie events, proving that this wardrobe option can be equally sophisticated and elegant as traditional long dresses.<br\/><br\/>As fashion evolved, mini dresses became an elegant and daring option for gala events and black tie parties, especially among the younger generations. Although some critics initially considered them inappropriate for such occasions, the creativity of contemporary designers has managed to fuse the style of mini dresses with the sophistication required by the \"black tie\" label. Now, mini prom dresses can feature luxurious details, such as lace, embroidery or high-quality fabrics, making them perfectly suitable for formal events.<br\/><br\/>In short, the acceptance of mini dresses at gala events and \"black tie\" dress codes is a reflection of the continued evolution of fashion and people's willingness to challenge established norms in search of personal expression and style.<\/h4>",
             "text_style": "subtitle"
           }
         },
@@ -438,7 +438,7 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
