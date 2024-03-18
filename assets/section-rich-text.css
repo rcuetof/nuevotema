@@ -11,11 +11,12 @@
   text-align: left;
   text-align: justify;
   font-style: italic;
+  transition: all 1.5s;
 
 }
 .rich-text__wrapper:hover
 {
-  font-size: 101%;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);;
 }
 .rich-text:not(.rich-text--full-width) .rich-text__wrapper {
   margin: auto;
