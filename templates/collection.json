@@ -3,7 +3,7 @@
     "TITTLE": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".collection-hero__title {position: absolute; transform: translateX(-50%); left: 50%; font-size: 140%; }"
+        ".collection-hero__title {position: absolute; transform: translateX(-50%); left: 50%; font-size: 140%;}"
       ],
       "settings": {
         "show_collection_description": false,
@@ -70,20 +70,38 @@
         "padding_bottom": 36
       }
     },
-    "TEXT":{
-      "type":"main-collection-banner",
-      "disabled":true,
-      "custom_css":[".color-scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1 {display: flex; flex-direction: column;}"],
-      "settings":{
-        "show_collection_title":false,
-          "show_collection_description":false,
-          "show_collection_image":false,
-          "color_scheme":"scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
-          }
-          },
-      "GUIDE":{
-        "type": "vrc-multiboxg"
+    "TEXT": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        ".collection-hero__title{display:none;}"
+      ],
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
       }
+    },
+    "GUIDE": {
+      "type": "vrc-multiboxg",
+      "settings": {
+        "tittleguide": "",
+        "tittleguide-color": "#000000",
+        "tittleguide-size": 30,
+        "textguide1": "",
+        "textguide1-color": "#000000",
+        "textguide-size": 16,
+        "textguide1-url": "",
+        "textguide1-textbtn": "",
+        "textguide2": "",
+        "textguide2-url": "",
+        "textguide2-textbtn": "",
+        "textguide2-color": "#000000",
+        "textguide3": "",
+        "textguide3-url": "",
+        "textguide3-textbtn": "",
+        "textguide3-color": "#000000"
+      }
+    }
   },
   "order": [
     "TITTLE",
