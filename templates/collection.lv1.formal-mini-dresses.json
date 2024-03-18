@@ -95,21 +95,11 @@
         "text_FmbV8D": {
           "type": "text",
           "settings": {
-            "title": "Business Mini Dresses",
-            "text": "Mini business dresses offer a unique fusion of professional style and contemporary elegance, designed specifically for women who want to stand out in formal work environments without sacrificing their fashion sense. These dresses typically feature structured silhouettes and clean lines that project a polished, professional image. With a length that typically reaches above the knee, mini business dresses allow you to show off a touch of personal style while staying within the confines of corporate etiquette.\n<br><br>\nThe designs of mini business dresses often focus on colors like white or black really neutral tones that convey a sense of professionalism. High-quality fabrics with elegant drape are preferred, such as wool, cotton or silk, which offer all-day comfort and a flawless appearance. Subtle details, such as high collars, short or long sleeves, and discreet pleats, add a touch of visual interest without being overwhelming.",
+            "title": "Business and Wor Dresses",
+            "text": "Work Mini business dresses offer a unique fusion of professional style and contemporary elegance, designed specifically for women who want to stand out in formal work environments without sacrificing their fashion sense. These dresses typically feature structured silhouettes and clean lines that project a polished, professional image. With a length that typically reaches above the knee, mini business dresses allow you to show off a touch of personal style while staying within the confines of corporate etiquette.\n<br><br>\nThe designs of mini business dresses often focus on colors like white or black really neutral tones that convey a sense of professionalism. High-quality fabrics with elegant drape are preferred, such as wool, cotton or silk, which offer all-day comfort and a flawless appearance. Subtle details, such as high collars, short or long sleeves, and discreet pleats, add a touch of visual interest without being overwhelming.",
             "image": "shopify:\/\/shop_images\/f834a388-f60b-424c-9e2c-13c3699d4ae2-Max.jpg",
             "btn": "shopify:\/\/collections\/business-formal-mini-dresses",
             "btntxt": "Discover Collection"
-          }
-        },
-        "text_EE6f66": {
-          "type": "text",
-          "settings": {
-            "title": "Work Mini Dresses",
-            "text": "Stay fashionable while meeting your workplace's attire requirements with these work mini dresses.\n<br><br>\nBy pairing these dresses with appropriate accessories, such as moderate-heeled shoes, structured bags, and understated jewelry, women can create professional outfits that reflect their personal style and give them confidence in the work environment.\n<br><br>\nWork mini dress designs typically focus on clean lines and structured silhouettes that convey a polished, professional image. Quality fabrics that provide all-day comfort are preferred, such as wool, cotton or blends. The colors and prints are usually more sober and discreet, with neutral tones and classic prints that add a touch of style without being too flashy.\n<br><br>\nSubtle details, such as high collars, short or long sleeves, and discreet pleats, are common in these dresses, adding visual interest without losing elegance. Additionally, work mini dresses are often designed with functional pockets and practical details that make them ideal for everyday office wear.",
-            "image": "shopify:\/\/shop_images\/815b5c7f137c484fbdb709ecbc4f2bc1-Min_1b489a15-7c90-4442-855f-360e2344deb3.jpg",
-            "btn": "shopify:\/\/collections\/work-formal-mini-dresses",
-            "btntxt": "Discover Collectio"
           }
         },
         "text_NEPCPt": {
@@ -146,7 +136,6 @@
       "block_order": [
         "text_wHaQBp",
         "text_FmbV8D",
-        "text_EE6f66",
         "text_NEPCPt",
         "text_3eJcBB",
         "text_rizVCM"
@@ -315,6 +304,22 @@
     "GUIA": {
       "type": "vrc-multiboxg",
       "settings": {
+        "tittleguide": "",
+        "tittleguide-color": "#000000",
+        "tittleguide-size": 30,
+        "textguide1": "",
+        "textguide1-color": "#000000",
+        "textguide-size": 16,
+        "textguide1-url": "",
+        "textguide1-textbtn": "",
+        "textguide2": "",
+        "textguide2-url": "",
+        "textguide2-textbtn": "",
+        "textguide2-color": "#000000",
+        "textguide3": "",
+        "textguide3-url": "",
+        "textguide3-textbtn": "",
+        "textguide3-color": "#000000"
       }
     }
   },
