@@ -275,10 +275,10 @@
         "slide_hKt7aD": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4d69d263cac54866990a11ee65554e4e-Min.jpg",
+            "image": "shopify:\/\/shop_images\/63658522-8c97-4456-ac5a-fec77b566fe8-Max.jpg",
             "heading": "",
             "heading_size": "h1",
-            "subheading": "Long Sleeve Dresses for Business or Work",
+            "subheading": "<strong>Sequin Dresses for Gala or Black Tie<\/strong>",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/black-tie-and-gala-formal-mini-dresses-sequin-selection",
             "button_style_secondary": false,
@@ -293,10 +293,10 @@
         "slide_aBj79g": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/125dbb87-b0c1-4344-9ba2-174f1914a086-Max.jpg",
+            "image": "shopify:\/\/shop_images\/7e89561855d6497d8f000c31bf9a0af6-Max.jpg",
             "heading": "",
             "heading_size": "h1",
-            "subheading": "Short Sleeve Dresses for Business or Work",
+            "subheading": "<strong>Lace Dresses for Gala or Black Tie<\/strong>",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/black-tie-and-gala-formal-mini-dresses-lace-selection",
             "button_style_secondary": false,
@@ -304,7 +304,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-4",
+            "color_scheme": "scheme-2",
             "text_alignment_mobile": "center"
           }
         }
