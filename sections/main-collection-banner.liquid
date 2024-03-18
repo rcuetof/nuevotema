@@ -16,6 +16,10 @@
         {% style %}
           .collection-hero__title {
             font-size: {{ section.settings.sizetitle }}%;
+          .collection-hero__description
+          {
+            font-size: {{ section.settings.sizetext }}%;
+          }  
           }
         {% endsty %}
         <h1 class="collection-hero__title">
@@ -60,8 +64,6 @@
         "type": "paragraph",
         "content": "t:sections.main-collection-banner.settings.paragraph.content"
       },
-
-
       {
         "type": "checkbox",
         "id": "show_collection_title",
@@ -83,7 +85,19 @@
         "id": "show_collection_description",
         "default": true,
         "label": "t:sections.main-collection-banner.settings.show_collection_description.label"
-      }, {
+      },
+      {
+        "type": "range",
+        "id": "sizetext",
+        "min": 1,
+        "max": 200,
+        "step": 1,
+        "unit": "%",
+        "label": "Tamaño del Texto",
+        "default": 100
+      },
+      
+      {
         "type": "checkbox",
         "id": "show_collection_image",
         "default": false,
