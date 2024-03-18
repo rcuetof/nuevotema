@@ -3,7 +3,7 @@
     "TITTLE": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".color-scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1 {display: flex; flex-direction: column; justify-items:center;}"
+
       ],
       "settings": {
         "show_collection_description": false,
