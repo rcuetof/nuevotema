@@ -132,6 +132,60 @@
         "textguide3-textbtn": "",
         "textguide3-color": "#000000"
       }
+    },
+    "slideshow_b7VCFd": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_Ec4nce": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/93159422-198e-4a4f-bb22-8101aa081550-Max.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "Casual Mini Pink Dresses",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/pink-mini-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_EcC4nn": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Ec4nce",
+        "slide_EcC4nn"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -141,6 +195,7 @@
     "rich_text_pG8XLL",
     "product-grid",
     "TEXT",
-    "GUIDE"
+    "GUIDE",
+    "slideshow_b7VCFd"
   ]
 }
