@@ -27,10 +27,10 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_31.png",
-            "heading": "Short Formal Dresses",
+            "heading": "<em><strong>Short Formal Dresses<\/strong><\/em>",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "All Formal Dresses",
+            "button_label": "",
             "link": "shopify:\/\/collections\/all-formal-dresses",
             "button_style_secondary": false,
             "box_align": "middle-center",
