@@ -51,10 +51,12 @@
 }
 .tab-content h3 {
     color: #333;
+    user-select: none;
  }
 
 .tab-content p {
     color: #666;
+    user-select: none;
 }
 
 
