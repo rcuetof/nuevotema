@@ -133,6 +133,28 @@
         "textguide3-color": "#000000"
       }
     },
+    "rich_text_6nWqY7": {
+      "type": "rich-text",
+      "blocks": {
+        "text_ahda4K": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shop by color<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_ahda4K"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "slideshow_b7VCFd": {
       "type": "slideshow",
       "blocks": {
@@ -197,6 +219,7 @@
     "product-grid",
     "TEXT",
     "GUIDE",
+    "rich_text_6nWqY7",
     "slideshow_b7VCFd"
   ]
 }
