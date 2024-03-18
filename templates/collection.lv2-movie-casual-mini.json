@@ -209,6 +209,62 @@
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "multicolumn_VUi9n8": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_XjaC7f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/d366fcb594974f7e809bd3e0431cfe3b-Max.jpg",
+            "title": "",
+            "text": "<h5>BBQ Short Casual Dress<\/h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8UXkfy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/04fd124089f449f0a95dbc7ab520e72e-Max.webp",
+            "title": "",
+            "text": "<h5>Short Dress for Date<\/h5>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aE9zyB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9655ccc2c14841579a7e351e2546f279-Max.jpg",
+            "title": "",
+            "text": "<h5>Concert Attire<\/h5>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_XjaC7f",
+        "column_8UXkfy",
+        "column_aE9zyB"
+      ],
+      "settings": {
+        "title": "<strong>Recommended categories of short casual dresses<\/strong>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -220,6 +276,7 @@
     "TEXT",
     "GUIDE",
     "rich_text_6nWqY7",
-    "slideshow_b7VCFd"
+    "slideshow_b7VCFd",
+    "multicolumn_VUi9n8"
   ]
 }
