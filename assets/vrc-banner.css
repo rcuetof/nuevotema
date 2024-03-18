@@ -10,6 +10,7 @@
     margin-right: 0;    
     font-weight: 900;
     font-size: 24px;    
+    white-space: nowrap;
 }
 .button-banner {
     display: inline-block;
@@ -32,7 +33,7 @@
         font-size: 80px;
         color: white;
         text-align: left;
-        word-spacing: nowrap;
+     
       }
       p{
         position: absolute;
