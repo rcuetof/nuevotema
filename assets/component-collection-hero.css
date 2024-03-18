@@ -47,6 +47,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  font-weight: 800;
+  text-shadow: 0 1 5px solid rgba(31, 31, 31, 0.32);
 }
 
 .collection-hero__title + .collection-hero__description {
