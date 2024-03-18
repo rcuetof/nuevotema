@@ -365,6 +365,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_k8eNbB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_xxcXBK": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_DMVgRD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Going to the movies is an experience that combines the excitement of watching a movie with the opportunity to wear an outfit that reflects your personal style. When choosing a short dress for this occasion, it is important to find the perfect balance between elegance and comfort. Here are some tips to achieve this:<br\/><br\/>**1. Casual Chic Style:** Opt for a short dress that has a casual chic style, perfect for a movie night. Dresses made of soft, flowy fabrics, such as cotton or viscose, are ideal for maintaining comfort without sacrificing style. Look for simple but elegant designs that can adapt to different body types and personal tastes.<br\/><br\/>Colors and prints can add a touch of style and personality to your short dress for the movies. Consider options like neutral tones for a more classic and versatile look, or bold prints to add a touch of fun and energy to your outfit. Floral, striped or geometric prints are popular options that can add dimension and style to your look.<br\/><br\/> The length of the dress is important to ensure your comfort and freedom of movement during the movie. Opt for a short dress that falls above the knee to look modern and elegant, but long enough to allow you to sit comfortably without worry. Avoid designs that are too short that may be uncomfortable or inappropriate for the occasion.<br\/><br\/> Accessories can effortlessly elevate your movie look. Opt for subtle, elegant accessories that complement your short dress, such as delicate jewelry, a small bag or a light scarf. Subtle accessories can add a touch of style and sophistication to your outfit without taking center stage from the dress.<br\/><br\/>Opt for sneakers, ballet flats, or flat sandals to match your short dress and keep you comfortable all night long. Avoid high heels or any shoes that may be uncomfortable for prolonged sitting.<br\/><br\/>With these tips in mind, you'll be ready to enjoy a movie night in style and comfort. An elegant and chic short dress will allow you to look impeccable while you immerse yourself in the magic of cinema..<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_xxcXBK",
+        "text_DMVgRD"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bb3bebc4-a21f-404f-bd92-3d6a4ce5d6c8-Max.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -379,6 +417,7 @@
     "slideshow_b7VCFd",
     "multicolumn_VUi9n8",
     "slideshow_JYPX9L",
-    "multicolumn_mkrtaq"
+    "multicolumn_mkrtaq",
+    "image_with_text_k8eNbB"
   ]
 }
