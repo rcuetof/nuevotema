@@ -20,7 +20,9 @@
 }
 
 .collection-hero__text-wrapper {
- margin: auto;
+
+ justify-items: center;
+ width: 100%
 }
 
 @media screen and (min-width: 750px) {
@@ -37,6 +39,8 @@
 
 .collection-hero__title {
   margin: 2.5rem 0;
+  justify-items: center;
+  width: 100%
 }
 
 .collection-hero__title + .collection-hero__description {
