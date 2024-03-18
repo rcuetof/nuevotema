@@ -13,6 +13,7 @@
     },
     "BANNER-VRC-DEFAULT": {
       "type": "vrc-banner",
+      "disabled": true,
       "settings": {
         "title-banner": "",
         "posm-x-tittle1": 8,
@@ -47,6 +48,7 @@
       "block_order": [
         "text_x9bp88"
       ],
+      "disabled": true,
       "settings": {
       }
     },
