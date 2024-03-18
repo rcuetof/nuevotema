@@ -2,6 +2,7 @@
   "sections": {
     "TITTLE": {
       "type": "main-collection-banner",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -12,6 +13,26 @@
         "sizetext": 12,
         "show_collection_image": false,
         "color_scheme": "scheme-1"
+      }
+    },
+    "TAB-VRC-DEFAULT": {
+      "type": "tab-container",
+      "blocks": {
+        "text_x9bp88": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_x9bp88"
+      ],
+      "disabled": true,
+      "settings": {
       }
     },
     "BANNER-VRC-DEFAULT": {
@@ -35,24 +56,26 @@
         "link-botton2": ""
       }
     },
-    "TAB-VRC-DEFAULT": {
-      "type": "tab-container",
+    "rich_text_pG8XLL": {
+      "type": "rich-text",
       "blocks": {
-        "text_x9bp88": {
+        "text_cBmnbP": {
           "type": "text",
           "settings": {
-            "title": "",
-            "text": "",
-            "btn": "",
-            "btntxt": "Discover Collection"
+            "text": "<p>Movie Casual Short Dresses<\/p>"
           }
         }
       },
       "block_order": [
-        "text_x9bp88"
+        "text_cBmnbP"
       ],
-      "disabled": true,
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "product-grid": {
@@ -113,8 +136,9 @@
   },
   "order": [
     "TITTLE",
-    "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
+    "BANNER-VRC-DEFAULT",
+    "rich_text_pG8XLL",
     "product-grid",
     "TEXT",
     "GUIDE"
