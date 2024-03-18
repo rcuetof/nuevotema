@@ -22,54 +22,18 @@
         "link-botton2": ""
       }
     },
-    "slideshow_q7LwzM": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_aFVpJz": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_25.png",
-            "heading": "Short evening dresses",
-            "heading_size": "h1",
-            "subheading": "Evening dresses are characterized by their details in sequins and lace fabrics.",
-            "button_label": "Show Dresses",
-            "link": "shopify:\/\/collections\/all-mini-dresses",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-4",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_aFVpJz"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "auto_rotate": true,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "rich_text_qwzbxM": {
       "type": "rich-text",
       "blocks": {
-        "text_7RHeUn": {
+        "text_xRJVYq": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Shop by Category<\/strong><\/em><\/p>"
+            "text": "<h5><em><strong>At Violetta & Rc you will find a space for mini dresses near you. These clothing items are characterized by their short length, typically above the knee. They have been a staple in women's fashion for decades, from their popularization in the 1960s to today. These dresses are versatile and can suit a variety of styles and occasions, from casual to formal, depending on the design, fabric and accessories used. Mini dresses can feature a variety of silhouettes, from tight and fitted to loose and flowy, and can be embellished with details such as ruffles, lace, prints, or beading details. They are a popular option for evening events, casual outings or simply to show off a youthful and modern style.<\/strong><\/em><\/h5>"
           }
         }
       },
       "block_order": [
-        "text_7RHeUn"
+        "text_xRJVYq"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -244,6 +208,42 @@
         "padding_bottom": 36
       }
     },
+    "slideshow_q7LwzM": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_aFVpJz": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_25.png",
+            "heading": "Short evening dresses",
+            "heading_size": "h1",
+            "subheading": "Evening dresses are characterized by their details in sequins and lace fabrics.",
+            "button_label": "Show Dresses",
+            "link": "shopify:\/\/collections\/all-mini-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_aFVpJz"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "collapsible_content_9jMVxh": {
       "type": "collapsible-content",
       "blocks": {
@@ -308,12 +308,12 @@
   },
   "order": [
     "BANNER-VRC-minidresses",
-    "slideshow_q7LwzM",
     "rich_text_qwzbxM",
     "TAB-VRC-minidresses",
     "product-grid",
     "image_with_text_xzAmC3",
     "collapsible_content_RiJcMz",
+    "slideshow_q7LwzM",
     "collapsible_content_9jMVxh"
   ]
 }
