@@ -313,7 +313,7 @@
       }
     },
     "GUIA-FROAML":{
-    "type":"vrc-multiboxg"
+    "type": "vrc-multiboxg"
   }
   },
   "order": [
@@ -326,6 +326,6 @@
     "featured_collection_6m76KY",
     "slideshow_8UfCfj",
     "image_with_text_JfFL6J",
-    "GUIA-FORMAL"
+    "vrc-multiboxg"
   ]
 }
