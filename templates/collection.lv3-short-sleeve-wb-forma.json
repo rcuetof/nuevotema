@@ -6,7 +6,7 @@
         "heading_KaRtA8": {
           "type": "heading",
           "settings": {
-            "heading": "Mini Formal Dresses for Work and Business Short Sleeve Selection",
+            "heading": "<em><strong>Mini Formal Dresses for Work and Business Short Sleeve Selection<\/strong><\/em>",
             "heading_size": "h2"
           }
         }
@@ -14,12 +14,15 @@
       "block_order": [
         "heading_KaRtA8"
       ],
+      "custom_css": [
+        ".rich-text__wrapper {box-shadow: 0 0;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 28,
         "padding_bottom": 0
       }
     },
@@ -76,7 +79,7 @@
         "enable_quick_add": false,
         "enable_filtering": true,
         "filter_type": "horizontal",
-        "enable_sorting": true,
+        "enable_sorting": false,
         "columns_mobile": "2",
         "padding_top": 0,
         "padding_bottom": 0
