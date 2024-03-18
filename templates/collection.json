@@ -3,7 +3,7 @@
     "TITTLE": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".collection-hero__title {font-size: 140%;}"
+        ".collection-hero__title {font-size: 130%;}"
       ],
       "settings": {
         "show_collection_description": false,
@@ -73,7 +73,8 @@
     "TEXT": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".collection-hero__title {display: none;}"
+        ".collection-hero__title {display: none;}",
+        ".collection-hero__description{font-size: 90%;}"
       ],
       "settings": {
         "show_collection_description": true,
