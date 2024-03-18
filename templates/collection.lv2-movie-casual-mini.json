@@ -157,11 +157,12 @@
         "slide_EcC4nn": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "image": "shopify:\/\/shop_images\/9751aed5-7baf-4684-ac9c-25c21a0dfcde-Max.jpg",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "subheading": "White Casual Short Dresses",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/white-mini-dresses",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
