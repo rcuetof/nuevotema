@@ -3,11 +3,11 @@
     "TITTLE": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".collection-hero__title {font-size: 130%;}"
+
       ],
       "settings": {
         "show_collection_title": true,
-        "sizetitle": 70,
+        "sizetitle": 101,
         "show_collection_description": false,
         "sizetext": 12,
         "show_collection_image": false,
