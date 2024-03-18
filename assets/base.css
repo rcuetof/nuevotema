@@ -1,10 +1,16 @@
+a {
+  position: relative;
+  text-decoration: none; /* Para quitar el subrayado predeterminado */
+}
+
+
 a::after {
   content: '';
   position: absolute;
   left: 50%;
   bottom: 0px; /* Ajusta la posición del subrayado */
   width: 0;
-  height: 2px; /* Ajusta el grosor del subrayado */
+  height: 3px; /* Ajusta el grosor del subrayado */
   background-color: #772aaa; /* Color del subrayado */
   transition: width 0.3s ease-out, left 0.3s ease-out;
 }
