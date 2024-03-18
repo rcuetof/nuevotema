@@ -276,9 +276,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/4d69d263cac54866990a11ee65554e4e-Min.jpg",
-            "heading": "Long Sleeve Dresses for Business or Work",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "",
+            "subheading": "Long Sleeve Dresses for Business or Work",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/work-and-business-formal-mini-dresses-long-sleeve",
             "button_style_secondary": false,
@@ -294,9 +294,9 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/125dbb87-b0c1-4344-9ba2-174f1914a086-Max.jpg",
-            "heading": "Short Sleeve Dresses for Business or Work",
+            "heading": "",
             "heading_size": "h1",
-            "subheading": "",
+            "subheading": "Short Sleeve Dresses for Business or Work",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/work-and-business-formal-mini-dresses-short-sleeve",
             "button_style_secondary": false,
@@ -314,7 +314,7 @@
         "slide_aBj79g"
       ],
       "custom_css": [
-        ".h1{font-size:110%}"
+        ".h1 {font-size: 110%;}"
       ],
       "settings": {
         "layout": "full_bleed",
