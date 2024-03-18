@@ -4,7 +4,8 @@
 .rich-text__wrapper {
   display: flex;
   justify-content: center;
-  width: calc(100% - 4rem / var(--font-body-scale));
+  width: calc(90% - 4rem / var(--font-body-scale));
+  padding: 20px 0 20px 0;
   border-radius: 10px; /* Bordes redondeados (asegúrate de que sea un valor positivo) */ 
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */  
   text-align: left;
