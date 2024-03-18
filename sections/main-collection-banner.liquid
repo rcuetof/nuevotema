@@ -16,12 +16,8 @@
         {% style %}
           .collection-hero__title {
             font-size: {{ section.settings.sizetitle }}%;
-          .collection-hero__description
-          {
-            font-size: {{ section.settings.sizetext }}%;
-          }  
           }
-        {% endsty %}
+        {% endstyle %}
         <h1 class="collection-hero__title">
           <span class="visually-hidden">{{ 'sections.collection_template.title' | t }}:
           </span>
@@ -74,9 +70,9 @@
         "type": "range",
         "id": "sizetitle",
         "min": 1,
-        "max": 200,
+        "max": 101,
         "step": 1,
-        "unit": "%",
+        "unit": "px",
         "label": "Tamaño del Titulo",
         "default": 100
       },
@@ -85,8 +81,7 @@
         "id": "show_collection_description",
         "default": true,
         "label": "t:sections.main-collection-banner.settings.show_collection_description.label"
-      },
-      {
+      }, {
         "type": "range",
         "id": "sizetext",
         "min": 1,
@@ -95,9 +90,7 @@
         "unit": "%",
         "label": "Tamaño del Texto",
         "default": 100
-      },
-      
-      {
+      }, {
         "type": "checkbox",
         "id": "show_collection_image",
         "default": false,
