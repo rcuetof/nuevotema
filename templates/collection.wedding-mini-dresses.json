@@ -331,6 +331,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "GUIA": {
+      "type": "vrc-multiboxg",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -342,6 +347,7 @@
     "product-grid",
     "featured_collection_8A9tR4",
     "slideshow_cdCKYR",
-    "image_with_text_MMEtxT"
+    "image_with_text_MMEtxT",
+    "GUIA"
   ]
 }
