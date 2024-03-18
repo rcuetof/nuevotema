@@ -1,0 +1,458 @@
+{
+  "sections": {
+    "BANNER-VRC-DEFAULT": {
+      "type": "vrc-banner",
+      "disabled": true,
+      "settings": {
+        "title-banner": "",
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#ffffff",
+        "tittl2-banner": "",
+        "size-tittle2": 25,
+        "font-color-tittle2": "#000000",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
+      }
+    },
+    "TAB-VRC-DEFAULT": {
+      "type": "tab-container",
+      "blocks": {
+        "text_x9bp88": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_x9bp88"
+      ],
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "rich_text_p6KKKF": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KbCpUa": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Cocktail Short Dresses<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KbCpUa"
+      ],
+      "custom_css": [
+        ".rich-text__wrapper {box-shadow: 0 0;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_3tQgLz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_J7qEhb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Shop cocktail dresses by color<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_J7qEhb"
+      ],
+      "custom_css": [
+        ".rich-text__wrapper {box-shadow: 0 0;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "slideshow_R9mYim": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_R84dJq": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/584629a9dead4f3daa09384bb7476277-Min.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "<em><strong>Little Black Dress<\/strong><\/em>",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/black-mini-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_KHC96j": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8b932f07e82a49a194d673eb3dcd439b-Min_2.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "Red Mini Sequin Dress",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_R84dJq",
+        "slide_KHC96j"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection_8XVmgT": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".h2 {font-size: 95%; font-weight: 900;}"
+      ],
+      "settings": {
+        "title": "Best Selling Cocktail Dresses",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "bachelorette-party-mini-dresses",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_YLJ6KX": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_in6wmi": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/f0a69c5ed8da4b4ea67f7ced59bec1ae-Min_2dcf1e1f-093e-40f8-837a-0e368a96f834.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Work Short Dresses<\/strong><\/em><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/work-formal-mini-dresses"
+          }
+        },
+        "column_HcmJt4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/d3da5b3e-d2d5-4063-9c3f-ea85275abb8e-Min_92041aeb-f883-464f-a347-fdb65a952c81.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Business Short Dresses<\/strong><\/em><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/work-formal-mini-dresses"
+          }
+        },
+        "column_bkqKaR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7b75011fb5b3448eae763926f62cad2b-Max.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Semi Formal Dresses<\/strong><\/em><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/semi-formal-short-dresses"
+          }
+        },
+        "column_eUHHXL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max.webp",
+            "title": "",
+            "text": "<h5><em><strong>Gala Mini Dresses<\/strong><\/em><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/gala-formal-mini-dresses"
+          }
+        }
+      },
+      "block_order": [
+        "column_in6wmi",
+        "column_HcmJt4",
+        "column_bkqKaR",
+        "column_eUHHXL"
+      ],
+      "custom_css": [
+        ".h2 {font-size: 95%; font-weight: 900;}"
+      ],
+      "settings": {
+        "title": "<em>Dresses for formal and semi-formal events <\/em>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 28
+      }
+    },
+    "slideshow_gpfeqR": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_hKt7aD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_25.png",
+            "heading": "Evening Dresses",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/evening-mini-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_aBj79g": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_35.png",
+            "heading": "Party Dresses",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/party-mini-dresses-1",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_hKt7aD",
+        "slide_aBj79g"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "multicolumn_NT3WRD": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VapEy9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/33649b6cfc4b4f26abf0b802161b41cd-Min.webp",
+            "title": "",
+            "text": "<h5><em><strong>Party Outfit<\/strong><\/em><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/party-outfit"
+          }
+        },
+        "column_DErhB3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/deca8db7fc8f412b8109eb8f3683ae47-Max.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Plus size Cocktail Attire<\/strong><\/em><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/cocktail-plus-size"
+          }
+        },
+        "column_g3fCtg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3b042ee3-bb0b-4c29-82da-4fc2b6d8ed45-Max.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Formal Party Dresses<\/strong><\/em><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/formal-party-dreses"
+          }
+        },
+        "column_MqqA7z": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/88bb3609eca6456fa2ded70dbaeb7d7a-Max.webp",
+            "title": "",
+            "text": "<h5><em><strong>Petite Dresses Gow<\/strong><\/em><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/petitte-dress-gow"
+          }
+        }
+      },
+      "block_order": [
+        "column_VapEy9",
+        "column_DErhB3",
+        "column_g3fCtg",
+        "column_MqqA7z"
+      ],
+      "custom_css": [
+        ".h2 {font-size: 95%; font-weight: 900;}"
+      ],
+      "settings": {
+        "title": "Categories of short cocktail party and evening dresses",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "image_with_text_VcygcU": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_XJn4qN": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_XEpQ3W": {
+          "type": "text",
+          "settings": {
+            "text": "<h5><em><strong>He ended up dressed in a cocktail dress. It originated in the 1920s in the United States. At that time, cocktail parties became an important part of social life, and women needed appropriate attire for these more informal occasions than a formal dinner.<br\/><br\/>The dresses were characterized as shorter and less formal than traditional evening dresses, but still elegant.<br\/><br\/>They were often embellished with elegant details, such as lace, pearls or sequins, and were made of lighter, flowier fabrics.<br\/><br\/>Over time, the term \"cocktail dress\" has been used more generally to describe any elegant, semi-formal dress that is suitable for social events, not necessarily related to cocktail hour. However, the name has remained, recalling its origin and its association with the fashion and culture of the 1920s.<\/strong><\/em><\/h5>",
+            "text_style": "body"
+          }
+        },
+        "button_CxqGhN": {
+          "type": "button",
+          "settings": {
+            "button_label": "How to look elegant at a formal dinner... Read More",
+            "button_link": "shopify:\/\/collections\/how-to-look-elegant-at-a-formal-dinner",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_XJn4qN",
+        "text_XEpQ3W",
+        "button_CxqGhN"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/98bed886-dfef-4518-a9d6-3f37561291cb-Max_55fb0062-bf35-49b3-b57c-d7d8590e2157.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "BANNER-VRC-DEFAULT",
+    "TAB-VRC-DEFAULT",
+    "rich_text_p6KKKF",
+    "product-grid",
+    "rich_text_3tQgLz",
+    "slideshow_R9mYim",
+    "featured_collection_8XVmgT",
+    "multicolumn_YLJ6KX",
+    "slideshow_gpfeqR",
+    "multicolumn_NT3WRD",
+    "image_with_text_VcygcU"
+  ]
+}
