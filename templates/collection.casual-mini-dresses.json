@@ -12,7 +12,7 @@
             "subheading": "",
             "button_label": "",
             "link": "shopify:\/\/collections\/all-casual-dresses",
-            "button_style_secondary": true,
+            "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
@@ -87,7 +87,7 @@
             "title": "Movies Dresses",
             "text": "",
             "image": "shopify:\/\/shop_images\/7b75011fb5b3448eae763926f62cad2b-Max.jpg",
-            "btn": "",
+            "btn": "shopify:\/\/collections\/movie-causal-mini-dresses",
             "btntxt": "Discover Collection"
           }
         },
@@ -131,18 +131,18 @@
       "settings": {
       }
     },
-    "rich_text_TzVbLm": {
+    "rich_text_hpMd3P": {
       "type": "rich-text",
       "blocks": {
-        "text_FQPk6d": {
+        "text_E6EEJf": {
           "type": "text",
           "settings": {
-            "text": "<p>Mini Casual Dresses Collection<\/p>"
+            "text": "<p>Casual Short Dresses Collection<\/p>"
           }
         }
       },
       "block_order": [
-        "text_FQPk6d"
+        "text_E6EEJf"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -159,7 +159,7 @@
         "products_per_page": 16,
         "columns_desktop": 4,
         "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
@@ -173,48 +173,67 @@
         "padding_bottom": 36
       }
     },
-    "slideshow_6j8re6": {
+    "slideshow_REeDa3": {
       "type": "slideshow",
       "blocks": {
-        "slide_GzqWgM": {
+        "slide_wHnk4M": {
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_35.png",
-            "heading": "Party Dresses",
-            "heading_size": "h1",
+            "heading": "Party Short Dresses",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/party-mini-dresses-1",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_ayh8BN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_31.png",
+            "heading": "Formal Short Dresses",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/business-formal-mini-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_GzqWgM"
+        "slide_wHnk4M",
+        "slide_ayh8BN"
       ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
         "slider_visual": "dots",
         "auto_rotate": false,
-        "change_slides_speed": 5,
+        "change_slides_speed": 3,
         "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "featured_collection_pRRxTT": {
+    "featured_collection_4egCz4": {
       "type": "featured-collection",
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "description": "<p>Best Selling Short Csual Dresses<\/p>",
+        "description": "<p>Best Selling<\/p>",
         "show_description": false,
         "description_style": "body",
         "collection": "bbq-outfit-causal-mini-dresses",
@@ -225,7 +244,7 @@
         "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
@@ -236,44 +255,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_with_text_QdVH94": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_J66xaR": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Casual Mini Dresses<\/strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_wFanzM": {
-          "type": "text",
-          "settings": {
-            "text": "<p>When choosing the perfect mini dress, it's important to consider a variety of factors, including colors, styles, and how it fits each person's body type.<br\/><br\/>Colors play a crucial role in choosing a casual mini dress as they can influence your mood, style and the versatility of the dress. Neutral tones such as black, grey, white and beige are classic options that offer a solid foundation for any look. Pastel shades like pink, light blue, and soft yellow are ideal for a fresh, feminine look, while bright colors like red, green, and orange can add a touch of energy and vibrancy to your outfit.<br\/><br\/><br\/>Casual mini dresses come in a variety of styles, each with their own unique aesthetic. Tunic dresses are comfortable and relaxed, ideal for a weekend or summer look. Shirt dresses offer a structured and elegant silhouette that is perfect for the office or more formal events. A-line dresses are flattering on most body types as they flare gently from the waist down, creating a feminine, balanced silhouette. Styles with details such as pleats, ruffles, lace and embroidery can add a touch of sophistication and unique style to your look.<br\/><br\/>When choosing a casual mini dress, it is important to consider how it fits each person's body type to ensure a flattering and comfortable fit. For people with an apple-shaped body, it is advisable to look for dresses with a defined waist and flared skirts that help create the illusion of a slimmer waist. For people with pear-shaped bodies, dresses with details on the top, such as statement collars or puff sleeves, can help balance the figure and draw the eye upward. Those with an hourglass body shape can opt for fitted dresses that highlight their natural curves and give them an elegant and feminine look.<br\/><br\/>In short, casual mini dresses are a versatile and elegant option for any occasion. By considering a variety of colors, styles, and how it fits each person's body type, it is possible to find the perfect mini dress that reflects your personality, style, and makes you feel confident and beautiful in any situation.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_J66xaR",
-        "text_wFanzM"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/04fd124089f449f0a95dbc7ab520e72e-Max.webp",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -281,10 +262,9 @@
     "rich_text_XkFMYy",
     "BANNER-VRC-CASUAL-DRESSES",
     "TAB-VRC-CASUAL-DRESSES",
-    "rich_text_TzVbLm",
+    "rich_text_hpMd3P",
     "product-grid",
-    "slideshow_6j8re6",
-    "featured_collection_pRRxTT",
-    "image_with_text_QdVH94"
+    "slideshow_REeDa3",
+    "featured_collection_4egCz4"
   ]
 }
