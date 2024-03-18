@@ -84,12 +84,38 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "rich_text_XgbmRm": {
+      "type": "rich-text",
+      "blocks": {
+        "text_TTkhi4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When it comes to incorporating short-sleeve mini formal dresses into work and business attire, several considerations should be kept in mind. Firstly, opt for designs that strike a balance between professionalism and style. Look for structured silhouettes and tailored cuts that convey sophistication. Fabrics such as crepe, wool blends, or suiting materials lend a polished look suitable for professional settings.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_TTkhi4"
+      ],
+      "custom_css": [
+        ".rich-text__wrapper {box-shadow: 0 0;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "rich_text_gPmGmh",
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
-    "product-grid"
+    "product-grid",
+    "rich_text_XgbmRm"
   ]
 }
