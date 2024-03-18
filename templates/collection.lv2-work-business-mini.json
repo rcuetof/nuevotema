@@ -47,7 +47,7 @@
         "heading_KbCpUa": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>Cocktail Short Dresses<\/strong><\/em>",
+            "heading": "<em><strong>Work and Business Short Dresses<\/strong><\/em>",
             "heading_size": "h2"
           }
         }
@@ -93,7 +93,7 @@
         "heading_J7qEhb": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>Shop cocktail dresses by color<\/strong><\/em>",
+            "heading": "<em><strong>Shop Work  and Business dresses by color<\/strong><\/em>",
             "heading_size": "h2"
           }
         }
@@ -119,10 +119,10 @@
         "slide_R84dJq": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/584629a9dead4f3daa09384bb7476277-Min.webp",
+            "image": "shopify:\/\/shop_images\/4a752ca6-c2a6-4932-9d72-589c02c0d011-Max.jpg",
             "heading": "",
             "heading_size": "h1",
-            "subheading": "<em><strong>Little Black Dress<\/strong><\/em>",
+            "subheading": "<em><strong>Navy Blue Little Dress<\/strong><\/em>",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/black-mini-dresses",
             "button_style_secondary": false,
@@ -137,10 +137,10 @@
         "slide_KHC96j": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8b932f07e82a49a194d673eb3dcd439b-Min_2.webp",
+            "image": "shopify:\/\/shop_images\/438ec126c7d147cf8d187d75b3361ff3-Min.jpg",
             "heading": "",
             "heading_size": "h1",
-            "subheading": "Red Mini Sequin Dress",
+            "subheading": "Business Short White Dress",
             "button_label": "Button label",
             "link": "",
             "button_style_secondary": false,
@@ -148,7 +148,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-4",
+            "color_scheme": "scheme-2",
             "text_alignment_mobile": "center"
           }
         }
@@ -174,7 +174,7 @@
         ".h2 {font-size: 95%; font-weight: 900;}"
       ],
       "settings": {
-        "title": "Best Selling Cocktail Dresses",
+        "title": "Best Selling Work and Business Dresses",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -207,7 +207,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/f0a69c5ed8da4b4ea67f7ced59bec1ae-Min_2dcf1e1f-093e-40f8-837a-0e368a96f834.jpg",
             "title": "",
-            "text": "<h5><em><strong>Work Short Dresses<\/strong><\/em><\/h5>",
+            "text": "<h5><em><strong>Cocktail Short Dresses<\/strong><\/em><\/h5>",
             "link_label": "Show More",
             "link": "shopify:\/\/collections\/work-formal-mini-dresses"
           }
@@ -217,7 +217,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/d3da5b3e-d2d5-4063-9c3f-ea85275abb8e-Min_92041aeb-f883-464f-a347-fdb65a952c81.jpg",
             "title": "",
-            "text": "<h5><em><strong>Business Short Dresses<\/strong><\/em><\/h5>",
+            "text": "<h5><em><strong>Evening and Goin Out Short Dresses<\/strong><\/em><\/h5>",
             "link_label": "Show More",
             "link": "shopify:\/\/collections\/work-formal-mini-dresses"
           }
@@ -237,7 +237,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max.webp",
             "title": "",
-            "text": "<h5><em><strong>Gala Mini Dresses<\/strong><\/em><\/h5>",
+            "text": "<h5><em><strong>Gala and Black Tie Mini Dresses<\/strong><\/em><\/h5>",
             "link_label": "Show More",
             "link": "shopify:\/\/collections\/gala-formal-mini-dresses"
           }
@@ -275,12 +275,12 @@
         "slide_hKt7aD": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_25.png",
-            "heading": "Evening Dresses",
+            "image": "shopify:\/\/shop_images\/4d69d263cac54866990a11ee65554e4e-Min.jpg",
+            "heading": "Long Sleeve Dresses for Business or Work",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/evening-mini-dresses",
+            "link": "shopify:\/\/collections\/work-and-business-formal-mini-dresses-long-sleeve",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -293,12 +293,12 @@
         "slide_aBj79g": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_35.png",
-            "heading": "Party Dresses",
+            "image": "shopify:\/\/shop_images\/125dbb87-b0c1-4344-9ba2-174f1914a086-Max.jpg",
+            "heading": "Short Sleeve Dresses for Business or Work",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/party-mini-dresses-1",
+            "link": "shopify:\/\/collections\/work-and-business-formal-mini-dresses-short-sleeve",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -374,6 +374,7 @@
         "column_g3fCtg",
         "column_MqqA7z"
       ],
+      "disabled": true,
       "custom_css": [
         ".h2 {font-size: 95%; font-weight: 900;}"
       ],
@@ -400,21 +401,22 @@
         "heading_XJn4qN": {
           "type": "heading",
           "settings": {
-            "heading": "",
-            "heading_size": "h1"
+            "heading": "More about Short Dresses for Work and Business",
+            "heading_size": "h2"
           }
         },
         "text_XEpQ3W": {
           "type": "text",
           "settings": {
-            "text": "<h5><em><strong>He ended up dressed in a cocktail dress. It originated in the 1920s in the United States. At that time, cocktail parties became an important part of social life, and women needed appropriate attire for these more informal occasions than a formal dinner.<br\/><br\/>The dresses were characterized as shorter and less formal than traditional evening dresses, but still elegant.<br\/><br\/>They were often embellished with elegant details, such as lace, pearls or sequins, and were made of lighter, flowier fabrics.<br\/><br\/>Over time, the term \"cocktail dress\" has been used more generally to describe any elegant, semi-formal dress that is suitable for social events, not necessarily related to cocktail hour. However, the name has remained, recalling its origin and its association with the fashion and culture of the 1920s.<\/strong><\/em><\/h5>",
+            "text": "<h6>Mini dresses in the work and business environment have experienced a notable evolution over time. In the 1960s, the rise of \"mod\" fashion introduced mini dresses as an expression of freedom and modernity in women's clothing. However, its acceptance in the workplace was initially limited due to its risqué length. As social norms changed and fashion became more inclusive, mini dresses began to find their place in professional settings.<br\/><br\/>In the following decades, visionary designers and companies have worked to adapt the concept of the mini dress to the needs of the workplace. More structured and attractive designs emerged, with classic cuts and high-quality fabrics, allowing mini dresses to integrate more harmoniously into the business environment.<br\/><br\/>Nowadays, mini dresses at work are an accepted reality, as long as they are carefully chosen to reflect the seriousness and professionalism required. Modern designs often feature clean lines, neutral colors and understated details, providing a stylish and contemporary option for women who want to maintain their personal style without compromising professional integrity. This historic shift reflects an evolution in attitudes towards fashion in the workplace, where individual expression and professionalism can coexist in harmony.<\/h6>",
             "text_style": "body"
           }
         },
         "button_CxqGhN": {
           "type": "button",
+          "disabled": true,
           "settings": {
-            "button_label": "How to look elegant at a formal dinner... Read More",
+            "button_label": "",
             "button_link": "shopify:\/\/collections\/how-to-look-elegant-at-a-formal-dinner",
             "button_style_secondary": false
           }
@@ -426,7 +428,7 @@
         "button_CxqGhN"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/98bed886-dfef-4518-a9d6-3f37561291cb-Max_55fb0062-bf35-49b3-b57c-d7d8590e2157.jpg",
+        "image": "shopify:\/\/shop_images\/4a79b80ec8da43a7bdd3f5173b33c8af-Min.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
