@@ -1,23 +1,22 @@
 a {
+  text-decoration: none;
   position: relative;
-  text-decoration: none; /* Para quitar el subrayado predeterminado */
 }
-
-
 a::after {
-  content: '';
+  content: "";
   position: absolute;
-  left: 50%;
-  bottom: 0px; /* Ajusta la posición del subrayado */
-  width: 0;
-  height: 3px; /* Ajusta el grosor del subrayado */
-  background-color: #772aaa; /* Color del subrayado */
-  transition: width 0.3s ease-out, left 0.3s ease-out;
+  width: 38%;
+  height: 1px;
+  bottom: 0;
+  left: 0;
+  background-color: #d000ff;
+  transform: scaleX(0);
+  transform-origin: bottom right;
+  transition: transform 0.3s ease;
 }
-
 a:hover::after {
-  width: calc(100% - 20px); /* Ajusta la longitud del subrayado */
-  left: 10px; /* Ajusta la posición inicial del subrayado */
+  transform: scaleX(1);
+  transform-origin: bottom left;
 }
 
 :root {
