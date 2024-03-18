@@ -320,6 +320,50 @@
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "multicolumn_mkrtaq": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Rpd9UA": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hC6Ai4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ad683bdd72644b52977fe6b98dc2e931-Max_a9b73011-acb8-4149-840a-efd57a82adbf.jpg",
+            "title": "",
+            "text": "<h5>Boho Short Dress<\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/casua-short-dresses-bohol"
+          }
+        }
+      },
+      "block_order": [
+        "column_Rpd9UA",
+        "column_hC6Ai4"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -333,6 +377,7 @@
     "rich_text_6nWqY7",
     "slideshow_b7VCFd",
     "multicolumn_VUi9n8",
-    "slideshow_JYPX9L"
+    "slideshow_JYPX9L",
+    "multicolumn_mkrtaq"
   ]
 }
