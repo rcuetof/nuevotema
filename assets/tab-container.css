@@ -51,14 +51,12 @@
 }
 .tab-content h3 {
     color: #333;
-    font-size: xx-small;
-    user-select: none; /* Evita que se seleccione el texto */
+    scale: 200px;
     pointer-events: none; 
  }
 
 .tab-content p {
     color: #666;
-    user-select: none; /* Evita que se seleccione el texto */
     pointer-events: none; 
 }
 
