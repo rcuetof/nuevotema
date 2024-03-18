@@ -1,15 +1,16 @@
 {
   "sections": {
-    "TITTLE":{
-      "type":"main-collection-banner",
-      "disabled":true,
-      "custom_css":[".color-scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1 {display: flex; flex-direction: column;}"],
-      "settings":{
-          "show_collection_description":false,
-          "show_collection_image":false,
-          "color_scheme":"scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
-          }
-          },
+    "TITTLE": {
+      "type": "main-collection-banner",
+      "custom_css": [
+        ".collection-hero__title {position: absolute; transform: translateX(-50%); left: 50%; font-size: 140%; }"
+      ],
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
+      }
+    },
     "BANNER-VRC-DEFAULT": {
       "type": "vrc-banner",
       "settings": {
@@ -74,7 +75,6 @@
       "disabled":true,
       "custom_css":[".color-scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1 {display: flex; flex-direction: column;}"],
       "settings":{
-          "show_collection_tittle":false,
           "show_collection_description":false,
           "show_collection_image":false,
           "color_scheme":"scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
