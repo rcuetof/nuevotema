@@ -295,13 +295,6 @@
             "heading_size": "h2"
           }
         },
-        "text_zRAUyJ": {
-          "type": "text",
-          "settings": {
-            "text": "<h5><em><strong>A wedding is an event where we will keep memorable memories with friends and family, being a bridesmaid is one of the most beautiful experiences, sharing with the bride the most important day of her life. The mother of the bride will also keep that moment as one of the most emotional days of her life, and whether you are invited to this event regardless of where it takes place, at sunset on the beach or in a beautiful garden, you will find here the special mini dress for you<\/strong><\/em><\/h5>",
-            "text_style": "body"
-          }
-        },
         "button_ETMXn8": {
           "type": "button",
           "settings": {
@@ -313,7 +306,6 @@
       },
       "block_order": [
         "heading_FhXmmQ",
-        "text_zRAUyJ",
         "button_ETMXn8"
       ],
       "settings": {

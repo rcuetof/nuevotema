@@ -1,0 +1,121 @@
+{
+  "sections": {
+    "rich_text_gPmGmh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KaRtA8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Mini Formal Dresses for Gala or Black-Tie Red Selection<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KaRtA8"
+      ],
+      "custom_css": [
+        ".rich-text__wrapper {box-shadow: 0 0;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "BANNER-VRC-DEFAULT": {
+      "type": "vrc-banner",
+      "settings": {
+        "title-banner": "",
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#ffffff",
+        "tittl2-banner": "",
+        "size-tittle2": 25,
+        "font-color-tittle2": "#000000",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
+      }
+    },
+    "TAB-VRC-DEFAULT": {
+      "type": "tab-container",
+      "blocks": {
+        "text_x9bp88": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_x9bp88"
+      ],
+      "settings": {
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_XgbmRm": {
+      "type": "rich-text",
+      "blocks": {
+        "text_TTkhi4": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Red prom dresses, also known as \"little red dresses\" (LRD), are a bold and elegant choice for a variety of special occasions.  The color red evokes passion, drama as well as confidence and glamour, making these dresses a popular choice for evening events, from galas to cocktail parties.<br\/><br\/> When choosing an LRD, it's important to consider the fit and style that best suits your body type and personality.  Designs can vary from tight-fitting dresses such as a wrap-style dress or to more fluid cuts such as A-line, with details such as halter necklines, open backs or elegant long sleeves.<br\/><br\/> In addition to the aesthetic aspect, the quality of the fabric and construction are also key aspects to consider when selecting a red ball gown.  Opting for fabrics such as silk, satin or crepe, or sequined fabrics ensure a luxurious look with striking personality.<br\/><br\/> When dressing an LRD, accessories can further enhance the impact of the outfit.  Jewelry in gold or silver usually complements red perfectly, while shoes and bags in neutral tones such as black or nude add balance to the look.<br\/><br\/> In short, red prom dresses are a timeless and sophisticated option that adds a touch of glamor to any special event.  With careful consideration of fit, fabric and accessories, you can create a stunning look that makes you stand out on any occasion.<\/strong><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_TTkhi4"
+      ],
+      "custom_css": [
+        ".rich-text__wrapper {padding: 30px 0 30px 0;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "rich_text_gPmGmh",
+    "BANNER-VRC-DEFAULT",
+    "TAB-VRC-DEFAULT",
+    "product-grid",
+    "rich_text_XgbmRm"
+  ]
+}
