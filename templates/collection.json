@@ -3,7 +3,7 @@
     "TITTLE": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".collection-hero__title {font-size: 140%;}"
+        ".collection-hero__title {font-size: 130%;}"
       ],
       "settings": {
         "show_collection_description": false,
@@ -66,14 +66,15 @@
         "filter_type": "horizontal",
         "enable_sorting": true,
         "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "TEXT": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".collection-hero__title {display: none;}"
+        ".collection-hero__title {display: none;}",
+        ".collection-hero__description {font-size: 90%;}"
       ],
       "settings": {
         "show_collection_description": true,
