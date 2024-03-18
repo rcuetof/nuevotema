@@ -2,6 +2,7 @@
   "sections": {
     "BANNER-VRC-DEFAULT": {
       "type": "vrc-banner",
+      "disabled": true,
       "settings": {
         "title-banner": "",
         "posm-x-tittle1": 8,
@@ -36,29 +37,34 @@
       "block_order": [
         "text_x9bp88"
       ],
+      "disabled": true,
       "settings": {
       }
     },
     "rich_text_p6KKKF": {
       "type": "rich-text",
       "blocks": {
-        "text_MEmqFX": {
-          "type": "text",
+        "heading_KbCpUa": {
+          "type": "heading",
           "settings": {
-            "text": "<h3><em><strong>Cocktail Short Dresses<\/strong><\/em><\/h3>"
+            "heading": "<em><strong>Cocktail Short Dresses<\/strong><\/em>",
+            "heading_size": "h2"
           }
         }
       },
       "block_order": [
-        "text_MEmqFX"
+        "heading_KbCpUa"
+      ],
+      "custom_css": [
+        ".rich-text__wrapper {box-shadow: 0 0;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 24,
+        "padding_bottom": 24
       }
     },
     "product-grid": {
@@ -81,12 +87,96 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_3tQgLz": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_J7qEhb": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Shop cocktail dresses by color<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_J7qEhb"
+      ],
+      "custom_css": [
+        ".rich-text__wrapper {box-shadow: 0 0;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "slideshow_R9mYim": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_R84dJq": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/584629a9dead4f3daa09384bb7476277-Min.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "<em><strong>Little Black Dress<\/strong><\/em>",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/black-mini-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_KHC96j": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8b932f07e82a49a194d673eb3dcd439b-Min_2.webp",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "Red Mini Sequin Dress",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_R84dJq",
+        "slide_KHC96j"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "featured_collection_8XVmgT": {
       "type": "featured-collection",
+      "custom_css": [
+        ".h2 {font-size: 95%; font-weight: 900;}"
+      ],
       "settings": {
-        "title": "",
+        "title": "Best Selling Cocktail Dresses",
         "heading_size": "h2",
-        "description": "<p>Best Selling Cocktail Dresses<\/p>",
+        "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "bachelorette-party-mini-dresses",
@@ -159,8 +249,11 @@
         "column_bkqKaR",
         "column_eUHHXL"
       ],
+      "custom_css": [
+        ".h2 {font-size: 95%; font-weight: 900;}"
+      ],
       "settings": {
-        "title": "<em><strong>Dresses for formal and semi-formal events <\/strong><\/em>",
+        "title": "<em>Dresses for formal and semi-formal events <\/em>",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -281,6 +374,9 @@
         "column_g3fCtg",
         "column_MqqA7z"
       ],
+      "custom_css": [
+        ".h2 {font-size: 95%; font-weight: 900;}"
+      ],
       "settings": {
         "title": "Categories of short cocktail party and evening dresses",
         "heading_size": "h2",
@@ -296,83 +392,6 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich_text_3tQgLz": {
-      "type": "rich-text",
-      "blocks": {
-        "text_fbGLi4": {
-          "type": "text",
-          "settings": {
-            "text": "<h4><em><strong>Shop cocktail dresses by color<\/strong><\/em><\/h4>"
-          }
-        }
-      },
-      "block_order": [
-        "text_fbGLi4"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "slideshow_R9mYim": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_R84dJq": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/584629a9dead4f3daa09384bb7476277-Min.webp",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "<em><strong>Little Black Dress<\/strong><\/em>",
-            "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/black-mini-dresses",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_KHC96j": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8b932f07e82a49a194d673eb3dcd439b-Min_2.webp",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "Red Mini Sequin Dress",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-4",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_R84dJq",
-        "slide_KHC96j"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
       }
     },
     "image_with_text_VcygcU": {
@@ -428,12 +447,12 @@
     "TAB-VRC-DEFAULT",
     "rich_text_p6KKKF",
     "product-grid",
+    "rich_text_3tQgLz",
+    "slideshow_R9mYim",
     "featured_collection_8XVmgT",
     "multicolumn_YLJ6KX",
     "slideshow_gpfeqR",
     "multicolumn_NT3WRD",
-    "rich_text_3tQgLz",
-    "slideshow_R9mYim",
     "image_with_text_VcygcU"
   ]
 }
