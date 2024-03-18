@@ -3,13 +3,15 @@
     "BANNER-VRC-minidresses": {
       "type": "vrc-banner",
       "settings": {
-        "title-banner": "",
+        "title-banner": "Mini Dresses for Women<br>Violetta & Rc",
+        "banner-movil": "shopify:\/\/shop_images\/banner-mini916.jpg",
         "posm-x-tittle1": 8,
-        "posm-y-tittle1": 8,
-        "size-m-tittle1": 45,
-        "pose-x-tittle1": 8,
-        "pose-y-tittle1": 8,
-        "size-e-tittle1": 45,
+        "posm-y-tittle1": 49,
+        "size-m-tittle1": 37,
+        "banner-escritorio": "shopify:\/\/shop_images\/banner-mini169.jpg",
+        "pose-x-tittle1": 46,
+        "pose-y-tittle1": 38,
+        "size-e-tittle1": 90,
         "font-color-tittle1": "#ffffff",
         "tittl2-banner": "",
         "size-tittle2": 20,
@@ -20,58 +22,22 @@
         "link-botton2": ""
       }
     },
-    "slideshow_q7LwzM": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_aFVpJz": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_25.png",
-            "heading": "Short evening dresses",
-            "heading_size": "h1",
-            "subheading": "Evening dresses are characterized by their details in sequins and lace fabrics.",
-            "button_label": "Show Dresses",
-            "link": "shopify:\/\/collections\/all-mini-dresses",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-4",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_aFVpJz"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "auto_rotate": true,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "rich_text_qwzbxM": {
       "type": "rich-text",
       "blocks": {
-        "text_7RHeUn": {
+        "text_xRJVYq": {
           "type": "text",
           "settings": {
-            "text": "<p><em><strong>Shop by Category<\/strong><\/em><\/p>"
+            "text": "<p><em><strong>At Violetta & Rc you will find a space for mini dresses near you. These clothing items are characterized by their short length, typically above the knee. They have been a staple in women's fashion for decades, from their popularization in the 1960s to today. These dresses are versatile and can suit a variety of styles and occasions, from casual to formal, depending on the design, fabric and accessories used. Mini dresses can feature a variety of silhouettes, from tight and fitted to loose and flowy, and can be embellished with details such as ruffles, lace, prints, or beading details. They are a popular option for evening events, casual outings or simply to show off a youthful and modern style.<\/strong><\/em><\/p>"
           }
         }
       },
       "block_order": [
-        "text_7RHeUn"
+        "text_xRJVYq"
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -107,7 +73,7 @@
             "title": "Wedding Mini Dresses",
             "text": "Sumérgete en un mundo de encanto con nuestros minivestidos de novia, confeccionados con detalles intrincados y tejidos lujosos. Desde delicado encaje hasta gasa fluida, cada vestido irradia encanto y gracia atemporales. Adueñese de la versatilidad con minivestidos con escotes en forma de corazón, estilos con hombros descubiertos o diseños elegantes con cuello halter, que le permitirán expresar su sentido único del estilo en esta ocasión memorable.\n<br><br>\nPara la novia que busca un look no tradicional o un traje de recepción elegante, nuestros minivestidos de boda ofrecen la solución perfecta. Opte por un minivestido blanco elegante y sofisticado para darle un toque moderno al atuendo nupcial, o elija un tono pastel suave para crear un ambiente romántico y caprichoso. En nuestra colección, encontrarás el minivestido ideal para complementar el tema de tu boda y tu estética personal.\n<br><br>\nComo invitada a una boda, haz una declaración de estilo con nuestra selección de minivestidos con siluetas elegantes y cortes extraordinarios. Ya sea para asistir a una ceremonia en el jardín o a una velada glamorosa, nuestros minivestidos de novia ofrecen lo que siempre habia deseado. Con opciones que van desde el clásico negro hasta vibrantes estampados florales, seguramente encontrarás el minivestido perfecto para celebrar el amor con estilo.",
             "image": "shopify:\/\/shop_images\/69c411243f9945bb81ca52864007a3c6-Max.jpg",
-            "btn": "shopify:\/\/collections\/wedding-mini-dresses",
+            "btn": "shopify:\/\/collections\/wedding",
             "btntxt": "Discover Collection"
           }
         },
@@ -142,8 +108,31 @@
       "settings": {
       }
     },
+    "rich_text_MEMFCc": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9wDhKV": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>Mini dresses are a versatile option for a wide range of events and occasions. For casual occasions, bohemian-style mini dresses with floral prints or lace details offer a relaxed yet elegant look. For evening events, tight mini dresses with beaded or sequin details add a touch of glamour. For romantic dates, mini dresses with sensual cuts or lace details can be a seductive option with colors like red or pink. For formal events, mini dresses in luxurious fabrics like silk or satin, in classic colors like black or white, provide a comfortable look. In short, mini dresses offer a wide variety of options to suit any occasion, from casual to formal, allowing women to express their personal style with confidence and elegance.<\/strong><\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_9wDhKV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "settings": {
         "products_per_page": 12,
         "columns_desktop": 4,
@@ -159,6 +148,86 @@
         "enable_sorting": true,
         "columns_mobile": "2",
         "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_xzAmC3": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TqVi9C": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Fashion In Mini Dresses <\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_xFEtCi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>In the world of fashion, mini dresses are like flashes of charm. We invite you to learn more about this fashion that has conquered hearts and closets over the years. From classics like the little black dress, to floral mini dresses, mini dresses are versatile and full of personality. Are you ready to immerse yourself in this universe of style? Discover more about these iconic pieces on a journey full of miniature fashion. 🌟👗✨<\/strong><\/em><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_JcLXre": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Read More",
+            "button_link": "shopify:\/\/pages\/mini-dresses",
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_TqVi9C",
+        "text_xFEtCi",
+        "button_JcLXre"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Violetta_Rc_26_1.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-5",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "collapsible_content_RiJcMz": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_yeYxMm": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Black mini dresses for cocktails and the Iconic black mini dress",
+            "icon": "heart",
+            "row_content": "<p><em>Short cocktail dresses for juniors and women.<\/em><\/p><p><em> Cocktail dresses add glamour, elegance and style at Violetta & RC we know it and we have many short and sexy outfits to choose from!  We love that you look your best in our fashionable mini dresses, so you can light up the night in your new dress, whether for a dressy or casual event.<\/em><\/p><p><\/p><p><em> Sexy Short Dresses for a Formal Affair<\/em><\/p><p><em> There is nothing more sophisticated and sexy than a well-fitted cocktail dress to turn heads and shine at your next special event.  While elegant maxi dresses add drama, sexy short dresses feel fun and fresh.  Whether you're attending a wedding or a gallery opening, a short dress will ensure you shine.<\/em><\/p><p><\/p><p><em> The high hemlines of short cocktail dresses allow you to show off your personal style through accessories: rock statement black heels or cute flats to complete your look, and always remember that a black mini dress can almost always benefit from a little shine and style.  Although short cocktail dresses highlight your legs, they are iconic pieces for any event.<\/em><\/p><p><\/p><p><em> Cute and short dresses for everyone<\/em><\/p><p><em> You don't need an official cocktail hour to show off your short semi-formal dresses: they're great outfits for dates, going to the movies, or dinner with friends. They look great at any event with a semi-formal dress code. Some even work for high-end office events. level.  We have dresses for every style and budget, remember that the most important thing is that you feel comfortable with the dress you wear and that you shine with your own light and that you can be ready for anything.  Don't forget to bring a cute tote bag to hold your going-out essentials!<\/em><\/p><p><\/p><p><em> Be the best dressed teenager<\/em><\/p><p><em> Short prom dresses for juniors can be worn to prom, homecoming, or graduation parties, but good fashion doesn't just apply to special school occasions!  Pretty, short dresses are always in fashion, they remain essential garments for your wardrobe over time and make them the center of attention: wear them to birthday parties, bridal showers, dances and much more!  And the right cocktail dress grows with the wearer, so you'll be ready for date night.<\/em><\/p><p><\/p><p><em> The charm of women's short casual dresses<\/em><\/p><p><em> The short and casual dresses for women look good almost anywhere and adapt to almost any time of the year. The floral mini dresses will be perfect for summer and winter, while the knitted sweater-style dresses will be your favorites in autumn and winter and you can combine them with tights and a knit hat, or opt for sandals and sunglasses in summer.  These versatile mini dresses will always keep you on trend and Violetta & Rc makes it easy to find the best cuts in the trendiest fabrics at all times.<\/em><\/p><p><\/p><p><em> Get more for less with our sexy short dresses<\/em><\/p><p><em> With our affordable options, it's easy to add a few more dresses to your wardrobe, whether you're looking for sexy short dresses for date night or more modest mini dresses for casual dresses, the variety is immense and that's the best because you'll always have the best options to choose from. .  And don't forget, soon we will have accessories to complete your outfit and you can find everything you are looking for in one place, we will have eye-catching necklaces, and everything you need to complete a spectacular set, rings and bracelets.  Shop our selection and we promise you'll step out in style!<\/em><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_yeYxMm"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "row",
+        "color_scheme": "scheme-28341d26-9284-43b7-92e9-0c0ba4ced626",
+        "container_color_scheme": "scheme-5",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/revistaaestetic.png",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -222,95 +291,16 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_with_text_xzAmC3": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_TqVi9C": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em><strong>Fashion In Mini Dresses <\/strong><\/em>",
-            "heading_size": "h2"
-          }
-        },
-        "text_xFEtCi": {
-          "type": "text",
-          "settings": {
-            "text": "<p>In the world of fashion, mini dresses are like flashes of charm. We invite you to learn more about this fashion that has conquered hearts and closets over the years. From classics like the little black dress, to floral mini dresses, mini dresses are versatile and full of personality. Are you ready to immerse yourself in this universe of style? Discover more about these iconic pieces on a journey full of miniature fashion. 🌟👗✨<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_JcLXre": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read More",
-            "button_link": "shopify:\/\/pages\/mini-dresses",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_TqVi9C",
-        "text_xFEtCi",
-        "button_JcLXre"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Violetta_Rc_26_1.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-1",
-        "color_scheme": "scheme-5",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 12
-      }
-    },
-    "collapsible_content_RiJcMz": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_yeYxMm": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Black mini dresses for cocktails and the Iconic black mini dress",
-            "icon": "heart",
-            "row_content": "<p><em>Short cocktail dresses for juniors and women.<\/em><\/p><p><em> Cocktail dresses add glamour, elegance and style at Violetta & RC we know it and we have many short and sexy outfits to choose from!  We love that you look your best in our fashionable mini dresses, so you can light up the night in your new dress, whether for a dressy or casual event.<\/em><\/p><p><\/p><p><em> Sexy Short Dresses for a Formal Affair<\/em><\/p><p><em> There is nothing more sophisticated and sexy than a well-fitted cocktail dress to turn heads and shine at your next special event.  While elegant maxi dresses add drama, sexy short dresses feel fun and fresh.  Whether you're attending a wedding or a gallery opening, a short dress will ensure you shine.<\/em><\/p><p><\/p><p><em> The high hemlines of short cocktail dresses allow you to show off your personal style through accessories: rock statement black heels or cute flats to complete your look, and always remember that a black mini dress can almost always benefit from a little shine and style.  Although short cocktail dresses highlight your legs, they are iconic pieces for any event.<\/em><\/p><p><\/p><p><em> Cute and short dresses for everyone<\/em><\/p><p><em> You don't need an official cocktail hour to show off your short semi-formal dresses: they're great outfits for dates, going to the movies, or dinner with friends. They look great at any event with a semi-formal dress code. Some even work for high-end office events. level.  We have dresses for every style and budget, remember that the most important thing is that you feel comfortable with the dress you wear and that you shine with your own light and that you can be ready for anything.  Don't forget to bring a cute tote bag to hold your going-out essentials!<\/em><\/p><p><\/p><p><em> Be the best dressed teenager<\/em><\/p><p><em> Short prom dresses for juniors can be worn to prom, homecoming, or graduation parties, but good fashion doesn't just apply to special school occasions!  Pretty, short dresses are always in fashion, they remain essential garments for your wardrobe over time and make them the center of attention: wear them to birthday parties, bridal showers, dances and much more!  And the right cocktail dress grows with the wearer, so you'll be ready for date night.<\/em><\/p><p><\/p><p><em> The charm of women's short casual dresses<\/em><\/p><p><em> The short and casual dresses for women look good almost anywhere and adapt to almost any time of the year. The floral mini dresses will be perfect for summer and winter, while the knitted sweater-style dresses will be your favorites in autumn and winter and you can combine them with tights and a knit hat, or opt for sandals and sunglasses in summer.  These versatile mini dresses will always keep you on trend and Violetta & Rc makes it easy to find the best cuts in the trendiest fabrics at all times.<\/em><\/p><p><\/p><p><em> Get more for less with our sexy short dresses<\/em><\/p><p><em> With our affordable options, it's easy to add a few more dresses to your wardrobe, whether you're looking for sexy short dresses for date night or more modest mini dresses for casual dresses, the variety is immense and that's the best because you'll always have the best options to choose from. .  And don't forget, soon we will have accessories to complete your outfit and you can find everything you are looking for in one place, we will have eye-catching necklaces, and everything you need to complete a spectacular set, rings and bracelets.  Shop our selection and we promise you'll step out in style!<\/em><\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_yeYxMm"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "",
-        "heading_size": "h2",
-        "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "scheme-28341d26-9284-43b7-92e9-0c0ba4ced626",
-        "container_color_scheme": "scheme-5",
-        "open_first_collapsible_row": false,
-        "image": "shopify:\/\/shop_images\/revistaaestetic.png",
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "BANNER-VRC-minidresses",
-    "slideshow_q7LwzM",
     "rich_text_qwzbxM",
     "TAB-VRC-minidresses",
+    "rich_text_MEMFCc",
     "product-grid",
-    "collapsible_content_9jMVxh",
     "image_with_text_xzAmC3",
-    "collapsible_content_RiJcMz"
+    "collapsible_content_RiJcMz",
+    "collapsible_content_9jMVxh"
   ]
 }

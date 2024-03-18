@@ -241,7 +241,7 @@
             "title": "",
             "text": "<h5><em><strong>Party Outfit<\/strong><\/em><\/h5>",
             "link_label": "Show More",
-            "link": "shopify:\/\/collections\/baby-shower-mini-dresses"
+            "link": "shopify:\/\/collections\/party-outfit"
           }
         },
         "column_DErhB3": {
@@ -334,7 +334,7 @@
             "link": "shopify:\/\/collections\/black-mini-dresses",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-3",
@@ -352,7 +352,7 @@
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-4",

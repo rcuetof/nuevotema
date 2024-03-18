@@ -11,6 +11,7 @@
     },
     "vrc-banner": {
       "type": "vrc-banner",
+      "disabled": true,
       "settings": {
         "title-banner": "Wedding",
         "banner-movil": "shopify:\/\/shop_images\/bridesmiad916_254f151e-4175-4170-ae9d-f4356da34059.png",
@@ -21,7 +22,7 @@
         "pose-x-tittle1": 8,
         "pose-y-tittle1": 8,
         "size-e-tittle1": 45,
-        "font-color-tittle1": "#FFFFFF",
+        "font-color-tittle1": "#ffffff",
         "tittl2-banner": "Collections of mini dresses for brides",
         "size-tittle2": 17,
         "font-color-tittle2": "#000000",
@@ -31,13 +32,49 @@
         "link-botton2": ""
       }
     },
+    "slideshow_d4aDUR": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_9CzPNg": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_36.png",
+            "heading": "<strong>Short Dresses For Wedding <\/strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_9CzPNg"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "rich_text_gxX6cJ": {
       "type": "rich-text",
       "blocks": {
         "text_7mkkNh": {
           "type": "text",
           "settings": {
-            "text": "<p>Shop by Category<\/p>"
+            "text": "<p>Wedding Mini Dresses<\/p>"
           }
         }
       },
@@ -181,43 +218,61 @@
         "padding_bottom": 36
       }
     },
-    "rich_text_aG3T8T": {
-      "type": "rich-text",
+    "image_with_text_MMEtxT": {
+      "type": "image-with-text",
       "blocks": {
-        "heading_MWjgNA": {
+        "heading_FhXmmQ": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>Mini Dresses Collections for Wedding<\/strong><\/em>",
+            "heading": "Wedding Dresses For Women",
             "heading_size": "h2"
           }
         },
-        "text_qF8d4J": {
+        "text_zRAUyJ": {
           "type": "text",
           "settings": {
-            "text": "<p>A wedding is an event where we will keep memorable memories with friends and family, being a bridesmaid is one of the most beautiful experiences, sharing with the bride the most important day of her life. The mother of the bride will also keep that moment as one of the most emotional days of her life, and whether you are invited to this event regardless of where it takes place, at sunset on the beach or in a beautiful garden, you will find here the special mini dress for you<\/p>"
+            "text": "<h5><em><strong>A wedding is an event where we will keep memorable memories with friends and family, being a bridesmaid is one of the most beautiful experiences, sharing with the bride the most important day of her life. The mother of the bride will also keep that moment as one of the most emotional days of her life, and whether you are invited to this event regardless of where it takes place, at sunset on the beach or in a beautiful garden, you will find here the special mini dress for you<\/strong><\/em><\/h5>",
+            "text_style": "body"
+          }
+        },
+        "button_ETMXn8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Style guide for wedding guest.. Read More",
+            "button_link": "shopify:\/\/collections\/style-guide-for-wedding-guest",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "heading_MWjgNA",
-        "text_qF8d4J"
+        "heading_FhXmmQ",
+        "text_zRAUyJ",
+        "button_ETMXn8"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "image": "shopify:\/\/shop_images\/88bb3609eca6456fa2ded70dbaeb7d7a-Max.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "banner",
     "vrc-banner",
+    "slideshow_d4aDUR",
     "rich_text_gxX6cJ",
     "tab-container",
     "product-grid",
-    "rich_text_aG3T8T"
+    "image_with_text_MMEtxT"
   ]
 }
