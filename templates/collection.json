@@ -78,8 +78,7 @@
     "TEXT": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".collection-hero__title {display: none;}",
-        ".collection-hero__description {font-size: 90%;}"
+
       ],
       "settings": {
         "show_collection_title": false,
