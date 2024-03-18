@@ -68,28 +68,6 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "rich_text_gxX6cJ": {
-      "type": "rich-text",
-      "blocks": {
-        "text_7mkkNh": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Wedding Mini Dresses<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_7mkkNh"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "tab-container": {
       "type": "tab-container",
       "blocks": {
@@ -198,6 +176,28 @@
       "settings": {
       }
     },
+    "rich_text_gxX6cJ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_7mkkNh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wedding Mini Dresses<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_7mkkNh"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -214,7 +214,7 @@
         "filter_type": "horizontal",
         "enable_sorting": true,
         "columns_mobile": "2",
-        "padding_top": 36,
+        "padding_top": 16,
         "padding_bottom": 36
       }
     },
@@ -270,8 +270,8 @@
     "banner",
     "vrc-banner",
     "slideshow_d4aDUR",
-    "rich_text_gxX6cJ",
     "tab-container",
+    "rich_text_gxX6cJ",
     "product-grid",
     "image_with_text_MMEtxT"
   ]
