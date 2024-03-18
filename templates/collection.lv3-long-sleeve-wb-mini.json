@@ -91,7 +91,7 @@
         "text_TTkhi4": {
           "type": "text",
           "settings": {
-            "text": "<p>Al considerar selecciones de manga corta para vestimenta de trabajo y de negocios, es crucial priorizar el profesionalismo sin sacrificar el estilo. Busque cortes a medida y diseños estructurados que ofrezcan una apariencia pulida adecuada para el entorno de oficina. Opte por tejidos de alta calidad como mezclas de algodón, lino o materiales resistentes a las arrugas que garanticen comodidad y durabilidad durante toda la jornada laboral.<\/p>"
+            "text": "<p><strong>When considering short sleeve selections for work and business attire, it's crucial to prioritize professionalism without sacrificing style. Look for tailored cuts and structured designs that offer a polished look suitable for the office environment. Opt for high-quality fabrics such as cotton blends, linen or wrinkle-resistant materials that ensure comfort and durability throughout the workday.<\/strong><\/p>"
           }
         }
       },
@@ -103,7 +103,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 28,
