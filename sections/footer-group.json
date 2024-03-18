@@ -10,10 +10,18 @@
           "settings": {
             "show_social": false
           }
+        },
+        "link_list_dCjxma": {
+          "type": "link_list",
+          "settings": {
+            "heading": "",
+            "menu": "policy"
+          }
         }
       },
       "block_order": [
-        "brand_information_H8Pm9Y"
+        "brand_information_H8Pm9Y",
+        "link_list_dCjxma"
       ],
       "custom_css": [
         ".footer__copyright {display: none;}"
