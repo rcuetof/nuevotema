@@ -11,6 +11,7 @@
   text-align: left;
   text-align: justify;
   font-style: italic;
+  user-select: element;
 }
 .rich-text__wrapper:hover
 {
