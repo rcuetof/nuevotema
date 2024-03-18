@@ -20,7 +20,7 @@
 }
 
 .collection-hero__text-wrapper {
-
+ margin: auto;
  justify-items: center;
  width: 100%
 }
