@@ -1,0 +1,121 @@
+{
+  "sections": {
+    "rich_text_gPmGmh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KaRtA8": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Mini Formal Dresses for Gala or Black-Tie Red Selection<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KaRtA8"
+      ],
+      "custom_css": [
+        ".rich-text__wrapper {box-shadow: 0 0;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "BANNER-VRC-DEFAULT": {
+      "type": "vrc-banner",
+      "settings": {
+        "title-banner": "",
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#ffffff",
+        "tittl2-banner": "",
+        "size-tittle2": 25,
+        "font-color-tittle2": "#000000",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
+      }
+    },
+    "TAB-VRC-DEFAULT": {
+      "type": "tab-container",
+      "blocks": {
+        "text_x9bp88": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_x9bp88"
+      ],
+      "settings": {
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_XgbmRm": {
+      "type": "rich-text",
+      "blocks": {
+        "text_TTkhi4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dark green dresses for black tie events, also known as black tie, are an elegant and sophisticated option that adds a touch of originality and freshness to the traditional dress code.  Dark green is a versatile color that conveys elegance and style, perfect for formal occasions such as galas, weddings or gala dinners.<br\/><br\/> When choosing a dark green dress for a black-tie event, it is important to consider the silhouette and style that best suits your body type and personal preferences. If your body is hourglass or triangle type, fitted dresses are ideal to highlight your figure, while an A-line dress or with ties at the waist will be ideal for a rectangular or apple body.<br\/><br\/> In addition to the design, the quality of the fabric and construction are key aspects to consider when selecting a dark green ball gown.  Fabrics such as satin, velvet or silk provide a luxurious look and an elegant drape that enhances the elegance of the ensemble.<br\/><br\/> Accessories are the key to completing an impeccable black tie look with a dark green dress.  Silver jewelry usually complements dark green perfectly, while shoes and bags in neutral colors such as black or nude add balance to the outfit.<br\/><br\/> In conclusion, dark green dresses for black-tie events are an elegant and distinctive choice that allows you to stand out in style at any formal occasion.  With careful attention to design, fabric and accessories, you can create an unforgettable gala look that reflects your personality and sophistication.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_TTkhi4"
+      ],
+      "custom_css": [
+        ".rich-text__wrapper {padding: 30px 0 30px 0;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "rich_text_gPmGmh",
+    "BANNER-VRC-DEFAULT",
+    "TAB-VRC-DEFAULT",
+    "product-grid",
+    "rich_text_XgbmRm"
+  ]
+}
