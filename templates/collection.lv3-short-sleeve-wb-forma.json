@@ -6,32 +6,13 @@
         "heading_KaRtA8": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text_VFnCQw": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "button_9EyRHP": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "heading": "Mini Formal Dresses for Work and Business Short Sleeve Selection",
+            "heading_size": "h2"
           }
         }
       },
       "block_order": [
-        "heading_KaRtA8",
-        "text_VFnCQw",
-        "button_9EyRHP"
+        "heading_KaRtA8"
       ],
       "settings": {
         "desktop_content_position": "center",
