@@ -73,10 +73,10 @@
     "TEXT": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".collection-hero__title{display:none;}"
+        ".collection-hero__title {display: none;}"
       ],
       "settings": {
-        "show_collection_description": false,
+        "show_collection_description": true,
         "show_collection_image": false,
         "color_scheme": "scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
       }
