@@ -6,9 +6,12 @@
         ".collection-hero__title {font-size: 130%;}"
       ],
       "settings": {
+        "show_collection_title": true,
+        "sizetitle": 16,
         "show_collection_description": false,
+        "sizetext": 12,
         "show_collection_image": false,
-        "color_scheme": "scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
+        "color_scheme": "scheme-1"
       }
     },
     "BANNER-VRC-DEFAULT": {
@@ -79,7 +82,10 @@
         ".collection-hero__description {font-size: 90%;}"
       ],
       "settings": {
+        "show_collection_title": false,
+        "sizetitle": 16,
         "show_collection_description": true,
+        "sizetext": 12,
         "show_collection_image": false,
         "color_scheme": "scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
       }
