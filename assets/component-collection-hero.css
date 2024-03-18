@@ -43,11 +43,11 @@
 }
 
 .collection-hero__title {
-  margin: 2.5rem 0;
   display: flex;
   justify-content: center;
   align-items: center;
   margin: auto;
+  margin-top: 30px;
 }
 
 .collection-hero__title + .collection-hero__description {
