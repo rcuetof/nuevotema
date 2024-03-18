@@ -111,7 +111,7 @@ body:not(.usf-collections-page) .usf-sr-inputbox {
     flex-wrap: wrap;
     display: flex;
     align-items: center;
-    width: auto;
+    width: 100%;
     margin: auto;
     justify-content: center
 }
