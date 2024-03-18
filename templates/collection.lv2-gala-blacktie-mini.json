@@ -47,7 +47,7 @@
         "heading_KbCpUa": {
           "type": "heading",
           "settings": {
-            "heading": "<em><strong>Work and Business Short Dresses<\/strong><\/em>",
+            "heading": "<em><strong>Gala or <\/strong><\/em><strong>Black-Tie<\/strong><em><strong> Short Dresses<\/strong><\/em>",
             "heading_size": "h2"
           }
         }
@@ -119,10 +119,10 @@
         "slide_R84dJq": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4a752ca6-c2a6-4932-9d72-589c02c0d011-Max.jpg",
+            "image": "shopify:\/\/shop_images\/f1338cc13c874764a3e34aef1cbc437f-Max.jpg",
             "heading": "",
             "heading_size": "h1",
-            "subheading": "<em><strong>Navy Blue Little Dress<\/strong><\/em>",
+            "subheading": "<em><strong>Red Gala Little Dresses<\/strong><\/em>",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/work-and-business-formal-mini-dresses-blue-selection",
             "button_style_secondary": false,
@@ -179,7 +179,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "best-seller-work-and-business",
+        "collection": "black-tie-and-gala-formal-mini-dresses-best-seller",
         "products_to_show": 25,
         "columns_desktop": 4,
         "full_width": false,
@@ -235,9 +235,9 @@
         "column_eUHHXL": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max.webp",
+            "image": "shopify:\/\/shop_images\/cad37b60efdf45778a8ba6a37873e3bf-Max.jpg",
             "title": "",
-            "text": "<h5><em><strong>Gala and Black Tie Mini Dresses<\/strong><\/em><\/h5>",
+            "text": "<h5><em><strong>Work and Business Mini Dresses<\/strong><\/em><\/h5>",
             "link_label": "Show More",
             "link": "shopify:\/\/collections\/gala-formal-mini-dresses"
           }
