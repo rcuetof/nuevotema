@@ -20,7 +20,7 @@
 }
 
 .collection-hero__text-wrapper {
- margin: auto;
+
  justify-items: center;
  width: 100%
 }
@@ -33,8 +33,10 @@
   .collection-hero__inner {
     align-items: center;
     justify-items: center;
+    justify-self: center;
     flex-direction: row;
     padding-bottom: 0;
+    margin: auto;
   }
 }
 
