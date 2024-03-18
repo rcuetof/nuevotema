@@ -105,20 +105,10 @@
         "text_NEPCPt": {
           "type": "text",
           "settings": {
-            "title": "Black Tie Mini Dresses",
+            "title": "Black Tie and Gala",
             "text": "Black tie mini event dress designs often incorporate luxurious details and high-quality fabrics to create an opulent and elegant look. From intricate lace to flowing silks and beaded details, these dresses stand out for their attention to detail and exquisite craftsmanship. Although the length may be shorter, sophistication and elegance are maintained through refined silhouettes and impeccable lines.\n<br><br>\nColors often lean towards classic shades such as black, navy blue or burgundy, which evoke a sense of timeless glamour. Plus, cuts can range from fitted and slim to looser, flowy styles, allowing women to find the perfect balance between comfort and style.",
             "image": "shopify:\/\/shop_images\/a28ddd6550cf4df9ba65820c2b9536b9-Min.webp",
             "btn": "shopify:\/\/collections\/black-tie-formal-mini-dresses",
-            "btntxt": "Discover Collection"
-          }
-        },
-        "text_rizVCM": {
-          "type": "text",
-          "settings": {
-            "title": "Gala Mini Dresses",
-            "text": "Gala Mini Dresses offer a contemporary and elegant interpretation of classic glamour, ideal for formal and high-profile events. These dresses, with their characteristic length above the knee, add a dose of modernity and freshness to the traditional gala style.\n<br><br>\nMini dress designs for galas usually stand out for their exquisite tailoring and attention to detail. Luxurious fabrics such as silk, satin or velvet are used, adding a touch of opulence and elegance. Cuts can vary from fitted and fitted silhouettes to looser styles, highlighting colors such as wine red, navy blue or emerald green or other more vibrant and striking tones, depending on personal taste and the occasion.\n<br><br>\nExtravagant details such as sequins, intricate embroidery and lace applications add extra sparkle and a touch of glamor to these dresses, ensuring women stand out at any gala event.",
-            "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max.webp",
-            "btn": "shopify:\/\/collections\/gala-formal-mini-dresses",
             "btntxt": "Discover Collection"
           }
         }
@@ -126,8 +116,7 @@
       "block_order": [
         "text_wHaQBp",
         "text_FmbV8D",
-        "text_NEPCPt",
-        "text_rizVCM"
+        "text_NEPCPt"
       ],
       "custom_css": [
 
