@@ -137,10 +137,10 @@
         "slide_KHC96j": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/438ec126c7d147cf8d187d75b3361ff3-Min.jpg",
+            "image": "shopify:\/\/shop_images\/df479a16-7abf-484b-b063-0ffe46b7cf83-Max.jpg",
             "heading": "",
             "heading_size": "h1",
-            "subheading": "Business Short White Dress",
+            "subheading": "Green Black-Tie Dresses",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/work-and-business-formal-mini-dresses-white-selection",
             "button_style_secondary": false,
@@ -148,7 +148,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-2",
+            "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
         }
