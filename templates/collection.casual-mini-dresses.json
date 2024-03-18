@@ -131,6 +131,28 @@
       "settings": {
       }
     },
+    "rich_text_hpMd3P": {
+      "type": "rich-text",
+      "blocks": {
+        "text_E6EEJf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Casual Short Dresses Collection<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_E6EEJf"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -240,6 +262,7 @@
     "rich_text_XkFMYy",
     "BANNER-VRC-CASUAL-DRESSES",
     "TAB-VRC-CASUAL-DRESSES",
+    "rich_text_hpMd3P",
     "product-grid",
     "slideshow_REeDa3",
     "featured_collection_4egCz4"
