@@ -312,9 +312,11 @@
         "padding_bottom": 36
       }
     },
-    "GUIA-FROAML":{
-    "type": "vrc-multiboxg"
-  }
+    "GUIA": {
+      "type": "vrc-multiboxg",
+      "settings": {
+      }
+    }
   },
   "order": [
     "BANNER-VRC-DEFAULT",
@@ -326,6 +328,6 @@
     "featured_collection_6m76KY",
     "slideshow_8UfCfj",
     "image_with_text_JfFL6J",
-    "vrc-multiboxg"
+    "GUIA"
   ]
 }
