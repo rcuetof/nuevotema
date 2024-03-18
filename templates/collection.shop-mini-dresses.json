@@ -37,7 +37,7 @@
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -108,6 +108,28 @@
       "settings": {
       }
     },
+    "rich_text_MEMFCc": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9wDhKV": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em><strong>Mini dresses are a versatile option for a wide range of events and occasions. For casual occasions, bohemian-style mini dresses with floral prints or lace details offer a relaxed yet elegant look. For evening events, tight mini dresses with beaded or sequin details add a touch of glamour. For romantic dates, mini dresses with sensual cuts or lace details can be a seductive option with colors like red or pink. For formal events, mini dresses in luxurious fabrics like silk or satin, in classic colors like black or white, provide a comfortable look. In short, mini dresses offer a wide variety of options to suit any occasion, from casual to formal, allowing women to express their personal style with confidence and elegance.<\/strong><\/em><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_9wDhKV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
@@ -142,7 +164,7 @@
         "text_xFEtCi": {
           "type": "text",
           "settings": {
-            "text": "<p>In the world of fashion, mini dresses are like flashes of charm. We invite you to learn more about this fashion that has conquered hearts and closets over the years. From classics like the little black dress, to floral mini dresses, mini dresses are versatile and full of personality. Are you ready to immerse yourself in this universe of style? Discover more about these iconic pieces on a journey full of miniature fashion. 🌟👗✨<\/p>",
+            "text": "<p><em><strong>In the world of fashion, mini dresses are like flashes of charm. We invite you to learn more about this fashion that has conquered hearts and closets over the years. From classics like the little black dress, to floral mini dresses, mini dresses are versatile and full of personality. Are you ready to immerse yourself in this universe of style? Discover more about these iconic pieces on a journey full of miniature fashion. 🌟👗✨<\/strong><\/em><\/p>",
             "text_style": "body"
           }
         },
@@ -310,6 +332,7 @@
     "BANNER-VRC-minidresses",
     "rich_text_qwzbxM",
     "TAB-VRC-minidresses",
+    "rich_text_MEMFCc",
     "product-grid",
     "image_with_text_xzAmC3",
     "collapsible_content_RiJcMz",
