@@ -104,13 +104,14 @@ body:not(.usf-collections-page) .usf-sr-inputbox {
 
 /*product select option*/
 .usf-swatchs ul {
+
     text-align: center;
     padding: 3px;
     list-style: none;
     flex-wrap: wrap;
     display: flex;
     align-items: center;
-    width: fit-content;
+    width: auto;
     margin: auto;
     justify-content: center
 }
