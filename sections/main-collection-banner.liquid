@@ -13,6 +13,11 @@
   <div class="collection-hero__inner page-width {% if settings.animations_reveal_on_scroll %} scroll-trigger animate--fade-in{% endif %}">
     <div class="collection-hero__text-wrapper">
       {%- if section.settings.show_collection_title -%}
+        {% stylesheet %}
+          .collection-hero__title {
+            font-size: {{ section.settings.sizetitle }}%;
+          }
+        {% endstylesheet %}
         <h1 class="collection-hero__title">
           <span class="visually-hidden">{{ 'sections.collection_template.title' | t }}:
           </span>
@@ -55,6 +60,8 @@
         "type": "paragraph",
         "content": "t:sections.main-collection-banner.settings.paragraph.content"
       },
+
+
       {
         "type": "checkbox",
         "id": "show_collection_title",
@@ -62,12 +69,21 @@
         "label": "Mostrar Titulo de la Coleccion"
       },
       {
+        "type": "range",
+        "id": "sizetitle",
+        "min": 1,
+        "max": 200,
+        "step": 1,
+        "unit": "%",
+        "label": "Tamaño del Titulo",
+        "default": 100
+      },
+      {
         "type": "checkbox",
         "id": "show_collection_description",
         "default": true,
         "label": "t:sections.main-collection-banner.settings.show_collection_description.label"
-      },
-      {
+      }, {
         "type": "checkbox",
         "id": "show_collection_image",
         "default": false,
