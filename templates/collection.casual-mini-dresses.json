@@ -84,7 +84,7 @@
         "text_JANRPi": {
           "type": "text",
           "settings": {
-            "title": "Movies Dresses",
+            "title": "Movies  and Date Dresses",
             "text": "",
             "image": "shopify:\/\/shop_images\/7b75011fb5b3448eae763926f62cad2b-Max.jpg",
             "btn": "shopify:\/\/collections\/movie-causal-mini-dresses",
@@ -100,33 +100,11 @@
             "btn": "",
             "btntxt": "Discover Collection"
           }
-        },
-        "text_chgpEY": {
-          "type": "text",
-          "settings": {
-            "title": "BBQ Outfit",
-            "text": "",
-            "image": "shopify:\/\/shop_images\/9cf410ee-b74d-41e0-b5ea-99b20c9ff811-Max.jpg",
-            "btn": "",
-            "btntxt": "Discover Collection"
-          }
-        },
-        "text_pkQVMe": {
-          "type": "text",
-          "settings": {
-            "title": "Casual Date Night Outfit",
-            "text": "",
-            "image": "shopify:\/\/shop_images\/bfc367d0-5cd4-4a28-a2ff-a4d698f62b36-Max.jpg",
-            "btn": "",
-            "btntxt": "Discover Collection"
-          }
         }
       },
       "block_order": [
         "text_JANRPi",
-        "text_LYzJin",
-        "text_chgpEY",
-        "text_pkQVMe"
+        "text_LYzJin"
       ],
       "settings": {
       }
