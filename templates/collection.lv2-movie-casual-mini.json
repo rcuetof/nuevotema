@@ -265,6 +265,60 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "slideshow_JYPX9L": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_Vwzh3y": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/c03f21485b2b44bdbc8f5f1a435bb0f8-Min_007c2628-0118-48ec-aee5-344a97ce2286.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "T-shirt Casual Mini Dress",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_GG8jHU": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_Vwzh3y",
+        "slide_GG8jHU"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -277,6 +331,7 @@
     "GUIDE",
     "rich_text_6nWqY7",
     "slideshow_b7VCFd",
-    "multicolumn_VUi9n8"
+    "multicolumn_VUi9n8",
+    "slideshow_JYPX9L"
   ]
 }
