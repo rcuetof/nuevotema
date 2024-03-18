@@ -324,15 +324,6 @@
     "multicolumn_mkrtaq": {
       "type": "multicolumn",
       "blocks": {
-        "column_Rpd9UA": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_hC6Ai4": {
           "type": "column",
           "settings": {
@@ -342,11 +333,21 @@
             "link_label": "Show More",
             "link": "shopify:\/\/collections\/casua-short-dresses-bohol"
           }
+        },
+        "column_LMezTe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1939cd1d-2b0e-4dcc-95c4-0175cdefff47-Max.jpg",
+            "title": "",
+            "text": "<p>Mini sundress<\/p>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/casual-mini-sundreess"
+          }
         }
       },
       "block_order": [
-        "column_Rpd9UA",
-        "column_hC6Ai4"
+        "column_hC6Ai4",
+        "column_LMezTe"
       ],
       "settings": {
         "title": "",
