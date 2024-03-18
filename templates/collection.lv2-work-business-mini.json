@@ -313,6 +313,9 @@
         "slide_hKt7aD",
         "slide_aBj79g"
       ],
+      "custom_css": [
+        ".h1{font-size:110%}"
+      ],
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
