@@ -21,7 +21,6 @@
 
 .collection-hero__text-wrapper {
  margin: auto;
- position: absolute;
 }
 
 @media screen and (min-width: 750px) {
