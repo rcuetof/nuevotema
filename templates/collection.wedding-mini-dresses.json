@@ -229,7 +229,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "",
+        "collection": "all-dresses",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -247,6 +247,42 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "slideshow_cdCKYR": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_hqyBHV": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_36.png",
+            "heading": "<strong>Short Dresses For Wedding <\/strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_hqyBHV"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
       }
     },
     "image_with_text_MMEtxT": {
@@ -305,6 +341,7 @@
     "rich_text_gxX6cJ",
     "product-grid",
     "featured_collection_8A9tR4",
+    "slideshow_cdCKYR",
     "image_with_text_MMEtxT"
   ]
 }
