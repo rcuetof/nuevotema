@@ -51,12 +51,14 @@
 }
 .tab-content h3 {
     color: #333;
-    user-select: none;
+    user-select: none; /* Evita que se seleccione el texto */
+    pointer-events: none; 
  }
 
 .tab-content p {
     color: #666;
-    user-select: none;
+    user-select: none; /* Evita que se seleccione el texto */
+    pointer-events: none; 
 }
 
 
