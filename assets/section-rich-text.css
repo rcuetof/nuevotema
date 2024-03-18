@@ -16,7 +16,7 @@
 }
 .rich-text__wrapper:hover
 {
-  text-shadow: 1px 1px 20px rgba(0, 0, 0, 0.1);;
+  text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.3);;
 }
 .rich-text:not(.rich-text--full-width) .rich-text__wrapper {
   margin: auto;
