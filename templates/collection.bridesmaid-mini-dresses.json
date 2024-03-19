@@ -56,8 +56,8 @@
             "image": "shopify:\/\/shop_images\/3a974a489f97425083a412ade97ce25e-Max.jpg",
             "title": "",
             "text": "<h5><em><strong>Blue Short Bridesmaid Dresses<\/strong><\/em><\/h5>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/bridesmaid-blue-mini-dresses"
           }
         },
         "column_yYaYNi": {
@@ -66,8 +66,8 @@
             "image": "shopify:\/\/shop_images\/bd4504a0-d4d4-4930-98f9-912d8ef6b340-Max.jpg",
             "title": "",
             "text": "<h5><em><strong>Pink Short Bridesmaid Dresses<\/strong><\/em><\/h5>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/pink-bridesmaid-mini-dresses"
           }
         },
         "column_facejq": {
@@ -141,44 +141,6 @@
         "filter_type": "horizontal",
         "enable_sorting": true,
         "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_cRdGd7": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Qjyf9d": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em><strong>Bridesmaid Short Dress Styles<\/strong><\/em>",
-            "heading_size": "h2"
-          }
-        },
-        "text_PgGkjB": {
-          "type": "text",
-          "settings": {
-            "text": "<h5><em><strong>Being a bridesmaid is one of the wonderful experiences, to share with friends and family a special day where a friend, sister or loved one will unite her life with the person she loves, without a doubt it is an event that will cause nostalgia and good moments in the future, that's why wearing some bridesmaid dresses that make you feel beautiful, will make you shine on a day as happy as this. The most used colors for this event are usually pinks in soft tones or greens, short blue dresses , but a short black bridesmaid dress can also be a great option, it will depend on the dress code that the bride and groom choose but we want to give you options among the most common color palette for bridesmaids options to find the bridesmaid dress ideal short for you<\/strong><\/em><\/h5>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Qjyf9d",
-        "text_PgGkjB"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/50007f505d4a4581b0efd569ea76f7ca-Max.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -261,6 +223,44 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_cRdGd7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Qjyf9d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Bridesmaid Short Dress Styles<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_PgGkjB": {
+          "type": "text",
+          "settings": {
+            "text": "<h5><em><strong>Being a bridesmaid is one of the wonderful experiences, to share with friends and family a special day where a friend, sister or loved one will unite her life with the person she loves, without a doubt it is an event that will cause nostalgia and good moments in the future, that's why wearing some bridesmaid dresses that make you feel beautiful, will make you shine on a day as happy as this. The most used colors for this event are usually pinks in soft tones or greens, short blue dresses , but a short black bridesmaid dress can also be a great option, it will depend on the dress code that the bride and groom choose but we want to give you options among the most common color palette for bridesmaids options to find the bridesmaid dress ideal short for you<\/strong><\/em><\/h5>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Qjyf9d",
+        "text_PgGkjB"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/50007f505d4a4581b0efd569ea76f7ca-Max.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_TRkrzV": {
       "type": "image-with-text",
       "blocks": {
@@ -306,8 +306,8 @@
     "rich_text_fMPNtQ",
     "multicolumn_RdRCYC",
     "product-grid",
-    "image_with_text_cRdGd7",
     "multicolumn_wWebKt",
+    "image_with_text_cRdGd7",
     "image_with_text_TRkrzV"
   ]
 }
