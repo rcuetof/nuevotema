@@ -41,6 +41,62 @@
       "settings": {
       }
     },
+    "multicolumn_LD8JE3": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_XFDYzj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1cfc0e3675dc41b6824dbe7ba0f6896a-Min_9777840d-0acc-4d5e-b852-f610a98a7262.jpg",
+            "title": "",
+            "text": "<h5><strong>Prom Short Dress<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/prom-mini-dresses"
+          }
+        },
+        "column_RBptmV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/33649b6cfc4b4f26abf0b802161b41cd-Min_4d7064e5-d640-4eeb-b61d-7cf9fb607c50.webp",
+            "title": "",
+            "text": "<h5><strong>Party Outfit<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/party-outfit"
+          }
+        },
+        "column_BRhMiJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/37d4a7f0-2d6d-4a2f-92ae-b596b13f3223-Max.jpg",
+            "title": "",
+            "text": "<h5><strong>Open Back Dresses<\/strong><\/h5>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_XFDYzj",
+        "column_RBptmV",
+        "column_BRhMiJ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "TITTLE": {
       "type": "main-collection-banner",
       "custom_css": [
@@ -109,14 +165,69 @@
         "textguide3-textbtn": "",
         "textguide3-color": "#000000"
       }
+    },
+    "multicolumn_frXaMd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_yK8Ygj": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UDCkrm": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BxcjbC": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_yK8Ygj",
+        "column_UDCkrm",
+        "column_BxcjbC"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
+    "multicolumn_LD8JE3",
     "TITTLE",
     "product-grid",
     "TEXT",
-    "GUIDE"
+    "GUIDE",
+    "multicolumn_frXaMd"
   ]
 }
