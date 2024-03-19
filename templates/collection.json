@@ -41,51 +41,6 @@
       "settings": {
       }
     },
-    "multicolumn_aAqTQU": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_QGUnfb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/a28ddd6550cf4df9ba65820c2b9536b9-Min.webp",
-            "title": "",
-            "text": "<h5><strong>Black Tie<\/strong><\/h5>",
-            "link_label": "Show More",
-            "link": "shopify:\/\/collections\/black-tie-formal-mini-dresses"
-          }
-        },
-        "column_Yzf6RF": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/516c02952c6540748d35f9d05bff04b5-Min_e11eef87-d7b8-40f9-ab35-31bde9b466d1.jpg",
-            "title": "",
-            "text": "<h5><strong>Plus Size <\/strong><\/h5>",
-            "link_label": "Show More",
-            "link": "shopify:\/\/collections\/mother-of-de-bridal-plus-size"
-          }
-        }
-      },
-      "block_order": [
-        "column_QGUnfb",
-        "column_Yzf6RF"
-      ],
-      "settings": {
-        "title": "Elegant mother of the bride dresses Categories",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 24,
-        "padding_bottom": 0
-      }
-    },
     "TITTLE": {
       "type": "main-collection-banner",
       "custom_css": [
@@ -159,7 +114,6 @@
   "order": [
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
-    "multicolumn_aAqTQU",
     "TITTLE",
     "product-grid",
     "TEXT",
