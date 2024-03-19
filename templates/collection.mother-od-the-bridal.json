@@ -133,6 +133,7 @@
     },
     "TEXT": {
       "type": "main-collection-banner",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -172,28 +173,31 @@
         "column_VmV94n": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/9fd9c943-4a2b-459f-9ba3-e3a415972568-Max.jpg",
+            "title": "",
+            "text": "<h5><strong>Best Selling Wedding Dress<\/strong><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/best-seller-wedding-mini-dresses"
           }
         },
         "column_aG7VKM": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/199fb370-ee1b-43fc-be35-05f0337bc219-Max.jpg",
+            "title": "",
+            "text": "<h5><strong>Wedding Dresses<\/strong><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/wedding"
           }
         },
         "column_9CHATL": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/9482c1bb57f34b8db69b4b63288c9952-Min_d4fb7808-d9dc-44d5-af76-52cc60a6dde6.jpg",
+            "title": "",
+            "text": "<h5><strong>Wedding Reception Mini Dres<\/strong>s<\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/wedding-reception"
           }
         }
       },
@@ -203,20 +207,20 @@
         "column_9CHATL"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
+        "title": "Recommended dress categories",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
