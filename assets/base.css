@@ -1013,7 +1013,7 @@ summary::-webkit-details-marker {
 
   .grid--4-col-desktop .grid__item {
     width: calc(25% - var(--grid-desktop-horizontal-spacing) * 3 / 4);
-    max-width: calc(25% - var(--grid-desktop-horizontal-spacing) * 3 / 4);
+    max-width: 1000px;
   }
 
   .grid--3-col-desktop .grid__item {
