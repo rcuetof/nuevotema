@@ -67,122 +67,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_wWebKt": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_JUNzTP": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/c5992fb913714ec295f5d630fefa6d23-Max.jpg",
-            "title": "",
-            "text": "<h6><em>Romantic Style Bridesmaid Dresses<\/em><\/h6>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_KwYy69": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/e1e9a96121a04a07995a5af3eddfe9a3-Max.jpg",
-            "title": "",
-            "text": "<h6><em><strong>Vintage Bridesmaid Mini Dresses<\/strong><\/em><\/h6>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_gkFr7F": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8815aa20131c4e54be07ca910778258d-Max.jpg",
-            "title": "",
-            "text": "<h6><em><strong>Short A Line Bridesmaid Dresses<\/strong><\/em><\/h6>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_mr9yRE": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/661f23ee3ba548e1a52c305a41aa1475-Max.jpg",
-            "title": "",
-            "text": "<h6><em><strong>Short Casual Bridesmaid DressesS<\/strong><\/em><\/h6>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_8BVycf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/00a07c0a-7146-4000-b44d-2f5238308e9f-Max.jpg",
-            "title": "",
-            "text": "<h6><em><strong>Short Cheap Bridesmaid Dresses<\/strong><\/em><\/h6>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_JUNzTP",
-        "column_KwYy69",
-        "column_gkFr7F",
-        "column_mr9yRE",
-        "column_8BVycf"
-      ],
-      "settings": {
-        "title": "<em><strong>Categories of mini dresses for bridesmaid<\/strong><\/em>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "image_with_text_cRdGd7": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_Qjyf9d": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em><strong>Bridesmaid Short Dress Styles<\/strong><\/em>",
-            "heading_size": "h2"
-          }
-        },
-        "text_PgGkjB": {
-          "type": "text",
-          "settings": {
-            "text": "<h5><em><strong>Being a bridesmaid is one of the wonderful experiences, to share with friends and family a special day where a friend, sister or loved one will unite her life with the person she loves, without a doubt it is an event that will cause nostalgia and good moments in the future, that's why wearing some bridesmaid dresses that make you feel beautiful, will make you shine on a day as happy as this. The most used colors for this event are usually pinks in soft tones or greens, short blue dresses , but a short black bridesmaid dress can also be a great option, it will depend on the dress code that the bride and groom choose but we want to give you options among the most common color palette for bridesmaids options to find the bridesmaid dress ideal short for you<\/strong><\/em><\/h5>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_Qjyf9d",
-        "text_PgGkjB"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/50007f505d4a4581b0efd569ea76f7ca-Max.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn_RdRCYC": {
       "type": "multicolumn",
       "blocks": {
@@ -294,6 +178,122 @@
         "padding_bottom": 36
       }
     },
+    "image_with_text_cRdGd7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Qjyf9d": {
+          "type": "heading",
+          "settings": {
+            "heading": "<em><strong>Bridesmaid Short Dress Styles<\/strong><\/em>",
+            "heading_size": "h2"
+          }
+        },
+        "text_PgGkjB": {
+          "type": "text",
+          "settings": {
+            "text": "<h5><em><strong>Being a bridesmaid is one of the wonderful experiences, to share with friends and family a special day where a friend, sister or loved one will unite her life with the person she loves, without a doubt it is an event that will cause nostalgia and good moments in the future, that's why wearing some bridesmaid dresses that make you feel beautiful, will make you shine on a day as happy as this. The most used colors for this event are usually pinks in soft tones or greens, short blue dresses , but a short black bridesmaid dress can also be a great option, it will depend on the dress code that the bride and groom choose but we want to give you options among the most common color palette for bridesmaids options to find the bridesmaid dress ideal short for you<\/strong><\/em><\/h5>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Qjyf9d",
+        "text_PgGkjB"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/50007f505d4a4581b0efd569ea76f7ca-Max.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_wWebKt": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_JUNzTP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/c5992fb913714ec295f5d630fefa6d23-Max.jpg",
+            "title": "",
+            "text": "<h6><em>Romantic Style Bridesmaid Dresses<\/em><\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_KwYy69": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/e1e9a96121a04a07995a5af3eddfe9a3-Max.jpg",
+            "title": "",
+            "text": "<h6><em><strong>Vintage Bridesmaid Mini Dresses<\/strong><\/em><\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gkFr7F": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8815aa20131c4e54be07ca910778258d-Max.jpg",
+            "title": "",
+            "text": "<h6><em><strong>Short A Line Bridesmaid Dresses<\/strong><\/em><\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_mr9yRE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/661f23ee3ba548e1a52c305a41aa1475-Max.jpg",
+            "title": "",
+            "text": "<h6><em><strong>Short Casual Bridesmaid DressesS<\/strong><\/em><\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8BVycf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/00a07c0a-7146-4000-b44d-2f5238308e9f-Max.jpg",
+            "title": "",
+            "text": "<h6><em><strong>Short Cheap Bridesmaid Dresses<\/strong><\/em><\/h6>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_JUNzTP",
+        "column_KwYy69",
+        "column_gkFr7F",
+        "column_mr9yRE",
+        "column_8BVycf"
+      ],
+      "settings": {
+        "title": "<em><strong>Categories of mini dresses for bridesmaid<\/strong><\/em>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_TRkrzV": {
       "type": "image-with-text",
       "blocks": {
@@ -338,9 +338,9 @@
     "BANNER-VRC-BRIDESMAID-MINI-DRESSES",
     "rich_text_fMPNtQ",
     "product-grid",
-    "multicolumn_wWebKt",
-    "image_with_text_cRdGd7",
     "multicolumn_RdRCYC",
+    "image_with_text_cRdGd7",
+    "multicolumn_wWebKt",
     "image_with_text_TRkrzV"
   ]
 }
