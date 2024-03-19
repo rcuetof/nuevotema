@@ -41,6 +41,72 @@
       "settings": {
       }
     },
+    "multicolumn_qp79Ux": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_aQUeCM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8b932f07e82a49a194d673eb3dcd439b-Min_2_45e7b535-8fba-42a6-86c2-9c7de4498b63.webp",
+            "title": "",
+            "text": "<h5><strong>Homecomig Short Dress<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/homecoming-mini-dresses"
+          }
+        },
+        "column_ptbeVM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/584629a9dead4f3daa09384bb7476277-Min_1a635be7-fa59-4c89-8485-8764c82aa843.webp",
+            "title": "",
+            "text": "<h5><strong>Prom Black Short drees<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/black-mini-dresses"
+          }
+        },
+        "column_eTRz3P": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max_a248a2cc-a2a3-445e-83e1-ae8f6ebec6b4.webp",
+            "title": "",
+            "text": "<h5><em><strong>Prom White Short Dress<\/strong><\/em><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/white-mini-dresses"
+          }
+        },
+        "column_pjU6fz": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_aQUeCM",
+        "column_ptbeVM",
+        "column_eTRz3P",
+        "column_pjU6fz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "TITTLE": {
       "type": "main-collection-banner",
       "custom_css": [
@@ -114,6 +180,7 @@
   "order": [
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
+    "multicolumn_qp79Ux",
     "TITTLE",
     "product-grid",
     "TEXT",
