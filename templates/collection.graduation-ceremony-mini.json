@@ -172,28 +172,31 @@
         "column_Ma4jep": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max_a248a2cc-a2a3-445e-83e1-ae8f6ebec6b4.webp",
+            "title": "",
+            "text": "<h5><strong>Homecoming Mini Dress<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/homecoming-mini-dresses"
           }
         },
         "column_6JE7PP": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/95a886eaa64d480f889fec41acde000a-Min.png",
+            "title": "",
+            "text": "<h5><strong>Prom Mini Dresses<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/prom-mini-dresses"
           }
         },
         "column_pKMryz": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/c6e361ad-97dd-4ca4-9f61-2b6695b7e286-Max_0eee9124-8772-449f-8b94-ea4395d2e3f0.png",
+            "title": "",
+            "text": "<h5><strong>Red Mini Dresses<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/red-mini-dresses"
           }
         }
       },
@@ -203,18 +206,18 @@
         "column_pKMryz"
       ],
       "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
+        "title": "Recommended event categories graduation ceremony",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
+        "background_style": "none",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
