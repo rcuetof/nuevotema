@@ -25,28 +25,6 @@
         "link-botton2": ""
       }
     },
-    "rich_text_REGzJQ": {
-      "type": "rich-text",
-      "blocks": {
-        "text_rpkkpW": {
-          "type": "text",
-          "settings": {
-            "text": "<h3><em><strong>Mini dresses for weddings<\/strong><\/em><\/h3>"
-          }
-        }
-      },
-      "block_order": [
-        "text_rpkkpW"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multicolumn_pNeDDD": {
       "type": "multicolumn",
       "blocks": {
@@ -91,7 +69,7 @@
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "none",
         "button_label": "",
@@ -101,6 +79,28 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_REGzJQ": {
+      "type": "rich-text",
+      "blocks": {
+        "text_rpkkpW": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><em><strong>Mini dresses for weddings<\/strong><\/em><\/h3>"
+          }
+        }
+      },
+      "block_order": [
+        "text_rpkkpW"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "product-grid": {
@@ -221,8 +221,8 @@
   "order": [
     "TAB-VRC-GWMINIDRESS",
     "BANNER-VRC-GWMINIDRESS",
-    "rich_text_REGzJQ",
     "multicolumn_pNeDDD",
+    "rich_text_REGzJQ",
     "product-grid",
     "multicolumn_jXAxLW",
     "image_with_text_NA6RFy"
