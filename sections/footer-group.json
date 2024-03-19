@@ -10,9 +10,9 @@
           "settings": {
             "show_social": false,
             "link1": "shopify:\/\/collections\/all-dresses",
-            "textbtn1": "",
-            "link2": "",
-            "textbtn2": "",
+            "textbtn1": "Todos los Vestidos",
+            "link2": "shopify:\/\/products\/buttoned-short-sleeve-dress",
+            "textbtn2": "La gordita Bella",
             "link3": "",
             "textbtn3": "",
             "link4": "",
