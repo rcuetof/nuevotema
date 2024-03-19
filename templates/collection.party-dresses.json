@@ -1,0 +1,288 @@
+{
+  "sections": {
+    "slideshow_39feVJ": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_CmMJjX": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_30.png",
+            "heading": "Short Casual Dresses  for womens",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/all-casual-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_CmMJjX"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "rich_text_XkFMYy": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_pyQCWY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop By Category",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_pyQCWY"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "BANNER-VRC-CASUAL-DRESSES": {
+      "type": "vrc-banner",
+      "settings": {
+        "title-banner": "",
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#ffffff",
+        "tittl2-banner": "",
+        "size-tittle2": 25,
+        "font-color-tittle2": "#000000",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
+      }
+    },
+    "TAB-VRC-CASUAL-DRESSES": {
+      "type": "tab-container",
+      "blocks": {
+        "text_JANRPi": {
+          "type": "text",
+          "settings": {
+            "title": "Movies  and Date Dresses",
+            "text": "Get ready to wow on your next date or movie outing in a charming casual dress! These versatile pieces are the perfect choice to look stylish while enjoying a special afternoon or evening with that special someone. Here are some suggestions on how to choose and wear a casual dress for these occasions:\n\n Opt for a casual dress that makes you feel comfortable and confident. Soft, flowy fabrics, like cotton or jersey, are ideal for ensuring comfort throughout your date or movie.\n\nLook for a dress with subtle details that add a touch of elegance to your casual look. Small details like a delicate belt, decorative buttons, or an interesting neckline can effortlessly elevate your look.\n\nFrom neutral tones to fun prints, you have a wide range of options to choose from depending on your personal style and the mood of the date or movie. Soft tones are ideal for a romantic look, while bold prints can add a touch of fun and originality.\n\n Complete your look with simple and elegant accessories that complement your casual dress. Small earrings, a delicate necklace or a subtle bracelet can add a touch of sophistication without overwhelming your outfit.\n\nOpt for shoes that are both comfortable and stylish. Depending on your style and preference, you can choose between white sneakers for a more relaxed look or delicate sandals for a feminine touch.\n\nWith these tips, you'll be ready to dazzle on your next date or movie outing in a charming casual dress that reflects your unique style and makes you feel confident and radiant. Get ready to create unforgettable memories while looking impeccable in every special moment!",
+            "image": "shopify:\/\/shop_images\/7b75011fb5b3448eae763926f62cad2b-Max.jpg",
+            "btn": "shopify:\/\/collections\/movie-causal-mini-dresses",
+            "btntxt": "Discover Collection"
+          }
+        },
+        "text_LYzJin": {
+          "type": "text",
+          "settings": {
+            "title": "Concert Attire",
+            "text": "Mini dresses are the perfect option to stand out at concerts, combining style, comfort and an extra dose of energy to vibrate to the rhythm of the music. These garments, with their shorter length, offer a feeling of freedom and movement that suits the festive atmosphere of concerts.\n\nMade in a variety of fabrics and styles, mini dresses allow attendees to express their personality and individual taste. From fitted designs that enhance the silhouette to looser models that promote comfort, there are options for all tastes and preferences.\n\nVibrant prints, bold details and funky cuts are common features on concert mini dresses, adding a touch of fun and originality to the look. Additionally, their versatility makes them ideal for pairing with boots, sneakers, or sandals, depending on concert style and personal preference.\n\nWhether you're heading to an outdoor festival or a nightclub concert, a mini dress guarantees a fresh, stylish look that will make you stand out from the crowd. So get ready to dance the night away and enjoy the music in a mini dress that reflects your festive spirit and your passion for fashion!",
+            "image": "shopify:\/\/shop_images\/9bcd62abf6954531aaab740801e5ccb7-Max.jpg",
+            "btn": "shopify:\/\/collections\/concert-attire-causal-mini-dresses",
+            "btntxt": "Discover Collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_JANRPi",
+        "text_LYzJin"
+      ],
+      "settings": {
+      }
+    },
+    "rich_text_hpMd3P": {
+      "type": "rich-text",
+      "blocks": {
+        "text_E6EEJf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Casual Short Dresses Collection<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_E6EEJf"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_REeDa3": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_wHnk4M": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_35.png",
+            "heading": "Party Short Dresses",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/party-mini-dresses-1",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_ayh8BN": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_31.png",
+            "heading": "Formal Short Dresses",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/business-formal-mini-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_wHnk4M",
+        "slide_ayh8BN"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection_4egCz4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "<p>Best Selling<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "bbq-outfit-causal-mini-dresses",
+        "products_to_show": 3,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_8HhPVL": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_BRwq4Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Casual Mini Dress",
+            "heading_size": "h2"
+          }
+        },
+        "text_inJ7d9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>When choosing the perfect mini dress, it's important to consider a variety of factors, including colors, styles, and how it fits each person's body type. Here is a detailed guide to help you find the ideal casual mini dress:<br\/><br\/>Colors play a crucial role in choosing a casual mini dress as they can influence your mood, style and the versatility of the dress. Neutral tones such as black, grey, white and beige are classic options that offer a solid foundation for any look. Pastel shades like pink, light blue, and soft yellow are ideal for a fresh, feminine look, while bright colors like red, green, and orange can add a touch of energy and vibrancy to your outfit.<br\/><br\/><br\/>Casual mini dresses come in a variety of styles, each with their own unique aesthetic. Tunic dresses are comfortable and relaxed, ideal for a weekend or summer look. Shirt dresses offer a structured and elegant silhouette that is perfect for the office or more formal events. A-line dresses are flattering on most body types as they flare gently from the waist down, creating a feminine, balanced silhouette. Styles with details such as pleats, ruffles, lace and embroidery can add a touch of sophistication and unique style to your look.<br\/><br\/><br\/>When choosing a casual mini dress, it is important to consider how it fits each person's body type to ensure a flattering and comfortable fit. For people with an apple-shaped body, it is advisable to look for dresses with a defined waist and flared skirts that help create the illusion of a slimmer waist. For people with pear-shaped bodies, dresses with details on the top, such as statement collars or puff sleeves, can help balance the figure and draw the eye upward. Those with an hourglass body shape can opt for fitted dresses that highlight their natural curves and give them an elegant and feminine look.<br\/><br\/>In short, casual mini dresses are a versatile and elegant option for any occasion. By considering a variety of colors, styles, and how it fits each person's body type, it is possible to find the perfect mini dress that reflects your personality, style, and makes you feel confident and beautiful in any situation.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_BRwq4Q",
+        "text_inJ7d9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/04fd124089f449f0a95dbc7ab520e72e-Max.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "slideshow_39feVJ",
+    "rich_text_XkFMYy",
+    "BANNER-VRC-CASUAL-DRESSES",
+    "TAB-VRC-CASUAL-DRESSES",
+    "rich_text_hpMd3P",
+    "product-grid",
+    "slideshow_REeDa3",
+    "featured_collection_4egCz4",
+    "image_with_text_8HhPVL"
+  ]
+}
