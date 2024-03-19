@@ -180,6 +180,60 @@
         "textguide3-textbtn": "",
         "textguide3-color": "#000000"
       }
+    },
+    "slideshow_yVGgxR": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_TL49Lw": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_31.png",
+            "heading": "Formal Mini Dresses",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Button label",
+            "link": "shopify:\/\/collections\/formal-mini-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_JqJMeA": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_TL49Lw",
+        "slide_JqJMeA"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -190,6 +244,7 @@
     "TITTLE",
     "product-grid",
     "TEXT",
-    "GUIDE"
+    "GUIDE",
+    "slideshow_yVGgxR"
   ]
 }
