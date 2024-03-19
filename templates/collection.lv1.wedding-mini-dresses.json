@@ -234,10 +234,48 @@
             "color_scheme": "scheme-4",
             "text_alignment_mobile": "center"
           }
+        },
+        "slide_N648pL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_31.png",
+            "heading": "<strong>Short Formal Dresses<\/strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "Show Event",
+            "link": "shopify:\/\/collections\/formal-mini-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_aHcMme": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_30.png",
+            "heading": "<strong>Short Casual Dresses<\/strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "Show Event",
+            "link": "shopify:\/\/collections\/casual-mini-dresses-1",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
-        "slide_hqyBHV"
+        "slide_hqyBHV",
+        "slide_N648pL",
+        "slide_aHcMme"
       ],
       "settings": {
         "layout": "full_bleed",
