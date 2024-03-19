@@ -227,8 +227,9 @@
         "column_khKthX": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/04fd124089f449f0a95dbc7ab520e72e-Max_a1403230-be03-4680-acc8-21e0822a2601.webp",
+            "title": "",
+            "text": "<h5><strong>Printed and Flower Dresses<\/strong><\/h5>",
             "link_label": "",
             "link": ""
           }
