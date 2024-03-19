@@ -41,6 +41,62 @@
       "settings": {
       }
     },
+    "multicolumn_JWmDDA": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_49bJQe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/e610c8b6774341ef9563b7d7c4a21055-Max_f3c3ca83-cb3e-4cad-9081-d3cbce51776b.webp",
+            "title": "",
+            "text": "<h5><strong>Sequin  Dresses<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/graduation-sequin-mini-dress"
+          }
+        },
+        "column_B8aeWY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9fd9c943-4a2b-459f-9ba3-e3a415972568-Max.jpg",
+            "title": "",
+            "text": "<h5><strong>Classic and Black Tie Dresses<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/classic-and-formal-dresses-for-mother-of-the-bridal"
+          }
+        },
+        "column_zHhKzf": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1cfc0e3675dc41b6824dbe7ba0f6896a-Min_9777840d-0acc-4d5e-b852-f610a98a7262.jpg",
+            "title": "",
+            "text": "<p><strong>Mini Black Dress<\/strong><\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/black-mini-dresses"
+          }
+        }
+      },
+      "block_order": [
+        "column_49bJQe",
+        "column_B8aeWY",
+        "column_zHhKzf"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "TITTLE": {
       "type": "main-collection-banner",
       "custom_css": [
@@ -109,14 +165,69 @@
         "textguide3-textbtn": "",
         "textguide3-color": "#000000"
       }
+    },
+    "multicolumn_4pEiCY": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Ma4jep": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6JE7PP": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_pKMryz": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Ma4jep",
+        "column_6JE7PP",
+        "column_pKMryz"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
+    "multicolumn_JWmDDA",
     "TITTLE",
     "product-grid",
     "TEXT",
-    "GUIDE"
+    "GUIDE",
+    "multicolumn_4pEiCY"
   ]
 }
