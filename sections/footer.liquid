@@ -132,6 +132,7 @@
                             transform: rotate(0.2deg);
                            }         
                           </style>
+                          {%- if condition -%}
                             <div class="cajon-botones">
                               <button class="fotbtn" onclick="redirigir('')">Maxi Dress</button>
                               <button class="fotbtn" onclick="redirigir('')">Midi Dress</button>
@@ -140,6 +141,8 @@
                               <button class="fotbtn" onclick="redirigir('')">Policity</button>
                               <button class="fotbtn" onclick="redirigir('')">Fashion Blog</button>
                             </div>
+                          {%- endif -%}
+                            
                             <script>
                               function redirigir(url) {
                               window.location.href = url;
@@ -459,6 +462,75 @@
           "default": true,
           "label": "t:sections.footer.blocks.brand_information.settings.show_social.label",
           "info": "t:sections.footer.blocks.brand_information.settings.show_social.info"
+        },
+        {
+          "type": "url",
+          "id": "link1",
+          "label": "Boton1"
+        },
+        {
+          "type": "text",
+          "id": "textbtn1",
+          "label": "TextoBtn1"
+        },
+        {
+          "type": "url",
+          "id": "link2",
+          "label": "Boton2"
+        },        {
+          "type": "text",
+          "id": "textbtn2",
+          "label": "TextoBtn2"
+        }, {
+          "type": "url",
+          "id": "link3",
+          "label": "Boton3"
+        },        {
+          "type": "text",
+          "id": "textbtn3",
+          "label": "TextoBtn3"
+        }, {
+          "type": "url",
+          "id": "link4",
+          "label": "Boton4"
+        },        {
+          "type": "text",
+          "id": "textbtn4",
+          "label": "TextoBtn4"
+        }, {
+          "type": "url",
+          "id": "link5",
+          "label": "Boton5"
+        },        {
+          "type": "text",
+          "id": "textbtn5",
+          "label": "TextoBtn5"
+        },
+         {
+          "type": "url",
+          "id": "link6",
+          "label": "Boton6"
+        },        {
+          "type": "text",
+          "id": "textbtn6",
+          "label": "TextoBtn6"
+        }, {
+          "type": "url",
+          "id": "link7",
+          "label": "Boton7"
+        },        {
+          "type": "text",
+          "id": "textbtn7",
+          "label": "TextoBtn7"
+        }, {
+          "type": "url",
+          "id": "link8",
+          "label": "Boton8"
+        },
+        {
+          "type": "text",
+          "id": "textbtn8",
+          "label": "TextoBtn8"
         }
       ]
     },
