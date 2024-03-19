@@ -119,26 +119,6 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_JatdXQ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/7e966a1050284ba98de946aad4fb711f-Min.webp",
-            "title": "",
-            "text": "<h5><em><strong>Red Short Bridesmaid Dresses<\/strong><\/em><\/h5>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_aTLeeX": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/e201f954a90249128e7ea65c0342b124-Max.jpg",
-            "title": "",
-            "text": "<h5><em><strong>Purple Short Bridesmaid Dresses<\/strong><\/em><\/h5>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
@@ -146,9 +126,7 @@
         "column_yYaYNi",
         "column_facejq",
         "column_aTxA9b",
-        "column_zLKVCC",
-        "column_JatdXQ",
-        "column_aTLeeX"
+        "column_zLKVCC"
       ],
       "settings": {
         "title": "<em><strong>Bridesmaid Color Palette<\/strong><\/em>",
