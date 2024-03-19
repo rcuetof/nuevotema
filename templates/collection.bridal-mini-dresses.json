@@ -74,7 +74,7 @@
         "text_bhXpfE": {
           "type": "text",
           "settings": {
-            "text": "<h3><em><strong>Collection Of Mini Dresses For Bride<\/strong><\/em><\/h3>"
+            "text": "<p><strong>Recommended wedding dress colors<\/strong><\/p>"
           }
         }
       },
@@ -88,6 +88,62 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "multicolumn_Tzrii4": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_U6tCBC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/74f788f4b5e844e3bd284ce5978a0980-Max.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Golden mini dresses for bride<\/strong><\/em><\/h5>",
+            "link_label": "Show Now",
+            "link": "shopify:\/\/collections\/gold-mini-dress-for-bride"
+          }
+        },
+        "column_inMWw9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/74c69687834a4454959b519a5f94151d-Max.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Ivory mini wedding dresses<\/strong><\/em><\/h5>",
+            "link_label": "Show Now",
+            "link": "shopify:\/\/collections\/ivory-mini-dresses-for-bride"
+          }
+        },
+        "column_K6dQYb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max.jpg",
+            "title": "",
+            "text": "<h5><em><strong>Cream mini wedding dresses<\/strong><\/em><\/h5>",
+            "link_label": "Show Now",
+            "link": "shopify:\/\/collections\/cream-mini-dresses-for-bride"
+          }
+        }
+      },
+      "block_order": [
+        "column_U6tCBC",
+        "column_inMWw9",
+        "column_K6dQYb"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "multicolumn_bbjVUF": {
@@ -184,73 +240,6 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_Tzrii4": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_U6tCBC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/74f788f4b5e844e3bd284ce5978a0980-Max.jpg",
-            "title": "",
-            "text": "<h5><em><strong>Golden mini dresses for bride<\/strong><\/em><\/h5>",
-            "link_label": "Show Now",
-            "link": "shopify:\/\/collections\/gold-mini-dress-for-bride"
-          }
-        },
-        "column_rqRT9w": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/b759139e797949acafb31f7006636336-Max.jpg",
-            "title": "",
-            "text": "<h5><em><strong>Mini dresses in pastel tones for the bride<\/strong><\/em><\/h5>",
-            "link_label": "Show Now",
-            "link": "shopify:\/\/collections\/pastel-mini-dresses-for-bride"
-          }
-        },
-        "column_inMWw9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/74c69687834a4454959b519a5f94151d-Max.jpg",
-            "title": "",
-            "text": "<h5><em><strong>Ivory mini wedding dresses<\/strong><\/em><\/h5>",
-            "link_label": "Show Now",
-            "link": "shopify:\/\/collections\/ivory-mini-dresses-for-bride"
-          }
-        },
-        "column_K6dQYb": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max.jpg",
-            "title": "",
-            "text": "<h5><em><strong>Cream mini wedding dresses<\/strong><\/em><\/h5>",
-            "link_label": "Show Now",
-            "link": "shopify:\/\/collections\/cream-mini-dresses-for-bride"
-          }
-        }
-      },
-      "block_order": [
-        "column_U6tCBC",
-        "column_rqRT9w",
-        "column_inMWw9",
-        "column_K6dQYb"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_bnGGhH": {
       "type": "image-with-text",
       "blocks": {
@@ -298,67 +287,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "collapsible_content_AkNULQ": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_ayW7D4": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Privacy Policy",
-            "icon": "heart",
-            "row_content": "<p>The types of personal information we obtain about you depends on how you interact with our Site and use our Services. When we use the term \"personal information\", we are referring to information that identifies, relates to, describes or can be associated with you. The following sections describe the categories and specific types of personal information we collect.<\/p><p>Information that you directly submit to us through our Services may include:<\/p><p><strong>Basic contact details<\/strong> including your name, address, phone number, email.<\/p><p><strong>Order information<\/strong> including your name, shipping address, payment confirmation, email address, phone number.<\/p><p>The information we collect is solely intended to provide an excellent shopping experience and to know to which address we send your order.<\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_L7tMHb": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Shipping Policy",
-            "icon": "truck",
-            "row_content": "<p><em>Our shipping time is 10 to 15 days, including weekends and holidays, taking into account 2 days in advance in which the order is prepared and shipped. If you have any questions about shipping methods or shipping times, write to us at our email address violettarccompany@gmail.com<\/em><\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_9UMhqQ": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Refund Policy",
-            "icon": "return",
-            "row_content": "<p><em>We have a 30-day return policy, which means you have 30 days after receiving your item to request a retun send a email to violettareccompany@gmail.com.To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.To start a return, you can contact us at<\/em><a href=\"mailto:violettarccompany@gmail.com\">violettarccompany@gmail.com<\/a><em>. We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method within 10 business days. Please remember it can take some time for your bank or credit card company to process and post the refund too.If more than 15 business days have passed since we’ve approved your return, please contact us at violettarccompany@gmail.com.<\/em><\/p>",
-            "page": ""
-          }
-        },
-        "collapsible_row_a937Yc": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Questions and answers guide to help you choose your mini wedding dress",
-            "icon": "chat_bubble",
-            "row_content": "<p>Is it appropriate to choose a white mini dress for a wedding?<br\/><br\/>Times have changed and now women can choose the wedding theme that they like the most. That's why a mini wedding dress could be an excellent option, if it suits your personality and if you want a less classic style, a white mini dress for your wedding would be great. Whether you celebrate your wedding in a beautiful garden or on a beautiful beach, we have many options in our online store and you will find the perfect dress for you. <\/p><p>How important is the wedding dress?<br\/><br\/>Each woman chooses her wedding dress reflecting her personality and how she wants to feel on that happy and important day. For every detail, from the cut of the dress, the fabric, the embellishments, even a bride is free to decide whether to wear a veil or perhaps a flower tiara or<br\/> a princess's headband. That's why we recommend choosing the style that makes you feel most comfortable.<\/p><p><\/p><p><\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_ayW7D4",
-        "collapsible_row_L7tMHb",
-        "collapsible_row_9UMhqQ",
-        "collapsible_row_a937Yc"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "FAQ & Policies",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -367,10 +295,9 @@
     "rich_text_zrhXNn",
     "product-grid",
     "rich_text_XfEJx4",
+    "multicolumn_Tzrii4",
     "multicolumn_bbjVUF",
     "image_with_text_QpE7kC",
-    "multicolumn_Tzrii4",
-    "image_with_text_bnGGhH",
-    "collapsible_content_AkNULQ"
+    "image_with_text_bnGGhH"
   ]
 }
