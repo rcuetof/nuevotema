@@ -4,7 +4,10 @@
       "type": "main-collection-banner",
       "disabled": true,
       "settings": {
+        "show_collection_title": true,
+        "sizetitle": 16,
         "show_collection_description": true,
+        "sizetext": 12,
         "show_collection_image": false,
         "color_scheme": "scheme-1"
       }
@@ -66,6 +69,28 @@
         "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "rich_text_AHA37M": {
+      "type": "rich-text",
+      "blocks": {
+        "text_MREWEg": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Shop by Category<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_MREWEg"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "tab-container": {
@@ -350,6 +375,7 @@
     "banner",
     "vrc-banner",
     "slideshow_d4aDUR",
+    "rich_text_AHA37M",
     "tab-container",
     "rich_text_gxX6cJ",
     "product-grid",
