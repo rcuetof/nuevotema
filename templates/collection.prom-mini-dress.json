@@ -221,6 +221,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_7HzPQP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bbEjK8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mini Dresses for Prom",
+            "heading_size": "h2"
+          }
+        },
+        "text_8xXRjD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wearing a short dress to the promotion is an elegant, modern and increasingly popular option among girls who want to look fabulous and feel comfortable all night long. Here are some reasons why choosing a short dress for your promotion can be an excellent idea:<br\/><br\/>Short dresses are generally more comfortable to wear than long dresses, as they allow you to move more easily and freely. This is especially important during a night full of dancing and celebration, where you want to feel comfortable and relaxed to enjoy yourself to the fullest.<br\/><br\/>Short dresses are incredibly versatile and suit a variety of styles and occasions. You can find designs ranging from classic and timeless to the most modern and daring, allowing you to find the perfect dress that fits your taste and personality.<br\/><br\/>Wearing a short dress allows you to show off your legs and highlight your figure in a flattering and elegant way. This is especially beneficial if you feel confident and comfortable showing off your legs, as it allows you to look radiant and confident on your big night.<br\/><br\/>One of the best things about wearing a short dress for promotion is that it allows you to dance without restrictions and enjoy the dance floor to the fullest. With a short dress, you won't have to worry about tripping on the fabric or getting your hem stepped on while you dance the night away with your friends.<br\/><br\/> So put on your short dress, dazzle them with your style and make your promotion unforgettable!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bbEjK8",
+        "text_8xXRjD"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1cfc0e3675dc41b6824dbe7ba0f6896a-Min_9777840d-0acc-4d5e-b852-f610a98a7262.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -231,6 +269,7 @@
     "product-grid",
     "TEXT",
     "GUIDE",
-    "multicolumn_3NP89f"
+    "multicolumn_3NP89f",
+    "image_with_text_7HzPQP"
   ]
 }
