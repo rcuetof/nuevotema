@@ -49,7 +49,7 @@
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-4",
@@ -74,18 +74,19 @@
     "rich_text_AHA37M": {
       "type": "rich-text",
       "blocks": {
-        "text_MREWEg": {
-          "type": "text",
+        "heading_YnHpzG": {
+          "type": "heading",
           "settings": {
-            "text": "<p>Shop by Category<\/p>"
+            "heading": "Shop by Category",
+            "heading_size": "h2"
           }
         }
       },
       "block_order": [
-        "text_MREWEg"
+        "heading_YnHpzG"
       ],
       "settings": {
-        "desktop_content_position": "left",
+        "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
