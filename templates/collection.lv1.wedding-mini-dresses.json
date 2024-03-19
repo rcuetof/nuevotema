@@ -120,7 +120,7 @@
         "text_f4drNU": {
           "type": "text",
           "settings": {
-            "title": "Wedding Guest Dress",
+            "title": "Reception or Wedding Guest",
             "text": "If you are looking for a dress to attend a wedding, it is important to know the dress code of the wedding you will attend, whether it is a casual dress code, or a more formal one so you will know which dress options will be the most appropriate to choose, remember that The most important thing is to choose the dress that you feel comfortable in and also take into account not using the color white, since this color can only be worn by the bride.",
             "image": "shopify:\/\/shop_images\/3d714cdc60a240f690a52b9391defeb6-Max.jpg",
             "btn": "shopify:\/\/collections\/mini-dresses-for-wedding-guest",
@@ -147,16 +147,6 @@
             "btntxt": "Discover Collection"
           }
         },
-        "text_EknyhK": {
-          "type": "text",
-          "settings": {
-            "title": "Dress Reception Wedding",
-            "text": "The mini wedding reception dresses take center stage with their modern style and charm, they will never cease to be the perfect choice whether you are the bride, bridesmaid or a guest.",
-            "image": "shopify:\/\/shop_images\/48ab745c8eeb4b6ab27a73089dce49d7-Max.jpg",
-            "btn": "shopify:\/\/collections\/mini-dresses-for-reception-wedding",
-            "btntxt": "Discover Collection"
-          }
-        },
         "text_HDQcic": {
           "type": "text",
           "settings": {
@@ -174,7 +164,6 @@
         "text_f4drNU",
         "text_GxPtwC",
         "text_reydrW",
-        "text_EknyhK",
         "text_HDQcic"
       ],
       "settings": {
