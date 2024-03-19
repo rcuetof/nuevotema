@@ -75,7 +75,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/3a974a489f97425083a412ade97ce25e-Max.jpg",
             "title": "",
-            "text": "<h3><em><strong>Blue Short Bridesmaid Dresses<\/strong><\/em><\/h3>",
+            "text": "<h5><em><strong>Blue Short Bridesmaid Dresses<\/strong><\/em><\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -85,7 +85,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/bd4504a0-d4d4-4930-98f9-912d8ef6b340-Max.jpg",
             "title": "",
-            "text": "<h3><em><strong>Pink Short Bridesmaid Dresses<\/strong><\/em><\/h3>",
+            "text": "<h5><em><strong>Pink Short Bridesmaid Dresses<\/strong><\/em><\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -95,7 +95,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/fc08cfdb24cd490ea45b30b5e85a97ca-Max.jpg",
             "title": "",
-            "text": "<h3><em><strong>Black Short Bridesmaid  Dresses<\/strong><\/em><\/h3>",
+            "text": "<h5><em><strong>Black Short Bridesmaid  Dresses<\/strong><\/em><\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -105,7 +105,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/63005c47-dca0-4100-9a5a-790b1692826d-Max.jpg",
             "title": "",
-            "text": "<h3><em><strong>Green Short Bridesmaid Dresses<\/strong><\/em><\/h3>",
+            "text": "<h5><em><strong>Green Short Bridesmaid Dresses<\/strong><\/em><\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -115,7 +115,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/291e48d1edf04208a187a7fc27f8f1b3-Max.jpg",
             "title": "",
-            "text": "<h3><em><strong>Champagne Short Bridesmaid Dresses<\/strong><\/em><\/h3>",
+            "text": "<h5><em><strong>Champagne Short Bridesmaid Dresses<\/strong><\/em><\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -125,17 +125,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/7e966a1050284ba98de946aad4fb711f-Min.webp",
             "title": "",
-            "text": "<h3><em><strong>Red Short Bridesmaid Dresses<\/strong><\/em><\/h3>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_DNFdVF": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/144c113e0dad4dc2be25d2d8f8e87db9-Max.jpg",
-            "title": "",
-            "text": "<h3><em><strong>Yellow Short Bridesmaid Dresses<\/strong><\/em><\/h3>",
+            "text": "<h5><em><strong>Red Short Bridesmaid Dresses<\/strong><\/em><\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -145,7 +135,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/e201f954a90249128e7ea65c0342b124-Max.jpg",
             "title": "",
-            "text": "<h3><em><strong>Purple Short Bridesmaid Dresses<\/strong><\/em><\/h3>",
+            "text": "<h5><em><strong>Purple Short Bridesmaid Dresses<\/strong><\/em><\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -158,7 +148,6 @@
         "column_aTxA9b",
         "column_zLKVCC",
         "column_JatdXQ",
-        "column_DNFdVF",
         "column_aTLeeX"
       ],
       "settings": {
