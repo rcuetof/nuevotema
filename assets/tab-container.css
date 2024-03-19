@@ -39,7 +39,7 @@
         font-weight: 900;
       }
 }
-.tab::before {
+.tab::after {
     .textbtn{
         opacity: 1;
       }
