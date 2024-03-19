@@ -15,7 +15,7 @@
         "pose-x-tittle1": 8,
         "pose-y-tittle1": 8,
         "size-e-tittle1": 45,
-        "font-color-tittle1": "#FFFFFF",
+        "font-color-tittle1": "#ffffff",
         "tittl2-banner": "",
         "size-tittle2": 25,
         "font-color-tittle2": "#000000",
@@ -145,7 +145,7 @@
             "title": "Garden Wedding",
             "text": "",
             "link_label": "Show More",
-            "link": "shopify:\/\/collections\/mini-bridal-dresses-for-garden-wedding"
+            "link": "shopify:\/\/collections\/bridal-garden-mini-dress"
           }
         },
         "column_dpDFnR": {
@@ -155,7 +155,7 @@
             "title": "Elegant Wedding",
             "text": "",
             "link_label": "Show More",
-            "link": "shopify:\/\/collections\/mini-dresses-for-elegant-bride"
+            "link": "shopify:\/\/collections\/elegant-short-dresses-for-bridal"
           }
         },
         "column_AwHrdA": {
@@ -165,7 +165,7 @@
             "title": "Beach wedding",
             "text": "",
             "link_label": "Show More",
-            "link": "shopify:\/\/collections\/mini-beach-wedding-dress"
+            "link": "shopify:\/\/collections\/beach-bridal-minii-dress"
           }
         }
       },
