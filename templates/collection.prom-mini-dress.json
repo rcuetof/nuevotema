@@ -186,7 +186,7 @@
             "image": "shopify:\/\/shop_images\/e610c8b6774341ef9563b7d7c4a21055-Max_f3c3ca83-cb3e-4cad-9081-d3cbce51776b.webp",
             "title": "",
             "text": "<h5><strong>Sequin Dresses<\/strong><\/h5>",
-            "link_label": "",
+            "link_label": "Shop Now",
             "link": "shopify:\/\/collections\/graduation-sequin-mini-dress"
           }
         },
@@ -196,8 +196,8 @@
             "image": "shopify:\/\/shop_images\/4cfe142c-f571-4dff-acd3-98de8729db01-Max.jpg",
             "title": "",
             "text": "<h5><strong>Lace Dresses<\/strong><\/h5>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/prom-lace-short-dress"
           }
         }
       },
