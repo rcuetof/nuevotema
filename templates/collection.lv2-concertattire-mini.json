@@ -136,6 +136,7 @@
         },
         "slide_KHC96j": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/438ec126c7d147cf8d187d75b3361ff3-Min.jpg",
             "heading": "",
