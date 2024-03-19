@@ -28,7 +28,6 @@
     background-repeat: no-repeat;    
     border-radius: 5px;
     transition: all 0.5s;
-    background-color: rgba(242, 193, 242, 0.438);
 }
 
 .tab:hover {
