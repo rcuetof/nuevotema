@@ -2,12 +2,15 @@
   "sections": {
     "banner-principal": {
       "type": "vrc-banner",
+      "custom_css": [
+        ".position-boton{left: 50%;}"
+      ],
       "settings": {
         "title-banner": "Fashion <br>Violetta & Rc <br>Shop",
         "banner-movil": "shopify:\/\/shop_images\/Diseno_sin_titulo_34.png",
-        "posm-x-tittle1": 0,
+        "posm-x-tittle1": 14,
         "posm-y-tittle1": 31,
-        "size-m-tittle1": 34,
+        "size-m-tittle1": 55,
         "banner-escritorio": "shopify:\/\/shop_images\/banner-principal-e.png",
         "pose-x-tittle1": 42,
         "pose-y-tittle1": 22,
