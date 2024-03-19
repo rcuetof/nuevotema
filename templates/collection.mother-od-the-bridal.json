@@ -222,6 +222,44 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
+    },
+    "image_with_text_mCDnB4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KRCiMJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mother of the Bridal",
+            "heading_size": "h2"
+          }
+        },
+        "text_Hk8KKj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Being the mother of the bride is an exciting and proud moment in a woman's life. It is a role that carries great responsibility and a celebration of love and family unity. When it comes to choosing the perfect outfit for this special day, opting for a short dress is an elegant and modern option that allows the mother of the bride to stand out with style and confidence.<br\/><br\/>A short mother of the bride dress is a contemporary choice that reflects the personality and individual style of the woman wearing it. Unlike more traditional long dresses, short dresses offer a fresher and more dynamic look, perfect for a mother who wants to feel comfortable and free to move while celebrating her daughter's big day.<br\/><br\/>Short mother of the bride dresses come in a wide variety of styles, from the most classic and elegant to the most modern and daring. Silhouette options can include shift, A-line, A-line or even empire-style dresses, which flatter the figure in a flattering and stylish way.<br\/><br\/>When it comes to fabrics and details, the possibilities are endless. From the timeless elegance of silk and satin to the lightness and freshness of chiffon or chiffon, every woman can find the perfect fabric to suit her personal style and preferences. Details such as lace, embroidery, appliqués or beaded details add a touch of sophistication and glamor to the ensemble, creating a look that is truly unique and special.<br\/><br\/>One of the biggest advantages of choosing a short dress for the mother of the bride is the versatility it offers. This type of dress is perfect for weddings at any time of the year, as it easily adapts to the weather conditions and the style of the celebration. Additionally, a short dress can be easily adapted to be worn at future events, making it a versatile and long-lasting investment in any woman's wardrobe.<br\/><br\/>Being the mother of the bride is a moment of celebration and joy that deserves to be marked with style and elegance. Opting for a short dress is a modern and sophisticated option that allows the mother of the bride to shine with confidence and style on her daughter's most important day. With a wide variety of styles, fabrics and details to choose from, every woman can find the perfect short dress that reflects her inner and outer beauty while celebrating this special moment in her family's life.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KRCiMJ",
+        "text_Hk8KKj"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/404d344f-912d-4ee1-bc12-a49ae41f49f6-Max.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -232,6 +270,7 @@
     "product-grid",
     "TEXT",
     "GUIDE",
-    "multicolumn_R7cVKK"
+    "multicolumn_R7cVKK",
+    "image_with_text_mCDnB4"
   ]
 }
