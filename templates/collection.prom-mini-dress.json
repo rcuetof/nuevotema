@@ -176,6 +176,60 @@
         "textguide3-textbtn": "",
         "textguide3-color": "#000000"
       }
+    },
+    "multicolumn_3NP89f": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kDJ7Tz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/e610c8b6774341ef9563b7d7c4a21055-Max_f3c3ca83-cb3e-4cad-9081-d3cbce51776b.webp",
+            "title": "",
+            "text": "<h5><strong>Sequin Dresses<\/strong><\/h5>",
+            "link_label": "",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "column_UJ6nET": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cy8kWe": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_kDJ7Tz",
+        "column_UJ6nET",
+        "column_cy8kWe"
+      ],
+      "settings": {
+        "title": "recommended mini dresses for prom event",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -185,6 +239,7 @@
     "TITTLE",
     "product-grid",
     "TEXT",
-    "GUIDE"
+    "GUIDE",
+    "multicolumn_3NP89f"
   ]
 }
