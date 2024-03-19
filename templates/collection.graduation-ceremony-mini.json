@@ -221,6 +221,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_DyiakW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_8Y9eTh": {
+          "type": "heading",
+          "settings": {
+            "heading": "Graduation Ceremony Mini Dress",
+            "heading_size": "h1"
+          }
+        },
+        "text_x8UcRc": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Short graduation dresses are an elegant and modern option that allows graduates to look stunning on their special day. These dresses offer a perfect combination of style and comfort, ideal for celebrating the achievement of years of hard academic work.<br\/><br\/>One of the main advantages of opting for a short prom dress is its versatility. With a wide range of colors, cuts and styles available, graduates can find the perfect dress to fit their taste and unique personality. Whether you prefer a classic and timeless look or a bolder and more modern one, there is a short dress for every style and preference.<br\/><br\/>In addition to their impeccable style, short dresses also offer great comfort. During a graduation ceremony and the events that follow, it is important to feel comfortable and confident in your outfit. Short dresses allow you to move easily and enjoy every moment to the fullest without feeling restricted by the length of the skirt.<br\/><br\/>When it comes to color choice, short prom dresses offer a wide variety of options. From classic neutral tones like black and white to the vibrant colors of the season, there is an option for every taste and preference. Details like lace, embroidery and beading can add an extra touch of elegance and sophistication to your look.<br\/><br\/>In short, short dresses are an elegant and practical option for prom. With their versatile style, comfort and wide variety of colors and cuts, they ensure graduates look spectacular on their special day. So don't hesitate to choose a short dress for your graduation and make an unforgettable entrance on this significant occasion in your academic life!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8Y9eTh",
+        "text_x8UcRc"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/c17fd3da82c64555a296405f9962bcac-Min_76ceca3e-daeb-477a-b39d-e1a8bcd7296e.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -231,6 +269,7 @@
     "product-grid",
     "TEXT",
     "GUIDE",
-    "multicolumn_4pEiCY"
+    "multicolumn_4pEiCY",
+    "image_with_text_DyiakW"
   ]
 }
