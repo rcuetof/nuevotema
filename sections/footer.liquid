@@ -132,14 +132,16 @@
                             transform: rotate(0.2deg);
                            }         
                           </style>
-                          {%- if condition -%}
+                          {%- if block.settings.link1 != blank -%}
                             <div class="cajon-botones">
-                              <button class="fotbtn" onclick="redirigir('')">Maxi Dress</button>
-                              <button class="fotbtn" onclick="redirigir('')">Midi Dress</button>
-                              <button class="fotbtn" onclick="redirigir('')">Mini Dress</button>
-                              <button class="fotbtn" onclick="redirigir('')">About Us</button>
-                              <button class="fotbtn" onclick="redirigir('')">Policity</button>
-                              <button class="fotbtn" onclick="redirigir('')">Fashion Blog</button>
+                              {%- if block.settings.link1 != blank -%}<button class="fotbtn" onclick="redirigir('{{ block.settings.link1 }}')">{{ block.settings.textbtn1 }}</button>{%endif%}
+                              {%- if block.settings.link2 != blank -%}<button class="fotbtn" onclick="redirigir('{{ block.settings.link2 }}')">{{ block.settings.textbtn2 }}</button>{%endif%}
+                              {%- if block.settings.link3 != blank -%}<button class="fotbtn" onclick="redirigir('{{ block.settings.link3 }}')">{{ block.settings.textbtn3 }}</button>{%endif%}
+                              {%- if block.settings.link4 != blank -%}<button class="fotbtn" onclick="redirigir('{{ block.settings.link4 }}')">{{ block.settings.textbtn4 }}</button>{%endif%}
+                              {%- if block.settings.link5 != blank -%}<button class="fotbtn" onclick="redirigir('{{ block.settings.link5 }}')">{{ block.settings.textbtn5 }}</button>{%endif%}
+                              {%- if block.settings.link6 != blank -%}<button class="fotbtn" onclick="redirigir('{{ block.settings.link6 }}')">{{ block.settings.textbtn6 }}</button>{%endif%}
+                              {%- if block.settings.link7 != blank -%}<button class="fotbtn" onclick="redirigir('{{ block.settings.link7 }}')">{{ block.settings.textbtn7 }}</button>{%endif%}
+                              {%- if block.settings.link8 != blank -%}<button class="fotbtn" onclick="redirigir('{{ block.settings.link8 }}')">{{ block.settings.textbtn8 }}</button>{%endif%}
                             </div>
                           {%- endif -%}
                             
