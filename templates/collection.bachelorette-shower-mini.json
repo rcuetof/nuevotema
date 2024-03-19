@@ -263,30 +263,21 @@
         "heading_JJAHiE": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "Bachelorette and Bridal Shower Short Dresses",
+            "heading_size": "h2"
           }
         },
         "text_BcebPM": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>A short dress allows you to move freely and comfortably while enjoying all the planned activities.<br\/>Chic and modern style: Short dresses can be equally elegant as long dresses, but with a more modern and youthful touch. You can opt for styles with fun details like sequins, fringes, or bold prints to add a touch of fun to your look.<br\/><br\/>Variety of options: Short dresses come in a wide variety of styles, from classic to more daring. You can choose a dress that reflects your personality and individual style, whether it's a tight, sexy dress or a looser, more comfortable one.<br\/><br\/> Wedding parties are usually more intimate and formal events, where you can enjoy the company of friends and family in a relaxed atmosphere. A short dress is an appropriate and elegant option for this type of celebration.<br\/><br\/>Feminine and romantic style: Short dresses with feminine details such as lace, ruffles or floral prints are perfect for a bridal party, as they add a touch of romanticism and delicacy to your look.<br\/><br\/>Versatility for different themes: Depending on the theme of the bridal party, a short dress can easily adapt to different styles and environments. From an outdoor party to a more formal celebration at a restaurant, a short dress is a versatile option that suits a variety of situations.<br\/><br\/>With its chic and modern style, as well as its comfort and versatility, a short dress allows you to look fabulous and enjoy these special moments with your loved ones to the fullest.<\/p>",
             "text_style": "body"
-          }
-        },
-        "button_DDfmaT": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_JJAHiE",
-        "text_BcebPM",
-        "button_DDfmaT"
+        "text_BcebPM"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/8b932f07e82a49a194d673eb3dcd439b-Min_2_45e7b535-8fba-42a6-86c2-9c7de4498b63.webp",
