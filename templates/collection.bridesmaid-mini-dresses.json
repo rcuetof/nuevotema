@@ -154,9 +154,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/c5992fb913714ec295f5d630fefa6d23-Max.jpg",
             "title": "",
-            "text": "<h6><em>Romantic Style Bridesmaid Dresses<\/em><\/h6>",
-            "link_label": "",
-            "link": ""
+            "text": "<h5><em><strong>Romantic Style Bridesmaid Dresses<\/strong><\/em><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/bridesmaid-romantic-short-dresses"
           }
         },
         "column_KwYy69": {
@@ -164,7 +164,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/e1e9a96121a04a07995a5af3eddfe9a3-Max.jpg",
             "title": "",
-            "text": "<h6><em><strong>Vintage Bridesmaid Mini Dresses<\/strong><\/em><\/h6>",
+            "text": "<h5><em><strong>Vintage Bridesmaid Mini Dresses<\/strong><\/em><\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -228,44 +228,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "image_with_text_TRkrzV": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_RwWTAc": {
-          "type": "heading",
-          "settings": {
-            "heading": "<em><strong>Spring Bridesmaid Dresses<\/strong><\/em>",
-            "heading_size": "h2"
-          }
-        },
-        "text_DUy3Xq": {
-          "type": "text",
-          "settings": {
-            "text": "<h5><em><strong>The spring season is approaching and if you want to wear a romantic outfit at a beautiful garden wedding or perhaps a beach wedding, we invite you to explore options for floral bridesmaid dresses, visit our collection, our dresses are so versatile that you can Save them and continue using them for more special occasions in addition to feeling in that romantic harmony with flowers and the spring season.<\/strong><\/em><\/h5>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_RwWTAc",
-        "text_DUy3Xq"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/228dc71eaaaf4d9b8262c0963846577e-Max.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -275,7 +237,6 @@
     "multicolumn_RdRCYC",
     "product-grid",
     "multicolumn_wWebKt",
-    "image_with_text_cRdGd7",
-    "image_with_text_TRkrzV"
+    "image_with_text_cRdGd7"
   ]
 }
