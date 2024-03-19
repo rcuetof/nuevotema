@@ -37,6 +37,10 @@
         background-color: rgba(242, 193, 242, 0.438);
         color: #ffffff;
         font-weight: 900;
+      }
+}
+.tab:active {
+    .textbtn{
         opacity: 1;
       }
 }
