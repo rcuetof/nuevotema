@@ -123,6 +123,62 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_jXAxLW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BfQFzM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2087b86bcb1d46058d4846c3f6b004df-Max.jpg",
+            "title": "",
+            "text": "<h6><em><strong>A short black dress is an excellent option for a wedding, whether it is a black cocktail dress or a more formal dress.<\/strong><\/em><\/h6>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/black-mini-dresses"
+          }
+        },
+        "column_BRE7gR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/be0df7ae-537d-44fd-9b4f-c88a2445782e-Max.jpg",
+            "title": "",
+            "text": "<h6><em><strong>Red cocktail dresses are versatile to attend multiple events, a wedding is a great choice, they provide elegance and drama.<\/strong><\/em><\/h6>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/red-mini-dresses"
+          }
+        },
+        "column_rRhmJH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/67c50ea0f10246b8b095d28a5cf50f79-Max.jpg",
+            "title": "",
+            "text": "<h6><em><strong>A blue dress for a wedding guest is one of the favorite colors for this event, from soft blue tones to more intense ones like navy blue.<\/strong><\/em><\/h6>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/blue-mini-dresses"
+          }
+        }
+      },
+      "block_order": [
+        "column_BfQFzM",
+        "column_BRE7gR",
+        "column_rRhmJH"
+      ],
+      "settings": {
+        "title": "<em><strong>Colorful Wedding Guest Dresses<\/strong><\/em>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_NA6RFy": {
       "type": "image-with-text",
       "blocks": {
@@ -160,134 +216,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "multicolumn_jXAxLW": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_BfQFzM": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/2087b86bcb1d46058d4846c3f6b004df-Max.jpg",
-            "title": "",
-            "text": "<h6><em><strong>A short black dress is an excellent option for a wedding, whether it is a black cocktail dress or a more formal dress.<\/strong><\/em><\/h6>",
-            "link_label": "Show More",
-            "link": "shopify:\/\/collections\/black-mini-dresses"
-          }
-        },
-        "column_BRE7gR": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/be0df7ae-537d-44fd-9b4f-c88a2445782e-Max.jpg",
-            "title": "",
-            "text": "<h6><em><strong>Red cocktail dresses are versatile to attend multiple events, a wedding is a great choice, they provide elegance and drama.<\/strong><\/em><\/h6>",
-            "link_label": "Show More",
-            "link": "shopify:\/\/collections\/red-mini-dresses"
-          }
-        },
-        "column_rRhmJH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/67c50ea0f10246b8b095d28a5cf50f79-Max.jpg",
-            "title": "",
-            "text": "<h6><em><strong>A blue dress for a wedding guest is one of the favorite colors for this event, from soft blue tones to more intense ones like navy blue.<\/strong><\/em><\/h6>",
-            "link_label": "Show More",
-            "link": "shopify:\/\/collections\/blue-mini-dresses"
-          }
-        },
-        "column_xjgJDC": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/bf7ace5f3b1747359aaee89b25d740ea-Max.jpg",
-            "title": "",
-            "text": "<h6><em><strong>The color green is the color of nature and hope is ideal for garden weddings. With a green dress for the wedding guest, you will be in harmony with nature. <\/strong><\/em><\/h6>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_BfQFzM",
-        "column_BRE7gR",
-        "column_rRhmJH",
-        "column_xjgJDC"
-      ],
-      "settings": {
-        "title": "<em><strong>Colorful Wedding Guest Dresses<\/strong><\/em>",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collapsible_content_gRmPUE": {
-      "type": "collapsible-content",
-      "blocks": {
-        "collapsible_row_kbHf7y": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Privacy Policy",
-            "icon": "heart",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_eMLDWH": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Shipping Policy",
-            "icon": "truck",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_dXpK4X": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Refund Policy",
-            "icon": "return",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_pGpbDh": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Question and answer guides to find the short wedding guest dress you need",
-            "icon": "chat_bubble",
-            "row_content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "collapsible_row_kbHf7y",
-        "collapsible_row_eMLDWH",
-        "collapsible_row_dXpK4X",
-        "collapsible_row_pGpbDh"
-      ],
-      "settings": {
-        "caption": "",
-        "heading": "FAQ & Policies",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "row",
-        "color_scheme": "",
-        "container_color_scheme": "",
-        "open_first_collapsible_row": false,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -296,8 +224,7 @@
     "rich_text_REGzJQ",
     "multicolumn_pNeDDD",
     "product-grid",
-    "image_with_text_NA6RFy",
     "multicolumn_jXAxLW",
-    "collapsible_content_gRmPUE"
+    "image_with_text_NA6RFy"
   ]
 }
