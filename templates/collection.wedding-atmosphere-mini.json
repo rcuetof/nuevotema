@@ -245,6 +245,44 @@
         "textguide3-textbtn": "",
         "textguide3-color": "#000000"
       }
+    },
+    "image_with_text_JjDTMx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_G9qPnq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wedding Setting",
+            "heading_size": "h1"
+          }
+        },
+        "text_6Acew6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Garden Wedding: Natural Charm<br\/><br\/>Imagine a celebration surrounded by beautiful gardens, where the soft sunlight and the aroma of flowers create an atmosphere of serenity and romanticism. Garden weddings offer a charming and cozy atmosphere, ideal for those looking for an intimate and elegant event in the middle of nature.<br\/><br\/>For a garden wedding, we suggest opting for short dresses with light fabrics and soft prints. Delicate tones such as off-white, pale pink or soft green will perfectly complement the surroundings. Subtle details, such as lace or embroidery, will add a touch of sophistication and femininity to your look. Complete your outfit with natural accessories and comfortable sandals for a subtly chic style.<br\/><br\/>Beach Wedding: Relaxed and Sophisticated Style<br\/><br\/>Imagine a ceremony at sunset, with the sound of the sea in the background and the sea breeze gently caressing your skin. Beach weddings offer a relaxed and serene atmosphere, perfect for those looking for a casual but elegant celebration by the sea.<br\/><br\/>For a beach wedding, we suggest choosing short dresses in vibrant colors and light fabrics. Shades such as turquoise blue, coral or sunny yellow will capture the essence of the coastal environment. Flowing fabrics, such as chiffon or chiffon, will add a touch of movement and freshness to your look. Add natural accessories, such as shell necklaces or bead bracelets, for a subtly chic beach look.<br\/><br\/>Night Wedding: Elegance and Glamor<br\/><br\/>Imagine an evening under the starry sky, with an atmosphere of elegance and sophistication in the air. Evening weddings offer the perfect opportunity to show off your best style and enjoy a chic and glamorous celebration.<br\/><br\/>For an evening wedding, we suggest choosing short dresses in dark colors and luxurious fabrics. Shades like black, burgundy or midnight blue will add a touch of drama and elegance to your look. Delicate details, such as rhinestones or velvet, will add a subtle and sophisticated shine to your outfit. Complete your look with elegant accessories and high heels for a subtly glamorous evening look.<br\/><br\/>We hope these suggestions inspire you to find the perfect short dress for your next wedding. Remember that the most important thing is to feel comfortable and confident with your look, so have fun experimenting and find the style that best represents you on this special day!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_G9qPnq",
+        "text_6Acew6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/woman-4081760_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -256,6 +294,7 @@
     "product-grid",
     "multicolumn_BXKJAz",
     "TEXT",
-    "GUIDE"
+    "GUIDE",
+    "image_with_text_JjDTMx"
   ]
 }
