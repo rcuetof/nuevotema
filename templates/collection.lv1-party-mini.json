@@ -191,7 +191,7 @@
             "heading": "Formal Mini Dresses",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "Button label",
+            "button_label": "Show More",
             "link": "shopify:\/\/collections\/formal-mini-dresses",
             "button_style_secondary": false,
             "box_align": "middle-center",
@@ -216,7 +216,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
         }
