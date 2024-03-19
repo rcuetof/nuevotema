@@ -155,6 +155,62 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_BXKJAz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BWtfyj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/c6e361ad-97dd-4ca4-9f61-2b6695b7e286-Max.png",
+            "title": "",
+            "text": "<h5><strong>Wedding Guest Mini Dresses<\/strong><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/wedding-guest-mini-dresses"
+          }
+        },
+        "column_mgci8g": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/c005b055-edc1-436a-9837-951b1fe871a9-Max.jpg",
+            "title": "",
+            "text": "<h5><strong>Bridesmaid Black Dresses<\/strong><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/bridesmaid-black-mini-dresses"
+          }
+        },
+        "column_QCN7xM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9fd9c943-4a2b-459f-9ba3-e3a415972568-Max.jpg",
+            "title": "",
+            "text": "<p>Wedding<\/p>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/wedding"
+          }
+        }
+      },
+      "block_order": [
+        "column_BWtfyj",
+        "column_mgci8g",
+        "column_QCN7xM"
+      ],
+      "settings": {
+        "title": "Recommended categories for wedding guests",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "TEXT": {
       "type": "main-collection-banner",
       "custom_css": [
@@ -198,6 +254,7 @@
     "TITTLE",
     "rich_text_gmKQax",
     "product-grid",
+    "multicolumn_BXKJAz",
     "TEXT",
     "GUIDE"
   ]
