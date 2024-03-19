@@ -77,10 +77,11 @@
         "column_pjU6fz": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/33649b6cfc4b4f26abf0b802161b41cd-Min_4d7064e5-d640-4eeb-b61d-7cf9fb607c50.webp",
+            "title": "",
+            "text": "<h5><strong>Elegant Mini Dress<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/elegant-cocktail-short-dresses"
           }
         }
       },
