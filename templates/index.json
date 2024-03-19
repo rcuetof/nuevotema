@@ -2,12 +2,15 @@
   "sections": {
     "banner-principal": {
       "type": "vrc-banner",
+      "custom_css": [
+        ".position-boton{left: 50%;}"
+      ],
       "settings": {
         "title-banner": "Fashion <br>Violetta & Rc <br>Shop",
         "banner-movil": "shopify:\/\/shop_images\/Diseno_sin_titulo_34.png",
-        "posm-x-tittle1": 0,
+        "posm-x-tittle1": 14,
         "posm-y-tittle1": 31,
-        "size-m-tittle1": 34,
+        "size-m-tittle1": 55,
         "banner-escritorio": "shopify:\/\/shop_images\/banner-principal-e.png",
         "pose-x-tittle1": 42,
         "pose-y-tittle1": 22,
@@ -16,10 +19,10 @@
         "tittl2-banner": "",
         "size-tittle2": 10,
         "font-color-tittle2": "#000000",
-        "text-botton1": "",
-        "link-botton1": "",
-        "text-botton2": "Dresses for Women",
-        "link-botton2": "shopify:\/\/collections\/all-mini-dresses"
+        "text-botton1": "Dresses for Women",
+        "link-botton1": "shopify:\/\/collections\/all-mini-dresses",
+        "text-botton2": "",
+        "link-botton2": ""
       }
     },
     "featured_collection": {
@@ -147,8 +150,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "slideshow_ebPK49": {

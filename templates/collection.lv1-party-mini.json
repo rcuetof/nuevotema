@@ -57,21 +57,55 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "rich_text_nKAXmR": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_PrhArf": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop by Category",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_PrhArf"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "TAB-VRC-DEFAULT": {
       "type": "tab-container",
       "blocks": {
+        "text_x9bp88": {
+          "type": "text",
+          "settings": {
+            "title": "Baby Shower",
+            "text": "",
+            "image": "shopify:\/\/shop_images\/06d32d35181f4dffb6a6f010d76d6524-Max_41b0346e-ad03-4021-9f59-acd1bfcd1552.jpg",
+            "btn": "shopify:\/\/collections\/baby-shower-mini-dresses",
+            "btntxt": "Discover Collection"
+          }
+        },
         "text_UfxhWf": {
           "type": "text",
           "settings": {
             "title": "Holiday",
             "text": "",
             "image": "shopify:\/\/shop_images\/04fd124089f449f0a95dbc7ab520e72e-Max_a1403230-be03-4680-acc8-21e0822a2601.webp",
-            "btn": "shopify:\/\/collections\/anniversary-mini-dresses",
+            "btn": "",
             "btntxt": "Discover Collection"
           }
         }
       },
       "block_order": [
+        "text_x9bp88",
         "text_UfxhWf"
       ],
       "settings": {
@@ -151,6 +185,7 @@
   "order": [
     "BANNER-VRC-DEFAULT",
     "slideshow_UJrazC",
+    "rich_text_nKAXmR",
     "TAB-VRC-DEFAULT",
     "TITTLE",
     "product-grid",

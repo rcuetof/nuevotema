@@ -90,7 +90,6 @@
     },
     "TITTLE": {
       "type": "main-collection-banner",
-      "disabled": true,
       "custom_css": [
 
       ],
