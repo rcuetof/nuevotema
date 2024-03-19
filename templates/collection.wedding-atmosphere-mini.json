@@ -41,6 +41,62 @@
       "settings": {
       }
     },
+    "multicolumn_tPMLza": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PmHLAR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/e48a25a7e6c641f59ca56ea8c7971133-Max.webp",
+            "title": "Garden Wedding",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/garden-wedding-mini-dresses"
+          }
+        },
+        "column_tVHR6x": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1939cd1d-2b0e-4dcc-95c4-0175cdefff47-Max.jpg",
+            "title": "",
+            "text": "<p>Beach Weadding<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_XkHG9i": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/404d344f-912d-4ee1-bc12-a49ae41f49f6-Max.jpg",
+            "title": "",
+            "text": "<p>Evening Wedding<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_PmHLAR",
+        "column_tVHR6x",
+        "column_XkHG9i"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "TITTLE": {
       "type": "main-collection-banner",
       "custom_css": [
@@ -114,6 +170,7 @@
   "order": [
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
+    "multicolumn_tPMLza",
     "TITTLE",
     "product-grid",
     "TEXT",
