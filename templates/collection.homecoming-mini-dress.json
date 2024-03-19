@@ -182,10 +182,11 @@
         "column_UDCkrm": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/8b932f07e82a49a194d673eb3dcd439b-Min_2_45e7b535-8fba-42a6-86c2-9c7de4498b63.webp",
             "title": "",
-            "text": "<p>Elegant Short Dresses<\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>Prom Sequin Dress<\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/graduation-sequin-mini-dress"
           }
         },
         "column_BxcjbC": {
