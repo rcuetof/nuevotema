@@ -16,10 +16,10 @@
         "tittl2-banner": "",
         "size-tittle2": 10,
         "font-color-tittle2": "#000000",
-        "text-botton1": "",
-        "link-botton1": "",
-        "text-botton2": "Dresses for Women",
-        "link-botton2": "shopify:\/\/collections\/all-mini-dresses"
+        "text-botton1": "Dresses for Women",
+        "link-botton1": "shopify:\/\/collections\/all-mini-dresses",
+        "text-botton2": "",
+        "link-botton2": ""
       }
     },
     "featured_collection": {
