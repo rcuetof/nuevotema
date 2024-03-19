@@ -50,8 +50,8 @@
             "image": "shopify:\/\/shop_images\/e48a25a7e6c641f59ca56ea8c7971133-Max.webp",
             "title": "Garden Wedding",
             "text": "",
-            "link_label": "",
-            "link": "shopify:\/\/collections\/garden-wedding-mini-dresses"
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/garden-wedding"
           }
         },
         "column_tVHR6x": {
@@ -60,8 +60,8 @@
             "image": "shopify:\/\/shop_images\/1939cd1d-2b0e-4dcc-95c4-0175cdefff47-Max.jpg",
             "title": "",
             "text": "<p>Beach Weadding<\/p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/beach-wedding"
           }
         },
         "column_XkHG9i": {
@@ -70,8 +70,8 @@
             "image": "shopify:\/\/shop_images\/404d344f-912d-4ee1-bc12-a49ae41f49f6-Max.jpg",
             "title": "",
             "text": "<p>Evening Wedding<\/p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/evening-wedding"
           }
         }
       },
@@ -99,6 +99,7 @@
     },
     "TITTLE": {
       "type": "main-collection-banner",
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -109,6 +110,29 @@
         "sizetext": 12,
         "show_collection_image": false,
         "color_scheme": "scheme-1"
+      }
+    },
+    "rich_text_gmKQax": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ga4EEF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Best Selling Wedding Dresses",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ga4EEF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "product-grid": {
@@ -172,6 +196,7 @@
     "TAB-VRC-DEFAULT",
     "multicolumn_tPMLza",
     "TITTLE",
+    "rich_text_gmKQax",
     "product-grid",
     "TEXT",
     "GUIDE"
