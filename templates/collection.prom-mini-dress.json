@@ -187,23 +187,15 @@
             "title": "",
             "text": "<h5><strong>Sequin Dresses<\/strong><\/h5>",
             "link_label": "",
-            "link": "shopify:\/\/collections"
+            "link": "shopify:\/\/collections\/graduation-sequin-mini-dress"
           }
         },
         "column_UJ6nET": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/4cfe142c-f571-4dff-acd3-98de8729db01-Max.jpg",
             "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_cy8kWe": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<h5><strong>Lace Dresses<\/strong><\/h5>",
             "link_label": "",
             "link": ""
           }
@@ -211,8 +203,7 @@
       },
       "block_order": [
         "column_kDJ7Tz",
-        "column_UJ6nET",
-        "column_cy8kWe"
+        "column_UJ6nET"
       ],
       "settings": {
         "title": "recommended mini dresses for prom event",
