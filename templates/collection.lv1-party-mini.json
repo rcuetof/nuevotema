@@ -263,6 +263,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_KnBWNX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_hDH6dM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mini Dresses For Party",
+            "heading_size": "h2"
+          }
+        },
+        "text_Mygnqa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"Mini dresses are the perfect option to stand out at any party or special event. These bold and elegant outfits are a bold style statement that does not go unnoticed. With their shorter length, mini dresses allow you to show off your legs and highlight your figure in a flattering and seductive way.<br\/><br\/>One of the main advantages of opting for a mini dress for a party is its versatility. From cocktail parties to formal events, there is a mini dress for every occasion and style. You can find everything from classic and elegant designs to more daring and modern options, allowing you to express your personality and unique style at any event.<br\/><br\/>In addition to their striking style, mini dresses also offer great comfort. Its shorter length allows you to move easily and enjoy the party to the fullest without feeling restricted by the length of the skirt. Additionally, mini dresses are usually made of light, flowy fabrics that allow you to dance all night without worries.<br\/><br\/>When it comes to choosing style, mini dresses offer a wide variety of options. You can opt for a classic black mini dress for a timeless and elegant look, or choose a mini dress with eye-catching details such as sequins, lace or rhinestones for an extra touch of glamour. You can also play with different necklines, sleeves, and silhouettes to find the style that best suits your taste and body type.<br\/><br\/>In short, mini dresses are an elegant and modern option to stand out at any party or special event. With their versatility, comfort and striking style, they guarantee that you will be the center of attention and leave a lasting impression on any occasion. So don't hesitate to wear a mini dress at your next party and shine with style and confidence!\"<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hDH6dM",
+        "text_Mygnqa"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/eb69640b-5960-4193-bc26-35f863a8d6c0-Max.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -275,6 +313,7 @@
     "TEXT",
     "GUIDE",
     "slideshow_yVGgxR",
-    "featured_collection_76bVhW"
+    "featured_collection_76bVhW",
+    "image_with_text_KnBWNX"
   ]
 }
