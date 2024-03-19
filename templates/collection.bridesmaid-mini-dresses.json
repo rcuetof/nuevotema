@@ -76,12 +76,13 @@
             "image": "shopify:\/\/shop_images\/fc08cfdb24cd490ea45b30b5e85a97ca-Max.jpg",
             "title": "",
             "text": "<h5><em><strong>Black Short Bridesmaid  Dresses<\/strong><\/em><\/h5>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/bridesmaid-black-mini-dresses"
           }
         },
         "column_aTxA9b": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/63005c47-dca0-4100-9a5a-790b1692826d-Max.jpg",
             "title": "",
