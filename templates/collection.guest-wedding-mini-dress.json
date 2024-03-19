@@ -8,6 +8,21 @@
     "BANNER-VRC-GWMINIDRESS": {
       "type": "vrc-banner",
       "settings": {
+        "title-banner": "",
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#FFFFFF",
+        "tittl2-banner": "",
+        "size-tittle2": 25,
+        "font-color-tittle2": "#000000",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
       }
     },
     "rich_text_REGzJQ": {
@@ -35,26 +50,6 @@
     "multicolumn_pNeDDD": {
       "type": "multicolumn",
       "blocks": {
-        "column_E4YMq7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5f2ddba97a914ed096d01916a77b0898-Max.jpg",
-            "title": "",
-            "text": "<h5><em><strong>Short Sleeve Wedding Guest Dress<\/strong><\/em><\/h5>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_XCUEzd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/a2ee0fb6-646d-4f0e-bafb-056f83e1eb29-Max_1.jpg",
-            "title": "",
-            "text": "<h5><em><strong>Short petite dresses for wedding guests<\/strong><\/em><\/h5>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_U4YUM6": {
           "type": "column",
           "settings": {
@@ -75,16 +70,6 @@
             "link": ""
           }
         },
-        "column_bmKwEJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/394ab5454772419faa410dcd03b315ea-Max.jpg",
-            "title": "",
-            "text": "<h5><em><strong>Long sleeve short wedding guest dress<\/strong><\/em><\/h5>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_NVpFCx": {
           "type": "column",
           "settings": {
@@ -97,11 +82,8 @@
         }
       },
       "block_order": [
-        "column_E4YMq7",
-        "column_XCUEzd",
         "column_U4YUM6",
         "column_rEdDNg",
-        "column_bmKwEJ",
         "column_NVpFCx"
       ],
       "settings": {
@@ -157,20 +139,11 @@
             "text": "<h5><em><strong>Dress code for weddings, whether it is a black tie wedding event or a more formal event, the most important thing is to find out about the dress code that the bride and groom chose. Neutral colors like black will always be an elegant option, chamfer colors add glamor and sophistication to your outfit<\/strong><\/em><\/h5>",
             "text_style": "body"
           }
-        },
-        "button_tewMdn": {
-          "type": "button",
-          "settings": {
-            "button_label": "Show Collection",
-            "button_link": "",
-            "button_style_secondary": true
-          }
         }
       },
       "block_order": [
         "heading_XEBm8F",
-        "text_GFBRAz",
-        "button_tewMdn"
+        "text_GFBRAz"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/b206c14e88c54083af649734684b7738-Max.jpg",
@@ -197,8 +170,8 @@
             "image": "shopify:\/\/shop_images\/2087b86bcb1d46058d4846c3f6b004df-Max.jpg",
             "title": "",
             "text": "<h6><em><strong>A short black dress is an excellent option for a wedding, whether it is a black cocktail dress or a more formal dress.<\/strong><\/em><\/h6>",
-            "link_label": "",
-            "link": ""
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/black-mini-dresses"
           }
         },
         "column_BRE7gR": {
