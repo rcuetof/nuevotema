@@ -54,31 +54,19 @@
             "link": "shopify:\/\/collections\/black-tie-formal-mini-dresses"
           }
         },
-        "column_WVbCpV": {
+        "column_Yzf6RF": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/516c02952c6540748d35f9d05bff04b5-Min_e11eef87-d7b8-40f9-ab35-31bde9b466d1.jpg",
-            "title": "",
-            "text": "<h5><strong>Plus Size Dresses<\/strong><\/h5>",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "Show More",
-            "link": "shopify:\/\/collections\/elegant-cocktail-short-dresses"
-          }
-        },
-        "column_ArQxfm": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/f0a69c5ed8da4b4ea67f7ced59bec1ae-Min_9251e9d5-9ca6-48ac-91eb-84546978f864.jpg",
-            "title": "",
-            "text": "<h5><strong>Formal Short Dresses<\/strong><\/h5>",
-            "link_label": "Show More",
-            "link": "shopify:\/\/collections\/black-formal-dresses-short"
+            "link": "shopify:\/\/collections\/black-plus-size-little-dresses"
           }
         }
       },
       "block_order": [
         "column_QGUnfb",
-        "column_WVbCpV",
-        "column_ArQxfm"
+        "column_Yzf6RF"
       ],
       "settings": {
         "title": "Elegant mother of the bride dresses Categories",
