@@ -7,7 +7,6 @@
   width: calc(90% - 4rem / var(--font-body-scale));
   padding: 20px 0 20px 0;
   border-radius: 10px; /* Bordes redondeados (asegúrate de que sea un valor positivo) */ 
-  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.027); /* Sombra suave */  
   text-align: left;
   text-align: justify;
   font-style: italic;
