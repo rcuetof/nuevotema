@@ -168,44 +168,11 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "column_gkFr7F": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/8815aa20131c4e54be07ca910778258d-Max.jpg",
-            "title": "",
-            "text": "<h6><em><strong>Short A Line Bridesmaid Dresses<\/strong><\/em><\/h6>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_mr9yRE": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/661f23ee3ba548e1a52c305a41aa1475-Max.jpg",
-            "title": "",
-            "text": "<h6><em><strong>Short Casual Bridesmaid DressesS<\/strong><\/em><\/h6>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_8BVycf": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/00a07c0a-7146-4000-b44d-2f5238308e9f-Max.jpg",
-            "title": "",
-            "text": "<h6><em><strong>Short Cheap Bridesmaid Dresses<\/strong><\/em><\/h6>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_JUNzTP",
-        "column_KwYy69",
-        "column_gkFr7F",
-        "column_mr9yRE",
-        "column_8BVycf"
+        "column_KwYy69"
       ],
       "settings": {
         "title": "<em><strong>Categories of mini dresses for bridesmaid<\/strong><\/em>",
