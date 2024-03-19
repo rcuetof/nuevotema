@@ -57,10 +57,11 @@
         "column_3UBtwj": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/516c02952c6540748d35f9d05bff04b5-Min_e11eef87-d7b8-40f9-ab35-31bde9b466d1.jpg",
+            "title": "",
+            "text": "<h5><strong>Plus Size<\/strong><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/mother-of-de-bridal-plus-size"
           }
         },
         "column_p9qCmt": {
