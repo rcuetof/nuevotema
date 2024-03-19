@@ -255,8 +255,9 @@
         },
         "slide_aHcMme": {
           "type": "slide",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_30.png",
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_32.png",
             "heading": "<strong>Short Casual Dresses<\/strong>",
             "heading_size": "h0",
             "subheading": "",
@@ -333,11 +334,19 @@
             "button_link": "shopify:\/\/collections\/style-guide-for-wedding-guest",
             "button_style_secondary": false
           }
+        },
+        "text_jy4KNb": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>In the tapestry of wedding traditions, short wedding dresses have emerged as bold innovators, challenging long-held conventions. Like the revolutionaries who challenged established structures, these dresses challenge the ingrained expectations of the wedding world. As a hymn to freedom, we find its prominent presence in historical moments, marking a change in the course of marriage ceremonies.<br\/><br\/>More recently, in 2018, singer and actress Miley Cyrus surprised the world with her secret wedding to Liam Hemsworth, where she opted for a short wedding dress, underscoring her free spirit and distinctive style. Music, with its ability to challenge convention and express individuality, intertwines with wedding fashion to create unforgettable and transformative moments.<br\/><br\/>These bold designs offer modern brides the opportunity to stand out with distinctive style on their special day. From iconic figures like Audrey Hepburn to contemporary celebrities, the wearing of short wedding dresses has marked a shift in the wedding paradigm, combining timeless elegance with a dose of audacity.<br\/><br\/>With a variety of subcategories ranging from classic princess dresses to modern A-line dresses, the options for brides are endless. In addition, the world of color opens up to new possibilities, from traditional shades of white to softer tones such as ivory and pale pink. This diversity allows brides to express their individual style and find the perfect dress that suits their personality and preferences.<br\/><br\/>When it comes to fabrics, choice is key to defining the look and feel of the wedding dress. From light, flowy fabrics like silk and chiffon to more structured options like lace and mikado, each fabric offers a unique texture that can enhance the style of the dress. This variety allows brides to find the perfect fabric that complements their vision and provides comfort on their special day.<br\/><br\/>With every step forward, these short wedding dresses have resonated with the energy of changing times and the voices of those who challenge the establishment, creating a legacy of bravery and self-expression that transcends generations.<\/h5>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "heading_FhXmmQ",
-        "button_ETMXn8"
+        "button_ETMXn8",
+        "text_jy4KNb"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/88bb3609eca6456fa2ded70dbaeb7d7a-Max.webp",
@@ -346,7 +355,7 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
