@@ -33,6 +33,9 @@
 .tab:hover {
     transform: rotate(0.2deg);
     box-shadow: 0px 0px 10px rgba(60, 59, 59, 0.478);
+    .textbtn{
+        background-color: rgba(242, 193, 242, 0.438);
+      }
 }
 
 .tab-content {
