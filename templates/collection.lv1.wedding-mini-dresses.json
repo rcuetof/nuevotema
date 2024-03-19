@@ -137,33 +137,13 @@
             "btntxt": "Discover Collection"
           }
         },
-        "text_ibBQTd": {
-          "type": "text",
-          "settings": {
-            "title": "Dress for Beach Wedding",
-            "text": "There are so many different places to celebrate a wedding and for whom the best option is to unite the love they feel for the sea with the person with whom they want to share the rest of their life, and celebrate a wedding on the beach, if you have been invited to This event reminds us that there are beach style dresses while still being elegant, the lace fabrics flutter in the wind",
-            "image": "shopify:\/\/shop_images\/46c8ec9ca0b24b36b4003d0b547d7769-Max.jpg",
-            "btn": "shopify:\/\/collections\/mini-dresses-for-beach-wedding",
-            "btntxt": "Discover Collection"
-          }
-        },
         "text_reydrW": {
           "type": "text",
           "settings": {
-            "title": "Dress for Garden wedding",
+            "title": "Wedding Setting",
             "text": "The magic of flowers, what a fabulous idea to combine the simplicity and colors of nature and make them shine on a day as special as the wedding of a loved one, here you will find a selection of mini dresses for guests that are ideal for that wedding in garden",
             "image": "shopify:\/\/shop_images\/1fa351c4232d4a2cac7cc51a1749c51c-Max.jpg",
             "btn": "shopify:\/\/collections\/mini-dresses-for-garden-wedding",
-            "btntxt": "Discover Collection"
-          }
-        },
-        "text_zkzBh7": {
-          "type": "text",
-          "settings": {
-            "title": "Dress Evening Wedding",
-            "text": "Mini evening wedding dresses go beyond seductive and daring charm, you can find a highly elegant variety for that wedding here in our collection.",
-            "image": "shopify:\/\/shop_images\/3fbdd88f081b4bf7bfb54357635a378e-Max.jpg",
-            "btn": "shopify:\/\/collections\/mini-dresses-for-evening-wedding",
             "btntxt": "Discover Collection"
           }
         },
@@ -193,9 +173,7 @@
         "text_tXwXBY",
         "text_f4drNU",
         "text_GxPtwC",
-        "text_ibBQTd",
         "text_reydrW",
-        "text_zkzBh7",
         "text_EknyhK",
         "text_HDQcic"
       ],
