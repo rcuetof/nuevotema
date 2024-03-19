@@ -276,23 +276,24 @@
         "slide_hKt7aD": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4d69d263cac54866990a11ee65554e4e-Min.jpg",
+            "image": "shopify:\/\/shop_images\/966e950a-d5d7-4e9b-84f0-8debf0b0999d-Max.jpg",
             "heading": "",
             "heading_size": "h1",
-            "subheading": "Long Sleeve Dresses for Business or Work",
+            "subheading": "Cami Casual Dresses",
             "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/work-and-business-formal-mini-dresses-long-sleeve",
+            "link": "shopify:\/\/collections\/cami-casual-short-dress",
             "button_style_secondary": false,
             "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-2",
             "text_alignment_mobile": "center"
           }
         },
         "slide_aBj79g": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/125dbb87-b0c1-4344-9ba2-174f1914a086-Max.jpg",
             "heading": "",
