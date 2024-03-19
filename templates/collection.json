@@ -1,19 +1,5 @@
 {
   "sections": {
-    "TITTLE": {
-      "type": "main-collection-banner",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "show_collection_title": true,
-        "sizetitle": 18,
-        "show_collection_description": false,
-        "sizetext": 12,
-        "show_collection_image": false,
-        "color_scheme": "scheme-1"
-      }
-    },
     "BANNER-VRC-DEFAULT": {
       "type": "vrc-banner",
       "disabled": true,
@@ -53,6 +39,74 @@
       ],
       "disabled": true,
       "settings": {
+      }
+    },
+    "multicolumn_aAqTQU": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_QGUnfb": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a28ddd6550cf4df9ba65820c2b9536b9-Min.webp",
+            "title": "",
+            "text": "<h5>Black Tie<\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/black-tie-formal-mini-dresses"
+          }
+        },
+        "column_WVbCpV": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ArQxfm": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_QGUnfb",
+        "column_WVbCpV",
+        "column_ArQxfm"
+      ],
+      "settings": {
+        "title": "Elegant mother of the bride dresses Categories",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "TITTLE": {
+      "type": "main-collection-banner",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "show_collection_title": true,
+        "sizetitle": 17,
+        "show_collection_description": false,
+        "sizetext": 12,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
       }
     },
     "product-grid": {
@@ -112,9 +166,10 @@
     }
   },
   "order": [
-    "TITTLE",
     "BANNER-VRC-DEFAULT",
     "TAB-VRC-DEFAULT",
+    "multicolumn_aAqTQU",
+    "TITTLE",
     "product-grid",
     "TEXT",
     "GUIDE"
