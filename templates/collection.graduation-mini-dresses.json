@@ -228,23 +228,14 @@
         "text_bkzGLX": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>When it comes to choosing the perfect prom, homecoming, or graduation ceremony dress, there are a few things you should keep in mind. First, think about the style you want to show off. Do you love glamor and shine? Or do you prefer something more classic and elegant? Whatever your style, we have a wide selection of short dresses to suit all preferences.<br\/><br\/>How about a short dress with dazzling details like sequins or rhinestones to add a touch of glamor to your look? Or perhaps you prefer a dress with delicate lace or tulle details for a romantic and feminine look. The options are endless!<br\/><br\/>In addition to style, it is also important to consider color. From classic tones such as black, white and red, to more daring colors such as electric blue, fuchsia pink or emerald green, we have a wide range of colors so you can choose the one that best suits your personality and taste.<br\/><br\/>Last but not least, remember to consider comfort. We want you to feel confident and comfortable in your dress throughout the night, so make sure you choose a design that allows you to move easily and enjoy the celebration to the fullest.<br\/><br\/>At our store, we pride ourselves on offering a personalized shopping experience and exceptional customer service. Our team will be happy to help you find the perfect short dress that will make you feel amazing on your special night. So come and visit us today and discover the dress of your dreams for your promotion, homecoming or graduation ceremony!<\/p>",
             "text_style": "body"
-          }
-        },
-        "button_nTa6Xn": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading_AFThYA",
-        "text_bkzGLX",
-        "button_nTa6Xn"
+        "text_bkzGLX"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max_a248a2cc-a2a3-445e-83e1-ae8f6ebec6b4.webp",
