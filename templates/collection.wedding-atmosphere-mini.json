@@ -1,0 +1,300 @@
+{
+  "sections": {
+    "BANNER-VRC-DEFAULT": {
+      "type": "vrc-banner",
+      "disabled": true,
+      "settings": {
+        "title-banner": "",
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#ffffff",
+        "tittl2-banner": "",
+        "size-tittle2": 25,
+        "font-color-tittle2": "#000000",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
+      }
+    },
+    "TAB-VRC-DEFAULT": {
+      "type": "tab-container",
+      "blocks": {
+        "text_x9bp88": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_x9bp88"
+      ],
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "multicolumn_tPMLza": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_PmHLAR": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/e48a25a7e6c641f59ca56ea8c7971133-Max.webp",
+            "title": "Garden Wedding",
+            "text": "",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/garden-wedding"
+          }
+        },
+        "column_tVHR6x": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1939cd1d-2b0e-4dcc-95c4-0175cdefff47-Max.jpg",
+            "title": "",
+            "text": "<p>Beach Weadding<\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/beach-wedding"
+          }
+        },
+        "column_XkHG9i": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/404d344f-912d-4ee1-bc12-a49ae41f49f6-Max.jpg",
+            "title": "",
+            "text": "<p>Evening Wedding<\/p>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/evening-wedding"
+          }
+        }
+      },
+      "block_order": [
+        "column_PmHLAR",
+        "column_tVHR6x",
+        "column_XkHG9i"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "TITTLE": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "show_collection_title": true,
+        "sizetitle": 17,
+        "show_collection_description": false,
+        "sizetext": 12,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "rich_text_gmKQax": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Ga4EEF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Best Selling Wedding Dresses",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ga4EEF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_BXKJAz": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_BWtfyj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/c6e361ad-97dd-4ca4-9f61-2b6695b7e286-Max.png",
+            "title": "",
+            "text": "<h5><strong>Wedding Guest Mini Dresses<\/strong><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/wedding-guest-mini-dresses"
+          }
+        },
+        "column_mgci8g": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/c005b055-edc1-436a-9837-951b1fe871a9-Max.jpg",
+            "title": "",
+            "text": "<h5><strong>Bridesmaid Black Dresses<\/strong><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/bridesmaid-black-mini-dresses"
+          }
+        },
+        "column_QCN7xM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9fd9c943-4a2b-459f-9ba3-e3a415972568-Max.jpg",
+            "title": "",
+            "text": "<p>Wedding<\/p>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/wedding"
+          }
+        }
+      },
+      "block_order": [
+        "column_BWtfyj",
+        "column_mgci8g",
+        "column_QCN7xM"
+      ],
+      "settings": {
+        "title": "Recommended categories for wedding guests",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "TEXT": {
+      "type": "main-collection-banner",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "show_collection_title": false,
+        "sizetitle": 16,
+        "show_collection_description": true,
+        "sizetext": 12,
+        "show_collection_image": false,
+        "color_scheme": "scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
+      }
+    },
+    "GUIDE": {
+      "type": "vrc-multiboxg",
+      "settings": {
+        "tittleguide": "",
+        "tittleguide-color": "#000000",
+        "tittleguide-size": 30,
+        "textguide1": "",
+        "textguide1-color": "#000000",
+        "textguide-size": 16,
+        "textguide1-url": "",
+        "textguide1-textbtn": "",
+        "textguide2": "",
+        "textguide2-url": "",
+        "textguide2-textbtn": "",
+        "textguide2-color": "#000000",
+        "textguide3": "",
+        "textguide3-url": "",
+        "textguide3-textbtn": "",
+        "textguide3-color": "#000000"
+      }
+    },
+    "image_with_text_JjDTMx": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_G9qPnq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wedding Setting",
+            "heading_size": "h1"
+          }
+        },
+        "text_6Acew6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Garden Wedding: Natural Charm<br\/><br\/>Imagine a celebration surrounded by beautiful gardens, where the soft sunlight and the aroma of flowers create an atmosphere of serenity and romanticism. Garden weddings offer a charming and cozy atmosphere, ideal for those looking for an intimate and elegant event in the middle of nature.<br\/><br\/>For a garden wedding, we suggest opting for short dresses with light fabrics and soft prints. Delicate tones such as off-white, pale pink or soft green will perfectly complement the surroundings. Subtle details, such as lace or embroidery, will add a touch of sophistication and femininity to your look. Complete your outfit with natural accessories and comfortable sandals for a subtly chic style.<br\/><br\/>Beach Wedding: Relaxed and Sophisticated Style<br\/><br\/>Imagine a ceremony at sunset, with the sound of the sea in the background and the sea breeze gently caressing your skin. Beach weddings offer a relaxed and serene atmosphere, perfect for those looking for a casual but elegant celebration by the sea.<br\/><br\/>For a beach wedding, we suggest choosing short dresses in vibrant colors and light fabrics. Shades such as turquoise blue, coral or sunny yellow will capture the essence of the coastal environment. Flowing fabrics, such as chiffon or chiffon, will add a touch of movement and freshness to your look. Add natural accessories, such as shell necklaces or bead bracelets, for a subtly chic beach look.<br\/><br\/>Night Wedding: Elegance and Glamor<br\/><br\/>Imagine an evening under the starry sky, with an atmosphere of elegance and sophistication in the air. Evening weddings offer the perfect opportunity to show off your best style and enjoy a chic and glamorous celebration.<br\/><br\/>For an evening wedding, we suggest choosing short dresses in dark colors and luxurious fabrics. Shades like black, burgundy or midnight blue will add a touch of drama and elegance to your look. Delicate details, such as rhinestones or velvet, will add a subtle and sophisticated shine to your outfit. Complete your look with elegant accessories and high heels for a subtly glamorous evening look.<br\/><br\/>We hope these suggestions inspire you to find the perfect short dress for your next wedding. Remember that the most important thing is to feel comfortable and confident with your look, so have fun experimenting and find the style that best represents you on this special day!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_G9qPnq",
+        "text_6Acew6"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/woman-4081760_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "BANNER-VRC-DEFAULT",
+    "TAB-VRC-DEFAULT",
+    "multicolumn_tPMLza",
+    "TITTLE",
+    "rich_text_gmKQax",
+    "product-grid",
+    "multicolumn_BXKJAz",
+    "TEXT",
+    "GUIDE",
+    "image_with_text_JjDTMx"
+  ]
+}

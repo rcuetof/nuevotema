@@ -1,0 +1,276 @@
+{
+  "sections": {
+    "BANNER-VRC-DEFAULT": {
+      "type": "vrc-banner",
+      "disabled": true,
+      "settings": {
+        "title-banner": "",
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#ffffff",
+        "tittl2-banner": "",
+        "size-tittle2": 25,
+        "font-color-tittle2": "#000000",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
+      }
+    },
+    "TAB-VRC-DEFAULT": {
+      "type": "tab-container",
+      "blocks": {
+        "text_x9bp88": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_x9bp88"
+      ],
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "multicolumn_t8YC7y": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_cTzhJA": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/d3da5b3e-d2d5-4063-9c3f-ea85275abb8e-Min_92041aeb-f883-464f-a347-fdb65a952c81.jpg",
+            "title": "",
+            "text": "<h5><strong>Black Tie<\/strong><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/black-tie-formal-mini-dresses"
+          }
+        },
+        "column_3UBtwj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/516c02952c6540748d35f9d05bff04b5-Min_e11eef87-d7b8-40f9-ab35-31bde9b466d1.jpg",
+            "title": "",
+            "text": "<h5><strong>Plus Size<\/strong><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/mother-of-de-bridal-plus-size"
+          }
+        },
+        "column_p9qCmt": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/f0a69c5ed8da4b4ea67f7ced59bec1ae-Min_9251e9d5-9ca6-48ac-91eb-84546978f864.jpg",
+            "title": "",
+            "text": "<h5><strong>Classic and Formal Dresses<\/strong><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/classic-and-formal-dresses-for-mother-of-the-bridal"
+          }
+        }
+      },
+      "block_order": [
+        "column_cTzhJA",
+        "column_3UBtwj",
+        "column_p9qCmt"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "TITTLE": {
+      "type": "main-collection-banner",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "show_collection_title": true,
+        "sizetitle": 17,
+        "show_collection_description": false,
+        "sizetext": 12,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "TEXT": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "show_collection_title": false,
+        "sizetitle": 16,
+        "show_collection_description": true,
+        "sizetext": 12,
+        "show_collection_image": false,
+        "color_scheme": "scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
+      }
+    },
+    "GUIDE": {
+      "type": "vrc-multiboxg",
+      "settings": {
+        "tittleguide": "",
+        "tittleguide-color": "#000000",
+        "tittleguide-size": 30,
+        "textguide1": "",
+        "textguide1-color": "#000000",
+        "textguide-size": 16,
+        "textguide1-url": "",
+        "textguide1-textbtn": "",
+        "textguide2": "",
+        "textguide2-url": "",
+        "textguide2-textbtn": "",
+        "textguide2-color": "#000000",
+        "textguide3": "",
+        "textguide3-url": "",
+        "textguide3-textbtn": "",
+        "textguide3-color": "#000000"
+      }
+    },
+    "multicolumn_R7cVKK": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VmV94n": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9fd9c943-4a2b-459f-9ba3-e3a415972568-Max.jpg",
+            "title": "",
+            "text": "<h5><strong>Best Selling Wedding Dress<\/strong><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/best-seller-wedding-mini-dresses"
+          }
+        },
+        "column_aG7VKM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/199fb370-ee1b-43fc-be35-05f0337bc219-Max.jpg",
+            "title": "",
+            "text": "<h5><strong>Wedding Dresses<\/strong><\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/wedding"
+          }
+        },
+        "column_9CHATL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9482c1bb57f34b8db69b4b63288c9952-Min_d4fb7808-d9dc-44d5-af76-52cc60a6dde6.jpg",
+            "title": "",
+            "text": "<h5><strong>Wedding Reception Mini Dres<\/strong>s<\/h5>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/wedding-reception"
+          }
+        }
+      },
+      "block_order": [
+        "column_VmV94n",
+        "column_aG7VKM",
+        "column_9CHATL"
+      ],
+      "settings": {
+        "title": "Recommended dress categories",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_mCDnB4": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KRCiMJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mother of the Bridal",
+            "heading_size": "h2"
+          }
+        },
+        "text_Hk8KKj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Being the mother of the bride is an exciting and proud moment in a woman's life. It is a role that carries great responsibility and a celebration of love and family unity. When it comes to choosing the perfect outfit for this special day, opting for a short dress is an elegant and modern option that allows the mother of the bride to stand out with style and confidence.<br\/><br\/>A short mother of the bride dress is a contemporary choice that reflects the personality and individual style of the woman wearing it. Unlike more traditional long dresses, short dresses offer a fresher and more dynamic look, perfect for a mother who wants to feel comfortable and free to move while celebrating her daughter's big day.<br\/><br\/>Short mother of the bride dresses come in a wide variety of styles, from the most classic and elegant to the most modern and daring. Silhouette options can include shift, A-line, A-line or even empire-style dresses, which flatter the figure in a flattering and stylish way.<br\/><br\/>When it comes to fabrics and details, the possibilities are endless. From the timeless elegance of silk and satin to the lightness and freshness of chiffon or chiffon, every woman can find the perfect fabric to suit her personal style and preferences. Details such as lace, embroidery, appliqués or beaded details add a touch of sophistication and glamor to the ensemble, creating a look that is truly unique and special.<br\/><br\/>One of the biggest advantages of choosing a short dress for the mother of the bride is the versatility it offers. This type of dress is perfect for weddings at any time of the year, as it easily adapts to the weather conditions and the style of the celebration. Additionally, a short dress can be easily adapted to be worn at future events, making it a versatile and long-lasting investment in any woman's wardrobe.<br\/><br\/>Being the mother of the bride is a moment of celebration and joy that deserves to be marked with style and elegance. Opting for a short dress is a modern and sophisticated option that allows the mother of the bride to shine with confidence and style on her daughter's most important day. With a wide variety of styles, fabrics and details to choose from, every woman can find the perfect short dress that reflects her inner and outer beauty while celebrating this special moment in her family's life.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KRCiMJ",
+        "text_Hk8KKj"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/404d344f-912d-4ee1-bc12-a49ae41f49f6-Max.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "BANNER-VRC-DEFAULT",
+    "TAB-VRC-DEFAULT",
+    "multicolumn_t8YC7y",
+    "TITTLE",
+    "product-grid",
+    "TEXT",
+    "GUIDE",
+    "multicolumn_R7cVKK",
+    "image_with_text_mCDnB4"
+  ]
+}

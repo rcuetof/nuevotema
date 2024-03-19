@@ -4,7 +4,10 @@
       "type": "main-collection-banner",
       "disabled": true,
       "settings": {
+        "show_collection_title": true,
+        "sizetitle": 16,
         "show_collection_description": true,
+        "sizetext": 12,
         "show_collection_image": false,
         "color_scheme": "scheme-1"
       }
@@ -46,7 +49,7 @@
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-center",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "scheme-4",
@@ -68,6 +71,29 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "rich_text_AHA37M": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YnHpzG": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shop by Category",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YnHpzG"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "tab-container": {
       "type": "tab-container",
       "blocks": {
@@ -77,7 +103,7 @@
             "title": "Bridal Mini Dresses",
             "text": "The dress for a wedding is one of the most important choices in a woman's life, it is the dress that she will wear on the most important day of her life, that is why at Violetta & Rc we want to help you find that special dress for you, We invite you to discover our mini wedding dresses",
             "image": "shopify:\/\/shop_images\/fbbd3e9509784a54b552b1b86852d548-Max.jpg",
-            "btn": "shopify:\/\/collections\/bridal-mini-dresses",
+            "btn": "shopify:\/\/collections\/bridal-mini-dresses-1",
             "btntxt": "Collection of mini dresses for brides"
           }
         },
@@ -87,17 +113,17 @@
             "title": "Bridesmaid Mini Dresses",
             "text": "Being a bridesmaid is a beautiful experience, being next to the bride on the happiest day of her life, being part of that union is a memory that will be kept forever with love and that is why we want to invite you to discover our collection of mini dresses bridesmaid",
             "image": "shopify:\/\/shop_images\/bd4504a0-d4d4-4930-98f9-912d8ef6b340-Max.jpg",
-            "btn": "shopify:\/\/collections\/bridesmaid-mini-dresses",
+            "btn": "shopify:\/\/collections\/bridesmaid-mini-dresses-1",
             "btntxt": "Collection of Mini Dresses for Bridesmaids"
           }
         },
         "text_f4drNU": {
           "type": "text",
           "settings": {
-            "title": "Wedding Guest Dress",
+            "title": "Reception or Wedding Guest",
             "text": "If you are looking for a dress to attend a wedding, it is important to know the dress code of the wedding you will attend, whether it is a casual dress code, or a more formal one so you will know which dress options will be the most appropriate to choose, remember that The most important thing is to choose the dress that you feel comfortable in and also take into account not using the color white, since this color can only be worn by the bride.",
             "image": "shopify:\/\/shop_images\/3d714cdc60a240f690a52b9391defeb6-Max.jpg",
-            "btn": "shopify:\/\/collections\/mini-dresses-for-wedding-guest",
+            "btn": "shopify:\/\/collections\/wedding-guest-mini-dresses",
             "btntxt": "Discover Collection"
           }
         },
@@ -107,57 +133,27 @@
             "title": "Mother Of The Bride Dress",
             "text": "Being the mother of the bride is one of the most emotional and beautiful experiences that a mother can live, the moment in which her daughter will unite her life with the most important person in her life with whom she will share her future, without a doubt it is a moment that will be remembered. forever, visit our collection\nof dresses for mother of the bride to look radiant that day.",
             "image": "shopify:\/\/shop_images\/6e1a7206f5a14915a93e6e04cc67ce70-Max.jpg",
-            "btn": "shopify:\/\/collections\/mini-dresses-for-mother-of-the-bride-and-grooms-mother",
-            "btntxt": "Discover Collection"
-          }
-        },
-        "text_ibBQTd": {
-          "type": "text",
-          "settings": {
-            "title": "Dress for Beach Wedding",
-            "text": "There are so many different places to celebrate a wedding and for whom the best option is to unite the love they feel for the sea with the person with whom they want to share the rest of their life, and celebrate a wedding on the beach, if you have been invited to This event reminds us that there are beach style dresses while still being elegant, the lace fabrics flutter in the wind",
-            "image": "shopify:\/\/shop_images\/46c8ec9ca0b24b36b4003d0b547d7769-Max.jpg",
-            "btn": "shopify:\/\/collections\/mini-dresses-for-beach-wedding",
+            "btn": "shopify:\/\/collections\/mother-of-de-bride-mini-dresses",
             "btntxt": "Discover Collection"
           }
         },
         "text_reydrW": {
           "type": "text",
           "settings": {
-            "title": "Dress for Garden wedding",
-            "text": "The magic of flowers, what a fabulous idea to combine the simplicity and colors of nature and make them shine on a day as special as the wedding of a loved one, here you will find a selection of mini dresses for guests that are ideal for that wedding in garden",
+            "title": "Wedding Setting",
+            "text": "•The dresses for evening weddings impress with their elegant designs for night ceremonies, these dresses stand out for their sophistication and glamour. Made with luxurious fabrics such as satin or lace, they offer an elegant silhouette that highlights femininity and elegance whether you are a wedding guest, bridesmaid or mother of the bride. Details such as beaded applications or fine embroidery add a touch of luxury to these dresses, creating a dazzling look that perfectly complements the formal atmosphere of an evening wedding.\n<br><br>\n•Romantic Garden Wedding Dresses: Perfect for outdoor weddings in gardens or parks, these dresses capture the essence of nature with their romantic and delicate style. Made with light and fluid fabrics such as chiffon, they offer a soft and ethereal silhouette that moves gracefully with each step of the bride or bridesmaids. Lace details or floral embroidery add a touch of bohemian charm to these dresses, creating a romantic and feminine look that complements the natural beauty of the surroundings.\n<br><br>\n•Beachy and relaxed dresses: Designed for beach weddings, these dresses capture the essence of the coastal atmosphere with their casual and carefree style. Made with fresh and breathable fabrics such as linen or cotton, they offer a light and comfortable silhouette that allows the bride to move freely through the sand. Details such as ruffles or asymmetrical cuts add a touch of beach style to these dresses, creating a relaxed and chic look that perfectly complements the casual atmosphere of a beach wedding.\n\nThese wedding atmospheres have been a trend for a long time because of the message that brides have wanted to convey by uniting the beauty of the environment with the most special day of their life.",
             "image": "shopify:\/\/shop_images\/1fa351c4232d4a2cac7cc51a1749c51c-Max.jpg",
-            "btn": "shopify:\/\/collections\/mini-dresses-for-garden-wedding",
-            "btntxt": "Discover Collection"
-          }
-        },
-        "text_zkzBh7": {
-          "type": "text",
-          "settings": {
-            "title": "Dress Evening Wedding",
-            "text": "Mini evening wedding dresses go beyond seductive and daring charm, you can find a highly elegant variety for that wedding here in our collection.",
-            "image": "shopify:\/\/shop_images\/3fbdd88f081b4bf7bfb54357635a378e-Max.jpg",
-            "btn": "shopify:\/\/collections\/mini-dresses-for-evening-wedding",
-            "btntxt": "Discover Collection"
-          }
-        },
-        "text_EknyhK": {
-          "type": "text",
-          "settings": {
-            "title": "Dress Reception Wedding",
-            "text": "The mini wedding reception dresses take center stage with their modern style and charm, they will never cease to be the perfect choice whether you are the bride, bridesmaid or a guest.",
-            "image": "shopify:\/\/shop_images\/48ab745c8eeb4b6ab27a73089dce49d7-Max.jpg",
-            "btn": "shopify:\/\/collections\/mini-dresses-for-reception-wedding",
+            "btn": "shopify:\/\/collections\/wedding-mini-dresses-1",
             "btntxt": "Discover Collection"
           }
         },
         "text_HDQcic": {
           "type": "text",
           "settings": {
-            "title": "Mini Dress for Bridal shower",
+            "title": "Bachelorette or Bridal shower",
             "text": "The memorable moments that will remain in the minds of those family and friends at the bridal shower cannot be without the image of that mini dress that made you look charming.",
             "image": "shopify:\/\/shop_images\/06d32d35181f4dffb6a6f010d76d6524-Max.jpg",
-            "btn": "shopify:\/\/collections\/minidresses-for-bridal-shower",
+            "btn": "shopify:\/\/collections\/bachelorette-party-mini-dresses",
             "btntxt": "Discover Collection"
           }
         }
@@ -167,10 +163,7 @@
         "text_tXwXBY",
         "text_f4drNU",
         "text_GxPtwC",
-        "text_ibBQTd",
         "text_reydrW",
-        "text_zkzBh7",
-        "text_EknyhK",
         "text_HDQcic"
       ],
       "settings": {
@@ -197,8 +190,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "product-grid": {
@@ -221,46 +214,55 @@
         "padding_bottom": 16
       }
     },
-    "featured_collection_8A9tR4": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Best Seller",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "best-seller-wedding-mini-dresses",
-        "products_to_show": 12,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "portrait",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": true,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
-      }
-    },
     "slideshow_cdCKYR": {
       "type": "slideshow",
       "blocks": {
         "slide_hqyBHV": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_36.png",
-            "heading": "<strong>Short Dresses For Wedding <\/strong>",
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_30.png",
+            "heading": "<strong>Short Casual Dresses<\/strong>",
             "heading_size": "h0",
             "subheading": "",
-            "button_label": "",
-            "link": "",
+            "button_label": "Show Event",
+            "link": "shopify:\/\/collections\/casual-mini-dresses-1",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_N648pL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_31.png",
+            "heading": "<strong>Short Formal Dresses<\/strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "Show Event",
+            "link": "shopify:\/\/collections\/formal-mini-dresses",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_aHcMme": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_32.png",
+            "heading": "<strong>Short Casual Dresses<\/strong>",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "Show Event",
+            "link": "shopify:\/\/collections\/casual-mini-dresses-1",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
@@ -272,7 +274,9 @@
         }
       },
       "block_order": [
-        "slide_hqyBHV"
+        "slide_hqyBHV",
+        "slide_N648pL",
+        "slide_aHcMme"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -283,6 +287,34 @@
         "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection_8A9tR4": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Selling",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "best-seller-wedding-mini-dresses",
+        "products_to_show": 17,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "image_with_text_MMEtxT": {
@@ -302,11 +334,19 @@
             "button_link": "shopify:\/\/collections\/style-guide-for-wedding-guest",
             "button_style_secondary": false
           }
+        },
+        "text_jy4KNb": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>In the tapestry of wedding traditions, short wedding dresses have emerged as bold innovators, challenging long-held conventions. Like the revolutionaries who challenged established structures, these dresses challenge the ingrained expectations of the wedding world. As a hymn to freedom, we find its prominent presence in historical moments, marking a change in the course of marriage ceremonies.<br\/><br\/>More recently, in 2018, singer and actress Miley Cyrus surprised the world with her secret wedding to Liam Hemsworth, where she opted for a short wedding dress, underscoring her free spirit and distinctive style. Music, with its ability to challenge convention and express individuality, intertwines with wedding fashion to create unforgettable and transformative moments.<br\/><br\/>These bold designs offer modern brides the opportunity to stand out with distinctive style on their special day. From iconic figures like Audrey Hepburn to contemporary celebrities, the wearing of short wedding dresses has marked a shift in the wedding paradigm, combining timeless elegance with a dose of audacity.<br\/><br\/>With a variety of subcategories ranging from classic princess dresses to modern A-line dresses, the options for brides are endless. In addition, the world of color opens up to new possibilities, from traditional shades of white to softer tones such as ivory and pale pink. This diversity allows brides to express their individual style and find the perfect dress that suits their personality and preferences.<br\/><br\/>When it comes to fabrics, choice is key to defining the look and feel of the wedding dress. From light, flowy fabrics like silk and chiffon to more structured options like lace and mikado, each fabric offers a unique texture that can enhance the style of the dress. This variety allows brides to find the perfect fabric that complements their vision and provides comfort on their special day.<br\/><br\/>With every step forward, these short wedding dresses have resonated with the energy of changing times and the voices of those who challenge the establishment, creating a legacy of bravery and self-expression that transcends generations.<\/h5>",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "heading_FhXmmQ",
-        "button_ETMXn8"
+        "button_ETMXn8",
+        "text_jy4KNb"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/88bb3609eca6456fa2ded70dbaeb7d7a-Max.webp",
@@ -315,7 +355,7 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "section_color_scheme": "",
         "color_scheme": "",
         "image_behavior": "none",
@@ -350,11 +390,12 @@
     "banner",
     "vrc-banner",
     "slideshow_d4aDUR",
+    "rich_text_AHA37M",
     "tab-container",
     "rich_text_gxX6cJ",
     "product-grid",
-    "featured_collection_8A9tR4",
     "slideshow_cdCKYR",
+    "featured_collection_8A9tR4",
     "image_with_text_MMEtxT",
     "GUIA"
   ]
