@@ -119,10 +119,10 @@
         "slide_R84dJq": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/9be2975f-ea05-4fea-809f-9a3b9d68273b-Max.jpg",
+            "image": "shopify:\/\/shop_images\/eb69640b-5960-4193-bc26-35f863a8d6c0-Max.jpg",
             "heading": "",
-            "heading_size": "h1",
-            "subheading": "<em><strong>Denim Dress<\/strong><\/em>",
+            "heading_size": "h2",
+            "subheading": "<em><strong>Denim short Dresses<\/strong><\/em>",
             "button_label": "Shop Now",
             "link": "shopify:\/\/collections\/work-and-business-formal-mini-dresses-blue-selection",
             "button_style_secondary": false,
@@ -130,7 +130,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-1",
             "text_alignment_mobile": "center"
           }
         },
