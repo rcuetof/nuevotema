@@ -141,9 +141,9 @@
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "multicolumn_bbjVUF": {
