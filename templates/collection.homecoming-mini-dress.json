@@ -221,6 +221,44 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_jJTmXK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_gRMMPe": {
+          "type": "heading",
+          "settings": {
+            "heading": "Homecoming Mini Dresses",
+            "heading_size": "h2"
+          }
+        },
+        "text_Fd7QdT": {
+          "type": "text",
+          "settings": {
+            "text": "<p>\"When it comes to choosing the perfect homecoming outfit, short dresses are a stylish and versatile option that never goes out of style. One of the reasons short dresses are so popular is the wide range of colors and cuts available, allowing you to customize your look according to your individual style and preferences.<br\/><br\/>As for colors, you have an infinite variety to choose from. From classic shades like black, white and navy blue to bolder options like red, emerald green or purple, your short dress color choice can reflect your personality and unique style. Additionally, prints and patterns are also a popular choice for those who want to add a touch of fun and originality to their look.<br\/><br\/>As for the cuts, there is also a wide variety to choose from. Short dresses come in a variety of styles and silhouettes, from classic A-line dresses to tighter, body-hugging ones. Plus, details like necklines, sleeves, and trim can add an extra touch of elegance and sophistication to your look.<br\/><br\/>No matter what color or cut you choose, a short dress allows you to look fabulous and feel comfortable all night long. Its versatility and timeless style make it the perfect choice for any housewarming party, whether indoors or outdoors, any time of year. So don't hesitate to browse our wide selection of short dresses and find the one that best suits you and your unique style! Get ready to stand out and make a spectacular entrance at your next welcome party!\"<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gRMMPe",
+        "text_Fd7QdT"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max_a248a2cc-a2a3-445e-83e1-ae8f6ebec6b4.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -231,6 +269,7 @@
     "product-grid",
     "TEXT",
     "GUIDE",
-    "multicolumn_frXaMd"
+    "multicolumn_frXaMd",
+    "image_with_text_jJTmXK"
   ]
 }
