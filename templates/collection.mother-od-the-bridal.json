@@ -67,10 +67,11 @@
         "column_p9qCmt": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/f0a69c5ed8da4b4ea67f7ced59bec1ae-Min_9251e9d5-9ca6-48ac-91eb-84546978f864.jpg",
+            "title": "",
+            "text": "<p>Classic and Formal Dresses<\/p>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/classic-and-formal-dresses-for-mother-of-the-bridal"
           }
         }
       },
