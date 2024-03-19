@@ -83,8 +83,8 @@ body:not(.usf-collections-page) .usf-sr-inputbox {
 }
 
 .usf-grid .usf-skeleton{
-    width: calc(25% - 16px);
-	scale: 300%;
+    width: calc(20% - 16px);
+	
 }
 
 .usf-mobile .usf-grid .usf-skeleton {
