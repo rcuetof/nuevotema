@@ -57,10 +57,11 @@
         "column_WVbCpV": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/516c02952c6540748d35f9d05bff04b5-Min_e11eef87-d7b8-40f9-ab35-31bde9b466d1.jpg",
+            "title": "",
+            "text": "<p>Plus Size Dresses<\/p>",
+            "link_label": "Show More",
+            "link": "shopify:\/\/collections\/cocktail-plus-size"
           }
         },
         "column_ArQxfm": {
@@ -91,7 +92,7 @@
         "color_scheme": "",
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 0,
+        "padding_top": 24,
         "padding_bottom": 0
       }
     },
