@@ -217,13 +217,13 @@
     "featured_collection_8A9tR4": {
       "type": "featured-collection",
       "settings": {
-        "title": "Best Seller",
-        "heading_size": "h1",
+        "title": "Best Selling",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
         "collection": "best-seller-wedding-mini-dresses",
-        "products_to_show": 12,
+        "products_to_show": 3,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": false,
