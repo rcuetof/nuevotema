@@ -133,6 +133,7 @@
     },
     "GUIDE": {
       "type": "vrc-multiboxg",
+      "disabled": true,
       "settings": {
         "tittleguide": "",
         "tittleguide-color": "#000000",
