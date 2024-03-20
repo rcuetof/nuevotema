@@ -29,7 +29,7 @@
             "swym_themeapp_container_items_font_size": 16,
             "swym_themeapp_container_items_compare_price_color": "#EE2E2E",
             "swym_themeapp_container_items_button_type": "solid",
-            "swym_themeapp_container_items_button_width": "100%",
+            "swym_themeapp_container_items_button_width": "fit-content",
             "swym_themeapp_container_items_button_align": "center",
             "swym_themeapp_container_items_button_border_radious": 0,
             "swym_themeapp_container_items_button_background_color": "#434655",
@@ -57,7 +57,7 @@
             "swym_engage_wishlist_items_font_size": 16,
             "swym_engage_wishlist_items_compare_price_color": "#EE2E2E",
             "swym_engage_wishlist_items_button_type": "solid",
-            "swym_engage_wishlist_items_button_width": "100%",
+            "swym_engage_wishlist_items_button_width": "fit-content",
             "swym_engage_wishlist_items_button_align": "center",
             "swym_engage_wishlist_items_button_border_radious": 0,
             "swym_engage_wishlist_items_button_background_color": "#434655",
@@ -71,7 +71,7 @@
         "wishlist_plus_engage_myaccount_wishlisteditems_fxwkbJ"
       ],
       "custom_css": [
-        ".swym-engage-body-list {overflow: hidden; }"
+        ".swym-engage-body-list {overflow: hidden;}"
       ],
       "settings": {
         "include_margins": false
