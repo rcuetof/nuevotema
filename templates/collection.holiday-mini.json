@@ -115,8 +115,8 @@
       "type": "main-collection-product-grid",
       "custom_css": [
         ".card__media {height: 300px; width: 100%;}",
-        ".card-information {background-color: balck;}",
-        ".a{text-decoration:none;}"
+        ".card-wrapper {background-color: balck;}",
+        ".a {text-decoration: none;}"
       ],
       "settings": {
         "products_per_page": 12,
