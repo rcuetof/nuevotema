@@ -71,11 +71,18 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "171093269192f392f5": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "cart-items",
     "cart-footer",
-    "171093267511ede920"
+    "171093267511ede920",
+    "171093269192f392f5"
   ]
 }
