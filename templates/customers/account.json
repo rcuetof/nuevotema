@@ -71,7 +71,8 @@
         "wishlist_plus_engage_myaccount_wishlisteditems_fxwkbJ"
       ],
       "custom_css": [
-        ".swym-wishlistplus-themeapp-container-body {margin: 50px; overflow: auto; scrollbar-width: none; -ms-overflow-style: none; scrollbar-width: none;}"
+        ".swym-wishlistplus-themeapp-main-container {margin: 0px 10%;}",
+        ".swym-engage-body-list {overflow: hidden; scrollbar-width: none; -ms-overflow-style: none;}"
       ],
       "settings": {
         "include_margins": false
