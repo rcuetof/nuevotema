@@ -377,8 +377,8 @@
   color: rgb(var(--color-foreground));
   position: absolute;
   top: 90%;
-  left: 80%;
-  font-size: 22px;
+  left: 70%;
+  font-size: 16px;
   transform: translate(-50%,-50%);
   color: rgb(188, 67, 215);
   background-color: rgba(255, 255, 255, 0.368);
