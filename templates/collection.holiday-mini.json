@@ -116,7 +116,7 @@
       "custom_css": [
         ".card__media {height: 280px;}",
         ".card-wrapper {background-color: balck;}",
-        ".a {text-decoration: none;}"
+        ".card__media .a {text-decoration: none;}"
       ],
       "settings": {
         "products_per_page": 12,
