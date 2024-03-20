@@ -155,7 +155,7 @@
         "type": "shopify:\/\/apps\/basic-wishlist\/blocks\/popup\/1611f065-e251-4250-8609-2fa2f1877c57",
         "disabled": false,
         "settings": {
-          "icon_width": 40,
+          "icon_width": 44,
           "icon": "regular",
           "icon_color": "#EA3C53",
           "counter_font_size": 11,
@@ -176,7 +176,7 @@
           "popup_bg_color": "#ffffff",
           "popup_border_color": "#e7e7e7",
           "popup_heading": "#121212",
-          "close_icon": "thin",
+          "close_icon": "solid",
           "popup_image_radius": 0,
           "popup_link": "#121212",
           "popup_backdrop": "#FDF2F4"
