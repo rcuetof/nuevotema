@@ -366,6 +366,7 @@
 
 .card-information {
   width: 100%;
+  min-width: 40px;
 }
 
 .card-information > * {
