@@ -1,0 +1,275 @@
+{
+  "sections": {
+    "BANNER-VRC-DEFAULT": {
+      "type": "vrc-banner",
+      "disabled": true,
+      "settings": {
+        "title-banner": "",
+        "posm-x-tittle1": 8,
+        "posm-y-tittle1": 8,
+        "size-m-tittle1": 45,
+        "pose-x-tittle1": 8,
+        "pose-y-tittle1": 8,
+        "size-e-tittle1": 45,
+        "font-color-tittle1": "#ffffff",
+        "tittl2-banner": "",
+        "size-tittle2": 25,
+        "font-color-tittle2": "#000000",
+        "text-botton1": "",
+        "link-botton1": "",
+        "text-botton2": "",
+        "link-botton2": ""
+      }
+    },
+    "TAB-VRC-DEFAULT": {
+      "type": "tab-container",
+      "blocks": {
+        "text_x9bp88": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "",
+            "btn": "",
+            "btntxt": "Discover Collection"
+          }
+        }
+      },
+      "block_order": [
+        "text_x9bp88"
+      ],
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "multicolumn_qp79Ux": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_aQUeCM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8b932f07e82a49a194d673eb3dcd439b-Min_2_45e7b535-8fba-42a6-86c2-9c7de4498b63.webp",
+            "title": "",
+            "text": "<h5><strong>Homecomig Short Dress<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/homecoming-mini-dresses"
+          }
+        },
+        "column_ptbeVM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/584629a9dead4f3daa09384bb7476277-Min_1a635be7-fa59-4c89-8485-8764c82aa843.webp",
+            "title": "",
+            "text": "<h5><strong>Prom Black Short drees<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/black-mini-dresses"
+          }
+        },
+        "column_eTRz3P": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max_a248a2cc-a2a3-445e-83e1-ae8f6ebec6b4.webp",
+            "title": "",
+            "text": "<h5><em><strong>Prom White Short Dress<\/strong><\/em><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/white-mini-dresses"
+          }
+        },
+        "column_pjU6fz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/33649b6cfc4b4f26abf0b802161b41cd-Min_4d7064e5-d640-4eeb-b61d-7cf9fb607c50.webp",
+            "title": "",
+            "text": "<h5><strong>Elegant Mini Dress<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/elegant-cocktail-short-dresses"
+          }
+        }
+      },
+      "block_order": [
+        "column_aQUeCM",
+        "column_ptbeVM",
+        "column_eTRz3P",
+        "column_pjU6fz"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "TITTLE": {
+      "type": "main-collection-banner",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "show_collection_title": true,
+        "sizetitle": 17,
+        "show_collection_description": false,
+        "sizetext": 12,
+        "show_collection_image": false,
+        "color_scheme": "scheme-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 12,
+        "columns_desktop": 4,
+        "color_scheme": "scheme-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "TEXT": {
+      "type": "main-collection-banner",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "show_collection_title": false,
+        "sizetitle": 16,
+        "show_collection_description": true,
+        "sizetext": 12,
+        "show_collection_image": false,
+        "color_scheme": "scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
+      }
+    },
+    "GUIDE": {
+      "type": "vrc-multiboxg",
+      "settings": {
+        "tittleguide": "",
+        "tittleguide-color": "#000000",
+        "tittleguide-size": 30,
+        "textguide1": "",
+        "textguide1-color": "#000000",
+        "textguide-size": 16,
+        "textguide1-url": "",
+        "textguide1-textbtn": "",
+        "textguide2": "",
+        "textguide2-url": "",
+        "textguide2-textbtn": "",
+        "textguide2-color": "#000000",
+        "textguide3": "",
+        "textguide3-url": "",
+        "textguide3-textbtn": "",
+        "textguide3-color": "#000000"
+      }
+    },
+    "multicolumn_3NP89f": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_kDJ7Tz": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/e610c8b6774341ef9563b7d7c4a21055-Max_f3c3ca83-cb3e-4cad-9081-d3cbce51776b.webp",
+            "title": "",
+            "text": "<h5><strong>Sequin Dresses<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/graduation-sequin-mini-dress"
+          }
+        },
+        "column_UJ6nET": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4cfe142c-f571-4dff-acd3-98de8729db01-Max.jpg",
+            "title": "",
+            "text": "<h5><strong>Lace Dresses<\/strong><\/h5>",
+            "link_label": "Shop Now",
+            "link": "shopify:\/\/collections\/prom-lace-short-dress"
+          }
+        }
+      },
+      "block_order": [
+        "column_kDJ7Tz",
+        "column_UJ6nET"
+      ],
+      "settings": {
+        "title": "recommended mini dresses for prom event",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_7HzPQP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bbEjK8": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mini Dresses for Prom",
+            "heading_size": "h2"
+          }
+        },
+        "text_8xXRjD": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wearing a short dress to the promotion is an elegant, modern and increasingly popular option among girls who want to look fabulous and feel comfortable all night long. Here are some reasons why choosing a short dress for your promotion can be an excellent idea:<br\/><br\/>Short dresses are generally more comfortable to wear than long dresses, as they allow you to move more easily and freely. This is especially important during a night full of dancing and celebration, where you want to feel comfortable and relaxed to enjoy yourself to the fullest.<br\/><br\/>Short dresses are incredibly versatile and suit a variety of styles and occasions. You can find designs ranging from classic and timeless to the most modern and daring, allowing you to find the perfect dress that fits your taste and personality.<br\/><br\/>Wearing a short dress allows you to show off your legs and highlight your figure in a flattering and elegant way. This is especially beneficial if you feel confident and comfortable showing off your legs, as it allows you to look radiant and confident on your big night.<br\/><br\/>One of the best things about wearing a short dress for promotion is that it allows you to dance without restrictions and enjoy the dance floor to the fullest. With a short dress, you won't have to worry about tripping on the fabric or getting your hem stepped on while you dance the night away with your friends.<br\/><br\/> So put on your short dress, dazzle them with your style and make your promotion unforgettable!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bbEjK8",
+        "text_8xXRjD"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1cfc0e3675dc41b6824dbe7ba0f6896a-Min_9777840d-0acc-4d5e-b852-f610a98a7262.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "BANNER-VRC-DEFAULT",
+    "TAB-VRC-DEFAULT",
+    "multicolumn_qp79Ux",
+    "TITTLE",
+    "product-grid",
+    "TEXT",
+    "GUIDE",
+    "multicolumn_3NP89f",
+    "image_with_text_7HzPQP"
+  ]
+}
