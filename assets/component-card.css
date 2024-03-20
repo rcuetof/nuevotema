@@ -376,10 +376,14 @@
 .card-information > .price {
   color: rgb(var(--color-foreground));
   position: absolute;
-  top: 50%;
-  left: 50%;
-  font-size: 90px;
+  top: 0%;
+  left: 0%;
+  font-size: 22px;
   transform: translate(-50%,-50%);
+  color: rgb(84, 67, 215);
+  background-color: rgba(255, 255, 255, 0.229);
+  padding: 10px;
+  border-radius: 2px;
 }
 
 .card--horizontal .card-information > .price {
