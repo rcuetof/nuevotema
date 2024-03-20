@@ -114,7 +114,8 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        ".card__media {height: 300px; width:100%;}"
+        ".card__media {height: 300px; width: 100%;}",
+        ".card__content{top:50%;}"
       ],
       "settings": {
         "products_per_page": 12,
