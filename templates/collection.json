@@ -21,42 +21,6 @@
         "link-botton2": ""
       }
     },
-    "slideshow_UJrazC": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_X9zpBG": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Diseno_sin_titulo_25.png",
-            "heading": "Party Mini Dresses",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_X9zpBG"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "medium",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "image_behavior": "none",
-        "show_text_below": false,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "TAB-VRC-DEFAULT": {
       "type": "tab-container",
       "blocks": {
@@ -85,6 +49,7 @@
         "text_x9bp88",
         "text_UfxhWf"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -160,7 +125,6 @@
   },
   "order": [
     "BANNER-VRC-DEFAULT",
-    "slideshow_UJrazC",
     "TAB-VRC-DEFAULT",
     "TITTLE",
     "product-grid",
