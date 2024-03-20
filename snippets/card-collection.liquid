@@ -40,13 +40,11 @@
       {% if extend_height %} card--extend-height{% endif %}
       {% if card_collection.featured_image == nil and card_style == 'card' %} ratio{% endif %}
     " style="--ratio-percent: {{ 1 | divided_by: ratio | times: 100 }}%;">
-    <div
-      style="height: 600px;"
-      class="card__inner {% if card_style == 'standard' %}color-{{ card_color_scheme }} gradient{% endif %}{% if card_collection.featured_image or card_style == 'standard' %} ratio{% endif %}"
-      style="--ratio-percent: {{ 1 | divided_by: ratio | times: 100 }}%;">
+    <div class="card__inner {% if card_style == 'standard' %}color-{{ card_color_scheme }} gradient{% endif %}{% if card_collection.featured_image or card_style == 'standard' %} ratio{% endif %}" style="--ratio-percent: {{ 1 | divided_by: ratio | times: 100 }}%;">
       {%- if card_collection.featured_image -%}
         <div class="card__media">
           <div class="media media--transparent media--hover-effect">
+            <h1>a;lkjlak;lsk;lsk;s;ls</h1>
             <img
               srcset="
                 {%- if card_collection.featured_image.width >= 165 -%}{{ card_collection.featured_image | image_url: width: 165 }} 165w,{%- endif -%}
