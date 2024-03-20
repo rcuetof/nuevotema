@@ -114,7 +114,7 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        ".card__media {height: 300px; width: 100%;}",
+        ".card__media {height: 700px; width: 100%;}",
         ".card-wrapper {background-color: balck;}",
         ".a {text-decoration: none;}"
       ],
