@@ -85,7 +85,10 @@
 .card__inner.color-scheme-1 {
   background: transparent;
 }
-.card_inner{height: 360px;}
+.card_inner
+{
+  height: 360px !important;
+}
 .card .card__inner .card__media {
   overflow: hidden;
   /* Fix for Safari border bug on hover */
