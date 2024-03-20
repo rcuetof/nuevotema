@@ -156,6 +156,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "3448452822797632817": {
+        "type": "shopify:\/\/apps\/carty-collection-add-cart\/blocks\/carty\/077261fe-d35d-447d-92b2-9082ecd3b943",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
