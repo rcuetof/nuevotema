@@ -38,7 +38,7 @@
 }
 
 .card--card {
-  height: 50000px;
+  height: 100%;
 }
 
 .card--card,
@@ -127,6 +127,7 @@
 
 .card__inner {
   width: 100%;
+  height: 50000000000px;
 }
 
 .card--media .card__inner .card__content {
