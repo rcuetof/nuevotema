@@ -385,6 +385,12 @@
   padding: 10px;
   border-radius: 5px;
 }
+.card-information > .logo {
+  position: absolute;
+  top: 5%;
+  left: 3%;
+  transform: translate(-50%,-50%);
+}
 
 .card--horizontal .card-information > .price {
   color: rgba(var(--color-foreground), 0.75);
