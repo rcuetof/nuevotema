@@ -46,11 +46,12 @@
         {% if horizontal_class %} card--horizontal{% endif %}
       " style="--ratio-percent: {{ 1 | divided_by: ratio | times: 100 }}%;">
       <div class="card__inner {% if settings.card_style == 'standard' %}color-{{ settings.card_color_scheme }} gradient{% endif %}{% if card_product.featured_media or settings.card_style == 'standard' %} ratio{% endif %}" style="--ratio-percent: {{ 1 | divided_by: ratio | times: 100 }}%;">
-        <div class="logo">{{ %- render 'icon-logo' -% }}ljalajlalajl</div>
+
         {%- if card_product.featured_media -%}
           <div class="card__media{% if image_shape and image_shape != 'default' %} shape--{{ image_shape }} color-{{ settings.card_color_scheme }} gradient{% endif %}">
             <div class="media media--transparent media--hover-effect">
                 {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
+                <div class="logo">{{ %- render 'icon-logo' -% }}ljalajlalajl</div>
               <img
                 srcset="
                   {%- if card_product.featured_media.width >= 165 -%}{{ card_product.featured_media | image_url: width: 165 }} 165w,{%- endif -%}
