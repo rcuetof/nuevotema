@@ -298,7 +298,7 @@
         "sizetitle": 16,
         "show_collection_description": true,
         "sizetext": 12,
-        "show_collection_image": false,
+        "show_collection_image": true,
         "color_scheme": "scheme-fcb3e455-8b9f-4f0d-a635-dbad1bff62f1"
       }
     }
