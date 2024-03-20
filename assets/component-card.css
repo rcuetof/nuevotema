@@ -376,8 +376,8 @@
 .card-information > .price {
   color: rgb(var(--color-foreground));
   position: absolute;
-  top: 5%;
-  right: 22%;
+  top: 90%;
+  left: 80%;
   font-size: 22px;
   transform: translate(-50%,-50%);
   color: rgb(84, 67, 215);
