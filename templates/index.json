@@ -3,7 +3,7 @@
     "banner-principal": {
       "type": "vrc-banner",
       "custom_css": [
-        ".position-boton{left: 50%;}"
+        ".position-boton {left: 50%;}"
       ],
       "settings": {
         "title-banner": "Fashion <br>Violetta & Rc <br>Shop",
@@ -189,7 +189,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
+            "color_scheme": "scheme-3949eb00-512a-4e21-8568-06fe5434d288",
             "text_alignment_mobile": "center"
           }
         },
@@ -235,6 +235,9 @@
         "slide_6QTF9A",
         "slide_FWBpBE",
         "slide_4Nt9dy"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
         "layout": "full_bleed",
