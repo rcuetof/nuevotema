@@ -91,7 +91,7 @@
         "rating_F8B4bL"
       ],
       "custom_css": [
-        ".shopify-payment-button{display:none}"
+
       ],
       "settings": {
         "enable_sticky_info": true,
