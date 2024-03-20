@@ -47,9 +47,9 @@
         "column_aQUeCM": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/8b932f07e82a49a194d673eb3dcd439b-Min_2_45e7b535-8fba-42a6-86c2-9c7de4498b63.webp",
+            "image": "shopify:\/\/shop_images\/d1ec6a6f-13f5-4fe7-864c-fb92732e27c4-Max.jpg",
             "title": "",
-            "text": "<h5><strong>Homecomig Short Dress<\/strong><\/h5>",
+            "text": "<h5><strong>Birthday short Dresses<\/strong><\/h5>",
             "link_label": "Shop Now",
             "link": "shopify:\/\/collections\/homecoming-mini-dresses"
           }
@@ -57,9 +57,9 @@
         "column_ptbeVM": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/584629a9dead4f3daa09384bb7476277-Min_1a635be7-fa59-4c89-8485-8764c82aa843.webp",
+            "image": "shopify:\/\/shop_images\/48ab745c8eeb4b6ab27a73089dce49d7-Max_475f6d5c-e97b-4e94-bcd4-993c2f562480.jpg",
             "title": "",
-            "text": "<h5><strong>Prom Black Short drees<\/strong><\/h5>",
+            "text": "<h5><strong>Quinceanera short Dress<\/strong><\/h5>",
             "link_label": "Shop Now",
             "link": "shopify:\/\/collections\/black-mini-dresses"
           }
@@ -69,27 +69,16 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/9ccf3cbb9dfc4d8d8b6cd37cf59d99ed-Max_a248a2cc-a2a3-445e-83e1-ae8f6ebec6b4.webp",
             "title": "",
-            "text": "<h5><em><strong>Prom White Short Dress<\/strong><\/em><\/h5>",
+            "text": "<h5><em><strong>Anniversary Short Dresses<\/strong><\/em><\/h5>",
             "link_label": "Shop Now",
             "link": "shopify:\/\/collections\/white-mini-dresses"
-          }
-        },
-        "column_pjU6fz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/33649b6cfc4b4f26abf0b802161b41cd-Min_4d7064e5-d640-4eeb-b61d-7cf9fb607c50.webp",
-            "title": "",
-            "text": "<h5><strong>Elegant Mini Dress<\/strong><\/h5>",
-            "link_label": "Shop Now",
-            "link": "shopify:\/\/collections\/elegant-cocktail-short-dresses"
           }
         }
       },
       "block_order": [
         "column_aQUeCM",
         "column_ptbeVM",
-        "column_eTRz3P",
-        "column_pjU6fz"
+        "column_eTRz3P"
       ],
       "settings": {
         "title": "",
@@ -183,7 +172,7 @@
         "column_kDJ7Tz": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/e610c8b6774341ef9563b7d7c4a21055-Max_f3c3ca83-cb3e-4cad-9081-d3cbce51776b.webp",
+            "image": "shopify:\/\/shop_images\/1cfc0e3675dc41b6824dbe7ba0f6896a-Min_9777840d-0acc-4d5e-b852-f610a98a7262.jpg",
             "title": "",
             "text": "<h5><strong>Sequin Dresses<\/strong><\/h5>",
             "link_label": "Shop Now",
@@ -206,7 +195,7 @@
         "column_UJ6nET"
       ],
       "settings": {
-        "title": "recommended mini dresses for prom event",
+        "title": "Mini Dresses for Holiday Recomended Categories",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
