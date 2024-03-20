@@ -51,7 +51,7 @@
           <div class="card__media{% if image_shape and image_shape != 'default' %} shape--{{ image_shape }} color-{{ settings.card_color_scheme }} gradient{% endif %}">
             <div class="media media--transparent media--hover-effect">
                 {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
-                <div class="logo">{{ %- render 'icon-logo' -% }}ljalajlalajl</div>
+                <div class="logo" style="z-index: 4; position: absolute;">{{ %- render 'icon-logo' -% }}<h1>ljalajlalajl</h1></div>
               <img
                 srcset="
                   {%- if card_product.featured_media.width >= 165 -%}{{ card_product.featured_media | image_url: width: 165 }} 165w,{%- endif -%}
