@@ -62,7 +62,7 @@
             "swym_engage_wishlist_items_button_border_radious": 5,
             "swym_engage_wishlist_items_button_background_color": "#8d74be",
             "swym_engage_wishlist_items_button_text_color": "#ffffff",
-            "swym_engage_wishlist_show_product_updates": false
+            "swym_engage_wishlist_show_product_updates": true
           }
         }
       },
