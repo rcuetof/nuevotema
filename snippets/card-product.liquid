@@ -180,7 +180,6 @@
                 </span>
               </p>
             {%- endif -%}
-            {% render 'icon-logo' %}
             {% render 'price'
               , product: card_product
               , show_badges: false 
@@ -340,11 +339,8 @@
               <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
               <div class="caption-with-letter-spacing light">{{ 'products.product.vendor' | t }}</div>
             {%- endif -%}
-            {% render 'icon-logo' %}
             {% render 'price'
-              , show_badges: false
-              , show_compare_at_price: false
-              , show %}
+              , show_compare_at_price: false %}
           </div>
         </div>
       </div>
