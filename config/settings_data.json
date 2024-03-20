@@ -227,9 +227,9 @@
       },
       "scheme-3949eb00-512a-4e21-8568-06fe5434d288": {
         "settings": {
-          "background": "#f90000",
+          "background": "#ffffff",
           "background_gradient": "",
-          "text": "#fff",
+          "text": "#ffffff",
           "button": "#4a2e69",
           "button_label": "#ffffff",
           "secondary_button_label": "#4a2e69",

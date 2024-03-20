@@ -117,7 +117,7 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        ".price{color: yellow;}"
+
       ],
       "settings": {
         "products_per_page": 12,
