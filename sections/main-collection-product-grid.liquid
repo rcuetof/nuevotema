@@ -1,21 +1,4 @@
-
-
-
-
-{% include 'rapid-search-foc-wrapper-condition' %}
-  
-{% if  focIsEnabled == true %}
-  {% render 'rapid-search-collection-template' %}
-{% endif %}
-  
-  
-  
-{% if  focIsEnabled == true %}
-  <div id="rps-generated" style="display: none !important;" >
-{% endif %}
-  
-  
-  {{ 'template-collection.css' | asset_url | stylesheet_tag }}
+{{ 'template-collection.css' | asset_url | stylesheet_tag }}
 {{ 'component-card.css' | asset_url | stylesheet_tag }}
 {{ 'component-price.css' | asset_url | stylesheet_tag }}
 
