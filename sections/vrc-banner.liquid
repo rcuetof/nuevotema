@@ -11,11 +11,11 @@
         background-image: url('{{ section.settings.banner-movil | image_url: width: 1152, height: 2592 }}');
       }
     }
-    .vrc-banner {
-      h1,
-      p {
-        position: absolute;
-      }
+    .vrc-banner h1 {
+      position: absolute;
+    }
+    .vrc-banner p {
+      position: absolute;
     }
 
 
@@ -58,12 +58,11 @@
               .vrc-banner p {
                 top: {{ block.settings.posey-m-tittle2 }}%;
                 left: {{ block.settings.posex-m-tittle2 }}%;
-                font-size: {{ block.settings.size-m-tittle2 }}px;
+                font-size: {{ block.settings.size-m-title2 }}px;
               }
             }
             .vrc-banner p {
               color: {{ block.settings.font-color-title2 }};
-              position: absolute;
             }
           </style>
           <p>{{ block.settings.title-banner2 }}</p>
