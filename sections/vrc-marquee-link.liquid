@@ -2,14 +2,15 @@
   .bar-button {
     display: grid;
     max-width: 980px;
-    grid-auto-flow: row;
+    grid-template-columns: 200px;
+    grid-auto-flow: column;
     height: {{ section.settings.size-bar }}px;
   }
   .button-marquee {
     background-color: black;
     color: white;
     padding: 0 4px;
-    min-width: 200px;
+    width: 100%;
   }
 {%- endstyle -%}
 <div class="bar-button">
