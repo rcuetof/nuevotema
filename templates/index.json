@@ -3,7 +3,9 @@
     "banner-principal": {
       "type": "vrc-banner",
       "custom_css": [
-        ".position-boton {left: 50%;}"
+        ".position-boton {left: 50%;}",
+        "a {color: white; text-decoration: none; transition: all 1.5s;}",
+        "a:hover {color: lavender;}"
       ],
       "settings": {
         "title-banner": "Fashion <br>Violetta & Rc <br>Shop",
@@ -16,9 +18,9 @@
         "pose-y-tittle1": 22,
         "size-e-tittle1": 90,
         "font-color-tittle1": "#ffffff",
-        "tittl2-banner": "",
-        "size-tittle2": 10,
-        "font-color-tittle2": "#000000",
+        "tittl2-banner": "<a href=\"\">OFFERS UNDER $35<\/a>",
+        "size-tittle2": 35,
+        "font-color-tittle2": "#ffffff",
         "text-botton1": "Dresses for Women",
         "link-botton1": "shopify:\/\/collections\/all-mini-dresses",
         "text-botton2": "",
