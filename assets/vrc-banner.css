@@ -26,7 +26,7 @@
 /* Estilos para móvil */
 @media (max-width: 768px) {
     .vrc-banner {
-        height: 100vh;        
+        height: 100vh-30px;        
     h1{
         text-shadow: 2px 2px 4px #000000;
         position: absolute;
