@@ -3,7 +3,7 @@
     "banner-principal": {
       "type": "vrc-banner",
       "custom_css": [
-        ".position-boton {left: 50%;}",
+        ".position-boton {left: 50%; top: 75%;}",
         "a {color: white; text-decoration: none; transition: all 1.5s;}",
         "a:hover {color: lavender;}"
       ],
@@ -21,7 +21,7 @@
         "tittl2-banner": "<a href=\"\">OFFERS UNDER $35<\/a>",
         "size-tittle2": 35,
         "font-color-tittle2": "#ffffff",
-        "text-botton1": "Dresses for Women",
+        "text-botton1": "Mini Dresses for Women",
         "link-botton1": "shopify:\/\/collections\/all-mini-dresses",
         "text-botton2": "",
         "link-botton2": ""
