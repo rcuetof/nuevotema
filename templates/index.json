@@ -13,7 +13,7 @@
             "size-e-title1": 90,
             "posex-e-title1": 50,
             "posey-e-title1": 28,
-            "font-color-title1": "#FFFFFF"
+            "font-color-title1": "#ffffff"
           }
         },
         "text_YtwXRX": {
@@ -25,17 +25,38 @@
             "posey-m-title2": 72,
             "size-e-title2": 56,
             "posex-e-title2": 50,
-            "posey-e-title2": 78,
-            "font-color-title2": "#ffffff"
+            "posey-e-title2": 80,
+            "font-color-title2": "#fff"
+          }
+        },
+        "button_HQVFkw": {
+          "type": "button",
+          "settings": {
+            "text-botton1": "Mini Dresses For Women",
+            "link-botton1": "shopify:\/\/collections\/all-mini-dresses",
+            "posex-m-button1": 50,
+            "posey-m-button1": 8,
+            "size-m-button1": 45,
+            "posex-e-button1": 51,
+            "posey-e-button1": 71,
+            "size-e-button1": 31,
+            "text-botton2": "",
+            "link-botton2": "",
+            "posex-m-button2": 8,
+            "posey-m-button2": 8,
+            "size-m-button2": 45,
+            "posex-e-button2": 8,
+            "posey-e-button2": 8,
+            "size-e-button2": 45
           }
         }
       },
       "block_order": [
         "heading_FGFFQb",
-        "text_YtwXRX"
+        "text_YtwXRX",
+        "button_HQVFkw"
       ],
       "custom_css": [
-        ".position-boton {left: 50%; top: 75%;}",
         "a {color: white; text-decoration: none; transition: all 1.5s;}",
         "a:hover {color: lavender;}"
       ],
