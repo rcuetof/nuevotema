@@ -20,7 +20,7 @@ function changeTab(tabNumber) {
 // Variables para el desplazamiento con el mouse
 var isMouseDown = false;
 var initialX = 0;
-
+x
 // Agrega eventos para el desplazamiento con el mouse
 var tabContainer = document.getElementById("tabContainer");
 tabContainer.addEventListener("mousedown", function (event) {

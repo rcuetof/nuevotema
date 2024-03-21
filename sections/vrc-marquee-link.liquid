@@ -34,7 +34,7 @@
   }
 {%- endstyle -%}
 
-<div class="bar-button">
+<div class="bar-button" id="bar-button">
   {% for block in section.blocks %}
     {%- case block.type -%}
       {%- when 'button' -%}
@@ -46,31 +46,23 @@
 </div>
 
 <script>
-  let isDragging = false;
-  let startPosition = 0;
-  let startScrollLeft = 0;
+  var tabContainer = document.getElementById("bar-button");
+  tabContainer.addEventListener("mousedown", function (event) {
+    isMouseDown = true;
+    initialX = event.clientX;
+  });
   
-  function startDrag(event) {
-    isDragging = true;
-    startPosition = event.clientX;
-    startScrollLeft = event.currentTarget.scrollLeft;
-    document.addEventListener('mousemove', drag);
-    document.addEventListener('mouseup', stopDrag);
-  }
+  tabContainer.addEventListener("mouseup", function () {
+    isMouseDown = false;
+  });
   
-  function drag(event) {
-    if (isDragging) {
-      const deltaX = event.clientX - startPosition;
-      const container = event.currentTarget;
-      container.scrollLeft = startScrollLeft - deltaX;
+  tabContainer.addEventListener("mousemove", function (event) {
+    if (isMouseDown) {
+        var delta = initialX - event.clientX;
+        tabContainer.scrollLeft += delta;
+        initialX = event.clientX;
     }
-  }
-  
-  function stopDrag() {
-    isDragging = false;
-    document.removeEventListener('mousemove', drag);
-    document.removeEventListener('mouseup', stopDrag);
-  }
+  });
 </script>
 
 {% schema %}
