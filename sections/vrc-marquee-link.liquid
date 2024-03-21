@@ -4,6 +4,10 @@
     display: grid;
     max-width: 100%;
     grid-auto-columns: 150px;
+    @media (max-width 768px) {
+      grid-auto-columns: .25%;
+    }
+
     grid-auto-flow: column;
     height: {{ section.settings.size-bar }}px;
   }
