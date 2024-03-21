@@ -13,7 +13,7 @@
         "text_YKEKyV": {
           "type": "text",
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text": "",
             "text_style": "body"
           }
         },
@@ -35,8 +35,9 @@
         "buttons_TJ4iB9"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/d1ec6a6f-13f5-4fe7-864c-fb92732e27c4-Max.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
