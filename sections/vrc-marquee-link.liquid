@@ -11,6 +11,9 @@
     grid-auto-flow: column;
     height: {{ section.settings.size-bar }}px;
     transition: all 0.5s;
+    scrollbar-width: thin;
+    overflow: none;
+     overflow-x: auto;
     }
   .button-marquee {
     background-color: rgb(239, 230, 250);
@@ -19,9 +22,7 @@
     width: 100%;
     cursor: pointer;
     text-align: center;
-    scrollbar-width: thin;
-    overflow: none;
-    overflow-x: auto;
+
   a{text-decoration: none;}
   }
   .button-marquee:hover
