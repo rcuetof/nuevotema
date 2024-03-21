@@ -3,8 +3,13 @@
   {% style %}
     .vrc-banner {
       /* Estilo predeterminado para escritorio */
-      background-image: url('{{ section.settings.banner-escritorio | image_url: width: 2592, height: 1152, size: 120vw }}');
+      background-image: url('{{ section.settings.banner-escritorio | image_url: width: 2592, height: 1152 }}');
       h1 {
+        top: {{ block.settings.posey-e-tittle1 }}%;
+        left: {{ block.settings.posex-e-tittle1 }}%;
+        font-size: {{ block.settings.size-e-tittle1 }}px;
+      }
+      p {
         top: {{ section.settings.pose-y-tittle1 }}%;
         left: {{ section.settings.pose-x-tittle1 }}%;
         font-size: {{ section.settings.size-e-tittle1 }}px;
@@ -16,6 +21,11 @@
           top: {{ section.settings.posm-y-tittle1 }}%;
           left: {{ section.settings.posm-x-tittle1 }}%;
           font-size: {{ section.settings.size-m-tittle1 }}px;
+        }
+        p {
+          top: {{ section.settings.pose-y-tittle1 }}%;
+          left: {{ section.settings.pose-x-tittle1 }}%;
+          font-size: {{ section.settings.size-e-tittle1 }}px;
         }
 
       }
@@ -35,8 +45,8 @@
 
   {% endstyle %}
   <div class="vrc-banner">
-    <h1>{{ section.settings.title-banner }}</h1>
-    <p>{{ section.settings.tittl2-banner }}</p>
+    <h1>{{ section.block.settings.title-banner1 }}</h1>
+    <p>{{ section.block.settings.title-banner2 }}</p>
     <a href="{{section.settings.link-botton1}}" class="button-banner position-boton">{{ section.settings.text-botton1 }}</a>
     <a href="{{section.settings.link-botton2}}" class="button-banner position-mid">{{ section.settings.text-botton2 }}</a>
   </div>
@@ -47,115 +57,305 @@
     "name": "VRC-BANNER",
     "tag": "section",
     "class": "section",
+    "disabled_on": {
+      "groups": ["header", "footer"]
+    },
     "settings": [
-      {
-        "type": "text",
-        "id": "title-banner",
-        "label": "Titulo del Banner"
-      },
       {
         "type": "image_picker",
         "id": "banner-movil",
         "label": "Imagen Para Moviles"
-      },
-      {
-        "type": "range",
-        "id": "posm-x-tittle1",
-        "min": 0,
-        "max": 100,
-        "step": 1,
-        "unit": "%",
-        "label": "Posicion Horizaontal Titulo 1",
-        "default": 8
-      },
-      {
-        "type": "range",
-        "id": "posm-y-tittle1",
-        "min": 0,
-        "max": 100,
-        "step": 1,
-        "unit": "%",
-        "label": "Posicion Vertical Titulo 1",
-        "default": 8
-      }, {
-        "type": "range",
-        "id": "size-m-tittle1",
-        "min": 10,
-        "max": 90,
-        "step": 1,
-        "unit": "px",
-        "label": "Tamaño Movil Titulo 1",
-        "default": 45
       }, {
         "type": "image_picker",
         "id": "banner-escritorio",
         "label": "Imagen Para Compputadoras"
-      }, {
-        "type": "range",
-        "id": "pose-x-tittle1",
-        "min": 0,
-        "max": 100,
-        "step": 1,
-        "unit": "%",
-        "label": "Posicion Horizaontal Escritorio Titulo 1",
-        "default": 8
-      }, {
-        "type": "range",
-        "id": "pose-y-tittle1",
-        "min": 0,
-        "max": 100,
-        "step": 1,
-        "unit": "%",
-        "label": "Posicion Vertical Escritorio Titulo 1",
-        "default": 8
-      }, {
-        "type": "range",
-        "id": "size-e-tittle1",
-        "min": 10,
-        "max": 90,
-        "step": 1,
-        "unit": "px",
-        "label": "Tamaño Escritorio Titulo 1",
-        "default": 45
-      }, {
-        "type": "color",
-        "id": "font-color-tittle1",
-        "label": "Color Titulo 1",
-        "default": "#FFFFFF"
-      }, {
-        "type": "textarea",
-        "id": "tittl2-banner",
-        "label": "2do Titulo del Banner"
-      }, {
-        "type": "range",
-        "id": "size-tittle2",
-        "min": 10,
-        "max": 50,
-        "step": 1,
-        "unit": "px",
-        "label": "Tamaño Titulo 2",
-        "default": 25
-      }, {
-        "type": "color",
-        "id": "font-color-tittle2",
-        "label": "Color Titulo 2",
-        "default": "#000000"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "heading",
+        "name": "Titulo 1",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "inline_richtext",
+            "id": "title-banner1",
+            "label": "Titulo 1"
+          },
+
+          {
+            "type": "range",
+            "id": "size-m-tittle1",
+            "min": 12,
+            "max": 101,
+            "step": 1,
+            "unit": "px",
+            "default": 24,
+            "label": "Tamaño Movil Titulo 1"
+          },
+          {
+            "type": "range",
+            "id": "posex-m-tittle1",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Horizaontal Movil Titulo 1",
+            "default": 8
+          },
+          {
+            "type": "range",
+            "id": "posey-m-tittle1",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Vertical Movil Titulo 1",
+            "default": 8
+          }, {
+            "type": "range",
+            "id": "size-e-tittle1",
+            "min": 10,
+            "max": 90,
+            "step": 1,
+            "unit": "px",
+            "label": "Tamaño Escritorio Titulo 1",
+            "default": 45
+          }, {
+            "type": "range",
+            "id": "posex-e-tittle1",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Horizaontal Escritorio Titulo 1",
+            "default": 8
+          }, {
+            "type": "range",
+            "id": "posey-e-tittle1",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Vertical Escritorio Titulo 1",
+            "default": 8
+          }, {
+            "type": "color",
+            "id": "font-color-tittle1",
+            "label": "Color Titulo 1",
+            "default": "#FFFFFF"
+          }
+
+        ]
       }, {
         "type": "text",
-        "id": "text-botton1",
-        "label": "Texto del Boton 1"
+        "name": "Titulo 2",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "inline_richtext",
+            "id": "title-banner2",
+            "label": "Titulo 2"
+          },
+
+          {
+            "type": "range",
+            "id": "size-m-title2",
+            "min": 12,
+            "max": 101,
+            "step": 1,
+            "default": 24,
+            "label": "Tamaño Movil Titulo 2"
+          },
+          {
+            "type": "range",
+            "id": "posex-m-title2",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Horizaontal Movil Titulo 2",
+            "default": 8
+          },
+          {
+            "type": "range",
+            "id": "posey-m-title2",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Vertical Movil Titulo 2",
+            "default": 8
+          }, {
+            "type": "range",
+            "id": "size-e-title2",
+            "min": 10,
+            "max": 90,
+            "step": 1,
+            "unit": "px",
+            "label": "Tamaño Escritorio Titulo 2",
+            "default": 45
+          }, {
+            "type": "range",
+            "id": "posex-e-title2",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Horizaontal Escritorio Titulo 2",
+            "default": 8
+          }, {
+            "type": "range",
+            "id": "posey-e-title2",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Vertical Escritorio Titulo 2",
+            "default": 8
+          }, {
+            "type": "color",
+            "id": "font-color-title2",
+            "label": "Color Titulo 2",
+            "default": "#FFFFFF"
+          }
+        ]
       }, {
-        "type": "url",
-        "id": "link-botton1",
-        "label": "Link Botton1"
-      }, {
-        "type": "text",
-        "id": "text-botton2",
-        "label": "Texto del Boton 1"
-      }, {
-        "type": "url",
-        "id": "link-botton2",
-        "label": "Link Botton2"
+        "type": "button",
+        "name": "Boton",
+        "limit": 1,
+        "settings": [
+          {
+            "type": "text",
+            "id": "text-botton1",
+            "label": "Texto del Boton 1"
+          },
+          {
+            "type": "url",
+            "id": "link-botton1",
+            "label": "Link Botton1"
+          },
+
+          {
+            "type": "range",
+            "id": "posex-m-button1",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Horizaontal Movil Boton 1",
+            "default": 8
+          },
+          {
+            "type": "range",
+            "id": "posey-m-button1",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Vertical Movil Boton 1",
+            "default": 8
+          }, {
+            "type": "range",
+            "id": "size-m-button1",
+            "min": 10,
+            "max": 90,
+            "step": 1,
+            "unit": "px",
+            "label": "Tamaño Movil Boton 1",
+            "default": 45
+          }, {
+            "type": "range",
+            "id": "posex-e-button1",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Horizaontal Escritorio Boton 1",
+            "default": 8
+          }, {
+            "type": "range",
+            "id": "posey-e-button1",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Vertical Escritorio Boton 1",
+            "default": 8
+          }, {
+            "type": "range",
+            "id": "size-e-button1",
+            "min": 10,
+            "max": 90,
+            "step": 1,
+            "unit": "px",
+            "label": "Tamaño Escritorio Boton 1",
+            "default": 45
+          }, {
+            "type": "text",
+            "id": "text-botton2",
+            "label": "Texto del Boton 2"
+          }, {
+            "type": "url",
+            "id": "link-botton2",
+            "label": "Link Botton2"
+          }, {
+            "type": "range",
+            "id": "posex-m-button2",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Horizaontal Movil Boton 2",
+            "default": 8
+          }, {
+            "type": "range",
+            "id": "posey-m-button2",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Vertical Movil Boton 2",
+            "default": 8
+          }, {
+            "type": "range",
+            "id": "size-m-button2",
+            "min": 10,
+            "max": 90,
+            "step": 1,
+            "unit": "px",
+            "label": "Tamaño Movil Boton 2",
+            "default": 45
+          }, {
+            "type": "range",
+            "id": "posex-e-button2",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Horizaontal Escritorio Boton 2",
+            "default": 8
+          }, {
+            "type": "range",
+            "id": "posey-e-button2",
+            "min": 0,
+            "max": 100,
+            "step": 1,
+            "unit": "%",
+            "label": "Posicion Vertical Escritorio Boton 2",
+            "default": 8
+          }, {
+            "type": "range",
+            "id": "size-e-button2",
+            "min": 10,
+            "max": 90,
+            "step": 1,
+            "unit": "px",
+            "label": "Tamaño Escritorio Boton 2",
+            "default": 45
+          }
+
+        ]
       }
     ]
   }
