@@ -2,6 +2,18 @@
   "sections": {
     "vrc-marquee-link": {
       "type": "vrc-marquee-link",
+      "blocks": {
+        "button_CgWFRJ": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/new",
+            "labelbuton": "New"
+          }
+        }
+      },
+      "block_order": [
+        "button_CgWFRJ"
+      ],
       "settings": {
         "size-bar": 30
       }
