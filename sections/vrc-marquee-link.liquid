@@ -1,0 +1,67 @@
+{%- style -%}
+  .bar-button {
+    position: relative;
+    display: grid;
+    max-width: 980px;
+    grid-auto-flow: row;
+    height: {{ section.settings.size-bar }}px;
+  }
+  .button-marquee {
+    position: absolute;
+    background-color: black;
+    color: white;
+    padding: 0 4px;
+    min-width: 200px;
+  }
+{%- endstyle -%}
+<div class="bar-button">
+  {% for block in section.blocks %}
+    {%- case block.type -%}
+      {%- when 'button' -%}
+        <div class="button-marquee">
+          <a href="{{ block.settings.link }}">{{ block.settings.labelbuton }}</a>
+        </div>
+    {%- endcase -%}
+  {%- endfor -%}
+</div>
+
+
+{% schema %}
+  {
+    "name": "VRC-MARQUEE-LINK",
+    "tag": "section",
+    "class": "section",
+    "settings": [
+      {
+        "type": "range",
+        "id": "size-bar",
+        "min": 20,
+        "max": 101,
+        "step": 1,
+        "unit": "px",
+        "label": "Tamaño de la Barra",
+        "default": 30
+      }
+    ],
+    "blocks": [
+      {
+        "type": "button",
+        "name": "Botones",
+        "limit": 10,
+        "settings": [
+          {
+            "type": "url",
+            "id": "link",
+            "label": "Link del Boton"
+          }, {
+            "type": "text",
+            "id": "labelbuton",
+            "label": "Etiqueta del Boton"
+          }
+
+        ]
+      }
+    ]
+
+  }
+{% endschema %}
