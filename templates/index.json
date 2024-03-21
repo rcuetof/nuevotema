@@ -23,10 +23,10 @@
             "size-m-title2": 12,
             "posex-m-title2": 69,
             "posey-m-title2": 55,
-            "size-e-title2": 45,
-            "posex-e-title2": 88,
-            "posey-e-title2": 45,
-            "font-color-title2": "#ffffff"
+            "size-e-title2": 90,
+            "posex-e-title2": 11,
+            "posey-e-title2": 28,
+            "font-color-title2": "#5e2828"
           }
         }
       },
