@@ -6,7 +6,8 @@
     background-position: top;
     margin: 0px;    
     white-space: nowrap;
-    h1{
+}
+.vrc-banner h1, p {
         text-shadow: 2px 2px 4px #000000;
         position: absolute;
         font-weight: 900;
@@ -14,20 +15,12 @@
         text-shadow: 2px,10px,4px,black;
         transform: translate(-50%, -50%);
       }
-    p
-      {
-        position: absolute;
-        text-align: left;
-        font-weight: 900;
-        transform: translate(-50%, -50%);
-        text-shadow: 2px,10px,4px,black;        
-      }
-    .position-boton, .position-mid
+.position-boton, .position-mid
       {
         position: absolute;
         transform: translate(-50%, -50%);
       }  
-}
+
 
 .button-banner {
     display: inline-block;
