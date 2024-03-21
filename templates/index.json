@@ -13,14 +13,22 @@
         "button_PpKcVq": {
           "type": "button",
           "settings": {
-            "link": "shopify:\/\/collections\/best-selling-short-formal-dresses",
-            "labelbuton": "Best Selling"
+            "link": "shopify:\/\/collections\/white-mini-dresses",
+            "labelbuton": "White Mini Dresses"
+          }
+        },
+        "button_GJ98xD": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "labelbuton": ""
           }
         }
       },
       "block_order": [
         "button_CgWFRJ",
-        "button_PpKcVq"
+        "button_PpKcVq",
+        "button_GJ98xD"
       ],
       "settings": {
         "size-bar": 30
