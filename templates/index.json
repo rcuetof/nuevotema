@@ -2,29 +2,32 @@
   "sections": {
     "banner-principal": {
       "type": "vrc-banner",
+      "blocks": {
+        "heading_FGFFQb": {
+          "type": "heading",
+          "settings": {
+            "title-banner1": "xxxahkjahkja",
+            "size-m-tittle1": 49,
+            "posex-m-tittle1": 47,
+            "posey-m-tittle1": 41,
+            "size-e-tittle1": 45,
+            "posex-e-tittle1": 8,
+            "posey-e-tittle1": 8,
+            "font-color-tittle1": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "heading_FGFFQb"
+      ],
       "custom_css": [
         ".position-boton {left: 50%; top: 75%;}",
         "a {color: white; text-decoration: none; transition: all 1.5s;}",
         "a:hover {color: lavender;}"
       ],
       "settings": {
-        "title-banner": "Fashion <br>Violetta & Rc <br>Shop",
         "banner-movil": "shopify:\/\/shop_images\/banner-principal-abril-movil.png",
-        "posm-x-tittle1": 14,
-        "posm-y-tittle1": 31,
-        "size-m-tittle1": 52,
-        "banner-escritorio": "shopify:\/\/shop_images\/banner-principal-abril-comp.png",
-        "pose-x-tittle1": 50,
-        "pose-y-tittle1": 29,
-        "size-e-tittle1": 90,
-        "font-color-tittle1": "#ffffff",
-        "tittl2-banner": "<a href=\"https:\/\/ba18a9-cd.myshopify.com\/collections\/dresses-offers-for-less-than-35\">OFFERS UNDER $35<\/a>",
-        "size-tittle2": 35,
-        "font-color-tittle2": "#ffffff",
-        "text-botton1": "Mini Dresses for Women",
-        "link-botton1": "shopify:\/\/collections\/all-mini-dresses",
-        "text-botton2": "",
-        "link-botton2": ""
+        "banner-escritorio": "shopify:\/\/shop_images\/banner-principal-abril-comp.png"
       }
     },
     "featured_collection": {
