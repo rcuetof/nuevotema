@@ -11,10 +11,11 @@
     grid-auto-flow: column;
     height: {{ section.settings.size-bar }}px;
     transition: all 0.5s;
-    scrollbar-width: thin;
-    overflow: none;
-     overflow-x: auto;
-    }
+    overflow: hidden;
+    /* Oculta las barras de desplazamiento */
+    position: relative;
+    /* Posición relativa para el objeto */
+  }
   .button-marquee {
     background-color: rgb(239, 230, 250);
     color: rgb(64, 28, 112);
@@ -23,14 +24,16 @@
     cursor: pointer;
     text-align: center;
 
-  a{text-decoration: none;}
+    a {
+      text-decoration: none;
+    }
   }
-  .button-marquee:hover
-  {
+  .button-marquee:hover {
     background-color: rgb(247, 230, 250);
     color: rgb(75, 35, 128);
   }
 {%- endstyle -%}
+
 <div class="bar-button">
   {% for block in section.blocks %}
     {%- case block.type -%}
@@ -42,6 +45,18 @@
   {%- endfor -%}
 </div>
 
+<script>
+  function moverObjeto(event) {
+  const objeto = document.querySelector('.button-marquee');
+  const contenedor = document.querySelector('.bar-button');
+  const contenedorRect = contenedor.getBoundingClientRect();
+  
+  const porcentaje = (event.clientX - contenedorRect.left) / contenedorRect.width;
+  const nuevaPosicion = (contenedor.offsetWidth - objeto.offsetWidth) * porcentaje;
+  
+  objeto.style.left = nuevaPosicion + 'px';
+  }
+</script>
 
 {% schema %}
   {
