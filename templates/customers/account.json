@@ -1,1 +1,86 @@
-{"sections":{"main":{"type":"main-account","settings":{"padding_top":36,"padding_bottom":36}}},"order":["main"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-account",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1710934092a0b27893": {
+      "type": "apps",
+      "blocks": {
+        "wishlist_plus_engage_myaccount_recently_viewed_online_DADTMG": {
+          "type": "shopify:\/\/apps\/wishlist-plus\/blocks\/engage-myaccount-recently-viewed-online\/80c3b1fc-3a8f-407e-8367-ffdeebb8b612",
+          "settings": {
+            "swym_themeapp_container_background_color": "rgba(0,0,0,0)",
+            "swym_themeapp_container_text_color": "#000000",
+            "swym_themeapp_container_title_font_size": 20,
+            "swym_themeapp_container_items_per_row_desktop": 3,
+            "swym_themeapp_container_items_per_row_tablet": 3,
+            "swym_themeapp_container_items_per_row_mobile": 1,
+            "swym_themeapp_container_nav_background_color": "#ffffff",
+            "swym_themeapp_container_nave_arrow_color": "#000000",
+            "swym_themeapp_container_items_show_title": true,
+            "swym_themeapp_container_items_show_price": true,
+            "swym_themeapp_container_items_show_variant": false,
+            "swym_themeapp_container_items_show_vendor": false,
+            "swym_themeapp_container_items_show_add_to_cart_button": true,
+            "swym_themeapp_container_items_font_size": 10,
+            "swym_themeapp_container_items_compare_price_color": "#ee2e2e",
+            "swym_themeapp_container_items_button_type": "solid",
+            "swym_themeapp_container_items_button_width": "100%",
+            "swym_themeapp_container_items_button_align": "center",
+            "swym_themeapp_container_items_button_border_radious": 5,
+            "swym_themeapp_container_items_button_background_color": "#8d74be",
+            "swym_themeapp_container_items_button_text_color": "#ffffff"
+          }
+        },
+        "wishlist_plus_engage_myaccount_wishlisteditems_fxwkbJ": {
+          "type": "shopify:\/\/apps\/wishlist-plus\/blocks\/engage-myaccount-wishlisteditems\/80c3b1fc-3a8f-407e-8367-ffdeebb8b612",
+          "settings": {
+            "swym_engage_wishlist_items_background_color": "rgba(0,0,0,0)",
+            "swym_engage_wishlist_items_text_color": "#000000",
+            "swym_engage_wishlist_items_background_color_secondary": "#e7e7e7",
+            "swym_engage_wishlist_items_highlight_color": "#808080",
+            "swym_engage_wishlist_items_title": 20,
+            "swym_engage_wishlist_items_per_row_desktop": 3,
+            "swym_engage_wishlist_items_per_row_tablet": 3,
+            "swym_engage_wishlist_items_per_row_mobile": 1,
+            "swym_engage_wishlist_items_nav_background_color": "#ffffff",
+            "swym_engage_wishlist_items_nave_arrow_color": "#000000",
+            "swym_engage_Wishlist_items_show_title": true,
+            "swym_engage_Wishlist_items_show_price": true,
+            "swym_engage_Wishlist_items_show_variant": false,
+            "swym_engage_wishlist_items_show_vendor": false,
+            "swym_engage_Wishlist_items_show_add_to_cart_button": true,
+            "swym_engage_wishlist_items_font_size": 10,
+            "swym_engage_wishlist_items_compare_price_color": "#ee2e2e",
+            "swym_engage_wishlist_items_button_type": "solid",
+            "swym_engage_wishlist_items_button_width": "100%",
+            "swym_engage_wishlist_items_button_align": "center",
+            "swym_engage_wishlist_items_button_border_radious": 5,
+            "swym_engage_wishlist_items_button_background_color": "#8d74be",
+            "swym_engage_wishlist_items_button_text_color": "#ffffff",
+            "swym_engage_wishlist_show_product_updates": true
+          }
+        }
+      },
+      "block_order": [
+        "wishlist_plus_engage_myaccount_recently_viewed_online_DADTMG",
+        "wishlist_plus_engage_myaccount_wishlisteditems_fxwkbJ"
+      ],
+      "custom_css": [
+        ".swym-wishlistplus-themeapp-main-container {}",
+        ".swym-engage-body-list {overflow: hidden; scrollbar-width: none; -ms-overflow-style: none;}"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1710934092a0b27893"
+  ]
+}
