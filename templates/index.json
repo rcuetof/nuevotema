@@ -2,18 +2,6 @@
   "sections": {
     "vrc-marquee-link": {
       "type": "vrc-marquee-link",
-      "blocks": {
-        "button_HaE9x4": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/bridesmaid-blue-mini-dresses",
-            "labelbuton": "bridesmaid"
-          }
-        }
-      },
-      "block_order": [
-        "button_HaE9x4"
-      ],
       "settings": {
         "size-bar": 30
       }
