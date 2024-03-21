@@ -9,10 +9,18 @@
             "link": "shopify:\/\/collections\/new",
             "labelbuton": "New"
           }
+        },
+        "button_PpKcVq": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/best-selling-short-formal-dresses",
+            "labelbuton": "Best Selling"
+          }
         }
       },
       "block_order": [
-        "button_CgWFRJ"
+        "button_CgWFRJ",
+        "button_PpKcVq"
       ],
       "settings": {
         "size-bar": 30
