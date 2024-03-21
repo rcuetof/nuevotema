@@ -7,7 +7,7 @@
     margin: 0px;    
     white-space: nowrap;
 }
-.vrc-banner h1, p {
+.vrc-banner{ h1, p {
         text-shadow: 2px 2px 4px #000000;
         position: absolute;
         font-weight: 900;
@@ -15,6 +15,7 @@
         text-shadow: 2px,10px,4px,black;
         transform: translate(-50%, -50%);
       }
+    }
 .position-1, .position-2
       {
         position: absolute;
