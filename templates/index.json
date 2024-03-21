@@ -1,6 +1,10 @@
 {
   "sections": {
-    "vrc-marquee-link":{"type": "vrc-marquee-link"},
+    "vrc-marquee-link": {
+      "type": "vrc-marquee-link",
+      "settings": {
+      }
+    },
     "banner-principal": {
       "type": "vrc-banner",
       "blocks": {
