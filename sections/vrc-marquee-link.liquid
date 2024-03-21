@@ -46,15 +46,30 @@
 </div>
 
 <script>
-  function moverObjeto(event) {
-  const objeto = document.querySelector('.button-marquee');
-  const contenedor = document.querySelector('.bar-button');
-  const contenedorRect = contenedor.getBoundingClientRect();
+  let isDragging = false;
+  let startPosition = 0;
+  let startScrollLeft = 0;
   
-  const porcentaje = (event.clientX - contenedorRect.left) / contenedorRect.width;
-  const nuevaPosicion = (contenedor.offsetWidth - objeto.offsetWidth) * porcentaje;
+  function startDrag(event) {
+    isDragging = true;
+    startPosition = event.clientX;
+    startScrollLeft = event.currentTarget.scrollLeft;
+    document.addEventListener('mousemove', drag);
+    document.addEventListener('mouseup', stopDrag);
+  }
   
-  objeto.style.left = nuevaPosicion + 'px';
+  function drag(event) {
+    if (isDragging) {
+      const deltaX = event.clientX - startPosition;
+      const container = event.currentTarget;
+      container.scrollLeft = startScrollLeft - deltaX;
+    }
+  }
+  
+  function stopDrag() {
+    isDragging = false;
+    document.removeEventListener('mousemove', drag);
+    document.removeEventListener('mouseup', stopDrag);
   }
 </script>
 
