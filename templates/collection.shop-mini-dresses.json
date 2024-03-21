@@ -6,14 +6,14 @@
         "heading_VkRXMU": {
           "type": "heading",
           "settings": {
-            "title-banner1": "Fashion Mini",
-            "size-m-title1": 24,
-            "posex-m-title1": 8,
-            "posey-m-title1": 8,
-            "size-e-title1": 45,
-            "posex-e-title1": 8,
-            "posey-e-title1": 8,
-            "font-color-title1": "#FFFFFF"
+            "title-banner1": "Fashion <br>Short Mini<br>Dresses",
+            "size-m-title1": 44,
+            "posex-m-title1": 35,
+            "posey-m-title1": 66,
+            "size-e-title1": 90,
+            "posex-e-title1": 67,
+            "posey-e-title1": 41,
+            "font-color-title1": "#ffffff"
           }
         }
       },

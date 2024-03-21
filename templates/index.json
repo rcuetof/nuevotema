@@ -3,16 +3,40 @@
     "vrc-marquee-link": {
       "type": "vrc-marquee-link",
       "blocks": {
-        "button_GwxmGX": {
+        "button_CgWFRJ": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/new",
+            "labelbuton": "New"
+          }
+        },
+        "button_PpKcVq": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/white-mini-dresses",
+            "labelbuton": "White Mini Dresses"
+          }
+        },
+        "button_GJ98xD": {
           "type": "button",
           "settings": {
             "link": "",
             "labelbuton": ""
           }
+        },
+        "button_dxECPw": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/sale",
+            "labelbuton": "Sale"
+          }
         }
       },
       "block_order": [
-        "button_GwxmGX"
+        "button_CgWFRJ",
+        "button_PpKcVq",
+        "button_GJ98xD",
+        "button_dxECPw"
       ],
       "settings": {
         "size-bar": 30
@@ -25,9 +49,9 @@
           "type": "heading",
           "settings": {
             "title-banner1": "Fashion<br>Violetta & Rc<br>\nShop",
-            "size-m-title1": 56,
-            "posex-m-title1": 50,
-            "posey-m-title1": 40,
+            "size-m-title1": 45,
+            "posex-m-title1": 52,
+            "posey-m-title1": 37,
             "size-e-title1": 90,
             "posex-e-title1": 50,
             "posey-e-title1": 28,
@@ -215,24 +239,6 @@
     "slideshow_ebPK49": {
       "type": "slideshow",
       "blocks": {
-        "slide_brFLBV": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/69c411243f9945bb81ca52864007a3c6-Max_1.jpg",
-            "heading": "",
-            "heading_size": "h2",
-            "subheading": "White Mini Dress",
-            "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "button_style_secondary": true,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "left"
-          }
-        },
         "slide_6QTF9A": {
           "type": "slide",
           "settings": {
@@ -289,7 +295,6 @@
         }
       },
       "block_order": [
-        "slide_brFLBV",
         "slide_6QTF9A",
         "slide_FWBpBE",
         "slide_4Nt9dy"
