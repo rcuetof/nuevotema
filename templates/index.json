@@ -16,11 +16,75 @@
             "link": "shopify:\/\/collections\/white-mini-dresses",
             "labelbuton": "WHITE"
           }
+        },
+        "button_h8Cgxz": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/white-mini-dresses",
+            "labelbuton": "WHITE"
+          }
+        },
+        "button_R8XXNQ": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/white-mini-dresses",
+            "labelbuton": "WHITE"
+          }
+        },
+        "button_KERLi4": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/white-mini-dresses",
+            "labelbuton": "WHITE"
+          }
+        },
+        "button_yMEMdY": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/white-mini-dresses",
+            "labelbuton": "WHITE"
+          }
+        },
+        "button_tmd9gw": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/white-mini-dresses",
+            "labelbuton": "WHITE"
+          }
+        },
+        "button_j3JkMx": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/white-mini-dresses",
+            "labelbuton": "WHITE"
+          }
+        },
+        "button_dq3mXF": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/white-mini-dresses",
+            "labelbuton": "WHITE"
+          }
+        },
+        "button_UwxAcx": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/white-mini-dresses",
+            "labelbuton": "WHITE"
+          }
         }
       },
       "block_order": [
         "button_CgWFRJ",
-        "button_XQbicN"
+        "button_XQbicN",
+        "button_h8Cgxz",
+        "button_R8XXNQ",
+        "button_KERLi4",
+        "button_yMEMdY",
+        "button_tmd9gw",
+        "button_j3JkMx",
+        "button_dq3mXF",
+        "button_UwxAcx"
       ],
       "settings": {
         "size-bar": 30
