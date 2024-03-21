@@ -2,7 +2,20 @@
   "sections": {
     "vrc-marquee-link": {
       "type": "vrc-marquee-link",
+      "blocks": {
+        "button_GwxmGX": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "labelbuton": ""
+          }
+        }
+      },
+      "block_order": [
+        "button_GwxmGX"
+      ],
       "settings": {
+        "size-bar": 30
       }
     },
     "banner-principal": {
