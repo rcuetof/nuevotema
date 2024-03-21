@@ -16,75 +16,11 @@
             "link": "shopify:\/\/collections\/white-mini-dresses",
             "labelbuton": "White Mini Dresses"
           }
-        },
-        "button_GJ98xD": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "labelbuton": "xxxxxxxx"
-          }
-        },
-        "button_dxECPw": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/sale",
-            "labelbuton": "Sale"
-          }
-        },
-        "button_fgGJzQ": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "labelbuton": ""
-          }
-        },
-        "button_GGyEzJ": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "labelbuton": ""
-          }
-        },
-        "button_E9wcfa": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "labelbuton": "15616156"
-          }
-        },
-        "button_Kh4hPW": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "labelbuton": "16515615616"
-          }
-        },
-        "button_GCMQ8D": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "labelbuton": "156156165"
-          }
-        },
-        "button_GGfwr3": {
-          "type": "button",
-          "settings": {
-            "link": "",
-            "labelbuton": "156156165"
-          }
         }
       },
       "block_order": [
         "button_CgWFRJ",
-        "button_PpKcVq",
-        "button_GJ98xD",
-        "button_dxECPw",
-        "button_fgGJzQ",
-        "button_GGyEzJ",
-        "button_E9wcfa",
-        "button_Kh4hPW",
-        "button_GCMQ8D",
-        "button_GGfwr3"
+        "button_PpKcVq"
       ],
       "settings": {
         "size-bar": 30
