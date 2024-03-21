@@ -23,12 +23,20 @@
             "link": "",
             "labelbuton": ""
           }
+        },
+        "button_dxECPw": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/sale",
+            "labelbuton": "Sale"
+          }
         }
       },
       "block_order": [
         "button_CgWFRJ",
         "button_PpKcVq",
-        "button_GJ98xD"
+        "button_GJ98xD",
+        "button_dxECPw"
       ],
       "settings": {
         "size-bar": 30
