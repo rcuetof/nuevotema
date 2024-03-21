@@ -3,44 +3,19 @@
   {% style %}
     .vrc-banner {
       /* Estilo predeterminado para escritorio */
-      background-image: url('{{ section.settings.banner-escritorio | image_url: width: 2592, height: 1152 }}');
-      h1 {
-        top: {{ block.settings.posey-e-tittle1 }}%;
-        left: {{ block.settings.posex-e-tittle1 }}%;
-        font-size: {{ block.settings.size-e-tittle1 }}px;
-      }
-      p {
-        top: {{ section.settings.pose-y-tittle1 }}%;
-        left: {{ section.settings.pose-x-tittle1 }}%;
-        font-size: {{ section.settings.size-e-tittle1 }}px;
+      @media (min-width: 768px) {
+        background-image: url('{{ section.settings.banner-escritorio | image_url: width: 2592, height: 1152 }}');
       }
       /* Estilo para dispositivos móviles */
       @media (max-width: 768px) {
         background-image: url('{{ section.settings.banner-movil | image_url: width: 1152, height: 2592 }}');
-        h1 {
-          top: {{ section.settings.posm-y-tittle1 }}%;
-          left: {{ section.settings.posm-x-tittle1 }}%;
-          font-size: {{ section.settings.size-m-tittle1 }}px;
-        }
-        p {
-          top: {{ section.settings.pose-y-tittle1 }}%;
-          left: {{ section.settings.pose-x-tittle1 }}%;
-          font-size: {{ section.settings.size-e-tittle1 }}px;
-        }
-
       }
-
     }
-    .vrc-banner h1 {
+    .vrc-banner h1,
+    p {
       position: absolute;
-      color: {{ section.settings.font-color-tittle1 }};
+    }
 
-    }
-    .vrc-banner p {
-      position: absolute;
-      font-size: {{ section.settings.size-tittle2 }}px;
-      color: {{ section.settings.font-color-tittle2 }};
-    }
 
   {% endstyle %}
 
@@ -48,12 +23,77 @@
     {%- for block in section.blocks -%}
       {%- case block.type -%}
         {% when "heading" %}
-          <h1>{{ block.settings.title-banner1 }}65465</h1>
+          <style>
+            @media (min-width: 768px) {
+              .vrc-banner h1 {
+                top: {{ block.settings.posey-e-tittle1 }}%;
+                left: {{ block.settings.posex-e-tittle1 }}%;
+                font-size: {{ section.settings.size-e-tittle1 }}px;
+              }
+            }
+            @media (max-width: 768px) {
+              .vrc-banner h1 {
+                top: {{ block.settings.posey-m-tittle1 }}%;
+                left: {{ block.settings.posex-m-tittle1 }}%;
+                font-size: {{ section.settings.size-m-tittle1 }}px;
+              }
+            }
+            .vrc-banner h1 {
+              color: {{ block.settings.font-color-tittle1 }};
+            }
+          </style>
+          <h1>{{ block.settings.title-banner1 }}</h1>
         {% when "text" %}
+          <style>
+            @media (min-width: 768px) {
+              .vrc-banner p {
+                top: {{ block.settings.posey-e-tittle2 }}%;
+                left: {{ block.settings.posex-e-tittle2 }}%;
+                font-size: {{ section.settings.size-e-tittle2 }}px;
+              }
+            }
+            @media (max-width: 768px) {
+              .vrc-banner p {
+                top: {{ block.settings.posey-m-tittle2 }}%;
+                left: {{ block.settings.posex-m-tittle2 }}%;
+                font-size: {{ section.settings.size-m-tittle2 }}px;
+              }
+            }
+            .vrc-banner p {
+              color: {{ block.settings.font-color-title2 }};
+            }
+          </style>
           <p>{{ block.settings.title-banner2 }}</p>
-        {% when "buton" %}
-          <a href="{{section.settings.link-botton1}}" class="button-banner position-boton">{{ section.settings.text-botton1 }}</a>
-          <a href="{{section.settings.link-botton2}}" class="button-banner position-mid">{{ section.settings.text-botton2 }}</a>
+        {% when "button" %}
+          <style>
+            @media (min-width: 768px) {
+              .position-1 {
+                top: {{ block.settings.posey-e-button1 }}%;
+                left: {{ block.settings.posex-e-button1 }}%;
+                font-size: {{ section.settings.size-e-button1 }}px;
+              }
+              .position-2 {
+                top: {{ block.settings.posey-e-button2 }}%;
+                left: {{ block.settings.posex-e-button2 }}%;
+                font-size: {{ section.settings.size-e-button2 }}px;
+              }
+            }
+            @media (max-width: 768px) {
+              .position-1 {
+                top: {{ block.settings.posey-m-buton1 }}%;
+                left: {{ block.settings.posex-m-buton1 }}%;
+                font-size: {{ section.settings.size-e-buton1 }}px;
+              }
+              .position-2 {
+                top: {{ block.settings.posey-m-buton2 }}%;
+                left: {{ block.settings.posex-m-buton2 }}%;
+                font-size: {{ section.settings.size-m-buton2 }}px;
+              }
+            }
+          </style>
+          <a href="{{ block.settings.link-botton1 }}" class="button-banner position-1">{{ block.settings.text-botton1 }}</a>
+          <a href="{{ block.settings.link-botton2 }}" class="button-banner position-2">{{ block.settings.text-botton2 }}</a>
+
       {%- endcase -%}
 
     {% endfor %}
