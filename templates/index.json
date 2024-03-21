@@ -8,11 +8,11 @@
           "settings": {
             "title-banner1": "Fashion<br>Violetta & Rc<br>\nShop",
             "size-m-tittle1": 56,
-            "posex-m-tittle1": 52,
-            "posey-m-tittle1": 46,
-            "size-e-tittle1": 75,
-            "posex-e-tittle1": 40,
-            "posey-e-tittle1": 56,
+            "posex-m-tittle1": 51,
+            "posey-m-tittle1": 47,
+            "size-e-tittle1": 90,
+            "posex-e-tittle1": 50,
+            "posey-e-tittle1": 25,
             "font-color-tittle1": "#ffffff"
           }
         },
@@ -21,12 +21,12 @@
           "settings": {
             "title-banner2": "OFFERS UNDER $35",
             "size-m-title2": 12,
-            "posex-m-title2": 69,
+            "posex-m-title2": 55,
             "posey-m-title2": 55,
-            "size-e-title2": 90,
-            "posex-e-title2": 11,
-            "posey-e-title2": 28,
-            "font-color-title2": "#5e2828"
+            "size-e-title2": 56,
+            "posex-e-title2": 50,
+            "posey-e-title2": 78,
+            "font-color-title2": "#ffffff"
           }
         }
       },
