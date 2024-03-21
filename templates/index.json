@@ -19,14 +19,14 @@
         "text_YtwXRX": {
           "type": "text",
           "settings": {
-            "title-banner2": "OFFERS UNDER $35",
-            "size-m-title2": 41,
-            "posex-m-title2": 48,
-            "posey-m-title2": 72,
+            "title-banner2": "<a href=\"https:\/\/ba18a9-cd.myshopify.com\/collections\/dresses-offers-for-less-than-35\">OFFERS UNDER $35<\/a>",
+            "size-m-title2": 30,
+            "posex-m-title2": 50,
+            "posey-m-title2": 81,
             "size-e-title2": 56,
             "posex-e-title2": 50,
             "posey-e-title2": 80,
-            "font-color-title2": "#fff"
+            "font-color-title2": "#ffffff"
           }
         },
         "button_HQVFkw": {
@@ -35,8 +35,8 @@
             "text-botton1": "Mini Dresses For Women",
             "link-botton1": "shopify:\/\/collections\/all-mini-dresses",
             "posex-m-button1": 50,
-            "posey-m-button1": 8,
-            "size-m-button1": 45,
+            "posey-m-button1": 69,
+            "size-m-button1": 18,
             "posex-e-button1": 51,
             "posey-e-button1": 71,
             "size-e-button1": 31,
