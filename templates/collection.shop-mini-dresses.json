@@ -2,24 +2,27 @@
   "sections": {
     "BANNER-VRC-minidresses": {
       "type": "vrc-banner",
+      "blocks": {
+        "heading_VkRXMU": {
+          "type": "heading",
+          "settings": {
+            "title-banner1": "Fashion Mini",
+            "size-m-title1": 24,
+            "posex-m-title1": 8,
+            "posey-m-title1": 8,
+            "size-e-title1": 45,
+            "posex-e-title1": 8,
+            "posey-e-title1": 8,
+            "font-color-title1": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "heading_VkRXMU"
+      ],
       "settings": {
-        "title-banner": "Mini Dresses <br>for Women <br>Violetta & Rc",
         "banner-movil": "shopify:\/\/shop_images\/banner-mini916.jpg",
-        "posm-x-tittle1": 8,
-        "posm-y-tittle1": 49,
-        "size-m-tittle1": 49,
-        "banner-escritorio": "shopify:\/\/shop_images\/banner-mini169.jpg",
-        "pose-x-tittle1": 58,
-        "pose-y-tittle1": 38,
-        "size-e-tittle1": 90,
-        "font-color-tittle1": "#ffffff",
-        "tittl2-banner": "",
-        "size-tittle2": 20,
-        "font-color-tittle2": "#000000",
-        "text-botton1": "",
-        "link-botton1": "",
-        "text-botton2": "",
-        "link-botton2": ""
+        "banner-escritorio": "shopify:\/\/shop_images\/banner-mini169.jpg"
       }
     },
     "TAB-VRC-minidresses": {
