@@ -114,13 +114,13 @@
                       calc((100vw - {{ grid_space_mobile }}) * {{ image_width }} / {{ number_of_columns_mobile }})
                       {% endcapture %}
                   {%- comment -%}                    
-                                                                                                                                                                                                                                                                                                                                                                                                              {{
-                                                                                                                                                                                                                                                                                                                                                                                                                block.settings.image | image_url: width: 3200 | image_tag: widths: '50, 75, 100, 150, 200, 300, 400, 500, 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750, 3000, 3200', sizes: sizes, class: 'multicolumn-card__image'
-                                                                                                                                                                                                                                                                                                                                                                        }}{%- endcomment -%}
+                                                                                                                                                                                                                                                                                                                                                                                                                                  {{
+                                                                                                                                                                                                                                                                                                                                                                                                                                    block.settings.image | image_url: width: 3200 | image_tag: widths: '50, 75, 100, 150, 200, 300, 400, 500, 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750, 3000, 3200', sizes: sizes, class: 'multicolumn-card__image'
+                                                                                                                                                                                                                                                                                                                                                                                          }}{%- endcomment -%}
                   </div>
                   <div class="multicolumn-card__info">
                     {%- style -%}
-                      <style > .multicolumn-card__info {
+                      .multicolumn-card__info {
                         background-color: rgba(230, 230, 250, 0.295);
                         transition: all 0.8s;
                         h3 {
@@ -133,8 +133,6 @@
                         background-color: rgba(228, 172, 252, 0.521);
                         font-weight: 900;
                       }
-
-                      </style>
                     {%- endstyle -%}
 
 
