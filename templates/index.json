@@ -12,7 +12,7 @@
             "posey-m-title1": 45,
             "size-e-title1": 90,
             "posex-e-title1": 50,
-            "posey-e-title1": 28,
+            "posey-e-title1": 23,
             "font-color-title1": "#ffffff"
           }
         },
@@ -67,6 +67,9 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "custom_css": [
+        ".title-wrapper {text-align: center;}"
+      ],
       "settings": {
         "title": "<em><strong>Best Sellers<\/strong><\/em>",
         "heading_size": "h2",
@@ -81,16 +84,16 @@
         "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "scheme-1",
-        "image_ratio": "portrait",
+        "image_ratio": "adapt",
         "image_shape": "default",
-        "show_secondary_image": true,
+        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
-        "padding_top": 44,
-        "padding_bottom": 36
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "multicolumn_yEpacf": {
