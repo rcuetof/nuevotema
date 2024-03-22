@@ -13,7 +13,7 @@
     overflow-x: auto;
 }
 .tab-buttons::-webkit-scrollbar {
-    display: none;
+    opacity: 1;
     }
 
 .tab {
