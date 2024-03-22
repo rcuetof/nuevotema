@@ -113,6 +113,20 @@
             "link": "shopify:\/\/collections\/bridal-mini-dresses-1",
             "labelbuton": "BRIDAL"
           }
+        },
+        "button_QrmU4W": {
+          "type": "button",
+          "settings": {
+            "link": "shopify:\/\/collections\/party-outfit",
+            "labelbuton": "PARTY"
+          }
+        },
+        "button_zcbJXm": {
+          "type": "button",
+          "settings": {
+            "link": "",
+            "labelbuton": ""
+          }
         }
       },
       "block_order": [
@@ -123,7 +137,9 @@
         "button_KERLi4",
         "button_tmd9gw",
         "button_j3JkMx",
-        "button_dq3mXF"
+        "button_dq3mXF",
+        "button_QrmU4W",
+        "button_zcbJXm"
       ],
       "settings": {
         "size-bar": 30
