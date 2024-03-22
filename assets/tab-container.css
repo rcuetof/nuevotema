@@ -9,7 +9,7 @@
     font-weight: 600;
     font-size: 14px;
     display: flex;
-    scrollbar-width: thin;
+    scrollbar-width: none;
     -ms-overflow-style: none;
     overflow-x: auto;
 }
