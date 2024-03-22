@@ -12,7 +12,7 @@
     -ms-overflow-style: none;
     overflow-x: auto;
 }
-.tab-buttons::-webkit-scrollbar{display: none;}
+
 
 .tab {
     width: 380px;
@@ -30,6 +30,7 @@
     border-radius: 5px;
     transition: all 0.5s;
 }
+.tab::-webkit-scrollbar{display: none;}
 
     
 .tab:hover {
