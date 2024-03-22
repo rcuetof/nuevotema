@@ -69,21 +69,17 @@
             data-cascade
             style="--animation-order: {{ forloop.index }};"
             {% endif %}>
-            {%- case block.type -%}
-              {%- when 'colum' -%}
-                <style>
-                  .multicolumn-card__image-wrapper {
-                    background-image: url('{{ block.settings.image | image_url: width: 300 }}');
-                    background-position: center;
-                    background-repeat: no-repeat;
-                    background-size: contain;
-                    width: 600px;
-                    height: 460px;
-                  }
-                </style>
 
-
-            {%- endcase -%}
+            <style>
+              .multicolumn-card__image-wrapper {
+                background-image: url('{{ block.settings.image | image_url: width: 300 }}');
+                background-position: center;
+                background-repeat: no-repeat;
+                background-size: contain;
+                width: 600px;
+                height: 460px;
+              }
+            </style>
 
 
             <div class="multicolumn-card content-container">
@@ -92,7 +88,7 @@
                   {% assign spaced_image = true %}
                 {% endif %}
                 <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--{{ section.settings.image_width }}-width{% if section.settings.image_width != 'full' or spaced_image %} multicolumn-card-spacing{% endif %}">
-                  <h1>kaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</h1>
+
                   {% comment %}
                     <div
                     class="media media--transparent media--{{ section.settings.image_ratio }}"
