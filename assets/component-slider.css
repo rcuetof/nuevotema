@@ -193,7 +193,7 @@ slider-component.slider-component-full-width {
 
   .slider--desktop.grid--4-col-desktop .grid__item {
     width: calc((120% - var(--desktop-margin-left-first-item)) / 4 - var(--grid-desktop-horizontal-spacing) * 3);
-    height: auto;
+    height: 360px;
   }
 
   .slider--desktop.grid--3-col-desktop .grid__item {
