@@ -12,6 +12,7 @@
     -ms-overflow-style: none;
     overflow-x: auto;
 }
+.tab-buttons::-webkit-scrollbar{display: none;}
 
 .tab {
     width: 380px;
