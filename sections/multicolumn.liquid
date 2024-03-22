@@ -114,32 +114,29 @@
                       calc((100vw - {{ grid_space_mobile }}) * {{ image_width }} / {{ number_of_columns_mobile }})
                       {% endcapture %}
                   {%- comment -%}                    
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {{
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                block.settings.image | image_url: width: 3200 | image_tag: widths: '50, 75, 100, 150, 200, 300, 400, 500, 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750, 3000, 3200', sizes: sizes, class: 'multicolumn-card__image'
-                                                                                                                                                                                                                                                                                                                                                                                                                                                }}{%- endcomment -%}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  {{
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    block.settings.image | image_url: width: 3200 | image_tag: widths: '50, 75, 100, 150, 200, 300, 400, 500, 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750, 3000, 3200', sizes: sizes, class: 'multicolumn-card__image'
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  }}{%- endcomment -%}
                   </div>
                   <div class="multicolumn-card__info">
                     {%- style -%}
-
-                      .multicolumn-card__info {
-                        background-color: rgba(230, 230, 250, 0.295);
+                      <style > .multicolumn-card__info a {
+                        background-color: rgba(252, 109, 228, 0.459);
                         transition: all 0.8s;
                         h3 {
                           color: rgb(80, 29, 128);
                           font-weight: 900;
                         }
+                        padding: 1px 3px;
 
                       }
-                      .multicolumn-card__info:hover {
+                      .multicolumn-card__info a:hover {
                         background-color: rgba(228, 172, 252, 0.521);
                         text-shadow: 0 1px 6px rgba(0, 0, 0, 0.452);
                       }
                     {%- endstyle -%}
 
 
-                    {%- if block.settings.title != blank -%}
-                      <h3 class="inline-richtext">{{ block.settings.title }}</h3>
-                    {%- endif -%}
                     {%- if block.settings.text != blank -%}
                       <div class="rte">{{ block.settings.text }}</div>
                     {%- endif -%}
@@ -153,7 +150,9 @@
                         href="{{ block.settings.link }}"
                         {% endif %}>
                         {{- block.settings.link_label | escape -}}
-                        <span class="icon-wrap">{{ block.settings.text }}</span>
+                        {%- if block.settings.title != blank -%}
+                          <h3 class="inline-richtext">{{ block.settings.title }}</h3>
+                        {%- endif -%}
                       </a>
                     {%- endif -%}
                   </div>
