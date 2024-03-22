@@ -68,8 +68,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".title-wrapper {text-align: center;}",
-        ".card__inner {@media (min-width: 768px) {height: 470px; }}"
+        ".title-wrapper {text-align: center;}"
       ],
       "settings": {
         "title": "<em><strong>Best Sellers<\/strong><\/em>",
@@ -79,10 +78,10 @@
         "description_style": "body",
         "collection": "bachelorette-party-mini-dresses",
         "products_to_show": 25,
-        "columns_desktop": 4,
+        "columns_desktop": 3,
         "full_width": true,
         "show_view_all": false,
-        "view_all_style": "solid",
+        "view_all_style": "link",
         "enable_desktop_slider": true,
         "color_scheme": "scheme-1",
         "image_ratio": "portrait",
