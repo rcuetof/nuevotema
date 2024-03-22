@@ -9,13 +9,14 @@
     font-weight: 600;
     font-size: 14px;
     display: flex;
+    scrollbar-width: thin;
     -ms-overflow-style: none;
     overflow-x: auto;
 }
 .tab-buttons::-webkit-scrollbar {
-    opacity: 1;
+    display: none;
     }
-
+    
 .tab {
     width: 380px;
     cursor: pointer;
