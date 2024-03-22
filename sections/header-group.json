@@ -93,13 +93,6 @@
             "labelbuton": "WHITE"
           }
         },
-        "button_yMEMdY": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
-          }
-        },
         "button_tmd9gw": {
           "type": "button",
           "settings": {
@@ -120,83 +113,6 @@
             "link": "shopify:\/\/collections\/white-mini-dresses",
             "labelbuton": "WHITE"
           }
-        },
-        "button_UwxAcx": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
-          }
-        },
-        "button_LzjBUd": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
-          }
-        },
-        "button_bTFnBW": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
-          }
-        },
-        "button_Q7WddJ": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
-          }
-        },
-        "button_7RRJD3": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
-          }
-        },
-        "button_b88XPh": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
-          }
-        },
-        "button_9XnpRc": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
-          }
-        },
-        "button_4DnicV": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
-          }
-        },
-        "button_pmJWef": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
-          }
-        },
-        "button_WzwpFm": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
-          }
-        },
-        "button_axHJWd": {
-          "type": "button",
-          "settings": {
-            "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
-          }
         }
       },
       "block_order": [
@@ -205,21 +121,9 @@
         "button_h8Cgxz",
         "button_R8XXNQ",
         "button_KERLi4",
-        "button_yMEMdY",
         "button_tmd9gw",
         "button_j3JkMx",
-        "button_dq3mXF",
-        "button_UwxAcx",
-        "button_LzjBUd",
-        "button_bTFnBW",
-        "button_Q7WddJ",
-        "button_7RRJD3",
-        "button_b88XPh",
-        "button_9XnpRc",
-        "button_4DnicV",
-        "button_pmJWef",
-        "button_WzwpFm",
-        "button_axHJWd"
+        "button_dq3mXF"
       ],
       "settings": {
         "size-bar": 30
