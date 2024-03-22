@@ -68,7 +68,8 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".title-wrapper {text-align: center;}"
+        ".title-wrapper {text-align: center;}",
+        ".price{display:none;}"
       ],
       "settings": {
         "title": "<em><strong>Best Sellers<\/strong><\/em>",
