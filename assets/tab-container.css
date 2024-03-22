@@ -3,20 +3,16 @@
     margin: 2% auto;
 }
 
-
 .tab-buttons {
 
     font-weight: 600;
     font-size: 14px;
     display: flex;
-    scrollbar-width: none;
+    scrollbar-width: thin;
     -ms-overflow-style: none;
     overflow-x: auto;
 }
-.tab-buttons::-webkit-scrollbar {
-    display: none;
-    }
-    
+
 .tab {
     width: 380px;
     cursor: pointer;
