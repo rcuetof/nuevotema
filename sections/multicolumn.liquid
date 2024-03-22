@@ -84,7 +84,7 @@
                 {% if section.settings.image_ratio == 'adapt' or section.settings.image_ratio == 'circle' %}
                   {% assign spaced_image = true %}
                 {% endif %}
-                <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--{{ section.settings.image_width }}-width{% if section.settings.image_width != 'full' or spaced_image %} multicolumn-card-spacing{% endif %}" style="background-image: url('{{ block.settings.image | image_url: width: 1200 }}');">
+                <div class="multicolumn-card__image-wrapper multicolumn-card__image-wrapper--{{ section.settings.image_width }}-width{% if section.settings.image_width != 'full' or spaced_image %} multicolumn-card-spacing{% endif %}" style="background-image: url('{{ block.settings.image | image_url: width: 1200 }}'); heigth: 340px;">
 
                   <div
                     class="media media--transparent media--{{ section.settings.image_ratio }}"
