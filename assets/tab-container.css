@@ -2,9 +2,7 @@
     max-width: 900px;
     margin: 2% auto;
 }
-.tabs-container::-webkit-scrollbar {
-display: none;
-}
+
 
 .tab-buttons {
 
@@ -14,6 +12,9 @@ display: none;
     -ms-overflow-style: none;
     overflow-x: auto;
 }
+.tab-buttons::-webkit-scrollbar {
+    display: none;
+    }
 
 .tab {
     width: 380px;
