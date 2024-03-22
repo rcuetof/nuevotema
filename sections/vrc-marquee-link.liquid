@@ -38,7 +38,7 @@
   {% for block in section.blocks %}
     {%- case block.type -%}
       {%- when 'button' -%}
-        <div class="button-marquee">
+        <div class="button-marquee" id="button-marque">
           <a href="{{ block.settings.link }}">{{ block.settings.labelbuton }}</a>
         </div>
     {%- endcase -%}
@@ -47,7 +47,7 @@
 
 <script>
   var tabContainer = document.getElementById("bar-button");
-  tabContainer.addEventListener("mousedown", function (event) {
+  tabContainer.addEventListener("mousedown", function (button-marque) {
     isMouseDown = true;
     initialX = event.clientX;
   });
@@ -56,7 +56,7 @@
     isMouseDown = false;
   });
   
-  tabContainer.addEventListener("mousemove", function (event) {
+  tabContainer.addEventListener("mousemove", function (button-marque) {
     if (isMouseDown) {
         var delta = initialX - event.clientX;
         tabContainer.scrollLeft += delta;
