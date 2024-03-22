@@ -80,6 +80,11 @@
                     {% if section.settings.image_ratio == 'adapt' %}
                     style="padding-bottom: {{ 1 | divided_by: highest_ratio | times: 100 }}%;"
                     {% endif %}>
+                    <style>
+                      .multicolumn-card {
+                        background-image: url('{{ block.settings.image | image_url: width: 3200 }}');
+                      }
+                    </style>
                     {%- liquid
                       assign number_of_columns = section.settings.columns_desktop
                       assign number_of_columns_mobile = section.settings.columns_mobile
