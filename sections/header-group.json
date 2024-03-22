@@ -62,14 +62,14 @@
           "type": "button",
           "settings": {
             "link": "shopify:\/\/collections\/new",
-            "labelbuton": "New"
+            "labelbuton": "NEW"
           }
         },
         "button_XQbicN": {
           "type": "button",
           "settings": {
             "link": "shopify:\/\/collections\/white-mini-dresses",
-            "labelbuton": "WHITE"
+            "labelbuton": "SALE"
           }
         },
         "button_h8Cgxz": {
