@@ -68,7 +68,8 @@
     "featured_collection": {
       "type": "featured-collection",
       "custom_css": [
-        ".title-wrapper {text-align: center;}"
+        ".title-wrapper {text-align: center;}",
+        ".card__inner {@media (min-width: 768px) {height: 470px; }}"
       ],
       "settings": {
         "title": "<em><strong>Best Sellers<\/strong><\/em>",
@@ -84,7 +85,7 @@
         "view_all_style": "solid",
         "enable_desktop_slider": true,
         "color_scheme": "scheme-1",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": false,
         "show_vendor": false,
