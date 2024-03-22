@@ -2,13 +2,15 @@
     max-width: 900px;
     margin: 2% auto;
 }
+.tabs-container::-webkit-scrollbar {
+display: none;
+}
 
 .tab-buttons {
 
     font-weight: 600;
     font-size: 14px;
     display: flex;
-    scrollbar-width: thin;
     -ms-overflow-style: none;
     overflow-x: auto;
 }
