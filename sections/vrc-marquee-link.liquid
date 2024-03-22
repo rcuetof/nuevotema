@@ -1,9 +1,8 @@
-{%- style -%}
+<style>
   .bar-button {
     margin: 0 auto;
     display: grid;
     width: 100%;
-    overflow-y: none;
     overflow-x: auto;
     grid-auto-columns: 150px;
     @media (max-width: 768px) {
@@ -15,7 +14,6 @@
     position: relative;
   }
   .bar-button::-webkit-scrollbar {
-    width: 1px;
     display: none;
   }
   .button-marquee {
@@ -33,7 +31,7 @@
     background-color: rgb(247, 230, 250);
     color: rgb(75, 35, 128);
   }
-{%- endstyle -%}
+</style>
 
 <div class="bar-button" id="bar-button">
   {% for block in section.blocks %}
@@ -47,8 +45,13 @@
 </div>
 
 <script>
+  
+  <script>
   var tabContainer = document.getElementById("bar-button");
-  tabContainer.addEventListener("mousedown", function (button-marque) {
+  var isMouseDown = false;
+  var initialX = null;
+  
+  tabContainer.addEventListener("mousedown", function (event) {
     isMouseDown = true;
     initialX = event.clientX;
   });
@@ -57,7 +60,7 @@
     isMouseDown = false;
   });
   
-  tabContainer.addEventListener("mousemove", function (button-marque) {
+  tabContainer.addEventListener("mousemove", function (event) {
     if (isMouseDown) {
         var delta = initialX - event.clientX;
         tabContainer.scrollLeft += delta;
@@ -65,6 +68,7 @@
     }
   });
 </script>
+
 
 {% schema %}
   {
