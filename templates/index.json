@@ -162,7 +162,7 @@
         "title": "<em>Cheap dresses. Low price offers available to everyone<\/em>",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "none",
@@ -171,8 +171,8 @@
         "color_scheme": "",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 16,
-        "padding_bottom": 16
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "rich_text_kwi7pt": {
